@@ -1,7 +1,14 @@
 import React from "react";
 import { Img, interpolate, staticFile, useCurrentFrame } from "remotion";
 import { toPortraitKey } from "../constants";
+import { usePortraitConfig } from "../context/PortraitConfigContext";
 import { SUBTITLE_FONT } from "../fonts";
+import { getSlotSettings } from "../types";
+import { portraitSettingsToParentRelativeTransform } from "../tuning/adapters/portrait";
+import {
+  toParentRelativeImageTransform,
+  toParentRelativeRotationStyle,
+} from "../tuning/transform-style";
 
 export const POSTER_W = 396;
 export const POSTER_H = 620;
@@ -23,15 +30,20 @@ type Props = {
   character: string;
   isActive: boolean;
   sizeScale?: number;
+  slotIndex?: number;
 };
 
 export const CharacterPosterV3: React.FC<Props> = ({
   character,
   isActive,
   sizeScale = 1,
+  slotIndex = 0,
 }) => {
   const frame = useCurrentFrame();
   const key = toPortraitKey(character);
+  const portraitConfig = usePortraitConfig();
+  const settings = getSlotSettings(portraitConfig, key, slotIndex);
+  const transform = portraitSettingsToParentRelativeTransform(settings);
 
   const progress = interpolate(frame, [0, ANIM_FRAMES], [0, 1], {
     extrapolateLeft: "clamp",
@@ -82,19 +94,26 @@ export const CharacterPosterV3: React.FC<Props> = ({
             : "0 16px 40px rgba(0,0,0,0.5)",
         }}
       >
-        <Img
-          data-layer={POSTER_LAYERS.IMAGE}
-          src={staticFile(`portraits/${key}.png`)}
+        <div
           style={{
             width: "100%",
             height: "100%",
-            objectFit: "cover",
-            objectPosition: "50% 14%",
-            transform: "scale(1.92)",
-            transformOrigin: "top center",
-            display: "block",
+            ...toParentRelativeRotationStyle(transform),
           }}
-        />
+        >
+          <Img
+            data-layer={POSTER_LAYERS.IMAGE}
+            src={staticFile(`portraits/${key}.png`)}
+            style={{
+              width: "100%",
+              height: "100%",
+              objectFit: "cover",
+              transform: toParentRelativeImageTransform(transform),
+              transformOrigin: "top center",
+              display: "block",
+            }}
+          />
+        </div>
         <div
           data-layer={POSTER_LAYERS.TONE}
           style={{

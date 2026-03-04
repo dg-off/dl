@@ -24,7 +24,7 @@ const defaultRegionBoxes: Record<RegionName, LayoutRegionConfig["box"]> = {
     width: COMPOSITION_WIDTH - PROGRESS_BAR_LAYOUT.PADDING * 2,
     height: PROGRESS_BAR_LAYOUT.HEIGHT,
   },
-  POSTER_ROW: { x: 0, y: 0, width: COMPOSITION_WIDTH, height: 1160 },
+  POSTER_ROW: { x: 0, y: 260, width: COMPOSITION_WIDTH, height: 1160 },
   AUDIO_VISUALIZER: { x: 0, y: 1230, width: COMPOSITION_WIDTH, height: 130 },
   SUBTITLE_BOX: { x: 0, y: 1310, width: COMPOSITION_WIDTH, height: 530 },
   WATERMARK_ROW: { x: 0, y: 1820, width: COMPOSITION_WIDTH, height: 64 },

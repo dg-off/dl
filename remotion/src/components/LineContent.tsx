@@ -38,12 +38,13 @@ export const LineContent: React.FC<Props> = ({ line, participants, layout, respe
             zIndex: zForRegion(layout, "POSTER_ROW"),
           })}
         >
-          {participants.map((character) => (
+          {participants.map((character, idx) => (
             <CharacterPosterV3
               key={character}
               character={character}
               isActive={character === line.character}
               sizeScale={posterScale}
+              slotIndex={idx}
             />
           ))}
         </div>

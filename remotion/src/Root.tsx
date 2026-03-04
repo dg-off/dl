@@ -4,6 +4,7 @@ import type { CalculateMetadataFunction } from "remotion";
 import { z } from "zod";
 import reelData from "../../data/reel.json";
 import layoutData from "../../data/layout/layout.json";
+import portraitConfigData from "../../data/portrait-config.json";
 import { DeadlockShort } from "./Composition";
 import "./fonts";
 import { normalizeLayout } from "./layout/default-layout";
@@ -133,6 +134,7 @@ export const RemotionRoot: React.FC = () => {
         conversations: [],
         layout: studioDefaultLayout,
         debug: defaultDebug,
+        portraitConfig: portraitConfigData,
       }}
       calculateMetadata={calculateMetadata}
       schema={propsSchema}

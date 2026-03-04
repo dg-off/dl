@@ -1,8 +1,15 @@
 import React from "react";
 import { Img, staticFile } from "remotion";
 import { toPortraitKey } from "../constants";
-import { shouldRenderRegion } from "../layout/default-layout";
+import { usePortraitConfig } from "../context/PortraitConfigContext";
+import { COMPOSITION_HEIGHT, COMPOSITION_WIDTH, shouldRenderRegion } from "../layout/default-layout";
 import type { LayoutConfig } from "../layout/types";
+import { DEFAULT_PORTRAIT_SETTINGS, getSlotSettings } from "../types";
+import { portraitSettingsToParentRelativeTransform } from "../tuning/adapters/portrait";
+import {
+  toParentRelativeImageTransform,
+  toParentRelativeRotationStyle,
+} from "../tuning/transform-style";
 import { POSTER_ACTIVE_SCALE, POSTER_H, POSTER_W } from "./CharacterPosterV3";
 
 type Props = {
@@ -18,6 +25,8 @@ export const CharacterBackground: React.FC<Props> = ({
   layout,
   respectVisibility,
 }) => {
+  const portraitConfig = usePortraitConfig();
+
   if (!shouldRenderRegion(layout, "CHAR_BG", respectVisibility) || !charKey) {
     return null;
   }
@@ -30,6 +39,8 @@ export const CharacterBackground: React.FC<Props> = ({
     0,
     participants.findIndex((p) => toPortraitKey(p) === charKey)
   );
+  const settings = charKey ? getSlotSettings(portraitConfig, charKey, charBgCharIdx) : DEFAULT_PORTRAIT_SETTINGS;
+  const transform = portraitSettingsToParentRelativeTransform(settings);
   const posterRowBox = layout.regions.POSTER_ROW.box;
   const charBgInnerW = posterRowBox.width - 64; // paddingInline: 32 each side
   const charBgTotalSlots = charBgCount * POSTER_W + (charBgCount - 1) * charBgGap;
@@ -37,37 +48,48 @@ export const CharacterBackground: React.FC<Props> = ({
   const charBgCardCenterX = charBgStartX + charBgCharIdx * (POSTER_W + charBgGap) + POSTER_W / 2;
   const charBgVisualW = Math.round(POSTER_W * charBgPeakScale);
   const charBgVisualH = Math.round(POSTER_H * charBgPeakScale);
-  // transformOrigin: center bottom — bottom of frame stays anchored at POSTER_ROW.y + POSTER_H
+  // Anchor at center-bottom of the poster card (same as poster's transformOrigin: center bottom)
   const charBgX = Math.round(charBgCardCenterX - charBgVisualW / 2);
   const charBgY = Math.round(posterRowBox.y + POSTER_H - charBgVisualH);
 
   return (
+    // Full-frame plane — portrait can be positioned anywhere within the frame
     <div
       data-layer="CHAR_BG"
       style={{
         position: "absolute",
-        left: charBgX,
-        top: charBgY,
-        width: charBgVisualW,
-        height: charBgVisualH,
+        left: 0,
+        top: 0,
+        width: COMPOSITION_WIDTH,
+        height: COMPOSITION_HEIGHT,
         overflow: "hidden",
         zIndex: 6,
-        opacity: 1,
+        opacity: layout.regions.CHAR_BG.opacity,
         pointerEvents: "none",
       }}
     >
-      <Img
-        src={staticFile(`portraits/${charKey}.png`)}
+      <div
         style={{
-          width: "100%",
-          height: "100%",
-          objectFit: "cover",
-          objectPosition: "50% 14%",
-          transform: "scale(1.92)",
-          transformOrigin: "top center",
-          display: "block",
+          position: "absolute",
+          left: charBgX,
+          top: charBgY,
+          width: charBgVisualW,
+          height: charBgVisualH,
+          ...toParentRelativeRotationStyle(transform),
         }}
-      />
+      >
+        <Img
+          src={staticFile(`portraits/${charKey}.png`)}
+          style={{
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+            transform: toParentRelativeImageTransform(transform),
+            transformOrigin: "top center",
+            display: "block",
+          }}
+        />
+      </div>
     </div>
   );
 };
