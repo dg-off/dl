@@ -1,0 +1,29 @@
+{
+  "id": "drifter_grey talon_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_orion_convo03_01",
+      "audioUrl": "audio/drifter_match_start_drifter_orion_convo03_01.mp3",
+      "text": "What are the boys and girls at the Baxter Society gonna say about us working together.",
+      "duration": 4.614
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_drifter_orion_convo03_02",
+      "audioUrl": "audio/orion_match_start_drifter_orion_convo03_02.mp3",
+      "text": "I wouldn't know, I'm retired.",
+      "duration": 2.486
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_orion_convo03_03",
+      "audioUrl": "audio/drifter_match_start_drifter_orion_convo03_03.mp3",
+      "text": "It sure looks like it.",
+      "duration": 1.544
+    }
+  ]
+}

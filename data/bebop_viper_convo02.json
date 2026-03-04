@@ -1,0 +1,21 @@
+{
+  "id": "bebop_viper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_viper_bebop_convo02_01",
+      "audioUrl": "audio/bebop_match_start_viper_bebop_convo02_01.mp3",
+      "text": "Me pulling him in gonna be a problem?",
+      "duration": 2.283
+    },
+    {
+      "order": 2,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_bebop_convo02_02",
+      "audioUrl": "audio/viper_match_start_viper_bebop_convo02_02.mp3",
+      "text": "Nah, I like to work up close.",
+      "duration": 2.731
+    }
+  ]
+}

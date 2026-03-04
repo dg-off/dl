@@ -1,0 +1,45 @@
+{
+  "id": "bebop_krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Krill",
+      "audioFile": "krill_match_start_bebop_krill_convo02_01",
+      "audioUrl": "audio/krill_match_start_bebop_krill_convo02_01.mp3",
+      "text": "Great job at the fights the other night",
+      "duration": 2.359
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_krill_convo02_02",
+      "audioUrl": "audio/bebop_match_start_bebop_krill_convo02_02.mp3",
+      "text": "Thanks mate, that might have been my last night.",
+      "duration": 3.034
+    },
+    {
+      "order": 3,
+      "character": "Krill",
+      "audioFile": "krill_match_start_bebop_krill_convo02_03",
+      "audioUrl": "audio/krill_match_start_bebop_krill_convo02_03.mp3",
+      "text": "What?",
+      "duration": 1.26
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_krill_convo02_04",
+      "audioUrl": "audio/bebop_match_start_bebop_krill_convo02_04.mp3",
+      "text": "All goes well today I won't need to fight in the pit anymore",
+      "duration": 3.362
+    },
+    {
+      "order": 5,
+      "character": "Krill",
+      "audioFile": "krill_match_start_bebop_krill_convo02_05",
+      "audioUrl": "audio/krill_match_start_bebop_krill_convo02_05.mp3",
+      "text": "Bebop: you have gift, one that we can gamble on.  Please don't waste it.",
+      "duration": 5.936
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "holliday_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_astro_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_convo02_01.mp3",
+      "text": "Look at you.  So consumed by revenge that you'll even fight alongside me.",
+      "duration": 7.603
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_gigawatt_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_gigawatt_astro_convo02_02.mp3",
+      "text": "Don't talk to me Seven.",
+      "duration": 1.728
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_astro_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_convo02_03.mp3",
+      "text": "Apologies. I would never dream of upsetting you Holliday.",
+      "duration": 4.31
+    }
+  ]
+}

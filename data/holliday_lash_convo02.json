@@ -1,0 +1,37 @@
+{
+  "id": "holliday_lash_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_astro_lash_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/lash_match_start_astro_lash_convo02_01.mp3",
+      "text": "Small town lady looking to get a taste of the big city?",
+      "duration": 4.204
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_lash_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_lash_convo02_02.mp3",
+      "text": "I'm tracking down a serial killer.",
+      "duration": 2.093
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_astro_lash_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/lash_match_start_astro_lash_convo02_03.mp3",
+      "text": "If you're looking for someone with a body count I'm turning myself in.",
+      "duration": 4.403
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_lash_convo02_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_lash_convo02_04.mp3",
+      "text": "Oh my god I hate you.",
+      "duration": 2.013
+    }
+  ]
+}

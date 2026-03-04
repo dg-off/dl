@@ -1,0 +1,37 @@
+{
+  "id": "holliday_krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Krill",
+      "audioFile": "krill_match_start_astro_krill_convo03_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/krill_match_start_astro_krill_convo03_01.mp3",
+      "text": "Just pull them to Maurice, and I'll make sure we finish the job.",
+      "duration": 4.063
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_krill_convo03_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_krill_convo03_02.mp3",
+      "text": "You got it Mo.",
+      "duration": 1.303
+    },
+    {
+      "order": 3,
+      "character": "Krill",
+      "audioFile": "krill_match_start_astro_krill_convo03_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/krill_match_start_astro_krill_convo03_03.mp3",
+      "text": "I'm krill.",
+      "duration": 1.811
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_krill_convo03_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_krill_convo03_04.mp3",
+      "text": "Whatever.",
+      "duration": 1.018
+    }
+  ]
+}

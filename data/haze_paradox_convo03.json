@@ -1,0 +1,29 @@
+{
+  "id": "haze_paradox_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_haze_chrono_convo03_01",
+      "audioUrl": "audio/chrono_match_start_haze_chrono_convo03_01.mp3",
+      "text": "You look uptight.",
+      "duration": 1.617
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_chrono_convo03_02",
+      "audioUrl": "audio/haze_match_start_haze_chrono_convo03_02.mp3",
+      "text": "That's because I don't trust you.",
+      "duration": 2.717
+    },
+    {
+      "order": 3,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_haze_chrono_convo03_03",
+      "audioUrl": "audio/chrono_match_start_haze_chrono_convo03_03.mp3",
+      "text": "You have more sense than I thought.",
+      "duration": 1.974
+    }
+  ]
+}

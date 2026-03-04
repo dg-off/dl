@@ -1,0 +1,37 @@
+{
+  "id": "holliday_yamato_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_yamato_astro_convo03_01",
+      "audioUrl": "audio/astro_match_start_yamato_astro_convo03_01.mp3",
+      "text": "I heard about you.",
+      "duration": 1.503
+    },
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_astro_convo03_02",
+      "audioUrl": "audio/yamato_match_start_yamato_astro_convo03_02.mp3",
+      "text": "Really.",
+      "duration": 0.943
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_yamato_astro_convo03_03",
+      "audioUrl": "audio/astro_match_start_yamato_astro_convo03_03.mp3",
+      "text": "Picking a fight with the other families isn't going to end well for you.",
+      "duration": 3.529
+    },
+    {
+      "order": 4,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_astro_convo03_04",
+      "audioUrl": "audio/yamato_match_start_yamato_astro_convo03_04.mp3",
+      "text": "We'll see.",
+      "duration": 0.861
+    }
+  ]
+}

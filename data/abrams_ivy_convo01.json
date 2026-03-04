@@ -1,0 +1,37 @@
+{
+  "id": "abrams_ivy_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_tengu_convo01_01",
+      "audioUrl": "audio/atlas_match_start_atlas_tengu_convo01_01.mp3",
+      "text": "So you're the savior of Spanish Harlem, huh..",
+      "duration": 4.518
+    },
+    {
+      "order": 2,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_atlas_tengu_convo01_02",
+      "audioUrl": "audio/tengu_match_start_atlas_tengu_convo01_02.mp3",
+      "text": "I really hate that nickname",
+      "duration": 2.027
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_tengu_convo01_03",
+      "audioUrl": "audio/atlas_match_start_atlas_tengu_convo01_03.mp3",
+      "text": "Not looking to be diefied?",
+      "duration": 2.904
+    },
+    {
+      "order": 4,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_atlas_tengu_convo01_04",
+      "audioUrl": "audio/tengu_match_start_atlas_tengu_convo01_04.mp3",
+      "text": "No, I just wanted to make my neighborhood safe.",
+      "duration": 2.454
+    }
+  ]
+}

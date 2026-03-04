@@ -1,0 +1,91 @@
+{
+  "conversations": [
+    {
+      "conversationId": "bebop_victor_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_frank_bebop_convo02_01",
+          "audioUrl": "audio/bebop_match_start_frank_bebop_convo02_01.mp3",
+          "text": "I'm sorry you don\u2019t know who made you.",
+          "duration": 2.867
+        },
+        {
+          "order": 2,
+          "character": "Victor",
+          "audioFile": "frank_match_start_frank_bebop_convo02_02",
+          "audioUrl": "audio/frank_match_start_frank_bebop_convo02_02.mp3",
+          "text": "Maybe it's a good thing. Not everyone's parents are good people.",
+          "duration": 3.993
+        },
+        {
+          "order": 3,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_frank_bebop_convo02_03",
+          "audioUrl": "audio/bebop_match_start_frank_bebop_convo02_03.mp3",
+          "text": "You've been talking to Pocket, haven't you.",
+          "duration": 2.04
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_victor_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_frank_bebop_convo03_01",
+          "audioUrl": "audio/bebop_match_start_frank_bebop_convo03_01.mp3",
+          "text": "I'm not trying to be rude, but how much of you is\u2026 original you.  Well not original per se but-",
+          "duration": 7.082
+        },
+        {
+          "order": 2,
+          "character": "Victor",
+          "audioFile": "frank_match_start_frank_bebop_convo03_02",
+          "audioUrl": "audio/frank_match_start_frank_bebop_convo03_02.mp3",
+          "text": "I see where you're going - no, I haven't had to swap out parts yet.  Probobly should.  My left arm keeps popping off, but it doesn't feel right to discard it when I don't even know who they were.",
+          "duration": 11.473
+        },
+        {
+          "order": 3,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_frank_bebop_convo03_03",
+          "audioUrl": "audio/bebop_match_start_frank_bebop_convo03_03.mp3",
+          "text": "I hope you find answers.",
+          "duration": 1.866
+        },
+        {
+          "order": 4,
+          "character": "Victor",
+          "audioFile": "frank_match_start_frank_bebop_convo03_04",
+          "audioUrl": "audio/frank_match_start_frank_bebop_convo03_04.mp3",
+          "text": "Me too.",
+          "duration": 0.827
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_billy_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Billy",
+          "audioFile": "punkgoat_match_start_punkgoat_bebop_convo01_01",
+          "audioUrl": "audio/punkgoat_match_start_punkgoat_bebop_convo01_01.mp3",
+          "text": "Hey bebop, the old lady that made yo-",
+          "duration": 3.465
+        },
+        {
+          "order": 2,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_punkgoat_bebop_convo01_02",
+          "audioUrl": "audio/bebop_match_start_punkgoat_bebop_convo01_02.mp3",
+          "text": "Shut your mouth Billy.  I'm not in the mood.",
+          "duration": 2.87
+        }
+      ]
+    }
+  ]
+}

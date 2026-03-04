@@ -1,0 +1,29 @@
+{
+  "id": "calico_holliday_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Calico",
+      "audioFile": "nano_match_start_nano_astro_convo03_01",
+      "audioUrl": "audio/nano_match_start_nano_astro_convo03_01.mp3",
+      "text": "You're not much of a talker, are you.",
+      "duration": 2.275
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_nano_astro_convo03_02",
+      "audioUrl": "audio/astro_match_start_nano_astro_convo03_02.mp3",
+      "text": "No.",
+      "duration": 0.696
+    },
+    {
+      "order": 3,
+      "character": "Calico",
+      "audioFile": "nano_match_start_nano_astro_convo03_03",
+      "audioUrl": "audio/nano_match_start_nano_astro_convo03_03.mp3",
+      "text": "God, you and Wesley would get along famously.",
+      "duration": 2.62
+    }
+  ]
+}

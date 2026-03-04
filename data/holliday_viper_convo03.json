@@ -1,0 +1,53 @@
+{
+  "id": "holliday_viper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_viper_astro_convo03_01",
+      "audioUrl": "audio/astro_match_start_viper_astro_convo03_01.mp3",
+      "text": "You're a criminal.",
+      "duration": 1.309
+    },
+    {
+      "order": 2,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_astro_convo03_02",
+      "audioUrl": "audio/viper_match_start_viper_astro_convo03_02.mp3",
+      "text": "That's a little judgy.",
+      "duration": 1.525
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_viper_astro_convo03_03",
+      "audioUrl": "audio/astro_match_start_viper_astro_convo03_03.mp3",
+      "text": "Am I wrong?",
+      "duration": 1.13
+    },
+    {
+      "order": 4,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_astro_convo03_04",
+      "audioUrl": "audio/viper_match_start_viper_astro_convo03_04.mp3",
+      "text": "I didn't say you were, just that you're being needlessly hostile.",
+      "duration": 3.233
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_viper_astro_convo03_05",
+      "audioUrl": "audio/astro_match_start_viper_astro_convo03_05.mp3",
+      "text": "If you didn't need my help right now you would stab me in the back.",
+      "duration": 3.596
+    },
+    {
+      "order": 6,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_astro_convo03_06",
+      "audioUrl": "audio/viper_match_start_viper_astro_convo03_06.mp3",
+      "text": "you are really good at reading people.  At first I was offended but now I'm kinda impressed.",
+      "duration": 5.191
+    }
+  ]
+}

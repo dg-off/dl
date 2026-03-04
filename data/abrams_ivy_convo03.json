@@ -1,0 +1,37 @@
+{
+  "id": "abrams_ivy_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_atlas_tengu_convo03_01",
+      "audioUrl": "audio/tengu_match_start_atlas_tengu_convo03_01.mp3",
+      "text": "So a private detective is a job where you help people, but charge them money?",
+      "duration": 5.002
+    },
+    {
+      "order": 2,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_tengu_convo03_02",
+      "audioUrl": "audio/atlas_match_start_atlas_tengu_convo03_02.mp3",
+      "text": "Help is relative\u2026I'm pretty sure a lot of my clients wished I wasn't honest about what I found",
+      "duration": 6.106
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_atlas_tengu_convo03_03",
+      "audioUrl": "audio/tengu_match_start_atlas_tengu_convo03_03.mp3",
+      "text": "That's depressing",
+      "duration": 1.305
+    },
+    {
+      "order": 4,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_tengu_convo03_04",
+      "audioUrl": "audio/atlas_match_start_atlas_tengu_convo03_04.mp3",
+      "text": "Truth usually is.",
+      "duration": 1.998
+    }
+  ]
+}

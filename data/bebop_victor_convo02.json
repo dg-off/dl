@@ -1,0 +1,29 @@
+{
+  "id": "bebop_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_frank_bebop_convo02_01",
+      "audioUrl": "audio/bebop_match_start_frank_bebop_convo02_01.mp3",
+      "text": "I'm sorry you don\u2019t know who made you.",
+      "duration": 2.867
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_bebop_convo02_02",
+      "audioUrl": "audio/frank_match_start_frank_bebop_convo02_02.mp3",
+      "text": "Maybe it's a good thing. Not everyone's parents are good people.",
+      "duration": 3.993
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_frank_bebop_convo02_03",
+      "audioUrl": "audio/bebop_match_start_frank_bebop_convo02_03.mp3",
+      "text": "You've been talking to Pocket, haven't you.",
+      "duration": 2.04
+    }
+  ]
+}

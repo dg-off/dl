@@ -1,0 +1,147 @@
+{
+  "conversations": [
+    {
+      "conversationId": "bebop_vindicta_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_hornet_convo02_01",
+          "audioUrl": "audio/bebop_match_start_bebop_hornet_convo02_01.mp3",
+          "text": "You're the one I read about in the papers, right?",
+          "duration": 2.62
+        },
+        {
+          "order": 2,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_bebop_hornet_convo02_02",
+          "audioUrl": "audio/hornet_match_start_bebop_hornet_convo02_02.mp3",
+          "text": "Depends what you read.",
+          "duration": 1.43
+        },
+        {
+          "order": 3,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_hornet_convo02_03",
+          "audioUrl": "audio/bebop_match_start_bebop_hornet_convo02_03.mp3",
+          "text": "That known assocoates of John Hathorne and the Friends of Humanity have been winding up dead.",
+          "duration": 5.188
+        },
+        {
+          "order": 4,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_bebop_hornet_convo02_04",
+          "audioUrl": "audio/hornet_match_start_bebop_hornet_convo02_04.mp3",
+          "text": "That could be me or Wesley.",
+          "duration": 1.975
+        },
+        {
+          "order": 5,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_hornet_convo02_05",
+          "audioUrl": "audio/bebop_match_start_bebop_hornet_convo02_05.mp3",
+          "text": "They were shot in the head with a high powered rifle",
+          "duration": 3.511
+        },
+        {
+          "order": 6,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_bebop_hornet_convo02_06",
+          "audioUrl": "audio/hornet_match_start_bebop_hornet_convo02_06.mp3",
+          "text": "Yeah that was me.",
+          "duration": 1.3
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_vindicta_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_hornet_convo03_01",
+          "audioUrl": "audio/bebop_match_start_bebop_hornet_convo03_01.mp3",
+          "text": "What's on your mind?",
+          "duration": 1.267
+        },
+        {
+          "order": 2,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_bebop_hornet_convo03_02",
+          "audioUrl": "audio/hornet_match_start_bebop_hornet_convo03_02.mp3",
+          "text": "Murder.",
+          "duration": 0.966
+        },
+        {
+          "order": 3,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_hornet_convo03_03",
+          "audioUrl": "audio/bebop_match_start_bebop_hornet_convo03_03.mp3",
+          "text": "That sounds rather intense,  I think I'll let you be.",
+          "duration": 4.424
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_infernus_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_bebop_inferno_convo01_01",
+          "audioUrl": "audio/inferno_match_start_bebop_inferno_convo01_01.mp3",
+          "text": "You work at the scrapyard, right?  The one the old lady runs?",
+          "duration": 3.907
+        },
+        {
+          "order": 2,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_inferno_convo01_02",
+          "audioUrl": "audio/bebop_match_start_bebop_inferno_convo01_02.mp3",
+          "text": "That's right.",
+          "duration": 1.284
+        },
+        {
+          "order": 3,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_bebop_inferno_convo01_03",
+          "audioUrl": "audio/inferno_match_start_bebop_inferno_convo01_03.mp3",
+          "text": "How, um, how's she doing?",
+          "duration": 2.74
+        },
+        {
+          "order": 4,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_inferno_convo01_04",
+          "audioUrl": "audio/bebop_match_start_bebop_inferno_convo01_04.mp3",
+          "text": "I didn't realize you two were acquainted.",
+          "duration": 2.658
+        },
+        {
+          "order": 5,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_bebop_inferno_convo01_05",
+          "audioUrl": "audio/inferno_match_start_bebop_inferno_convo01_05.mp3",
+          "text": "We're not.  I just, um\u2026 I just wanted to make sure she's doing ok",
+          "duration": 4.87
+        },
+        {
+          "order": 6,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_inferno_convo01_06",
+          "audioUrl": "audio/bebop_match_start_bebop_inferno_convo01_06.mp3",
+          "text": "She's been better.",
+          "duration": 2.007
+        },
+        {
+          "order": 7,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_bebop_inferno_convo01_07",
+          "audioUrl": "audio/inferno_match_start_bebop_inferno_convo01_07.mp3",
+          "text": "Sorry to hear that.",
+          "duration": 0.971
+        }
+      ]
+    }
+  ]
+}

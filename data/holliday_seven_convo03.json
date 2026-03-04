@@ -1,0 +1,21 @@
+{
+  "id": "holliday_seven_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_gigawatt_astro_convo03_01",
+      "audioUrl": "audio/astro_match_start_gigawatt_astro_convo03_01.mp3",
+      "text": "When this is over I have to turn you in.",
+      "duration": 2.493
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_astro_convo03_02",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_convo03_02.mp3",
+      "text": "When this is over, if you are determined to throw your life away I will be happy to take it.",
+      "duration": 6.243
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "conversations": [
+    {
+      "conversationId": "bebop_kelvin_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_kelvin_convo02_01",
+          "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo02_01.mp3",
+          "text": "I'm still a little confused on your condition: are you alive or dead.",
+          "duration": 4.538
+        },
+        {
+          "order": 2,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_bebop_kelvin_convo02_02",
+          "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo02_02.mp3",
+          "text": "I wish I knew.  A little of both I suppose.",
+          "duration": 3.267
+        },
+        {
+          "order": 3,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_kelvin_convo02_03",
+          "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo02_03.mp3",
+          "text": "That doesn't make any sense.",
+          "duration": 1.666
+        },
+        {
+          "order": 4,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_bebop_kelvin_convo02_04",
+          "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo02_04.mp3",
+          "text": "It makes as much sense as me talking to an animated scrap pile, yes?",
+          "duration": 4.542
+        },
+        {
+          "order": 5,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_kelvin_convo02_05",
+          "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo02_05.mp3",
+          "text": "Not really. I was summoned into existance by an act of craftsmanship, willpower and sacrifice. There's a clear path that someone could replicate. You're a psudeo corpse with a glowing rock.",
+          "duration": 11.577
+        },
+        {
+          "order": 6,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_bebop_kelvin_convo02_06",
+          "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo02_06.mp3",
+          "text": "Fair.",
+          "duration": 0.984
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_kelvin_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_kelvin_convo03_01",
+          "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo03_01.mp3",
+          "text": "Thank you Kelvin.",
+          "duration": 1.24
+        },
+        {
+          "order": 2,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_bebop_kelvin_convo03_02",
+          "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo03_02.mp3",
+          "text": "I haven't done anything yet.",
+          "duration": 1.954
+        },
+        {
+          "order": 3,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_kelvin_convo03_03",
+          "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo03_03.mp3",
+          "text": "Ms. Shelly loved reading about your adventures.  When you disappeared it was sad thinking  about her not being able to read a new one before she died.  But now that you're back there's hope for one more story.",
+          "duration": 11.614
+        },
+        {
+          "order": 4,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_bebop_kelvin_convo03_04",
+          "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo03_04.mp3",
+          "text": "They'll be more than one my friend.",
+          "duration": 2.531
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_krill_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_krill_convo01_01",
+          "audioUrl": "audio/bebop_match_start_bebop_krill_convo01_01.mp3",
+          "text": "Alright boys, when I pull 'em in I need you to be ready to grab 'em",
+          "duration": 3.439
+        },
+        {
+          "order": 2,
+          "character": "Krill",
+          "audioFile": "krill_match_start_bebop_krill_convo01_02",
+          "audioUrl": "audio/krill_match_start_bebop_krill_convo01_02.mp3",
+          "text": "You can count on us Bebop",
+          "duration": 2.037
+        }
+      ]
+    }
+  ]
+}

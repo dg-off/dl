@@ -1,0 +1,21 @@
+{
+  "id": "drifter_paradox_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_chrono_convo01_01",
+      "audioUrl": "audio/drifter_match_start_drifter_chrono_convo01_01.mp3",
+      "text": "You look annoyed.",
+      "duration": 1.573
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_drifter_chrono_convo01_02",
+      "audioUrl": "audio/chrono_match_start_drifter_chrono_convo01_02.mp3",
+      "text": "I am annoyed.  You don't have anything interesting to steal.",
+      "duration": 3.573
+    }
+  ]
+}

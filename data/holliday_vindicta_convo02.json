@@ -1,0 +1,21 @@
+{
+  "id": "holliday_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_astro_hornet_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/hornet_match_start_astro_hornet_convo02_01.mp3",
+      "text": "Bind them sheriff.  And leave the rest to me.",
+      "duration": 2.844
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_hornet_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_hornet_convo02_02.mp3",
+      "text": "Yeah, that's not ominous.",
+      "duration": 2.275
+    }
+  ]
+}

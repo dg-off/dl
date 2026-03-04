@@ -1,0 +1,37 @@
+{
+  "id": "graves_holliday_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_necro_astro_convo03_01",
+      "audioUrl": "audio/astro_match_start_necro_astro_convo03_01.mp3",
+      "text": "So do they give you the pack of cloves when you become a theatre kid?  Or  was that something you brought to the table all on your own.",
+      "duration": 6.95
+    },
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_astro_convo03_02",
+      "audioUrl": "audio/necro_match_start_necro_astro_convo03_02.mp3",
+      "text": "I hope you get shot.",
+      "duration": 1.012
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_necro_astro_convo03_03",
+      "audioUrl": "audio/astro_match_start_necro_astro_convo03_03.mp3",
+      "text": "I'm making conversation.",
+      "duration": 1.503
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_astro_convo03_04",
+      "audioUrl": "audio/necro_match_start_necro_astro_convo03_04.mp3",
+      "text": "And I'm hoping you get shot.",
+      "duration": 1.505
+    }
+  ]
+}

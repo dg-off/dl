@@ -1,0 +1,107 @@
+{
+  "conversations": [
+    {
+      "conversationId": "holliday_seven_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_gigawatt_astro_convo03_01",
+          "audioUrl": "audio/astro_match_start_gigawatt_astro_convo03_01.mp3",
+          "text": "When this is over I have to turn you in.",
+          "duration": 2.493
+        },
+        {
+          "order": 2,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_astro_convo03_02",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_convo03_02.mp3",
+          "text": "When this is over, if you are determined to throw your life away I will be happy to take it.",
+          "duration": 6.243
+        }
+      ]
+    },
+    {
+      "conversationId": "holliday_seven_convo01_troubadour",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_gigawatt_astro_troubadour_convo01_01",
+          "audioUrl": "audio/astro_match_start_gigawatt_astro_troubadour_convo01_01.mp3",
+          "text": "How do you know Allie?",
+          "duration": 1.506
+        },
+        {
+          "order": 2,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_astro_troubadour_convo01_02",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_troubadour_convo01_02.mp3",
+          "text": "You haven't heard? She is writing a story about me.",
+          "duration": 3.179
+        },
+        {
+          "order": 3,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_gigawatt_astro_troubadour_convo01_03",
+          "audioUrl": "audio/astro_match_start_gigawatt_astro_troubadour_convo01_03.mp3",
+          "text": "Why?",
+          "duration": 1.059
+        },
+        {
+          "order": 4,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_astro_troubadour_convo01_04",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_troubadour_convo01_04.mp3",
+          "text": "I'm fascinating.",
+          "duration": 1.558
+        }
+      ]
+    },
+    {
+      "conversationId": "holliday_seven_convo02_troubadour",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_astro_troubadour_convo02_01",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_troubadour_convo02_01.mp3",
+          "text": "Rejoice, Holliday. Soon you will get the revenge you seek.",
+          "duration": 4.495
+        },
+        {
+          "order": 2,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_gigawatt_astro_troubadour_convo02_02",
+          "audioUrl": "audio/astro_match_start_gigawatt_astro_troubadour_convo02_02.mp3",
+          "text": "Only if we summon this thing.",
+          "duration": 2.221
+        },
+        {
+          "order": 3,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_astro_troubadour_convo02_03",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_troubadour_convo02_03.mp3",
+          "text": "Our victory is assured.",
+          "duration": 1.942
+        },
+        {
+          "order": 4,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_gigawatt_astro_troubadour_convo02_04",
+          "audioUrl": "audio/astro_match_start_gigawatt_astro_troubadour_convo02_04.mp3",
+          "text": "That so?",
+          "duration": 1.327
+        },
+        {
+          "order": 5,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_astro_troubadour_convo02_05",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_astro_troubadour_convo02_05.mp3",
+          "text": "Look who stands with you. They don't have a chance.",
+          "duration": 3.736
+        }
+      ]
+    }
+  ]
+}

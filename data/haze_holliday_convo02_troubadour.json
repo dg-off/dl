@@ -1,0 +1,45 @@
+{
+  "id": "haze_holliday_convo02_troubadour",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_astro_troubadour_convo02_01",
+      "audioUrl": "audio/haze_match_start_haze_astro_troubadour_convo02_01.mp3",
+      "text": "I thought you'd be back on your way to Macomb.",
+      "duration": 2.949
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_haze_astro_troubadour_convo02_02",
+      "audioUrl": "audio/astro_match_start_haze_astro_troubadour_convo02_02.mp3",
+      "text": "There's some loose ends I'm trying to tie up.",
+      "duration": 2.393
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_haze_astro_troubadour_convo02_02_02",
+      "audioUrl": "audio/astro_match_start_haze_astro_troubadour_convo02_02_02.mp3",
+      "text": "There's some loose ends I'm tying up.",
+      "duration": 2.229
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_astro_troubadour_convo02_03",
+      "audioUrl": "audio/haze_match_start_haze_astro_troubadour_convo02_03.mp3",
+      "text": "Captain Murphy's married.",
+      "duration": 2.338
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_haze_astro_troubadour_convo02_04",
+      "audioUrl": "audio/astro_match_start_haze_astro_troubadour_convo02_04.mp3",
+      "text": "I am gonna kill that goddamn receptionist!",
+      "duration": 2.564
+    }
+  ]
+}

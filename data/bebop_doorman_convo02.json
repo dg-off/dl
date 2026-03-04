@@ -1,0 +1,53 @@
+{
+  "id": "bebop_doorman_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_doorman_bebop_convo02_01",
+      "audioUrl": "audio/bebop_match_start_doorman_bebop_convo02_01.mp3",
+      "text": "So what do you plan on doing once I pull them in?",
+      "duration": 3.205
+    },
+    {
+      "order": 2,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_bebop_convo02_02",
+      "audioUrl": "audio/doorman_match_start_doorman_bebop_convo02_02.mp3",
+      "text": "I, push them away\u2026",
+      "duration": 1.913
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_doorman_bebop_convo02_03",
+      "audioUrl": "audio/bebop_match_start_doorman_bebop_convo02_03.mp3",
+      "text": "That kind of defeats the purpose of me pulling them in, right?",
+      "duration": 3.205
+    },
+    {
+      "order": 4,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_bebop_convo02_04",
+      "audioUrl": "audio/doorman_match_start_doorman_bebop_convo02_04.mp3",
+      "text": "Kind of, yes.",
+      "duration": 1.843
+    },
+    {
+      "order": 5,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_doorman_bebop_convo02_05",
+      "audioUrl": "audio/bebop_match_start_doorman_bebop_convo02_05.mp3",
+      "text": "This isn't going to go well is it.",
+      "duration": 2.068
+    },
+    {
+      "order": 6,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_bebop_convo02_06",
+      "audioUrl": "audio/doorman_match_start_doorman_bebop_convo02_06.mp3",
+      "text": "Not the ideal pairing, no, but I'm sure we can make it work.",
+      "duration": 4.939
+    }
+  ]
+}

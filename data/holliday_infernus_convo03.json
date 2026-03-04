@@ -1,0 +1,37 @@
+{
+  "id": "holliday_infernus_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_astro_inferno_convo03_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/inferno_match_start_astro_inferno_convo03_01.mp3",
+      "text": "You in town for long?",
+      "duration": 1.533
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_inferno_convo03_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_inferno_convo03_02.mp3",
+      "text": "I hope not.",
+      "duration": 1.449
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_astro_inferno_convo03_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/inferno_match_start_astro_inferno_convo03_03.mp3",
+      "text": "Afraid of the big city?",
+      "duration": 1.678
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_inferno_convo03_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_inferno_convo03_04.mp3",
+      "text": "Not afraid.  Just don't like it.",
+      "duration": 2.768
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "grey talon_paige_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_bookworm_orion_convo03_01",
+      "audioUrl": "audio/orion_match_start_bookworm_orion_convo03_01.mp3",
+      "text": "Your parents know you're doing this.",
+      "duration": 1.711
+    },
+    {
+      "order": 2,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_orion_convo03_02",
+      "audioUrl": "audio/bookworm_match_start_bookworm_orion_convo03_02.mp3",
+      "text": "Of course not, they'd be worried sick.",
+      "duration": 3.089
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_bookworm_orion_convo03_03",
+      "audioUrl": "audio/orion_match_start_bookworm_orion_convo03_03.mp3",
+      "text": "It's not too late to go home.",
+      "duration": 1.991
+    },
+    {
+      "order": 4,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_orion_convo03_04",
+      "audioUrl": "audio/bookworm_match_start_bookworm_orion_convo03_04.mp3",
+      "text": "It is.  I need to do this.",
+      "duration": 2.44
+    },
+    {
+      "order": 5,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_bookworm_orion_convo03_05",
+      "audioUrl": "audio/orion_match_start_bookworm_orion_convo03_05.mp3",
+      "text": "I'll do what I can to protect you.",
+      "duration": 1.934
+    },
+    {
+      "order": 6,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_orion_convo03_06",
+      "audioUrl": "audio/bookworm_match_start_bookworm_orion_convo03_06.mp3",
+      "text": "No Talon.  I'm going to protect you.",
+      "duration": 3.457
+    }
+  ]
+}

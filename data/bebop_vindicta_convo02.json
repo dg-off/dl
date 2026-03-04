@@ -1,0 +1,53 @@
+{
+  "id": "bebop_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_hornet_convo02_01",
+      "audioUrl": "audio/bebop_match_start_bebop_hornet_convo02_01.mp3",
+      "text": "You're the one I read about in the papers, right?",
+      "duration": 2.62
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_bebop_hornet_convo02_02",
+      "audioUrl": "audio/hornet_match_start_bebop_hornet_convo02_02.mp3",
+      "text": "Depends what you read.",
+      "duration": 1.43
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_hornet_convo02_03",
+      "audioUrl": "audio/bebop_match_start_bebop_hornet_convo02_03.mp3",
+      "text": "That known assocoates of John Hathorne and the Friends of Humanity have been winding up dead.",
+      "duration": 5.188
+    },
+    {
+      "order": 4,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_bebop_hornet_convo02_04",
+      "audioUrl": "audio/hornet_match_start_bebop_hornet_convo02_04.mp3",
+      "text": "That could be me or Wesley.",
+      "duration": 1.975
+    },
+    {
+      "order": 5,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_hornet_convo02_05",
+      "audioUrl": "audio/bebop_match_start_bebop_hornet_convo02_05.mp3",
+      "text": "They were shot in the head with a high powered rifle",
+      "duration": 3.511
+    },
+    {
+      "order": 6,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_bebop_hornet_convo02_06",
+      "audioUrl": "audio/hornet_match_start_bebop_hornet_convo02_06.mp3",
+      "text": "Yeah that was me.",
+      "duration": 1.3
+    }
+  ]
+}

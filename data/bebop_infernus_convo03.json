@@ -1,0 +1,21 @@
+{
+  "id": "bebop_infernus_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_inferno_convo03_01",
+      "audioUrl": "audio/bebop_match_start_bebop_inferno_convo03_01.mp3",
+      "text": "Why couldn't I've been paired up with a bouncer instead of a bartender.",
+      "duration": 3.866
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_bebop_inferno_convo03_02",
+      "audioUrl": "audio/inferno_match_start_bebop_inferno_convo03_02.mp3",
+      "text": "Don't worry about me Bebop, I know how to take care of myself\u2026",
+      "duration": 3.771
+    }
+  ]
+}

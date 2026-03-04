@@ -1,0 +1,29 @@
+{
+  "id": "holliday_paradox_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_chrono_convo03_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_chrono_convo03_01.mp3",
+      "text": "How often do you take mask off?",
+      "duration": 2.724
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_astro_chrono_convo03_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/chrono_match_start_astro_chrono_convo03_02.mp3",
+      "text": "You think I keep this on all the time?",
+      "duration": 2.238
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_chrono_convo03_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_chrono_convo03_03.mp3",
+      "text": "Lady, you're running around with a fishbowl on your head I think it's safe not to assume anything.",
+      "duration": 4.922
+    }
+  ]
+}

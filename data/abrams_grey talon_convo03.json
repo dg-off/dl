@@ -1,0 +1,21 @@
+{
+  "id": "abrams_grey talon_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_orion_convo03_01",
+      "audioUrl": "audio/atlas_match_start_atlas_orion_convo03_01.mp3",
+      "text": "Talon.  I know you don't care if you die, but I am highly motivated to stay alive so please don't do anything stupid.",
+      "duration": 7.961
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_atlas_orion_convo03_02",
+      "audioUrl": "audio/orion_match_start_atlas_orion_convo03_02.mp3",
+      "text": "Don't worry Abrams\u2026 I'm not dying until I have my revenge.",
+      "duration": 4.416
+    }
+  ]
+}

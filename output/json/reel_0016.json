@@ -1,0 +1,163 @@
+{
+  "conversations": [
+    {
+      "conversationId": "holliday_wraith_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_astro_wraith_convo03_01",
+          "audioUrl": "audio/astro_match_start_astro_wraith_convo03_01.mp3",
+          "text": "You should quit while you're ahead",
+          "duration": 1.863
+        },
+        {
+          "order": 2,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_astro_wraith_convo03_02",
+          "audioUrl": "audio/wraith_match_start_astro_wraith_convo03_02.mp3",
+          "text": "What are you talking about.",
+          "duration": 1.28
+        },
+        {
+          "order": 3,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_astro_wraith_convo03_03",
+          "audioUrl": "audio/astro_match_start_astro_wraith_convo03_03.mp3",
+          "text": "Your organization.  Shut it down.  Quit while you're ahead.",
+          "duration": 2.383
+        },
+        {
+          "order": 3,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_astro_wraith_convo03_03_02",
+          "audioUrl": "audio/astro_match_start_astro_wraith_convo03_03_02.mp3",
+          "text": "Your organization, shut it down. Quit while you're ahead.",
+          "duration": 4.411
+        },
+        {
+          "order": 4,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_astro_wraith_convo03_04",
+          "audioUrl": "audio/wraith_match_start_astro_wraith_convo03_04.mp3",
+          "text": "I will repent all my wicked ways.",
+          "duration": 2.882
+        },
+        {
+          "order": 5,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_astro_wraith_convo03_05",
+          "audioUrl": "audio/astro_match_start_astro_wraith_convo03_05.mp3",
+          "text": "You think I'm joking.",
+          "duration": 1.793
+        },
+        {
+          "order": 6,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_astro_wraith_convo03_06",
+          "audioUrl": "audio/wraith_match_start_astro_wraith_convo03_06.mp3",
+          "text": "No I think you're a joke.",
+          "duration": 1.735
+        },
+        {
+          "order": 7,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_astro_wraith_convo03_07",
+          "audioUrl": "audio/astro_match_start_astro_wraith_convo03_07.mp3",
+          "text": "Either you shut it down or Murphy's gonna shut it down for you.",
+          "duration": 3.775
+        },
+        {
+          "order": 8,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_astro_wraith_convo03_08",
+          "audioUrl": "audio/wraith_match_start_astro_wraith_convo03_08.mp3",
+          "text": "Yeah we'lll see about that.",
+          "duration": 2.008
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_holliday_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_astro_convo01_01",
+          "audioUrl": "audio/atlas_match_start_atlas_astro_convo01_01.mp3",
+          "text": "You're the Sheriff from Macomb, right?",
+          "duration": 1.991
+        },
+        {
+          "order": 2,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_atlas_astro_convo01_02",
+          "audioUrl": "audio/astro_match_start_atlas_astro_convo01_02.mp3",
+          "text": "Yeah",
+          "duration": 0.983
+        },
+        {
+          "order": 2,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_atlas_astro_convo01_02_02",
+          "audioUrl": "audio/astro_match_start_atlas_astro_convo01_02_02.mp3",
+          "text": "Yeah.",
+          "duration": 0.87
+        },
+        {
+          "order": 3,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_astro_convo01_03",
+          "audioUrl": "audio/atlas_match_start_atlas_astro_convo01_03.mp3",
+          "text": "I'm so sorry.",
+          "duration": 1.659
+        },
+        {
+          "order": 4,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_atlas_astro_convo01_04",
+          "audioUrl": "audio/astro_match_start_atlas_astro_convo01_04.mp3",
+          "text": "Thank you.",
+          "duration": 1.147
+        },
+        {
+          "order": 4,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_atlas_astro_convo01_04_02",
+          "audioUrl": "audio/astro_match_start_atlas_astro_convo01_04_02.mp3",
+          "text": "Thank you.",
+          "duration": 1.04
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_holliday_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_atlas_astro_convo02_01",
+          "audioUrl": "audio/astro_match_start_atlas_astro_convo02_01.mp3",
+          "text": "You gotta plan?",
+          "duration": 1.345
+        },
+        {
+          "order": 2,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_astro_convo02_02",
+          "audioUrl": "audio/atlas_match_start_atlas_astro_convo02_02.mp3",
+          "text": "I was thinking you grab 'em than I punch their skull in.",
+          "duration": 4.62
+        },
+        {
+          "order": 3,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_atlas_astro_convo02_03",
+          "audioUrl": "audio/astro_match_start_atlas_astro_convo02_03.mp3",
+          "text": "I like it.",
+          "duration": 0.979
+        }
+      ]
+    }
+  ]
+}

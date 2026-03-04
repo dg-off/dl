@@ -1,0 +1,29 @@
+{
+  "id": "holliday_paradox_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_astro_chrono_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/chrono_match_start_astro_chrono_convo02_01.mp3",
+      "text": "A word of advice Sheriff\u2026",
+      "duration": 1.911
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_chrono_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_chrono_convo02_02.mp3",
+      "text": "I can't wait to hear this\u2026",
+      "duration": 1.654
+    },
+    {
+      "order": 3,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_astro_chrono_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/chrono_match_start_astro_chrono_convo02_03.mp3",
+      "text": "Don't trust the OSIC.  Their goals and your goals are not in alignment.",
+      "duration": 5.535
+    }
+  ]
+}

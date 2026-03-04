@@ -1,0 +1,29 @@
+{
+  "id": "abrams_holliday_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_atlas_astro_convo02_01",
+      "audioUrl": "audio/astro_match_start_atlas_astro_convo02_01.mp3",
+      "text": "You gotta plan?",
+      "duration": 1.345
+    },
+    {
+      "order": 2,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_astro_convo02_02",
+      "audioUrl": "audio/atlas_match_start_atlas_astro_convo02_02.mp3",
+      "text": "I was thinking you grab 'em than I punch their skull in.",
+      "duration": 4.62
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_atlas_astro_convo02_03",
+      "audioUrl": "audio/astro_match_start_atlas_astro_convo02_03.mp3",
+      "text": "I like it.",
+      "duration": 0.979
+    }
+  ]
+}

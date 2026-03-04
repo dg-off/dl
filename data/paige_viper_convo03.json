@@ -1,0 +1,61 @@
+{
+  "id": "paige_viper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo03_01",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo03_01.mp3",
+      "text": "Hey Red, if my PO comes looking I was with you last night.",
+      "duration": 3.073
+    },
+    {
+      "order": 2,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_viper_convo03_02",
+      "audioUrl": "audio/bookworm_match_start_bookworm_viper_convo03_02.mp3",
+      "text": "But you weren't",
+      "duration": 1.58
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo03_03",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo03_03.mp3",
+      "text": "That's why I need you to lie.",
+      "duration": 1.675
+    },
+    {
+      "order": 4,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_viper_convo03_04",
+      "audioUrl": "audio/bookworm_match_start_bookworm_viper_convo03_04.mp3",
+      "text": "I'm not lying to a police officer.",
+      "duration": 2.181
+    },
+    {
+      "order": 5,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo03_05",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo03_05.mp3",
+      "text": "Correct, you're lying to a parole officer.",
+      "duration": 3.136
+    },
+    {
+      "order": 6,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_viper_convo03_06",
+      "audioUrl": "audio/bookworm_match_start_bookworm_viper_convo03_06.mp3",
+      "text": "I'm not lying period.",
+      "duration": 1.547
+    },
+    {
+      "order": 7,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo03_07",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo03_07.mp3",
+      "text": "That's a real Bebop move, Red.",
+      "duration": 2.274
+    }
+  ]
+}

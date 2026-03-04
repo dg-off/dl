@@ -1,0 +1,37 @@
+{
+  "id": "doorman_grey talon_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_doorman_orion_convo02_01",
+      "audioUrl": "audio/orion_match_start_doorman_orion_convo02_01.mp3",
+      "text": "How are things at The Baroness?",
+      "duration": 1.848
+    },
+    {
+      "order": 2,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_orion_convo02_02",
+      "audioUrl": "audio/doorman_match_start_doorman_orion_convo02_02.mp3",
+      "text": "They've been running smoothly since The Baxter Society's intervention.",
+      "duration": 3.712
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_doorman_orion_convo02_03",
+      "audioUrl": "audio/orion_match_start_doorman_orion_convo02_03.mp3",
+      "text": "That's good to hear.",
+      "duration": 1.076
+    },
+    {
+      "order": 4,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_orion_convo02_04",
+      "audioUrl": "audio/doorman_match_start_doorman_orion_convo02_04.mp3",
+      "text": "It is.  There are some sins that not even bottomless mimosas can make up for.",
+      "duration": 5.267
+    }
+  ]
+}

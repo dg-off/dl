@@ -1,0 +1,29 @@
+{
+  "id": "drifter_ivy_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_drifter_tengu_convo02_01",
+      "audioUrl": "audio/tengu_match_start_drifter_tengu_convo02_01.mp3",
+      "text": "Nice to meet you, I'm Ivy.",
+      "duration": 1.897
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_tengu_convo02_02",
+      "audioUrl": "audio/drifter_match_start_drifter_tengu_convo02_02.mp3",
+      "text": "I don't care what your name is, you'll be dead long before your relevent in my world.",
+      "duration": 4.988
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_drifter_tengu_convo02_03",
+      "audioUrl": "audio/tengu_match_start_drifter_tengu_convo02_03.mp3",
+      "text": "Nice to meet you too.",
+      "duration": 1.924
+    }
+  ]
+}

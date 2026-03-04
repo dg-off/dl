@@ -1,0 +1,107 @@
+{
+  "conversations": [
+    {
+      "conversationId": "abrams_kelvin_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_kelvin_convo02_01",
+          "audioUrl": "audio/atlas_match_start_atlas_kelvin_convo02_01.mp3",
+          "text": "You hot in that thing?",
+          "duration": 2.172
+        },
+        {
+          "order": 2,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_atlas_kelvin_convo02_02",
+          "audioUrl": "audio/kelvin_match_start_atlas_kelvin_convo02_02.mp3",
+          "text": "Revenant's don't really sweat",
+          "duration": 2.021
+        },
+        {
+          "order": 3,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_kelvin_convo02_03",
+          "audioUrl": "audio/atlas_match_start_atlas_kelvin_convo02_03.mp3",
+          "text": "Checks out.",
+          "duration": 1.36
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_kelvin_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_kelvin_convo03_01",
+          "audioUrl": "audio/atlas_match_start_atlas_kelvin_convo03_01.mp3",
+          "text": "You worried that at the last minute the Patron's are gonna screw us?",
+          "duration": 3.168
+        },
+        {
+          "order": 2,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_atlas_kelvin_convo03_02",
+          "audioUrl": "audio/kelvin_match_start_atlas_kelvin_convo03_02.mp3",
+          "text": "Detective\u2026 now more than ever we need hope, not skepticism",
+          "duration": 5.066
+        },
+        {
+          "order": 3,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_kelvin_convo03_03",
+          "audioUrl": "audio/atlas_match_start_atlas_kelvin_convo03_03.mp3",
+          "text": "Hope doesn't keep you alive.",
+          "duration": 2.456
+        },
+        {
+          "order": 4,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_atlas_kelvin_convo03_04",
+          "audioUrl": "audio/kelvin_match_start_atlas_kelvin_convo03_04.mp3",
+          "text": "Trust me my friend, sometimes it\u2019s the only thing that does.",
+          "duration": 4.791
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_krill_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_krill_convo01_01",
+          "audioUrl": "audio/atlas_match_start_atlas_krill_convo01_01.mp3",
+          "text": "So do we want to have a plan or are we just going in an punching the hell out them.",
+          "duration": 3.869
+        },
+        {
+          "order": 2,
+          "character": "Krill",
+          "audioFile": "krill_match_start_atlas_krill_convo01_02",
+          "audioUrl": "audio/krill_match_start_atlas_krill_convo01_02.mp3",
+          "text": "I was thinking the latter, but if you want to mastermind something we're all ears.",
+          "duration": 4.164
+        },
+        {
+          "order": 3,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_krill_convo01_03",
+          "audioUrl": "audio/atlas_match_start_atlas_krill_convo01_03.mp3",
+          "text": "Punching's good.",
+          "duration": 1.137
+        },
+        {
+          "order": 4,
+          "character": "Krill",
+          "audioFile": "krill_match_start_atlas_krill_convo01_04",
+          "audioUrl": "audio/krill_match_start_atlas_krill_convo01_04.mp3",
+          "text": "Great.",
+          "duration": 0.995
+        }
+      ]
+    }
+  ]
+}

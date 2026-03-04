@@ -1,0 +1,37 @@
+{
+  "id": "abrams_seven_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_gigawatt_convo03_01",
+      "audioUrl": "audio/atlas_match_start_atlas_gigawatt_convo03_01.mp3",
+      "text": "What did you do to end up in Lost Whisper.",
+      "duration": 2.726
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_atlas_gigawatt_convo03_02",
+      "audioUrl": "audio/gigawatt_match_start_atlas_gigawatt_convo03_02.mp3",
+      "text": "I offended small minded simpleton's with fragile egoes.",
+      "duration": 3.727
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_gigawatt_convo03_03",
+      "audioUrl": "audio/atlas_match_start_atlas_gigawatt_convo03_03.mp3",
+      "text": "You don't try to obliterate someone's soul just because they offended you.",
+      "duration": 4.443
+    },
+    {
+      "order": 4,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_atlas_gigawatt_convo03_04",
+      "audioUrl": "audio/gigawatt_match_start_atlas_gigawatt_convo03_04.mp3",
+      "text": "Your nievity is refreshing, Detective.",
+      "duration": 4.254
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "conversations": [
+    {
+      "conversationId": "doorman_grey talon_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_doorman_orion_convo02_01",
+          "audioUrl": "audio/orion_match_start_doorman_orion_convo02_01.mp3",
+          "text": "How are things at The Baroness?",
+          "duration": 1.848
+        },
+        {
+          "order": 2,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_doorman_orion_convo02_02",
+          "audioUrl": "audio/doorman_match_start_doorman_orion_convo02_02.mp3",
+          "text": "They've been running smoothly since The Baxter Society's intervention.",
+          "duration": 3.712
+        },
+        {
+          "order": 3,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_doorman_orion_convo02_03",
+          "audioUrl": "audio/orion_match_start_doorman_orion_convo02_03.mp3",
+          "text": "That's good to hear.",
+          "duration": 1.076
+        },
+        {
+          "order": 4,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_doorman_orion_convo02_04",
+          "audioUrl": "audio/doorman_match_start_doorman_orion_convo02_04.mp3",
+          "text": "It is.  There are some sins that not even bottomless mimosas can make up for.",
+          "duration": 5.267
+        }
+      ]
+    },
+    {
+      "conversationId": "doorman_grey talon_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_doorman_orion_convo03_01",
+          "audioUrl": "audio/orion_match_start_doorman_orion_convo03_01.mp3",
+          "text": "The Baroness still the most haunted hotel in America?",
+          "duration": 2.833
+        },
+        {
+          "order": 2,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_doorman_orion_convo03_02",
+          "audioUrl": "audio/doorman_match_start_doorman_orion_convo03_02.mp3",
+          "text": "Just the tri-state area I'm afraid, that ghastly business in Macomb pulled a lot of midwest specters.",
+          "duration": 7.741
+        },
+        {
+          "order": 3,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_doorman_orion_convo03_03",
+          "audioUrl": "audio/orion_match_start_doorman_orion_convo03_03.mp3",
+          "text": "Sorry.",
+          "duration": 0.647
+        },
+        {
+          "order": 4,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_doorman_orion_convo03_04",
+          "audioUrl": "audio/doorman_match_start_doorman_orion_convo03_04.mp3",
+          "text": "It's fine.  I imagine today will put things back on track.",
+          "duration": 3.76
+        }
+      ]
+    },
+    {
+      "conversationId": "doorman_victor_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_frank_doorman_convo01_01",
+          "audioUrl": "audio/doorman_match_start_frank_doorman_convo01_01.mp3",
+          "text": "After the ritual you should stop by The Baroness - our house tailor is top notch should any part of you\u2026 pop loose.",
+          "duration": 8.648
+        },
+        {
+          "order": 2,
+          "character": "Victor",
+          "audioFile": "frank_match_start_frank_doorman_convo01_02",
+          "audioUrl": "audio/frank_match_start_frank_doorman_convo01_02.mp3",
+          "text": "That place might be a little fancy for someone like me",
+          "duration": 3.121
+        },
+        {
+          "order": 3,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_frank_doorman_convo01_03",
+          "audioUrl": "audio/doorman_match_start_frank_doorman_convo01_03.mp3",
+          "text": "Oh The Baroness does not discriminate my friend.  I assure you that you will be well taken care of.",
+          "duration": 6.232
+        }
+      ]
+    }
+  ]
+}

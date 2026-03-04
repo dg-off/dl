@@ -1,0 +1,45 @@
+{
+  "id": "dynamo_paradox_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_chrono_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_chrono_convo03_01.mp3",
+      "text": "Can I ask you a question?",
+      "duration": 1.139
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_dynamo_chrono_convo03_02",
+      "audioUrl": "audio/chrono_match_start_dynamo_chrono_convo03_02.mp3",
+      "text": "Sure.",
+      "duration": 0.941
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_chrono_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_chrono_convo03_03.mp3",
+      "text": "Why do keep stealing things?  Don't you have enough?",
+      "duration": 2.729
+    },
+    {
+      "order": 4,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_dynamo_chrono_convo03_04",
+      "audioUrl": "audio/chrono_match_start_dynamo_chrono_convo03_04.mp3",
+      "text": "Why do you keep reading books?  Haven't you read enough?",
+      "duration": 3.229
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_chrono_convo03_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_chrono_convo03_05.mp3",
+      "text": "Point taken.",
+      "duration": 0.913
+    }
+  ]
+}

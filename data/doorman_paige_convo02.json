@@ -1,0 +1,53 @@
+{
+  "id": "doorman_paige_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_doorman_convo02_01",
+      "audioUrl": "audio/bookworm_match_start_bookworm_doorman_convo02_01.mp3",
+      "text": "So how long have you worked at The Baroness?",
+      "duration": 2.243
+    },
+    {
+      "order": 2,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_bookworm_doorman_convo02_02",
+      "audioUrl": "audio/doorman_match_start_bookworm_doorman_convo02_02.mp3",
+      "text": "Since it's inception.",
+      "duration": 1.419
+    },
+    {
+      "order": 3,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_doorman_convo02_03",
+      "audioUrl": "audio/bookworm_match_start_bookworm_doorman_convo02_03.mp3",
+      "text": "You must like it then.",
+      "duration": 1.263
+    },
+    {
+      "order": 4,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_bookworm_doorman_convo02_04",
+      "audioUrl": "audio/doorman_match_start_bookworm_doorman_convo02_04.mp3",
+      "text": "Well, I tormented man for so long that serving them still retains it's novel charm.",
+      "duration": 4.648
+    },
+    {
+      "order": 5,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_doorman_convo02_05",
+      "audioUrl": "audio/bookworm_match_start_bookworm_doorman_convo02_05.mp3",
+      "text": "What?",
+      "duration": 0.586
+    },
+    {
+      "order": 6,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_bookworm_doorman_convo02_06",
+      "audioUrl": "audio/doorman_match_start_bookworm_doorman_convo02_06.mp3",
+      "text": "Don't worry about it, the ritual is about to begin.",
+      "duration": 2.727
+    }
+  ]
+}

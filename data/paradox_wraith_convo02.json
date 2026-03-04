@@ -1,0 +1,21 @@
+{
+  "id": "paradox_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_chrono_wraith_convo02_01",
+      "audioUrl": "audio/wraith_match_start_chrono_wraith_convo02_01.mp3",
+      "text": "You know what I like about you Paradox?  You don't just like to win.  You like to do it with style.",
+      "duration": 5.346
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_chrono_wraith_convo02_02",
+      "audioUrl": "audio/chrono_match_start_chrono_wraith_convo02_02.mp3",
+      "text": "The feeling's mutual Wraith.",
+      "duration": 1.689
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "holliday_paradox_convo04",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_chrono_convo04_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_chrono_convo04_01.mp3",
+      "text": "So what's your story lady, you fall in a vat of clocks?",
+      "duration": 4.334
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_astro_chrono_convo04_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/chrono_match_start_astro_chrono_convo04_02.mp3",
+      "text": "It's not wise to mock Paradox\u2026",
+      "duration": 2.937
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_chrono_convo04_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_chrono_convo04_03.mp3",
+      "text": "Yeah you're real spooky.",
+      "duration": 2.299
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "paige_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_frank_convo02_01",
+      "audioUrl": "audio/bookworm_match_start_bookworm_frank_convo02_01.mp3",
+      "text": "Ohmigod I can't imagine how many questions you have. \"Where did I come from?\", \"who made me\" \"who am I made of\"",
+      "duration": 6.729
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_bookworm_frank_convo02_02",
+      "audioUrl": "audio/frank_match_start_bookworm_frank_convo02_02.mp3",
+      "text": "That pretty much covers most of them\u2026",
+      "duration": 2.243
+    },
+    {
+      "order": 3,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_frank_convo02_03",
+      "audioUrl": "audio/bookworm_match_start_bookworm_frank_convo02_03.mp3",
+      "text": "\"why was I made\" \u2026",
+      "duration": 1.343
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_bookworm_frank_convo02_04",
+      "audioUrl": "audio/frank_match_start_bookworm_frank_convo02_04.mp3",
+      "text": "Yes, you made your point.",
+      "duration": 1.777
+    },
+    {
+      "order": 5,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_frank_convo02_05",
+      "audioUrl": "audio/bookworm_match_start_bookworm_frank_convo02_05.mp3",
+      "text": "You're a walking mystery novel, and I need to know everything.",
+      "duration": 2.761
+    },
+    {
+      "order": 6,
+      "character": "Victor",
+      "audioFile": "frank_match_start_bookworm_frank_convo02_06",
+      "audioUrl": "audio/frank_match_start_bookworm_frank_convo02_06.mp3",
+      "text": "Great.",
+      "duration": 0.627
+    }
+  ]
+}

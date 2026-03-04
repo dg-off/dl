@@ -1,0 +1,29 @@
+{
+  "id": "drifter_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_hornet_convo02_01",
+      "audioUrl": "audio/drifter_match_start_drifter_hornet_convo02_01.mp3",
+      "text": "What's with the rifle, don't like working up close?",
+      "duration": 3.724
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_drifter_hornet_convo02_02",
+      "audioUrl": "audio/hornet_match_start_drifter_hornet_convo02_02.mp3",
+      "text": "I'm not psychotic enough to have a preference.",
+      "duration": 2.44
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_hornet_convo02_03",
+      "audioUrl": "audio/drifter_match_start_drifter_hornet_convo02_03.mp3",
+      "text": "I thought I was gonna like you\u2026",
+      "duration": 2.341
+    }
+  ]
+}

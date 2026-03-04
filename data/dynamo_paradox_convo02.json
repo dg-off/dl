@@ -1,0 +1,45 @@
+{
+  "id": "dynamo_paradox_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_chrono_convo02_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_chrono_convo02_01.mp3",
+      "text": "I am absolutely fascinated by your organization Paradox",
+      "duration": 3.047
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_dynamo_chrono_convo02_02",
+      "audioUrl": "audio/chrono_match_start_dynamo_chrono_convo02_02.mp3",
+      "text": "Thank you very much Professor.",
+      "duration": 2.052
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_chrono_convo02_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_chrono_convo02_03.mp3",
+      "text": "I took Marla to the last pop-up, truly wonderful things to behold.",
+      "duration": 4.648
+    },
+    {
+      "order": 4,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_dynamo_chrono_convo02_04",
+      "audioUrl": "audio/chrono_match_start_dynamo_chrono_convo02_04.mp3",
+      "text": "I think you'll enjoy our next event, I'll make sure you get in.",
+      "duration": 3.862
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_chrono_convo02_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_chrono_convo02_05.mp3",
+      "text": "I can't wait.",
+      "duration": 0.902
+    }
+  ]
+}

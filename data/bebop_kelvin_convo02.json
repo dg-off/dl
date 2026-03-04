@@ -1,0 +1,53 @@
+{
+  "id": "bebop_kelvin_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_kelvin_convo02_01",
+      "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo02_01.mp3",
+      "text": "I'm still a little confused on your condition: are you alive or dead.",
+      "duration": 4.538
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_bebop_kelvin_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo02_02.mp3",
+      "text": "I wish I knew.  A little of both I suppose.",
+      "duration": 3.267
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_kelvin_convo02_03",
+      "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo02_03.mp3",
+      "text": "That doesn't make any sense.",
+      "duration": 1.666
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_bebop_kelvin_convo02_04",
+      "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo02_04.mp3",
+      "text": "It makes as much sense as me talking to an animated scrap pile, yes?",
+      "duration": 4.542
+    },
+    {
+      "order": 5,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_kelvin_convo02_05",
+      "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo02_05.mp3",
+      "text": "Not really. I was summoned into existance by an act of craftsmanship, willpower and sacrifice. There's a clear path that someone could replicate. You're a psudeo corpse with a glowing rock.",
+      "duration": 11.577
+    },
+    {
+      "order": 6,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_bebop_kelvin_convo02_06",
+      "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo02_06.mp3",
+      "text": "Fair.",
+      "duration": 0.984
+    }
+  ]
+}

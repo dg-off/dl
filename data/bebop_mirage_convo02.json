@@ -1,0 +1,21 @@
+{
+  "id": "bebop_mirage_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_bebop_mirage_convo02_01",
+      "audioUrl": "audio/mirage_match_start_bebop_mirage_convo02_01.mp3",
+      "text": "Bebop, today your courage is required.",
+      "duration": 3.82
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_mirage_convo02_02",
+      "audioUrl": "audio/bebop_match_start_bebop_mirage_convo02_02.mp3",
+      "text": "If it means saving Ms shelly, I'll take 'em all on myself.",
+      "duration": 4.057
+    }
+  ]
+}

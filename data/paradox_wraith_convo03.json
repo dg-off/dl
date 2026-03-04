@@ -1,0 +1,53 @@
+{
+  "id": "paradox_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_chrono_wraith_convo03_01",
+      "audioUrl": "audio/wraith_match_start_chrono_wraith_convo03_01.mp3",
+      "text": "When's the next event?",
+      "duration": 0.942
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_chrono_wraith_convo03_02",
+      "audioUrl": "audio/chrono_match_start_chrono_wraith_convo03_02.mp3",
+      "text": "We're securing a few more items of interest; but hopfully the gallery will be open shortly",
+      "duration": 5.143
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_chrono_wraith_convo03_03",
+      "audioUrl": "audio/wraith_match_start_chrono_wraith_convo03_03.mp3",
+      "text": "Anything exciting?",
+      "duration": 1.057
+    },
+    {
+      "order": 4,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_chrono_wraith_convo03_04",
+      "audioUrl": "audio/chrono_match_start_chrono_wraith_convo03_04.mp3",
+      "text": "Blackmail on Fairfax, The Ghent Altarpiece, The Tome of Anubis\u2026.",
+      "duration": 5.34
+    },
+    {
+      "order": 5,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_chrono_wraith_convo03_05",
+      "audioUrl": "audio/wraith_match_start_chrono_wraith_convo03_05.mp3",
+      "text": "I thought that was at the MET.",
+      "duration": 1.251
+    },
+    {
+      "order": 6,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_chrono_wraith_convo03_06",
+      "audioUrl": "audio/chrono_match_start_chrono_wraith_convo03_06.mp3",
+      "text": "Sure it is.",
+      "duration": 1.225
+    }
+  ]
+}

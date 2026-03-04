@@ -1,0 +1,107 @@
+{
+  "conversations": [
+    {
+      "conversationId": "drifter_grey talon_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_orion_convo02_01",
+          "audioUrl": "audio/drifter_match_start_drifter_orion_convo02_01.mp3",
+          "text": "The Patrons have a curious sense of humor now don't they.",
+          "duration": 3.0
+        },
+        {
+          "order": 2,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_orion_convo02_02",
+          "audioUrl": "audio/drifter_match_start_drifter_orion_convo02_02.mp3",
+          "text": "The silent treatment?  Really?  Don't tell me you're still raw about Oklahoma",
+          "duration": 5.68
+        },
+        {
+          "order": 3,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_orion_convo02_03",
+          "audioUrl": "audio/drifter_match_start_drifter_orion_convo02_03.mp3",
+          "text": "How disapointing\u2026",
+          "duration": 2.478
+        }
+      ]
+    },
+    {
+      "conversationId": "drifter_grey talon_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_orion_convo03_01",
+          "audioUrl": "audio/drifter_match_start_drifter_orion_convo03_01.mp3",
+          "text": "What are the boys and girls at the Baxter Society gonna say about us working together.",
+          "duration": 4.614
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_drifter_orion_convo03_02",
+          "audioUrl": "audio/orion_match_start_drifter_orion_convo03_02.mp3",
+          "text": "I wouldn't know, I'm retired.",
+          "duration": 2.486
+        },
+        {
+          "order": 3,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_orion_convo03_03",
+          "audioUrl": "audio/drifter_match_start_drifter_orion_convo03_03.mp3",
+          "text": "It sure looks like it.",
+          "duration": 1.544
+        }
+      ]
+    },
+    {
+      "conversationId": "drifter_ivy_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_tengu_convo01_01",
+          "audioUrl": "audio/drifter_match_start_drifter_tengu_convo01_01.mp3",
+          "text": "Well lookie here, \"The Savior of Spanish Harlem\" herself.",
+          "duration": 5.274
+        },
+        {
+          "order": 2,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_drifter_tengu_convo01_02",
+          "audioUrl": "audio/tengu_match_start_drifter_tengu_convo01_02.mp3",
+          "text": "I don't call myself that.",
+          "duration": 1.989
+        },
+        {
+          "order": 3,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_tengu_convo01_03",
+          "audioUrl": "audio/drifter_match_start_drifter_tengu_convo01_03.mp3",
+          "text": "Legends don't get to choose what they're called.",
+          "duration": 3.256
+        },
+        {
+          "order": 4,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_drifter_tengu_convo01_04",
+          "audioUrl": "audio/tengu_match_start_drifter_tengu_convo01_04.mp3",
+          "text": "I'm not a legend.",
+          "duration": 1.463
+        },
+        {
+          "order": 5,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_tengu_convo01_05",
+          "audioUrl": "audio/drifter_match_start_drifter_tengu_convo01_05.mp3",
+          "text": "Yes you are.  You know it and you're afraid of it.  Don't be.",
+          "duration": 5.811
+        }
+      ]
+    }
+  ]
+}

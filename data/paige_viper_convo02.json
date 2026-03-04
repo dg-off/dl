@@ -1,0 +1,77 @@
+{
+  "id": "paige_viper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo02_01",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo02_01.mp3",
+      "text": "You killed it at Pole Palace last night.",
+      "duration": 3.01
+    },
+    {
+      "order": 2,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_viper_convo02_02",
+      "audioUrl": "audio/bookworm_match_start_bookworm_viper_convo02_02.mp3",
+      "text": "I don't know what that is.",
+      "duration": 1.155
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo02_03",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo02_03.mp3",
+      "text": "Yeah me neither.",
+      "duration": 3.77
+    },
+    {
+      "order": 4,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_viper_convo02_04",
+      "audioUrl": "audio/bookworm_match_start_bookworm_viper_convo02_04.mp3",
+      "text": "Seriously,  what are you talking about.",
+      "duration": 1.964
+    },
+    {
+      "order": 5,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo02_05",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo02_05.mp3",
+      "text": "Cinamon, come on, it's me.",
+      "duration": 3.028
+    },
+    {
+      "order": 6,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_viper_convo02_06",
+      "audioUrl": "audio/bookworm_match_start_bookworm_viper_convo02_06.mp3",
+      "text": "Who's Cinamon.",
+      "duration": 1.134
+    },
+    {
+      "order": 7,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo02_07",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo02_07.mp3",
+      "text": "I am so sorry, I confused you with a very different librarian.",
+      "duration": 6.58
+    },
+    {
+      "order": 8,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_viper_convo02_08",
+      "audioUrl": "audio/bookworm_match_start_bookworm_viper_convo02_08.mp3",
+      "text": "What are you talking about.",
+      "duration": 1.767
+    },
+    {
+      "order": 9,
+      "character": "Viper",
+      "audioFile": "viper_match_start_bookworm_viper_convo02_09",
+      "audioUrl": "audio/viper_match_start_bookworm_viper_convo02_09.mp3",
+      "text": "You are too pure for this world, and I kind of love it.",
+      "duration": 2.862
+    }
+  ]
+}

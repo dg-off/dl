@@ -1,0 +1,45 @@
+{
+  "id": "abrams_dynamo_convo02_oathkeeper",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_dynamo_oathkeeper_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_dynamo_oathkeeper_convo02_01.mp3",
+      "text": "Sorry about crashing your party.",
+      "duration": 2.288
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_atlas_dynamo_oathkeeper_convo02_02",
+      "audioUrl": "audio/dynamo_match_start_atlas_dynamo_oathkeeper_convo02_02.mp3",
+      "text": "No apologies needed, it wasn't my party. Did you ever meet up with Lady Geist?",
+      "duration": 4.36
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_dynamo_oathkeeper_convo02_03",
+      "audioUrl": "audio/atlas_match_start_atlas_dynamo_oathkeeper_convo02_03.mp3",
+      "text": "No. Never called back.",
+      "duration": 2.85
+    },
+    {
+      "order": 4,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_atlas_dynamo_oathkeeper_convo02_04",
+      "audioUrl": "audio/dynamo_match_start_atlas_dynamo_oathkeeper_convo02_04.mp3",
+      "text": "Sorry to hear that.",
+      "duration": 0.969
+    },
+    {
+      "order": 5,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_dynamo_oathkeeper_convo02_05",
+      "audioUrl": "audio/atlas_match_start_atlas_dynamo_oathkeeper_convo02_05.mp3",
+      "text": "It's probably for the best, I heard that woman's bad news.",
+      "duration": 3.799
+    }
+  ]
+}

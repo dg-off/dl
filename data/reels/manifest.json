@@ -1,0 +1,906 @@
+{
+  "group_size": 3,
+  "reels": [
+    {
+      "reel_id": "reel_0001",
+      "conversations": [
+        "holliday_paradox_convo01",
+        "holliday_paradox_convo02",
+        "holliday_paradox_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0002",
+      "conversations": [
+        "holliday_paradox_convo04",
+        "holliday_mcginnis_convo01",
+        "holliday_mcginnis_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0003",
+      "conversations": [
+        "holliday_mcginnis_convo03",
+        "holliday_lady geist_convo01",
+        "holliday_lady geist_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0004",
+      "conversations": [
+        "holliday_lady geist_convo03",
+        "holliday_vindicta_convo01",
+        "holliday_vindicta_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0005",
+      "conversations": [
+        "holliday_vindicta_convo03",
+        "holliday_infernus_convo01",
+        "holliday_infernus_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0006",
+      "conversations": [
+        "holliday_infernus_convo03",
+        "holliday_kelvin_convo01",
+        "holliday_kelvin_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0007",
+      "conversations": [
+        "holliday_kelvin_convo03",
+        "holliday_krill_convo01",
+        "holliday_krill_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0008",
+      "conversations": [
+        "holliday_krill_convo03",
+        "holliday_lash_convo01",
+        "holliday_lash_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0009",
+      "conversations": [
+        "holliday_lash_convo03",
+        "holliday_mirage_convo01",
+        "holliday_mirage_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0010",
+      "conversations": [
+        "holliday_mirage_convo03",
+        "grey talon_holliday_convo01",
+        "grey talon_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0011",
+      "conversations": [
+        "grey talon_holliday_convo03",
+        "holliday_shiv_convo01",
+        "holliday_shiv_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0012",
+      "conversations": [
+        "holliday_shiv_convo03",
+        "holliday_pocket_convo01",
+        "holliday_pocket_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0013",
+      "conversations": [
+        "holliday_pocket_convo03",
+        "holliday_ivy_convo01",
+        "holliday_ivy_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0014",
+      "conversations": [
+        "holliday_ivy_convo03",
+        "holliday_viscous_convo01",
+        "holliday_viscous_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0015",
+      "conversations": [
+        "holliday_viscous_convo03",
+        "holliday_wraith_convo01",
+        "holliday_wraith_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0016",
+      "conversations": [
+        "holliday_wraith_convo03",
+        "abrams_holliday_convo01",
+        "abrams_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0017",
+      "conversations": [
+        "abrams_holliday_convo03",
+        "bebop_holliday_convo01",
+        "bebop_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0018",
+      "conversations": [
+        "bebop_holliday_convo03",
+        "drifter_holliday_convo01",
+        "drifter_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0019",
+      "conversations": [
+        "drifter_holliday_convo03",
+        "dynamo_holliday_convo01",
+        "dynamo_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0020",
+      "conversations": [
+        "dynamo_holliday_convo03",
+        "holliday_rem_convo01",
+        "holliday_rem_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0021",
+      "conversations": [
+        "holliday_rem_convo03",
+        "apollo_holliday_convo01",
+        "apollo_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0022",
+      "conversations": [
+        "apollo_holliday_convo03",
+        "holliday_victor_convo01",
+        "holliday_victor_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0023",
+      "conversations": [
+        "holliday_victor_convo03",
+        "holliday_seven_convo01",
+        "holliday_seven_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0024",
+      "conversations": [
+        "holliday_seven_convo03",
+        "holliday_seven_convo01_troubadour",
+        "holliday_seven_convo02_troubadour"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0025",
+      "conversations": [
+        "holliday_seven_convo03_troubadour",
+        "haze_holliday_convo01",
+        "haze_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0026",
+      "conversations": [
+        "haze_holliday_convo03",
+        "haze_holliday_convo01_troubadour",
+        "haze_holliday_convo02_troubadour"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0027",
+      "conversations": [
+        "haze_holliday_convo03_troubadour",
+        "calico_holliday_convo01",
+        "calico_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0028",
+      "conversations": [
+        "calico_holliday_convo03",
+        "graves_holliday_convo01",
+        "graves_holliday_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0029",
+      "conversations": [
+        "graves_holliday_convo03",
+        "holliday_venator_convo01",
+        "holliday_venator_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0030",
+      "conversations": [
+        "holliday_venator_convo03",
+        "holliday_viper_convo01",
+        "holliday_viper_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0031",
+      "conversations": [
+        "holliday_viper_convo03",
+        "holliday_silver_convo01",
+        "holliday_silver_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0032",
+      "conversations": [
+        "holliday_silver_convo03",
+        "holliday_yamato_convo01",
+        "holliday_yamato_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0033",
+      "conversations": [
+        "holliday_yamato_convo03",
+        "abrams_bebop_convo01",
+        "abrams_bebop_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0034",
+      "conversations": [
+        "abrams_bebop_convo03",
+        "abrams_paradox_convo01",
+        "abrams_paradox_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0035",
+      "conversations": [
+        "abrams_paradox_convo03",
+        "abrams_dynamo_convo01",
+        "abrams_dynamo_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0036",
+      "conversations": [
+        "abrams_dynamo_convo03",
+        "abrams_dynamo_convo01_oathkeeper",
+        "abrams_dynamo_convo02_oathkeeper"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0037",
+      "conversations": [
+        "abrams_mcginnis_convo01",
+        "abrams_mcginnis_convo02",
+        "abrams_mcginnis_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0038",
+      "conversations": [
+        "abrams_lady geist_convo01",
+        "abrams_lady geist_convo02",
+        "abrams_lady geist_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0039",
+      "conversations": [
+        "abrams_lady geist_convo01_oathkeeper",
+        "abrams_lady geist_convo02_oathkeeper",
+        "abrams_seven_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0040",
+      "conversations": [
+        "abrams_seven_convo02",
+        "abrams_seven_convo03",
+        "abrams_haze_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0041",
+      "conversations": [
+        "abrams_haze_convo02",
+        "abrams_haze_convo03",
+        "abrams_vindicta_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0042",
+      "conversations": [
+        "abrams_vindicta_convo02",
+        "abrams_vindicta_convo03",
+        "abrams_infernus_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0043",
+      "conversations": [
+        "abrams_infernus_convo02",
+        "abrams_infernus_convo03",
+        "abrams_kelvin_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0044",
+      "conversations": [
+        "abrams_kelvin_convo02",
+        "abrams_kelvin_convo03",
+        "abrams_krill_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0045",
+      "conversations": [
+        "abrams_krill_convo02",
+        "abrams_krill_convo03",
+        "abrams_lash_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0046",
+      "conversations": [
+        "abrams_lash_convo02",
+        "abrams_lash_convo03",
+        "abrams_grey talon_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0047",
+      "conversations": [
+        "abrams_grey talon_convo02",
+        "abrams_grey talon_convo03",
+        "abrams_shiv_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0048",
+      "conversations": [
+        "abrams_shiv_convo02",
+        "abrams_shiv_convo03",
+        "abrams_pocket_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0049",
+      "conversations": [
+        "abrams_pocket_convo02",
+        "abrams_pocket_convo03",
+        "abrams_ivy_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0050",
+      "conversations": [
+        "abrams_ivy_convo02",
+        "abrams_ivy_convo03",
+        "bebop_paradox_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0051",
+      "conversations": [
+        "bebop_paradox_convo02",
+        "bebop_paradox_convo03",
+        "bebop_dynamo_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0052",
+      "conversations": [
+        "bebop_dynamo_convo02",
+        "bebop_dynamo_convo03",
+        "bebop_mcginnis_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0053",
+      "conversations": [
+        "bebop_mcginnis_convo02",
+        "bebop_mcginnis_convo03",
+        "bebop_lady geist_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0054",
+      "conversations": [
+        "bebop_lady geist_convo02",
+        "bebop_lady geist_convo03",
+        "bebop_seven_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0055",
+      "conversations": [
+        "bebop_seven_convo02",
+        "bebop_seven_convo03",
+        "bebop_haze_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0056",
+      "conversations": [
+        "bebop_haze_convo02",
+        "bebop_haze_convo03",
+        "bebop_vindicta_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0057",
+      "conversations": [
+        "bebop_vindicta_convo02",
+        "bebop_vindicta_convo03",
+        "bebop_infernus_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0058",
+      "conversations": [
+        "bebop_infernus_convo02",
+        "bebop_infernus_convo03",
+        "bebop_kelvin_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0059",
+      "conversations": [
+        "bebop_kelvin_convo02",
+        "bebop_kelvin_convo03",
+        "bebop_krill_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0060",
+      "conversations": [
+        "bebop_krill_convo02",
+        "bebop_krill_convo03",
+        "bebop_mirage_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0061",
+      "conversations": [
+        "bebop_mirage_convo02",
+        "bebop_mirage_convo03",
+        "bebop_grey talon_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0062",
+      "conversations": [
+        "bebop_grey talon_convo02",
+        "bebop_grey talon_convo03",
+        "bebop_pocket_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0063",
+      "conversations": [
+        "bebop_pocket_convo02",
+        "bebop_pocket_convo03",
+        "bebop_ivy_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0064",
+      "conversations": [
+        "bebop_ivy_convo02",
+        "bebop_ivy_convo03",
+        "bebop_viscous_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0065",
+      "conversations": [
+        "bebop_viscous_convo02",
+        "bebop_viscous_convo03",
+        "bebop_wraith_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0066",
+      "conversations": [
+        "bebop_wraith_convo02",
+        "bebop_wraith_convo03",
+        "bebop_doorman_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0067",
+      "conversations": [
+        "bebop_doorman_convo02",
+        "bebop_doorman_convo03",
+        "bebop_drifter_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0068",
+      "conversations": [
+        "bebop_drifter_convo02",
+        "bebop_drifter_convo03",
+        "bebop_victor_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0069",
+      "conversations": [
+        "bebop_victor_convo02",
+        "bebop_victor_convo03",
+        "bebop_billy_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0070",
+      "conversations": [
+        "bebop_billy_convo02",
+        "bebop_billy_convo03",
+        "bebop_viper_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0071",
+      "conversations": [
+        "bebop_viper_convo02",
+        "bebop_viper_convo03",
+        "bebop_yamato_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0072",
+      "conversations": [
+        "bebop_yamato_convo02",
+        "bebop_yamato_convo03",
+        "doorman_paige_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0073",
+      "conversations": [
+        "doorman_paige_convo02",
+        "doorman_paige_convo03",
+        "paige_victor_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0074",
+      "conversations": [
+        "paige_victor_convo02",
+        "paige_victor_convo03",
+        "grey talon_paige_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0075",
+      "conversations": [
+        "grey talon_paige_convo02",
+        "grey talon_paige_convo03",
+        "paige_viper_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0076",
+      "conversations": [
+        "paige_viper_convo02",
+        "paige_viper_convo03",
+        "billy_paige_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0077",
+      "conversations": [
+        "billy_paige_convo02",
+        "billy_paige_convo03",
+        "paradox_wraith_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0078",
+      "conversations": [
+        "paradox_wraith_convo02",
+        "paradox_wraith_convo03",
+        "drifter_paradox_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0079",
+      "conversations": [
+        "drifter_paradox_convo02",
+        "drifter_paradox_convo03",
+        "dynamo_paradox_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0080",
+      "conversations": [
+        "dynamo_paradox_convo02",
+        "dynamo_paradox_convo03",
+        "lady geist_paradox_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0081",
+      "conversations": [
+        "lady geist_paradox_convo02",
+        "lady geist_paradox_convo03",
+        "paradox_seven_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0082",
+      "conversations": [
+        "paradox_seven_convo02",
+        "paradox_seven_convo03",
+        "haze_paradox_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0083",
+      "conversations": [
+        "haze_paradox_convo02",
+        "haze_paradox_convo03",
+        "kelvin_paradox_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0084",
+      "conversations": [
+        "kelvin_paradox_convo02",
+        "kelvin_paradox_convo03",
+        "grey talon_paradox_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0085",
+      "conversations": [
+        "grey talon_paradox_convo02",
+        "grey talon_paradox_convo03",
+        "doorman_lady geist_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0086",
+      "conversations": [
+        "doorman_lady geist_convo02",
+        "doorman_lady geist_convo03",
+        "doorman_grey talon_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0087",
+      "conversations": [
+        "doorman_grey talon_convo02",
+        "doorman_grey talon_convo03",
+        "doorman_victor_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0088",
+      "conversations": [
+        "doorman_victor_convo02",
+        "doorman_victor_convo03",
+        "doorman_mina_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0089",
+      "conversations": [
+        "doorman_mina_convo02",
+        "doorman_mina_convo03",
+        "drifter_lady geist_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0090",
+      "conversations": [
+        "drifter_lady geist_convo02",
+        "drifter_lady geist_convo03",
+        "drifter_haze_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0091",
+      "conversations": [
+        "drifter_haze_convo02",
+        "drifter_haze_convo03",
+        "drifter_vindicta_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0092",
+      "conversations": [
+        "drifter_vindicta_convo02",
+        "drifter_vindicta_convo03",
+        "drifter_infernus_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0093",
+      "conversations": [
+        "drifter_infernus_convo02",
+        "drifter_infernus_convo03",
+        "drifter_kelvin_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0094",
+      "conversations": [
+        "drifter_kelvin_convo02",
+        "drifter_kelvin_convo03",
+        "drifter_lash_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0095",
+      "conversations": [
+        "drifter_lash_convo02",
+        "drifter_lash_convo03",
+        "drifter_mirage_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0096",
+      "conversations": [
+        "drifter_mirage_convo02",
+        "drifter_mirage_convo03",
+        "drifter_grey talon_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0097",
+      "conversations": [
+        "drifter_grey talon_convo02",
+        "drifter_grey talon_convo03",
+        "drifter_ivy_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0098",
+      "conversations": [
+        "drifter_ivy_convo02",
+        "drifter_ivy_convo03",
+        "drifter_viper_convo01"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0099",
+      "conversations": [
+        "drifter_viper_convo02",
+        "drifter_wraith_convo01",
+        "drifter_wraith_convo02"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0100",
+      "conversations": [
+        "drifter_wraith_convo03",
+        "dynamo_mcginnis_convo01",
+        "dynamo_mcginnis_convo02"
+      ],
+      "status": "json_only"
+    }
+  ],
+  "updated_at": "2026-03-01T00:12:45.775122+00:00"
+}

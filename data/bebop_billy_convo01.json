@@ -1,0 +1,21 @@
+{
+  "id": "bebop_billy_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bebop_convo01_01",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bebop_convo01_01.mp3",
+      "text": "Hey bebop, the old lady that made yo-",
+      "duration": 3.465
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_punkgoat_bebop_convo01_02",
+      "audioUrl": "audio/bebop_match_start_punkgoat_bebop_convo01_02.mp3",
+      "text": "Shut your mouth Billy.  I'm not in the mood.",
+      "duration": 2.87
+    }
+  ]
+}

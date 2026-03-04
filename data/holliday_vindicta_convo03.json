@@ -1,0 +1,37 @@
+{
+  "id": "holliday_vindicta_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_hornet_convo03_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_hornet_convo03_01.mp3",
+      "text": "You look concerned",
+      "duration": 1.739
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_astro_hornet_convo03_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/hornet_match_start_astro_hornet_convo03_02.mp3",
+      "text": "Forgive me for not having much faith in servants of the law.",
+      "duration": 3.528
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_hornet_convo03_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_hornet_convo03_03.mp3",
+      "text": "Laws come a long way since you died.",
+      "duration": 2.366
+    },
+    {
+      "order": 4,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_astro_hornet_convo03_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/hornet_match_start_astro_hornet_convo03_04.mp3",
+      "text": "No sheriff.  It really hasn't.",
+      "duration": 2.315
+    }
+  ]
+}

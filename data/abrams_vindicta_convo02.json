@@ -1,0 +1,21 @@
+{
+  "id": "abrams_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_hornet_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_hornet_convo02_01.mp3",
+      "text": "I'm trusting you to help keep me alive",
+      "duration": 2.528
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_atlas_hornet_convo02_02",
+      "audioUrl": "audio/hornet_match_start_atlas_hornet_convo02_02.mp3",
+      "text": "Don't worry Detective - I'll do my part.",
+      "duration": 2.69
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bebop_yamato_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_bebop_convo02_01",
+      "audioUrl": "audio/yamato_match_start_yamato_bebop_convo02_01.mp3",
+      "text": "In Japanese \"so this is the killing machine I've heard about\" - \u3084\u3064\u304c\u5642\u306e\u6bba\u622e\u30de\u30b7\u30fc\u30f3\u304b\uff1f",
+      "duration": 2.501
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_yamato_bebop_convo02_02",
+      "audioUrl": "audio/bebop_match_start_yamato_bebop_convo02_02.mp3",
+      "text": "Apologies, I don't speak Japense.",
+      "duration": 2.728
+    },
+    {
+      "order": 3,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_bebop_convo02_03",
+      "audioUrl": "audio/yamato_match_start_yamato_bebop_convo02_03.mp3",
+      "text": "in japanese \"No shit.\" - \u3060\u308d\u3046\u306a",
+      "duration": 1.336
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_yamato_bebop_convo02_04",
+      "audioUrl": "audio/bebop_match_start_yamato_bebop_convo02_04.mp3",
+      "text": "That didn't sound particularly nice.",
+      "duration": 2.167
+    }
+  ]
+}

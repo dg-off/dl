@@ -1,0 +1,29 @@
+{
+  "id": "abrams_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_atlas_gigawatt_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_atlas_gigawatt_convo02_01.mp3",
+      "text": "That tome is pulling you into deep waters Detective, be careful",
+      "duration": 4.564
+    },
+    {
+      "order": 2,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_gigawatt_convo02_02",
+      "audioUrl": "audio/atlas_match_start_atlas_gigawatt_convo02_02.mp3",
+      "text": "Don't know if I need life advice from someone who was caught and exececuted",
+      "duration": 4.405
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_atlas_gigawatt_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_atlas_gigawatt_convo02_03.mp3",
+      "text": "Yet here I stand. Perhaps you should consider that I know what I'm talking about.",
+      "duration": 5.801
+    }
+  ]
+}

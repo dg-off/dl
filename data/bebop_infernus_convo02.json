@@ -1,0 +1,21 @@
+{
+  "id": "bebop_infernus_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_bebop_inferno_convo02_01",
+      "audioUrl": "audio/inferno_match_start_bebop_inferno_convo02_01.mp3",
+      "text": "You think we can win this thing, tin man?",
+      "duration": 1.99
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_inferno_convo02_02",
+      "audioUrl": "audio/bebop_match_start_bebop_inferno_convo02_02.mp3",
+      "text": "I know we will.",
+      "duration": 1.429
+    }
+  ]
+}

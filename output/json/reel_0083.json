@@ -1,0 +1,115 @@
+{
+  "conversations": [
+    {
+      "conversationId": "haze_paradox_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_chrono_convo02_01",
+          "audioUrl": "audio/haze_match_start_haze_chrono_convo02_01.mp3",
+          "text": "Are you're one who stole  Booth's Derringer?",
+          "duration": 2.957
+        },
+        {
+          "order": 2,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_haze_chrono_convo02_02",
+          "audioUrl": "audio/chrono_match_start_haze_chrono_convo02_02.mp3",
+          "text": "This may surprise you, Haze; but as a Scottish woman I don't particularly give a shit about American artifacts.",
+          "duration": 6.829
+        },
+        {
+          "order": 3,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_chrono_convo02_03",
+          "audioUrl": "audio/haze_match_start_haze_chrono_convo02_03.mp3",
+          "text": "What about Paradox in general.",
+          "duration": 2.919
+        },
+        {
+          "order": 4,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_haze_chrono_convo02_04",
+          "audioUrl": "audio/chrono_match_start_haze_chrono_convo02_04.mp3",
+          "text": "Of course we stole it.",
+          "duration": 1.712
+        }
+      ]
+    },
+    {
+      "conversationId": "haze_paradox_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_haze_chrono_convo03_01",
+          "audioUrl": "audio/chrono_match_start_haze_chrono_convo03_01.mp3",
+          "text": "You look uptight.",
+          "duration": 1.617
+        },
+        {
+          "order": 2,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_chrono_convo03_02",
+          "audioUrl": "audio/haze_match_start_haze_chrono_convo03_02.mp3",
+          "text": "That's because I don't trust you.",
+          "duration": 2.717
+        },
+        {
+          "order": 3,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_haze_chrono_convo03_03",
+          "audioUrl": "audio/chrono_match_start_haze_chrono_convo03_03.mp3",
+          "text": "You have more sense than I thought.",
+          "duration": 1.974
+        }
+      ]
+    },
+    {
+      "conversationId": "kelvin_paradox_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_kelvin_chrono_convo01_01",
+          "audioUrl": "audio/chrono_match_start_kelvin_chrono_convo01_01.mp3",
+          "text": "I don't suppose you have any trinkets you'd be willing to donate to the Paradox museum.",
+          "duration": 4.595
+        },
+        {
+          "order": 2,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_kelvin_chrono_convo01_02",
+          "audioUrl": "audio/kelvin_match_start_kelvin_chrono_convo01_02.mp3",
+          "text": "Why do I have the feeling that you already robbed me.",
+          "duration": 3.387
+        },
+        {
+          "order": 3,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_kelvin_chrono_convo01_03",
+          "audioUrl": "audio/chrono_match_start_kelvin_chrono_convo01_03.mp3",
+          "text": "Who's to say: we definitely planned on robbing you during the ritual, but my colleague may or may not have broken into your home yet.",
+          "duration": 6.475
+        },
+        {
+          "order": 4,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_kelvin_chrono_convo01_04",
+          "audioUrl": "audio/kelvin_match_start_kelvin_chrono_convo01_04.mp3",
+          "text": "I'm not sure what to say to that",
+          "duration": 2.873
+        },
+        {
+          "order": 5,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_kelvin_chrono_convo01_05",
+          "audioUrl": "audio/chrono_match_start_kelvin_chrono_convo01_05.mp3",
+          "text": "Be flattered that you lived a life interesting enough to be robbed by us.",
+          "duration": 3.597
+        }
+      ]
+    }
+  ]
+}

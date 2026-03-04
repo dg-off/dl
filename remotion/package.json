@@ -1,0 +1,25 @@
+{
+  "name": "deadlock-shorts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render DeadlockShort output.mp4",
+    "setup": "node scripts/setup-assets.js"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.429",
+    "@remotion/fonts": "4.0.429",
+    "@remotion/media": "^4.0.0",
+    "@remotion/media-utils": "^4.0.429",
+    "mediabunny": "latest",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@types/react": "^18.3.1",
+    "typescript": "^5.3.3"
+  }
+}

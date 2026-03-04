@@ -1,0 +1,53 @@
+{
+  "id": "holliday_infernus_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_inferno_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_inferno_convo02_01.mp3",
+      "text": "Bet you had quite the life before you became a bartender.",
+      "duration": 3.024
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_astro_inferno_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/inferno_match_start_astro_inferno_convo02_02.mp3",
+      "text": "I'm not sure the statute of limitations lets me answer that question honestly.",
+      "duration": 3.857
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_inferno_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_inferno_convo02_03.mp3",
+      "text": "You're not in my jurisdiction.",
+      "duration": 2.107
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_astro_inferno_convo02_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/inferno_match_start_astro_inferno_convo02_04.mp3",
+      "text": "How bout when this is over we have a chat at the bar.",
+      "duration": 3.54
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_inferno_convo02_05",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_inferno_convo02_05.mp3",
+      "text": "Sounds like plan",
+      "duration": 1.445
+    },
+    {
+      "order": 6,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_astro_inferno_convo02_06",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/inferno_match_start_astro_inferno_convo02_06.mp3",
+      "text": "Sounds like a date.",
+      "duration": 1.285
+    }
+  ]
+}

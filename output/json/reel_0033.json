@@ -1,0 +1,83 @@
+{
+  "conversations": [
+    {
+      "conversationId": "holliday_yamato_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_yamato_astro_convo03_01",
+          "audioUrl": "audio/astro_match_start_yamato_astro_convo03_01.mp3",
+          "text": "I heard about you.",
+          "duration": 1.503
+        },
+        {
+          "order": 2,
+          "character": "Yamato",
+          "audioFile": "yamato_match_start_yamato_astro_convo03_02",
+          "audioUrl": "audio/yamato_match_start_yamato_astro_convo03_02.mp3",
+          "text": "Really.",
+          "duration": 0.943
+        },
+        {
+          "order": 3,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_yamato_astro_convo03_03",
+          "audioUrl": "audio/astro_match_start_yamato_astro_convo03_03.mp3",
+          "text": "Picking a fight with the other families isn't going to end well for you.",
+          "duration": 3.529
+        },
+        {
+          "order": 4,
+          "character": "Yamato",
+          "audioFile": "yamato_match_start_yamato_astro_convo03_04",
+          "audioUrl": "audio/yamato_match_start_yamato_astro_convo03_04.mp3",
+          "text": "We'll see.",
+          "duration": 0.861
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_bebop_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_bebop_convo01_01",
+          "audioUrl": "audio/atlas_match_start_atlas_bebop_convo01_01.mp3",
+          "text": "Hey Bebop, just do me a favor: if I'm punching someone in the face, please don't knock 'em away.",
+          "duration": 7.63
+        },
+        {
+          "order": 2,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_atlas_bebop_convo01_02",
+          "audioUrl": "audio/bebop_match_start_atlas_bebop_convo01_02.mp3",
+          "text": "Do my best mate, but I make no promises",
+          "duration": 2.282
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_bebop_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_atlas_bebop_convo02_01",
+          "audioUrl": "audio/bebop_match_start_atlas_bebop_convo02_01.mp3",
+          "text": "Now I'm not tryin' to cast aspersions, Detective - but in my experience organics don't tend to last long in a fight.",
+          "duration": 5.985
+        },
+        {
+          "order": 2,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_bebop_convo02_02",
+          "audioUrl": "audio/atlas_match_start_atlas_bebop_convo02_02.mp3",
+          "text": "Pal, the only thing you need to worry about it is keepin' up.",
+          "duration": 3.874
+        }
+      ]
+    }
+  ]
+}

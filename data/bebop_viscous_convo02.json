@@ -1,0 +1,21 @@
+{
+  "id": "bebop_viscous_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_viscous_convo02_01",
+      "audioUrl": "audio/bebop_match_start_bebop_viscous_convo02_01.mp3",
+      "text": "Hey Viscous.  I'm not organic, why does the cube heal me?",
+      "duration": 4.187
+    },
+    {
+      "order": 2,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_bebop_viscous_convo02_02",
+      "audioUrl": "audio/viscous_match_start_bebop_viscous_convo02_02.mp3",
+      "text": "We don't question the cube.",
+      "duration": 1.789
+    }
+  ]
+}

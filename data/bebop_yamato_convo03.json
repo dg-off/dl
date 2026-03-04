@@ -1,0 +1,37 @@
+{
+  "id": "bebop_yamato_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_bebop_convo03_01",
+      "audioUrl": "audio/yamato_match_start_yamato_bebop_convo03_01.mp3",
+      "text": "I heard you know how to fight.",
+      "duration": 2.262
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_yamato_bebop_convo03_02",
+      "audioUrl": "audio/bebop_match_start_yamato_bebop_convo03_02.mp3",
+      "text": "I do.",
+      "duration": 0.953
+    },
+    {
+      "order": 3,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_bebop_convo03_03",
+      "audioUrl": "audio/yamato_match_start_yamato_bebop_convo03_03.mp3",
+      "text": "Don't dissapoint me.",
+      "duration": 1.772
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_yamato_bebop_convo03_04",
+      "audioUrl": "audio/bebop_match_start_yamato_bebop_convo03_04.mp3",
+      "text": "Yamato, I don\u2019t particularly care if I disappoint you or not.  I'm here for Ms Shelly.  Not you.",
+      "duration": 7.135
+    }
+  ]
+}

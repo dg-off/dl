@@ -1,0 +1,21 @@
+{
+  "id": "abrams_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_forge_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_forge_convo02_01.mp3",
+      "text": "How do you not throw out your back carrying all that stuff?",
+      "duration": 2.956
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_atlas_forge_convo02_02",
+      "audioUrl": "audio/forge_match_start_atlas_forge_convo02_02.mp3",
+      "text": "It's lighter than it looks.  Souls don't weigh a whole lot.",
+      "duration": 3.011
+    }
+  ]
+}

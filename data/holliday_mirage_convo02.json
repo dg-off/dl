@@ -1,0 +1,37 @@
+{
+  "id": "holliday_mirage_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_astro_mirage_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/mirage_match_start_astro_mirage_convo02_01.mp3",
+      "text": "You're blinded by hatred Holliday.",
+      "duration": 2.083
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_mirage_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_mirage_convo02_02.mp3",
+      "text": "I'll keep that in mind.",
+      "duration": 1.706
+    },
+    {
+      "order": 3,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_astro_mirage_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/mirage_match_start_astro_mirage_convo02_03.mp3",
+      "text": "That's the problem.  You  won't.  And when you cling to that path you will die because of it.",
+      "duration": 5.517
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_mirage_convo02_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_mirage_convo02_04.mp3",
+      "text": "Thanks for the advice.",
+      "duration": 1.678
+    }
+  ]
+}

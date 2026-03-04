@@ -1,0 +1,61 @@
+{
+  "id": "abrams_paradox_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_atlas_chrono_convo02_01",
+      "audioUrl": "audio/chrono_match_start_atlas_chrono_convo02_01.mp3",
+      "text": "We've been following your work Detective",
+      "duration": 2.521
+    },
+    {
+      "order": 2,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_chrono_convo02_02",
+      "audioUrl": "audio/atlas_match_start_atlas_chrono_convo02_02.mp3",
+      "text": "Who's we?",
+      "duration": 1.468
+    },
+    {
+      "order": 3,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_atlas_chrono_convo02_03",
+      "audioUrl": "audio/chrono_match_start_atlas_chrono_convo02_03.mp3",
+      "text": "Paradox.",
+      "duration": 1.19
+    },
+    {
+      "order": 4,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_chrono_convo02_04",
+      "audioUrl": "audio/atlas_match_start_atlas_chrono_convo02_04.mp3",
+      "text": "And why's that",
+      "duration": 1.747
+    },
+    {
+      "order": 5,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_atlas_chrono_convo02_05",
+      "audioUrl": "audio/chrono_match_start_atlas_chrono_convo02_05.mp3",
+      "text": "We like secrets, and you seem to have a knack for finding them.  But a word of advice:  some things aren't meant to be revealed.  Stop asking questions about us.",
+      "duration": 11.497
+    },
+    {
+      "order": 6,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_chrono_convo02_06",
+      "audioUrl": "audio/atlas_match_start_atlas_chrono_convo02_06.mp3",
+      "text": "I'll keep that in mind.",
+      "duration": 2.192
+    },
+    {
+      "order": 7,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_atlas_chrono_convo02_07",
+      "audioUrl": "audio/chrono_match_start_atlas_chrono_convo02_07.mp3",
+      "text": "Be sure that you do.",
+      "duration": 1.839
+    }
+  ]
+}

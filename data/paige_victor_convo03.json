@@ -1,0 +1,53 @@
+{
+  "id": "paige_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_frank_convo03_01",
+      "audioUrl": "audio/bookworm_match_start_bookworm_frank_convo03_01.mp3",
+      "text": "Hey, I'm not trying to insert myself into your business - well I guess I kind of am, but I won't be offended if you don't -",
+      "duration": 6.615
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_bookworm_frank_convo03_02",
+      "audioUrl": "audio/frank_match_start_bookworm_frank_convo03_02.mp3",
+      "text": "What do you want to know.",
+      "duration": 1.842
+    },
+    {
+      "order": 3,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_frank_convo03_03",
+      "audioUrl": "audio/bookworm_match_start_bookworm_frank_convo03_03.mp3",
+      "text": "Do you want my help?",
+      "duration": 1.533
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_bookworm_frank_convo03_04",
+      "audioUrl": "audio/frank_match_start_bookworm_frank_convo03_04.mp3",
+      "text": "You don't even know me.",
+      "duration": 1.392
+    },
+    {
+      "order": 5,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_frank_convo03_05",
+      "audioUrl": "audio/bookworm_match_start_bookworm_frank_convo03_05.mp3",
+      "text": "I know. You just.  You just look sad, and I know what that feels like.",
+      "duration": 6.032
+    },
+    {
+      "order": 6,
+      "character": "Victor",
+      "audioFile": "frank_match_start_bookworm_frank_convo03_06",
+      "audioUrl": "audio/frank_match_start_bookworm_frank_convo03_06.mp3",
+      "text": "That's very sweet of you.  Thank you.",
+      "duration": 2.614
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "holliday_victor_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_frank_astro_convo01_01",
+      "audioUrl": "audio/astro_match_start_frank_astro_convo01_01.mp3",
+      "text": "Forgive me for not being as chatty as some of the other folks around here.",
+      "duration": 4.244
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_astro_convo01_02",
+      "audioUrl": "audio/frank_match_start_frank_astro_convo01_02.mp3",
+      "text": "That's fine, I don't mind the silence.",
+      "duration": 2.359
+    }
+  ]
+}

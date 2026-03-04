@@ -1,0 +1,99 @@
+{
+  "conversations": [
+    {
+      "conversationId": "paradox_wraith_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_chrono_wraith_convo02_01",
+          "audioUrl": "audio/wraith_match_start_chrono_wraith_convo02_01.mp3",
+          "text": "You know what I like about you Paradox?  You don't just like to win.  You like to do it with style.",
+          "duration": 5.346
+        },
+        {
+          "order": 2,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_chrono_wraith_convo02_02",
+          "audioUrl": "audio/chrono_match_start_chrono_wraith_convo02_02.mp3",
+          "text": "The feeling's mutual Wraith.",
+          "duration": 1.689
+        }
+      ]
+    },
+    {
+      "conversationId": "paradox_wraith_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_chrono_wraith_convo03_01",
+          "audioUrl": "audio/wraith_match_start_chrono_wraith_convo03_01.mp3",
+          "text": "When's the next event?",
+          "duration": 0.942
+        },
+        {
+          "order": 2,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_chrono_wraith_convo03_02",
+          "audioUrl": "audio/chrono_match_start_chrono_wraith_convo03_02.mp3",
+          "text": "We're securing a few more items of interest; but hopfully the gallery will be open shortly",
+          "duration": 5.143
+        },
+        {
+          "order": 3,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_chrono_wraith_convo03_03",
+          "audioUrl": "audio/wraith_match_start_chrono_wraith_convo03_03.mp3",
+          "text": "Anything exciting?",
+          "duration": 1.057
+        },
+        {
+          "order": 4,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_chrono_wraith_convo03_04",
+          "audioUrl": "audio/chrono_match_start_chrono_wraith_convo03_04.mp3",
+          "text": "Blackmail on Fairfax, The Ghent Altarpiece, The Tome of Anubis\u2026.",
+          "duration": 5.34
+        },
+        {
+          "order": 5,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_chrono_wraith_convo03_05",
+          "audioUrl": "audio/wraith_match_start_chrono_wraith_convo03_05.mp3",
+          "text": "I thought that was at the MET.",
+          "duration": 1.251
+        },
+        {
+          "order": 6,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_chrono_wraith_convo03_06",
+          "audioUrl": "audio/chrono_match_start_chrono_wraith_convo03_06.mp3",
+          "text": "Sure it is.",
+          "duration": 1.225
+        }
+      ]
+    },
+    {
+      "conversationId": "drifter_paradox_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_chrono_convo01_01",
+          "audioUrl": "audio/drifter_match_start_drifter_chrono_convo01_01.mp3",
+          "text": "You look annoyed.",
+          "duration": 1.573
+        },
+        {
+          "order": 2,
+          "character": "Paradox",
+          "audioFile": "chrono_match_start_drifter_chrono_convo01_02",
+          "audioUrl": "audio/chrono_match_start_drifter_chrono_convo01_02.mp3",
+          "text": "I am annoyed.  You don't have anything interesting to steal.",
+          "duration": 3.573
+        }
+      ]
+    }
+  ]
+}

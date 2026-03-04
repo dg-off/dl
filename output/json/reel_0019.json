@@ -1,0 +1,107 @@
+{
+  "conversations": [
+    {
+      "conversationId": "drifter_holliday_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_astro_convo03_01",
+          "audioUrl": "audio/drifter_match_start_drifter_astro_convo03_01.mp3",
+          "text": "You spell holliday with one l or two?",
+          "duration": 2.775
+        },
+        {
+          "order": 2,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_drifter_astro_convo03_02",
+          "audioUrl": "audio/astro_match_start_drifter_astro_convo03_02.mp3",
+          "text": "Two. Why.",
+          "duration": 1.935
+        },
+        {
+          "order": 3,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_astro_convo03_03",
+          "audioUrl": "audio/drifter_match_start_drifter_astro_convo03_03.mp3",
+          "text": "Particular spelling.",
+          "duration": 3.375
+        },
+        {
+          "order": 4,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_drifter_astro_convo03_04",
+          "audioUrl": "audio/astro_match_start_drifter_astro_convo03_04.mp3",
+          "text": "What's your point.",
+          "duration": 1.105
+        },
+        {
+          "order": 5,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_astro_convo03_05",
+          "audioUrl": "audio/drifter_match_start_drifter_astro_convo03_05.mp3",
+          "text": "I know who's gun that is.  You gonna be able to make him proud?",
+          "duration": 5.583
+        },
+        {
+          "order": 6,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_drifter_astro_convo03_06",
+          "audioUrl": "audio/astro_match_start_drifter_astro_convo03_06.mp3",
+          "text": "We're about to find out",
+          "duration": 1.346
+        }
+      ]
+    },
+    {
+      "conversationId": "dynamo_holliday_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_astro_convo01_01",
+          "audioUrl": "audio/dynamo_match_start_dynamo_astro_convo01_01.mp3",
+          "text": "I'm glad you're here sheriff, if The Troubadour is in New York - the city is going to need your expertice.",
+          "duration": 4.92
+        },
+        {
+          "order": 2,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_dynamo_astro_convo01_02",
+          "audioUrl": "audio/astro_match_start_dynamo_astro_convo01_02.mp3",
+          "text": "Yeah, well I hope local law enforcement feels the same way\u2026",
+          "duration": 3.558
+        }
+      ]
+    },
+    {
+      "conversationId": "dynamo_holliday_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_astro_convo02_01",
+          "audioUrl": "audio/dynamo_match_start_dynamo_astro_convo02_01.mp3",
+          "text": "Sheriff I do my best to be percise but sometimes even I miscalutate the area of a blackhole.  If you would be so kind-",
+          "duration": 6.772
+        },
+        {
+          "order": 2,
+          "character": "Holliday",
+          "audioFile": "astro_match_start_dynamo_astro_convo02_02",
+          "audioUrl": "audio/astro_match_start_dynamo_astro_convo02_02.mp3",
+          "text": "I'm happy to drag back anyone you miss.",
+          "duration": 2.389
+        },
+        {
+          "order": 3,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_astro_convo02_03",
+          "audioUrl": "audio/dynamo_match_start_dynamo_astro_convo02_03.mp3",
+          "text": "I thank you in advance.",
+          "duration": 1.484
+        }
+      ]
+    }
+  ]
+}

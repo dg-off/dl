@@ -1,0 +1,37 @@
+{
+  "id": "bebop_holliday_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_bebop_astro_convo03_01",
+      "audioUrl": "audio/astro_match_start_bebop_astro_convo03_01.mp3",
+      "text": "I know it's against your nature, or programming, or whatever, but there are going to be times when I need you not to punch someone right after you pull them.",
+      "duration": 7.904
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_astro_convo03_02",
+      "audioUrl": "audio/bebop_match_start_bebop_astro_convo03_02.mp3",
+      "text": "You're right that does seem rather counter-intutive",
+      "duration": 3.839
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_bebop_astro_convo03_03",
+      "audioUrl": "audio/astro_match_start_bebop_astro_convo03_03.mp3",
+      "text": "Just let me grab them them first, then feel free to beat the hell out of them.",
+      "duration": 4.258
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_astro_convo03_04",
+      "audioUrl": "audio/bebop_match_start_bebop_astro_convo03_04.mp3",
+      "text": "I make no promises",
+      "duration": 1.504
+    }
+  ]
+}

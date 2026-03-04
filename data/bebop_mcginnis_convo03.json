@@ -1,0 +1,69 @@
+{
+  "id": "bebop_mcginnis_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_bebop_forge_convo03_01",
+      "audioUrl": "audio/forge_match_start_bebop_forge_convo03_01.mp3",
+      "text": "So what sort of bindings did your creator put on you?",
+      "duration": 2.96
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_forge_convo03_02",
+      "audioUrl": "audio/bebop_match_start_bebop_forge_convo03_02.mp3",
+      "text": "What do you mean?",
+      "duration": 0.927
+    },
+    {
+      "order": 3,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_bebop_forge_convo03_03",
+      "audioUrl": "audio/forge_match_start_bebop_forge_convo03_03.mp3",
+      "text": "Rules that you're required to follow.",
+      "duration": 2.058
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_forge_convo03_04",
+      "audioUrl": "audio/bebop_match_start_bebop_forge_convo03_04.mp3",
+      "text": "Like ethics?",
+      "duration": 1.759
+    },
+    {
+      "order": 5,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_bebop_forge_convo03_05",
+      "audioUrl": "audio/forge_match_start_bebop_forge_convo03_05.mp3",
+      "text": "More like the unethical enforcement of ethics.",
+      "duration": 2.888
+    },
+    {
+      "order": 6,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_forge_convo03_06",
+      "audioUrl": "audio/bebop_match_start_bebop_forge_convo03_06.mp3",
+      "text": "Oh Ms. Shelly doesn't belive in that sort of thing.",
+      "duration": 2.525
+    },
+    {
+      "order": 7,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_bebop_forge_convo03_07",
+      "audioUrl": "audio/forge_match_start_bebop_forge_convo03_07.mp3",
+      "text": "So what's stopping you from mowing down humanity with that death laser?",
+      "duration": 3.531
+    },
+    {
+      "order": 8,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_forge_convo03_08",
+      "audioUrl": "audio/bebop_match_start_bebop_forge_convo03_08.mp3",
+      "text": "It would disapoint Ms Shelly.",
+      "duration": 1.864
+    }
+  ]
+}

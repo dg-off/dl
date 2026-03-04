@@ -1,0 +1,29 @@
+{
+  "id": "doorman_mina_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_vampirebat_doorman_convo02_01",
+      "audioUrl": "audio/vampirebat_match_start_vampirebat_doorman_convo02_01.mp3",
+      "text": "So what do you plan on doing to help? Holding open a door while I do all the work?",
+      "duration": 3.951
+    },
+    {
+      "order": 2,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_vampirebat_doorman_convo02_02",
+      "audioUrl": "audio/doorman_match_start_vampirebat_doorman_convo02_02.mp3",
+      "text": "Something like that.",
+      "duration": 1.539
+    },
+    {
+      "order": 3,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_vampirebat_doorman_convo02_03",
+      "audioUrl": "audio/vampirebat_match_start_vampirebat_doorman_convo02_03.mp3",
+      "text": "Lame.",
+      "duration": 0.711
+    }
+  ]
+}

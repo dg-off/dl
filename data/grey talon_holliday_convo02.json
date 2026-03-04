@@ -1,0 +1,37 @@
+{
+  "id": "grey talon_holliday_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_astro_orion_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/orion_match_start_astro_orion_convo02_01.mp3",
+      "text": "Can I give you an unsolicted word of adivce Holliday?",
+      "duration": 2.686
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_orion_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_orion_convo02_02.mp3",
+      "text": "Why not.",
+      "duration": 1.318
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_astro_orion_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/orion_match_start_astro_orion_convo02_03.mp3",
+      "text": "People are going to tell you that there is a difference between justice and revenge, that you will dishonor the dead by stooping to their killer's level\u2026ignore them. Revenge isn't for the dead.  It's for the living.",
+      "duration": 14.323
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_orion_convo02_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_orion_convo02_04.mp3",
+      "text": "I knew I liked you.",
+      "duration": 1.565
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "abrams_mcginnis_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_forge_convo03_01",
+      "audioUrl": "audio/atlas_match_start_atlas_forge_convo03_01.mp3",
+      "text": "Just to give you a heads up I plan on picking a lot of fights today.",
+      "duration": 4.162
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_atlas_forge_convo03_02",
+      "audioUrl": "audio/forge_match_start_atlas_forge_convo03_02.mp3",
+      "text": "Good.  I hate people.",
+      "duration": 1.829
+    }
+  ]
+}

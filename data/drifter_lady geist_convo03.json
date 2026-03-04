@@ -1,0 +1,45 @@
+{
+  "id": "drifter_lady geist_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_ghost_convo03_01",
+      "audioUrl": "audio/drifter_match_start_drifter_ghost_convo03_01.mp3",
+      "text": "That ward's lookin' like it ain't lasting much longer Geist.",
+      "duration": 3.28
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_drifter_ghost_convo03_02",
+      "audioUrl": "audio/ghost_match_start_drifter_ghost_convo03_02.mp3",
+      "text": "I appreciate your concern.",
+      "duration": 2.228
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_ghost_convo03_03",
+      "audioUrl": "audio/drifter_match_start_drifter_ghost_convo03_03.mp3",
+      "text": "You gotta be scared as hell\u2026",
+      "duration": 2.261
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_drifter_ghost_convo03_04",
+      "audioUrl": "audio/ghost_match_start_drifter_ghost_convo03_04.mp3",
+      "text": "Be quiet.",
+      "duration": 1.114
+    },
+    {
+      "order": 5,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_ghost_convo03_05",
+      "audioUrl": "audio/drifter_match_start_drifter_ghost_convo03_05.mp3",
+      "text": "You should be.",
+      "duration": 1.422
+    }
+  ]
+}

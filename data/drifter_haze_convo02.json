@@ -1,0 +1,37 @@
+{
+  "id": "drifter_haze_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_haze_convo02_01",
+      "audioUrl": "audio/drifter_match_start_drifter_haze_convo02_01.mp3",
+      "text": "Think you can keep up, Haze?",
+      "duration": 2.312
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_drifter_haze_convo02_02",
+      "audioUrl": "audio/haze_match_start_drifter_haze_convo02_02.mp3",
+      "text": "I'm not getting in some schoolyard challenge with you.",
+      "duration": 3.828
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_haze_convo02_03",
+      "audioUrl": "audio/drifter_match_start_drifter_haze_convo02_03.mp3",
+      "text": "All business.  That's fine.  I can appreciate directness.  I am going to kill more than you, though.",
+      "duration": 8.982
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_drifter_haze_convo02_04",
+      "audioUrl": "audio/haze_match_start_drifter_haze_convo02_04.mp3",
+      "text": "Sure you are.",
+      "duration": 2.144
+    }
+  ]
+}

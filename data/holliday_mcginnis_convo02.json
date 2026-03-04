@@ -1,0 +1,45 @@
+{
+  "id": "holliday_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_forge_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_forge_convo02_01.mp3",
+      "text": "You were that kid genius right?",
+      "duration": 2.135
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_astro_forge_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/forge_match_start_astro_forge_convo02_02.mp3",
+      "text": "Yeah",
+      "duration": 0.603
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_forge_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_forge_convo02_03.mp3",
+      "text": "How'd that work out for you?",
+      "duration": 1.556
+    },
+    {
+      "order": 4,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_astro_forge_convo02_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/forge_match_start_astro_forge_convo02_04.mp3",
+      "text": "I'm the lead engineer for the occult industrial complex.",
+      "duration": 3.061
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_forge_convo02_05",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_forge_convo02_05.mp3",
+      "text": "So good?",
+      "duration": 1.66
+    }
+  ]
+}

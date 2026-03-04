@@ -1,0 +1,53 @@
+{
+  "id": "holliday_vindicta_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_hornet_convo01_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_hornet_convo01_01.mp3",
+      "text": "How good are you at hitting moving targets?",
+      "duration": 2.377
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_astro_hornet_convo01_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/hornet_match_start_astro_hornet_convo01_02.mp3",
+      "text": "I shot Hathorne's brother while he was day drinking on a speedboat.",
+      "duration": 3.736
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_hornet_convo01_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_hornet_convo01_03.mp3",
+      "text": "I'm going to pretend that was a joke",
+      "duration": 2.138
+    },
+    {
+      "order": 4,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_astro_hornet_convo01_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/hornet_match_start_astro_hornet_convo01_04.mp3",
+      "text": "It was not.",
+      "duration": 1.037
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_hornet_convo01_05",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_hornet_convo01_05.mp3",
+      "text": "You know I have to arrest you now.",
+      "duration": 2.201
+    },
+    {
+      "order": 6,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_astro_hornet_convo01_06",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/hornet_match_start_astro_hornet_convo01_06.mp3",
+      "text": "When this is over you are more than welcome to try.",
+      "duration": 2.501
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "conversations": [
+    {
+      "conversationId": "abrams_lash_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lash",
+          "audioFile": "lash_match_start_atlas_lash_convo02_01",
+          "audioUrl": "audio/lash_match_start_atlas_lash_convo02_01.mp3",
+          "text": "I'm excited for you Abrams\u2026 you get to bathe in the glory of Lash.",
+          "duration": 5.019
+        },
+        {
+          "order": 2,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_lash_convo02_02",
+          "audioUrl": "audio/atlas_match_start_atlas_lash_convo02_02.mp3",
+          "text": "You are something else.",
+          "duration": 1.877
+        },
+        {
+          "order": 3,
+          "character": "Lash",
+          "audioFile": "lash_match_start_atlas_lash_convo02_03",
+          "audioUrl": "audio/lash_match_start_atlas_lash_convo02_03.mp3",
+          "text": "Just remember to say thank you when this is all over.",
+          "duration": 2.944
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_lash_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lash",
+          "audioFile": "lash_match_start_atlas_lash_convo03_01",
+          "audioUrl": "audio/lash_match_start_atlas_lash_convo03_01.mp3",
+          "text": "So, what does it feel like?",
+          "duration": 2.996
+        },
+        {
+          "order": 2,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_lash_convo03_02",
+          "audioUrl": "audio/atlas_match_start_atlas_lash_convo03_02.mp3",
+          "text": "Excuse me?",
+          "duration": 1.231
+        },
+        {
+          "order": 3,
+          "character": "Lash",
+          "audioFile": "lash_match_start_atlas_lash_convo03_03",
+          "audioUrl": "audio/lash_match_start_atlas_lash_convo03_03.mp3",
+          "text": "Being next to greatness.  What does it feel like?",
+          "duration": 3.496
+        },
+        {
+          "order": 4,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_lash_convo03_04",
+          "audioUrl": "audio/atlas_match_start_atlas_lash_convo03_04.mp3",
+          "text": "Nausiating.",
+          "duration": 1.302
+        },
+        {
+          "order": 5,
+          "character": "Lash",
+          "audioFile": "lash_match_start_atlas_lash_convo03_05",
+          "audioUrl": "audio/lash_match_start_atlas_lash_convo03_05.mp3",
+          "text": "No need to be nervous.  I'm approachable.",
+          "duration": 3.483
+        },
+        {
+          "order": 6,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_lash_convo03_06",
+          "audioUrl": "audio/atlas_match_start_atlas_lash_convo03_06.mp3",
+          "text": "Oh god\u2026",
+          "duration": 1.601
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_grey talon_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_orion_convo01_01",
+          "audioUrl": "audio/atlas_match_start_atlas_orion_convo01_01.mp3",
+          "text": "You know they're gonna have guns, right?",
+          "duration": 2.05
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_atlas_orion_convo01_02",
+          "audioUrl": "audio/orion_match_start_atlas_orion_convo01_02.mp3",
+          "text": "Yeah.  They're also gonna have arrows through their necks.",
+          "duration": 3.552
+        },
+        {
+          "order": 3,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_orion_convo01_03",
+          "audioUrl": "audio/atlas_match_start_atlas_orion_convo01_03.mp3",
+          "text": "Fair enough.",
+          "duration": 1.133
+        }
+      ]
+    }
+  ]
+}

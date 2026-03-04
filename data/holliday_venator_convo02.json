@@ -1,0 +1,21 @@
+{
+  "id": "holliday_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_astro_convo02_01",
+      "audioUrl": "audio/priest_match_start_priest_astro_convo02_01.mp3",
+      "text": "Harden your heart, sheriff\u2026 you can't let your sense of law and order get in the way of what needs to be done.",
+      "duration": 5.77
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_priest_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_priest_astro_convo02_02.mp3",
+      "text": "Don't worry Father\u2026 the law is the farthest thing from driving me.",
+      "duration": 5.098
+    }
+  ]
+}

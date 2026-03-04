@@ -1,0 +1,83 @@
+{
+  "conversations": [
+    {
+      "conversationId": "abrams_vindicta_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_hornet_convo02_01",
+          "audioUrl": "audio/atlas_match_start_atlas_hornet_convo02_01.mp3",
+          "text": "I'm trusting you to help keep me alive",
+          "duration": 2.528
+        },
+        {
+          "order": 2,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_atlas_hornet_convo02_02",
+          "audioUrl": "audio/hornet_match_start_atlas_hornet_convo02_02.mp3",
+          "text": "Don't worry Detective - I'll do my part.",
+          "duration": 2.69
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_vindicta_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_hornet_convo03_01",
+          "audioUrl": "audio/atlas_match_start_atlas_hornet_convo03_01.mp3",
+          "text": "How long have you been in New York",
+          "duration": 2.119
+        },
+        {
+          "order": 2,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_atlas_hornet_convo03_02",
+          "audioUrl": "audio/hornet_match_start_atlas_hornet_convo03_02.mp3",
+          "text": "Since the first Malestrom.",
+          "duration": 1.689
+        },
+        {
+          "order": 3,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_hornet_convo03_03",
+          "audioUrl": "audio/atlas_match_start_atlas_hornet_convo03_03.mp3",
+          "text": "That had to be an adjustment",
+          "duration": 1.768
+        },
+        {
+          "order": 4,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_atlas_hornet_convo03_04",
+          "audioUrl": "audio/hornet_match_start_atlas_hornet_convo03_04.mp3",
+          "text": "It was wonderful and horrifying in equal measure",
+          "duration": 2.693
+        }
+      ]
+    },
+    {
+      "conversationId": "abrams_infernus_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Abrams",
+          "audioFile": "atlas_match_start_atlas_inferno_convo01_01",
+          "audioUrl": "audio/atlas_match_start_atlas_inferno_convo01_01.mp3",
+          "text": "Hey Fern, try to remember all the times I save your life today next time you're pouring me the good stuff.",
+          "duration": 5.591
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_atlas_inferno_convo01_02",
+          "audioUrl": "audio/inferno_match_start_atlas_inferno_convo01_02.mp3",
+          "text": "You got it buddy.",
+          "duration": 1.291
+        }
+      ]
+    }
+  ]
+}

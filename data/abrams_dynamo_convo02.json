@@ -1,0 +1,21 @@
+{
+  "id": "abrams_dynamo_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_dynamo_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_dynamo_convo02_01.mp3",
+      "text": "Stay close to me Professor, I'll keep you safe.",
+      "duration": 3.17
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_atlas_dynamo_convo02_02",
+      "audioUrl": "audio/dynamo_match_start_atlas_dynamo_convo02_02.mp3",
+      "text": "Detective, I was about to say the same thing to you.",
+      "duration": 3.044
+    }
+  ]
+}

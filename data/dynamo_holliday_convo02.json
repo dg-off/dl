@@ -1,0 +1,29 @@
+{
+  "id": "dynamo_holliday_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_astro_convo02_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_astro_convo02_01.mp3",
+      "text": "Sheriff I do my best to be percise but sometimes even I miscalutate the area of a blackhole.  If you would be so kind-",
+      "duration": 6.772
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_dynamo_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_dynamo_astro_convo02_02.mp3",
+      "text": "I'm happy to drag back anyone you miss.",
+      "duration": 2.389
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_astro_convo02_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_astro_convo02_03.mp3",
+      "text": "I thank you in advance.",
+      "duration": 1.484
+    }
+  ]
+}

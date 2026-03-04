@@ -1,0 +1,29 @@
+{
+  "id": "holliday_kelvin_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_kelvin_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_kelvin_convo02_01.mp3",
+      "text": "What happened to you?",
+      "duration": 1.453
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_astro_kelvin_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/kelvin_match_start_astro_kelvin_convo02_02.mp3",
+      "text": "My friend, I wish I knew\u2026 I'm just looking for answers.",
+      "duration": 4.821
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_kelvin_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_kelvin_convo02_03.mp3",
+      "text": "Aren't we all\u2026",
+      "duration": 1.455
+    }
+  ]
+}

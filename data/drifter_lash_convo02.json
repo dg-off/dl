@@ -1,0 +1,29 @@
+{
+  "id": "drifter_lash_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_lash_convo02_01",
+      "audioUrl": "audio/drifter_match_start_drifter_lash_convo02_01.mp3",
+      "text": "Are you that arrogant stevedore everyone's been talking about",
+      "duration": 4.122
+    },
+    {
+      "order": 2,
+      "character": "Lash",
+      "audioFile": "lash_match_start_drifter_lash_convo02_02",
+      "audioUrl": "audio/lash_match_start_drifter_lash_convo02_02.mp3",
+      "text": "Arrogance is a concept made up by people who don't want to recognize greatness.",
+      "duration": 4.791
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_lash_convo02_03",
+      "audioUrl": "audio/drifter_match_start_drifter_lash_convo02_03.mp3",
+      "text": "Yeah it's you.",
+      "duration": 1.496
+    }
+  ]
+}

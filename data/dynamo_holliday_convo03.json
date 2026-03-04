@@ -1,0 +1,37 @@
+{
+  "id": "dynamo_holliday_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_astro_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_astro_convo03_01.mp3",
+      "text": "I read about what happened in Macomb.  Absolutely ghoulish.",
+      "duration": 3.702
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_dynamo_astro_convo03_02",
+      "audioUrl": "audio/astro_match_start_dynamo_astro_convo03_02.mp3",
+      "text": "I really don't want to talk about it.",
+      "duration": 2.018
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_astro_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_astro_convo03_03.mp3",
+      "text": "Understandable.  I just - I just hope you catch whoever's responsible.",
+      "duration": 5.863
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_dynamo_astro_convo03_04",
+      "audioUrl": "audio/astro_match_start_dynamo_astro_convo03_04.mp3",
+      "text": "I'm not going to catch him.  I'm going to kill him.",
+      "duration": 2.885
+    }
+  ]
+}

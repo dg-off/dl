@@ -1,0 +1,37 @@
+{
+  "id": "bebop_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_frank_bebop_convo03_01",
+      "audioUrl": "audio/bebop_match_start_frank_bebop_convo03_01.mp3",
+      "text": "I'm not trying to be rude, but how much of you is\u2026 original you.  Well not original per se but-",
+      "duration": 7.082
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_bebop_convo03_02",
+      "audioUrl": "audio/frank_match_start_frank_bebop_convo03_02.mp3",
+      "text": "I see where you're going - no, I haven't had to swap out parts yet.  Probobly should.  My left arm keeps popping off, but it doesn't feel right to discard it when I don't even know who they were.",
+      "duration": 11.473
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_frank_bebop_convo03_03",
+      "audioUrl": "audio/bebop_match_start_frank_bebop_convo03_03.mp3",
+      "text": "I hope you find answers.",
+      "duration": 1.866
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_bebop_convo03_04",
+      "audioUrl": "audio/frank_match_start_frank_bebop_convo03_04.mp3",
+      "text": "Me too.",
+      "duration": 0.827
+    }
+  ]
+}

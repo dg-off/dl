@@ -1,0 +1,53 @@
+{
+  "id": "holliday_lady geist_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_ghost_convo03_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_ghost_convo03_01.mp3",
+      "text": "I see you Geist.",
+      "duration": 1.537
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_astro_ghost_convo03_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/ghost_match_start_astro_ghost_convo03_02.mp3",
+      "text": "I'm relieved to know that you have eyes Sheriff.",
+      "duration": 3.022
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_ghost_convo03_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_ghost_convo03_03.mp3",
+      "text": "You're a monster.",
+      "duration": 1.668
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_astro_ghost_convo03_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/ghost_match_start_astro_ghost_convo03_04.mp3",
+      "text": "Excuse me?",
+      "duration": 1.225
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_ghost_convo03_05",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_ghost_convo03_05.mp3",
+      "text": "You've done some horrible things.  And after I stop the Troubador I'm going to find out what.",
+      "duration": 5.211
+    },
+    {
+      "order": 6,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_astro_ghost_convo03_06",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/ghost_match_start_astro_ghost_convo03_06.mp3",
+      "text": "Good luck.",
+      "duration": 1.129
+    }
+  ]
+}

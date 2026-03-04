@@ -1,0 +1,45 @@
+{
+  "id": "bebop_billy_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bebop_convo02_01",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bebop_convo02_01.mp3",
+      "text": "So you work at a scrap yard?",
+      "duration": 2.121
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_punkgoat_bebop_convo02_02",
+      "audioUrl": "audio/bebop_match_start_punkgoat_bebop_convo02_02.mp3",
+      "text": "Live at a scap yard",
+      "duration": 1.566
+    },
+    {
+      "order": 3,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bebop_convo02_03",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bebop_convo02_03.mp3",
+      "text": "That's kind of cool.",
+      "duration": 0.995
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_punkgoat_bebop_convo02_04",
+      "audioUrl": "audio/bebop_match_start_punkgoat_bebop_convo02_04.mp3",
+      "text": "That a compliment?",
+      "duration": 1.39
+    },
+    {
+      "order": 5,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bebop_convo02_05",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bebop_convo02_05.mp3",
+      "text": "That's the best you're getting tin man.",
+      "duration": 1.947
+    }
+  ]
+}

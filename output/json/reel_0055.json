@@ -1,0 +1,67 @@
+{
+  "conversations": [
+    {
+      "conversationId": "bebop_seven_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_gigawatt_convo02_01",
+          "audioUrl": "audio/bebop_match_start_bebop_gigawatt_convo02_01.mp3",
+          "text": "You're not like the other organics.",
+          "duration": 1.967
+        },
+        {
+          "order": 2,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_bebop_gigawatt_convo02_02",
+          "audioUrl": "audio/gigawatt_match_start_bebop_gigawatt_convo02_02.mp3",
+          "text": "My dear scrap golem, I'm not like any man you've ever met in your life.",
+          "duration": 5.919
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_seven_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_gigawatt_convo03_01",
+          "audioUrl": "audio/bebop_match_start_bebop_gigawatt_convo03_01.mp3",
+          "text": "I got my eye on you Seven",
+          "duration": 2.239
+        },
+        {
+          "order": 2,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_bebop_gigawatt_convo03_02",
+          "audioUrl": "audio/gigawatt_match_start_bebop_gigawatt_convo03_02.mp3",
+          "text": "Bebop, you should be relieved, not suspicious.  Thanks to me your precious Ms Shelly has a chance to live out the rest of her pleasant yet unremarkable life.",
+          "duration": 8.363
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_haze_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Haze",
+          "audioFile": "haze_match_start_bebop_haze_convo01_01",
+          "audioUrl": "audio/haze_match_start_bebop_haze_convo01_01.mp3",
+          "text": "Bring them to me, Bebop.",
+          "duration": 2.531
+        },
+        {
+          "order": 2,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_bebop_haze_convo01_02",
+          "audioUrl": "audio/bebop_match_start_bebop_haze_convo01_02.mp3",
+          "text": "You got it Haze.",
+          "duration": 1.41
+        }
+      ]
+    }
+  ]
+}

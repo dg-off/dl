@@ -1,0 +1,123 @@
+{
+  "conversations": [
+    {
+      "conversationId": "bebop_doorman_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_doorman_bebop_convo02_01",
+          "audioUrl": "audio/bebop_match_start_doorman_bebop_convo02_01.mp3",
+          "text": "So what do you plan on doing once I pull them in?",
+          "duration": 3.205
+        },
+        {
+          "order": 2,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_doorman_bebop_convo02_02",
+          "audioUrl": "audio/doorman_match_start_doorman_bebop_convo02_02.mp3",
+          "text": "I, push them away\u2026",
+          "duration": 1.913
+        },
+        {
+          "order": 3,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_doorman_bebop_convo02_03",
+          "audioUrl": "audio/bebop_match_start_doorman_bebop_convo02_03.mp3",
+          "text": "That kind of defeats the purpose of me pulling them in, right?",
+          "duration": 3.205
+        },
+        {
+          "order": 4,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_doorman_bebop_convo02_04",
+          "audioUrl": "audio/doorman_match_start_doorman_bebop_convo02_04.mp3",
+          "text": "Kind of, yes.",
+          "duration": 1.843
+        },
+        {
+          "order": 5,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_doorman_bebop_convo02_05",
+          "audioUrl": "audio/bebop_match_start_doorman_bebop_convo02_05.mp3",
+          "text": "This isn't going to go well is it.",
+          "duration": 2.068
+        },
+        {
+          "order": 6,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_doorman_bebop_convo02_06",
+          "audioUrl": "audio/doorman_match_start_doorman_bebop_convo02_06.mp3",
+          "text": "Not the ideal pairing, no, but I'm sure we can make it work.",
+          "duration": 4.939
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_doorman_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Doorman",
+          "audioFile": "doorman_match_start_doorman_bebop_convo03_01",
+          "audioUrl": "audio/doorman_match_start_doorman_bebop_convo03_01.mp3",
+          "text": "Are you scared?",
+          "duration": 1.01
+        },
+        {
+          "order": 2,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_doorman_bebop_convo03_02",
+          "audioUrl": "audio/bebop_match_start_doorman_bebop_convo03_02.mp3",
+          "text": "Yes.  But not for me.",
+          "duration": 2.206
+        }
+      ]
+    },
+    {
+      "conversationId": "bebop_drifter_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_drifter_bebop_convo01_01",
+          "audioUrl": "audio/bebop_match_start_drifter_bebop_convo01_01.mp3",
+          "text": "You look a little rough around the edges, mate",
+          "duration": 2.461
+        },
+        {
+          "order": 2,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_bebop_convo01_02",
+          "audioUrl": "audio/drifter_match_start_drifter_bebop_convo01_02.mp3",
+          "text": "Been travelin' a long way to get here\u2026haven't had time to rest up and get a proper meal.",
+          "duration": 6.706
+        },
+        {
+          "order": 3,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_drifter_bebop_convo01_03",
+          "audioUrl": "audio/bebop_match_start_drifter_bebop_convo01_03.mp3",
+          "text": "In that case you should come over to the scrap yard after the ritual.  I'm sure Miss Shelly could help out with dinner.",
+          "duration": 5.165
+        },
+        {
+          "order": 4,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_bebop_convo01_04",
+          "audioUrl": "audio/drifter_match_start_drifter_bebop_convo01_04.mp3",
+          "text": "Thanks for giving me something to look forward to Bebop",
+          "duration": 3.345
+        },
+        {
+          "order": 5,
+          "character": "Bebop",
+          "audioFile": "bebop_match_start_drifter_bebop_convo01_05",
+          "audioUrl": "audio/bebop_match_start_drifter_bebop_convo01_05.mp3",
+          "text": "My pleasure.",
+          "duration": 1.187
+        }
+      ]
+    }
+  ]
+}

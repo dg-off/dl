@@ -1,0 +1,29 @@
+{
+  "id": "holliday_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_astro_wraith_convo02_01",
+      "audioUrl": "audio/wraith_match_start_astro_wraith_convo02_01.mp3",
+      "text": "You a gambling woman?",
+      "duration": 1.1
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_wraith_convo02_02",
+      "audioUrl": "audio/astro_match_start_astro_wraith_convo02_02.mp3",
+      "text": "No.",
+      "duration": 1.057
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_astro_wraith_convo02_03",
+      "audioUrl": "audio/wraith_match_start_astro_wraith_convo02_03.mp3",
+      "text": "I knew you were boring.",
+      "duration": 1.392
+    }
+  ]
+}

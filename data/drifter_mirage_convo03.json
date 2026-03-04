@@ -1,0 +1,37 @@
+{
+  "id": "drifter_mirage_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_mirage_convo03_01",
+      "audioUrl": "audio/drifter_match_start_drifter_mirage_convo03_01.mp3",
+      "text": "What happens if I break that fancy bottle of yours.",
+      "duration": 3.489
+    },
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_drifter_mirage_convo03_02",
+      "audioUrl": "audio/mirage_match_start_drifter_mirage_convo03_02.mp3",
+      "text": "I kill you.",
+      "duration": 1.055
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_mirage_convo03_03",
+      "audioUrl": "audio/drifter_match_start_drifter_mirage_convo03_03.mp3",
+      "text": "You'll try.",
+      "duration": 1.349
+    },
+    {
+      "order": 4,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_drifter_mirage_convo03_04",
+      "audioUrl": "audio/mirage_match_start_drifter_mirage_convo03_04.mp3",
+      "text": "No.  I'll kill you.",
+      "duration": 3.06
+    }
+  ]
+}

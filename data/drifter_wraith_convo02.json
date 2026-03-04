@@ -1,0 +1,21 @@
+{
+  "id": "drifter_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_drifter_wraith_convo02_01",
+      "audioUrl": "audio/wraith_match_start_drifter_wraith_convo02_01.mp3",
+      "text": "Between the two of us they don't have a chance in hell at escaping.",
+      "duration": 3.173
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_wraith_convo02_02",
+      "audioUrl": "audio/drifter_match_start_drifter_wraith_convo02_02.mp3",
+      "text": "Oh it's gonna be a massacre.",
+      "duration": 2.586
+    }
+  ]
+}

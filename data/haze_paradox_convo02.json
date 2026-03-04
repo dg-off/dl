@@ -1,0 +1,37 @@
+{
+  "id": "haze_paradox_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_chrono_convo02_01",
+      "audioUrl": "audio/haze_match_start_haze_chrono_convo02_01.mp3",
+      "text": "Are you're one who stole  Booth's Derringer?",
+      "duration": 2.957
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_haze_chrono_convo02_02",
+      "audioUrl": "audio/chrono_match_start_haze_chrono_convo02_02.mp3",
+      "text": "This may surprise you, Haze; but as a Scottish woman I don't particularly give a shit about American artifacts.",
+      "duration": 6.829
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_chrono_convo02_03",
+      "audioUrl": "audio/haze_match_start_haze_chrono_convo02_03.mp3",
+      "text": "What about Paradox in general.",
+      "duration": 2.919
+    },
+    {
+      "order": 4,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_haze_chrono_convo02_04",
+      "audioUrl": "audio/chrono_match_start_haze_chrono_convo02_04.mp3",
+      "text": "Of course we stole it.",
+      "duration": 1.712
+    }
+  ]
+}

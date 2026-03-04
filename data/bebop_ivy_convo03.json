@@ -1,0 +1,21 @@
+{
+  "id": "bebop_ivy_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_bebop_tengu_convo03_01",
+      "audioUrl": "audio/tengu_match_start_bebop_tengu_convo03_01.mp3",
+      "text": "You and Miss Shelly should come over to the Arroyos for dinner sometime, I bet they'd get along great.",
+      "duration": 5.466
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_tengu_convo03_02",
+      "audioUrl": "audio/bebop_match_start_bebop_tengu_convo03_02.mp3",
+      "text": "That sounds rather nice Ivy, thank you.",
+      "duration": 2.937
+    }
+  ]
+}

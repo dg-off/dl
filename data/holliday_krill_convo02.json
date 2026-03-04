@@ -1,0 +1,37 @@
+{
+  "id": "holliday_krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Krill",
+      "audioFile": "krill_match_start_astro_krill_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/krill_match_start_astro_krill_convo02_01.mp3",
+      "text": "Sheriff, I know that you're new to our great city.  But if you ever find yourself in need of information, Mo and I are happy to avail ourselves to you.",
+      "duration": 9.297
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_krill_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_krill_convo02_02.mp3",
+      "text": "I bet you are.  How much you charge?",
+      "duration": 2.838
+    },
+    {
+      "order": 3,
+      "character": "Krill",
+      "audioFile": "krill_match_start_astro_krill_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/krill_match_start_astro_krill_convo02_03.mp3",
+      "text": "I think you'll find our rates to be reasonabile.",
+      "duration": 4.254
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_krill_convo02_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_krill_convo02_04.mp3",
+      "text": "Good to know.",
+      "duration": 1.089
+    }
+  ]
+}

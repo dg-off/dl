@@ -1,0 +1,21 @@
+{
+  "id": "holliday_mirage_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_mirage_convo01_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_mirage_convo01_01.mp3",
+      "text": "You really think the US is going to sell Wyoming to the Djinn?",
+      "duration": 4.138
+    },
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_astro_mirage_convo01_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/mirage_match_start_astro_mirage_convo01_02.mp3",
+      "text": "I think the US is interested in money and power and the djinn can offer both.",
+      "duration": 5.759
+    }
+  ]
+}

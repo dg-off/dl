@@ -1,0 +1,37 @@
+{
+  "id": "abrams_lady geist_convo02_oathkeeper",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_ghost_oathkeeper_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_ghost_oathkeeper_convo02_01.mp3",
+      "text": "Remember, when we summon the Patron, we need to be very specific about what we ask for.",
+      "duration": 5.489
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_atlas_ghost_oathkeeper_convo02_02",
+      "audioUrl": "audio/ghost_match_start_atlas_ghost_oathkeeper_convo02_02.mp3",
+      "text": "Yes, yes, I know.",
+      "duration": 1.741
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_ghost_oathkeeper_convo02_03",
+      "audioUrl": "audio/atlas_match_start_atlas_ghost_oathkeeper_convo02_03.mp3",
+      "text": "No going into business for yourself.",
+      "duration": 2.895
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_atlas_ghost_oathkeeper_convo02_04",
+      "audioUrl": "audio/ghost_match_start_atlas_ghost_oathkeeper_convo02_04.mp3",
+      "text": "You worry too much, detective.",
+      "duration": 2.121
+    }
+  ]
+}

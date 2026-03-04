@@ -1,0 +1,37 @@
+{
+  "id": "bebop_haze_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_haze_convo03_01",
+      "audioUrl": "audio/bebop_match_start_bebop_haze_convo03_01.mp3",
+      "text": "When this is over the OSIC isn't going to take me away from Ms Shelly , right?",
+      "duration": 4.762
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_bebop_haze_convo03_02",
+      "audioUrl": "audio/haze_match_start_bebop_haze_convo03_02.mp3",
+      "text": "Of course not.  We fight monsters, not act like them.",
+      "duration": 4.506
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_haze_convo03_03",
+      "audioUrl": "audio/bebop_match_start_bebop_haze_convo03_03.mp3",
+      "text": "Don't you kill people in their dreams?",
+      "duration": 2.316
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_bebop_haze_convo03_04",
+      "audioUrl": "audio/haze_match_start_bebop_haze_convo03_04.mp3",
+      "text": "That was more of a royal \"we\".",
+      "duration": 2.899
+    }
+  ]
+}

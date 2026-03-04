@@ -1,0 +1,37 @@
+{
+  "id": "abrams_krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Krill",
+      "audioFile": "krill_match_start_atlas_krill_convo02_01",
+      "audioUrl": "audio/krill_match_start_atlas_krill_convo02_01.mp3",
+      "text": "Abrams, I know this isn't exactly the most ideal time to bring it up but do you remember last weeks card game?",
+      "duration": 6.852
+    },
+    {
+      "order": 2,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_krill_convo02_02",
+      "audioUrl": "audio/atlas_match_start_atlas_krill_convo02_02.mp3",
+      "text": "We're about to summon The Patron and you're worried about 50 bucks?",
+      "duration": 3.777
+    },
+    {
+      "order": 3,
+      "character": "Krill",
+      "audioFile": "krill_match_start_atlas_krill_convo02_03",
+      "audioUrl": "audio/krill_match_start_atlas_krill_convo02_03.mp3",
+      "text": "We owe Wraith money.",
+      "duration": 2.105
+    },
+    {
+      "order": 4,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_krill_convo02_04",
+      "audioUrl": "audio/atlas_match_start_atlas_krill_convo02_04.mp3",
+      "text": "Makes a lot more sense now.  I'll square up after the fight.",
+      "duration": 3.499
+    }
+  ]
+}

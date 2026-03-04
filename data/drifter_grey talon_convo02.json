@@ -1,0 +1,29 @@
+{
+  "id": "drifter_grey talon_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_orion_convo02_01",
+      "audioUrl": "audio/drifter_match_start_drifter_orion_convo02_01.mp3",
+      "text": "The Patrons have a curious sense of humor now don't they.",
+      "duration": 3.0
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_orion_convo02_02",
+      "audioUrl": "audio/drifter_match_start_drifter_orion_convo02_02.mp3",
+      "text": "The silent treatment?  Really?  Don't tell me you're still raw about Oklahoma",
+      "duration": 5.68
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_orion_convo02_03",
+      "audioUrl": "audio/drifter_match_start_drifter_orion_convo02_03.mp3",
+      "text": "How disapointing\u2026",
+      "duration": 2.478
+    }
+  ]
+}

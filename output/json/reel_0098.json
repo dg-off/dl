@@ -1,0 +1,147 @@
+{
+  "conversations": [
+    {
+      "conversationId": "drifter_ivy_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_drifter_tengu_convo02_01",
+          "audioUrl": "audio/tengu_match_start_drifter_tengu_convo02_01.mp3",
+          "text": "Nice to meet you, I'm Ivy.",
+          "duration": 1.897
+        },
+        {
+          "order": 2,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_tengu_convo02_02",
+          "audioUrl": "audio/drifter_match_start_drifter_tengu_convo02_02.mp3",
+          "text": "I don't care what your name is, you'll be dead long before your relevent in my world.",
+          "duration": 4.988
+        },
+        {
+          "order": 3,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_drifter_tengu_convo02_03",
+          "audioUrl": "audio/tengu_match_start_drifter_tengu_convo02_03.mp3",
+          "text": "Nice to meet you too.",
+          "duration": 1.924
+        }
+      ]
+    },
+    {
+      "conversationId": "drifter_ivy_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_tengu_convo03_01",
+          "audioUrl": "audio/drifter_match_start_drifter_tengu_convo03_01.mp3",
+          "text": "Look at us, the Sower and the Reaper.",
+          "duration": 3.789
+        },
+        {
+          "order": 2,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_drifter_tengu_convo03_02",
+          "audioUrl": "audio/tengu_match_start_drifter_tengu_convo03_02.mp3",
+          "text": "I think you may be confusing me with Mina. I don't know how to sew.",
+          "duration": 4.467
+        },
+        {
+          "order": 3,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_tengu_convo03_03",
+          "audioUrl": "audio/drifter_match_start_drifter_tengu_convo03_03.mp3",
+          "text": "Sow, like farmin'?",
+          "duration": 2.263
+        },
+        {
+          "order": 4,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_drifter_tengu_convo03_04",
+          "audioUrl": "audio/tengu_match_start_drifter_tengu_convo03_04.mp3",
+          "text": "I've never been to a farm.",
+          "duration": 1.559
+        },
+        {
+          "order": 5,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_tengu_convo03_05",
+          "audioUrl": "audio/drifter_match_start_drifter_tengu_convo03_05.mp3",
+          "text": "It's plantin' seeds.",
+          "duration": 1.987
+        },
+        {
+          "order": 6,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_drifter_tengu_convo03_06",
+          "audioUrl": "audio/tengu_match_start_drifter_tengu_convo03_06.mp3",
+          "text": "Sure, but I'm not a farmer, so why would you say that?",
+          "duration": 3.936
+        },
+        {
+          "order": 7,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_tengu_convo03_07",
+          "audioUrl": "audio/drifter_match_start_drifter_tengu_convo03_07.mp3",
+          "text": "You save lives, and I take them.",
+          "duration": 2.753
+        },
+        {
+          "order": 8,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_drifter_tengu_convo03_08",
+          "audioUrl": "audio/tengu_match_start_drifter_tengu_convo03_08.mp3",
+          "text": "I think your analogies need some work.",
+          "duration": 2.641
+        }
+      ]
+    },
+    {
+      "conversationId": "drifter_viper_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Viper",
+          "audioFile": "viper_match_start_drifter_viper_convo01_01",
+          "audioUrl": "audio/viper_match_start_drifter_viper_convo01_01.mp3",
+          "text": "I can't believe I'm gonna get to murder people with you.",
+          "duration": 2.965
+        },
+        {
+          "order": 2,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_viper_convo01_02",
+          "audioUrl": "audio/drifter_match_start_drifter_viper_convo01_02.mp3",
+          "text": "I don't know if the rest of our team shares your exhuberance.",
+          "duration": 3.554
+        },
+        {
+          "order": 3,
+          "character": "Viper",
+          "audioFile": "viper_match_start_drifter_viper_convo01_03",
+          "audioUrl": "audio/viper_match_start_drifter_viper_convo01_03.mp3",
+          "text": "That\u2019s cause they never did time in OKC.  Buddy, you're a legend there, like bonafide boogeyman.  As far as I'm concerned this is like sitting next to motzart on the piano bench while he plays cannon in D.",
+          "duration": 12.632
+        },
+        {
+          "order": 4,
+          "character": "Drifter",
+          "audioFile": "drifter_match_start_drifter_viper_convo01_04",
+          "audioUrl": "audio/drifter_match_start_drifter_viper_convo01_04.mp3",
+          "text": "Pretty sure that was Pachelbel.",
+          "duration": 2.067
+        },
+        {
+          "order": 5,
+          "character": "Viper",
+          "audioFile": "viper_match_start_drifter_viper_convo01_05",
+          "audioUrl": "audio/viper_match_start_drifter_viper_convo01_05.mp3",
+          "text": "Him too.  Point still stands.",
+          "duration": 1.944
+        }
+      ]
+    }
+  ]
+}

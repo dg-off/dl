@@ -1,0 +1,29 @@
+{
+  "id": "abrams_haze_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_atlas_haze_convo02_01",
+      "audioUrl": "audio/haze_match_start_atlas_haze_convo02_01.mp3",
+      "text": "You should consider working for the OSIC",
+      "duration": 3.479
+    },
+    {
+      "order": 2,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_haze_convo02_02",
+      "audioUrl": "audio/atlas_match_start_atlas_haze_convo02_02.mp3",
+      "text": "I think you guys have enough people who can kick down doors.",
+      "duration": 3.26
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_atlas_haze_convo02_03",
+      "audioUrl": "audio/haze_match_start_atlas_haze_convo02_03.mp3",
+      "text": "We do.  We don't have enough guys who care what doors are getting kicked down.",
+      "duration": 5.645
+    }
+  ]
+}

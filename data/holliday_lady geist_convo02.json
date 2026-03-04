@@ -1,0 +1,53 @@
+{
+  "id": "holliday_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_astro_ghost_convo02_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/ghost_match_start_astro_ghost_convo02_01.mp3",
+      "text": "I don't mean to be rude-",
+      "duration": 1.84
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_ghost_convo02_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_ghost_convo02_02.mp3",
+      "text": "This should be good\u2026",
+      "duration": 1.258
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_astro_ghost_convo02_03",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/ghost_match_start_astro_ghost_convo02_03.mp3",
+      "text": "You're clothes.",
+      "duration": 1.116
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_ghost_convo02_04",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_ghost_convo02_04.mp3",
+      "text": "What about them.",
+      "duration": 1.235
+    },
+    {
+      "order": 5,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_astro_ghost_convo02_05",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/ghost_match_start_astro_ghost_convo02_05.mp3",
+      "text": "They're horrible.",
+      "duration": 1.208
+    },
+    {
+      "order": 6,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_ghost_convo02_06",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_ghost_convo02_06.mp3",
+      "text": "Good talk.",
+      "duration": 1.022
+    }
+  ]
+}

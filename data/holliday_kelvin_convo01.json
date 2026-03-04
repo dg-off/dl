@@ -1,0 +1,21 @@
+{
+  "id": "holliday_kelvin_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_kelvin_convo01_01",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/astro_match_start_astro_kelvin_convo01_01.mp3",
+      "text": "You look more out of place than I do",
+      "duration": 2.093
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_astro_kelvin_convo01_02",
+      "audioUrl": "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio/kelvin_match_start_astro_kelvin_convo01_02.mp3",
+      "text": "The dead rarely are consumed by fashion.",
+      "duration": 3.251
+    }
+  ]
+}

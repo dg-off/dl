@@ -1,0 +1,21 @@
+{
+  "id": "bebop_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_gigawatt_convo02_01",
+      "audioUrl": "audio/bebop_match_start_bebop_gigawatt_convo02_01.mp3",
+      "text": "You're not like the other organics.",
+      "duration": 1.967
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_bebop_gigawatt_convo02_02",
+      "audioUrl": "audio/gigawatt_match_start_bebop_gigawatt_convo02_02.mp3",
+      "text": "My dear scrap golem, I'm not like any man you've ever met in your life.",
+      "duration": 5.919
+    }
+  ]
+}
