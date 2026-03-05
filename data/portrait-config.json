@@ -1,40 +1,534 @@
 {
-  "abrams":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "apollo":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "bebop":       { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "billy":       { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "calico":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "celeste":     { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "drifter":     { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "dynamo":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "graves":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "grey_talon":  { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "haze":        { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "holliday":    { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "infernus":    { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "ivy":         { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "kelvin":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "lady_geist":  { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "lash":        { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "mcginnis":    { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "mina":        { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "mirage":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "mo_&_krill":  { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "paige":       { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "paradox":     { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "pocket":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "rem":         { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "seven":       { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "shiv":        { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "silver":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "sinclair":    { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "the_doorman": { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "venator":     { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "victor":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "vindicta":    { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "viscous":     { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "vyper":       { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "warden":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "wraith":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } },
-  "yamato":      { "left": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 }, "right": { "objectPositionX": 50, "objectPositionY": 0, "scale": 1.92 } }
+  "abrams": {
+    "left": {
+      "objectPositionX": 100,
+      "objectPositionY": 25,
+      "scale": 1.25,
+      "rotation": 15
+    },
+    "right": {
+      "objectPositionX": 100,
+      "objectPositionY": 25,
+      "scale": 1.25,
+      "rotation": 15
+    }
+  },
+  "apollo": {
+    "left": {
+      "objectPositionX": 58,
+      "objectPositionY": 25,
+      "scale": 1.25,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 58,
+      "objectPositionY": 25,
+      "scale": 1.25,
+      "rotation": 0
+    }
+  },
+  "bebop": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "billy": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "calico": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "celeste": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "drifter": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "dynamo": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "graves": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "grey_talon": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "haze": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "holliday": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "infernus": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "ivy": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "kelvin": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "lady_geist": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "lash": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "mcginnis": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "mina": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "mirage": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "mo_&_krill": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "paige": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "paradox": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "pocket": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "rem": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "seven": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "shiv": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "silver": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "sinclair": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "the_doorman": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "venator": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "victor": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "vindicta": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "viscous": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "vyper": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "warden": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "wraith": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  },
+  "yamato": {
+    "left": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    },
+    "right": {
+      "objectPositionX": 50,
+      "objectPositionY": 0,
+      "scale": 1.92,
+      "rotation": 0
+    }
+  }
 }

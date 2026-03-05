@@ -1,8 +1,6 @@
-import type { DebugConfig, LayoutConfig } from "./layout/types";
-
 export type PortraitSettings = {
   objectPositionX: number; // 0–100 (%)
-  objectPositionY: number; // 0–100 (%)
+  objectPositionY: number; // parent-relative vertical offset (%), typically -100..100
   scale: number;           // zoom, e.g. 1.92
   rotation: number;        // degrees, pivot = center of image
 };
@@ -55,7 +53,5 @@ export type Conversation = {
 
 export type Props = {
   conversations: Conversation[];
-  layout?: LayoutConfig;
-  debug?: DebugConfig;
   portraitConfig?: PortraitConfig;
 };
