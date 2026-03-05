@@ -11,9 +11,16 @@ import type { Props } from "./types";
 
 const FPS = 30;
 
+const portraitSettingsSchema = z.object({
+  x: z.number(),
+  y: z.number(),
+  scale: z.number(),
+  rotation: z.number(),
+});
+
 const propsSchema = z
   .object({
-    portraitConfig: z.record(z.string(), z.any()).optional(),
+    portraitConfig: z.record(z.string(), portraitSettingsSchema).optional(),
   })
   .passthrough();
 

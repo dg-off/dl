@@ -5,7 +5,8 @@
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render DeadlockShort output.mp4",
-    "setup": "node scripts/setup-assets.js"
+    "setup": "node scripts/setup-assets.js",
+    "portrait:save": "node ../scripts/portraits/save-tune.mjs"
   },
   "dependencies": {
     "@remotion/captions": "4.0.429",

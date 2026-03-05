@@ -7,13 +7,15 @@ type PortraitLayerProps = {
   y: number;
   width: number;
   height: number;
-  zoom: number;
+  imgX: number;
+  imgY: number;
+  imgScale: number;
   rotation?: number;
-  focusX?: number;
-  focusY?: number;
   opacity?: number;
   zIndex?: number;
 };
+
+const BASE_PORTRAIT_HEIGHT = 900;
 
 export const PortraitLayer: React.FC<PortraitLayerProps> = ({
   src,
@@ -21,10 +23,10 @@ export const PortraitLayer: React.FC<PortraitLayerProps> = ({
   y,
   width,
   height,
-  zoom,
+  imgX,
+  imgY,
+  imgScale,
   rotation = 0,
-  focusX = 50,
-  focusY = 50,
   opacity = 1,
   zIndex = 0,
 }) => {
@@ -43,12 +45,11 @@ export const PortraitLayer: React.FC<PortraitLayerProps> = ({
         src={src}
         style={{
           position: "absolute",
-          inset: 0,
-          width: "100%",
-          height: "100%",
-          objectFit: "contain",
-          objectPosition: `${focusX}% ${focusY}%`,
-          transform: `scale(${zoom}) rotate(${rotation}deg)`,
+          height: BASE_PORTRAIT_HEIGHT,
+          width: "auto",
+          left: imgX,
+          top: imgY,
+          transform: `translate(-50%, -50%) scale(${imgScale}) rotate(${rotation}deg)`,
           transformOrigin: "center center",
           opacity,
         }}

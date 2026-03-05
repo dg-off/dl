@@ -15,10 +15,10 @@ type PortraitCardProps = {
   width: number;
   height: number;
   frameInset: Insets;
-  zoom: number;
+  imgX: number;
+  imgY: number;
+  imgScale: number;
   rotation?: number;
-  focusX?: number;
-  focusY?: number;
   bgOpacity?: number;
   fgOpacity?: number;
   frameRadius?: number;
@@ -32,10 +32,10 @@ export const PortraitCard: React.FC<PortraitCardProps> = ({
   width,
   height,
   frameInset,
-  zoom,
+  imgX,
+  imgY,
+  imgScale,
   rotation = 0,
-  focusX = 50,
-  focusY = 50,
   bgOpacity = 1,
   fgOpacity = 1,
   frameRadius = 16,
@@ -54,10 +54,10 @@ export const PortraitCard: React.FC<PortraitCardProps> = ({
         y={y}
         width={width}
         height={height}
-        zoom={zoom}
+        imgX={imgX}
+        imgY={imgY}
+        imgScale={imgScale}
         rotation={rotation}
-        focusX={focusX}
-        focusY={focusY}
         zIndex={0}
         opacity={bgOpacity}
       />
@@ -81,10 +81,10 @@ export const PortraitCard: React.FC<PortraitCardProps> = ({
           y={y - frameY}
           width={width}
           height={height}
-          zoom={zoom}
+          imgX={imgX}
+          imgY={imgY}
+          imgScale={imgScale}
           rotation={rotation}
-          focusX={focusX}
-          focusY={focusY}
           opacity={fgOpacity}
         />
       </div>
