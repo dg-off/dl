@@ -43,6 +43,8 @@ remotion/node_modules/
 node_modules/
 remotion/out/
 remotion/.cache/
+.cache/
+.remotion/
 *.log
 npm-debug.log*
 yarn-debug.log*

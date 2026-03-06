@@ -35,6 +35,12 @@ export type Conversation = {
   lines: DialogueLine[];
 };
 
+export type ConversationRange = {
+  index: number;
+  startFrame: number;
+  endFrame: number;
+};
+
 export type Props = {
   conversations: Conversation[];
   portraitConfig?: PortraitConfig;

@@ -1,534 +1,230 @@
 {
   "abrams": {
-    "left": {
-      "objectPositionX": 100,
-      "objectPositionY": 25,
-      "scale": 1.25,
-      "rotation": 15
-    },
-    "right": {
-      "objectPositionX": 100,
-      "objectPositionY": 25,
-      "scale": 1.25,
-      "rotation": 15
-    }
+    "x": 245,
+    "y": 495,
+    "scale": 0.92,
+    "rotation": 10
   },
   "apollo": {
-    "left": {
-      "objectPositionX": 58,
-      "objectPositionY": 25,
-      "scale": 1.25,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 58,
-      "objectPositionY": 25,
-      "scale": 1.25,
-      "rotation": 0
-    }
+    "x": 180,
+    "y": 445,
+    "scale": 0.82,
+    "rotation": 13
   },
   "bebop": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 120,
+    "y": 485,
+    "scale": 0.82,
+    "rotation": 0
   },
   "billy": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 120,
+    "y": 485,
+    "scale": 0.82,
+    "rotation": -15
   },
   "calico": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 120,
+    "y": 485,
+    "scale": 0.82,
+    "rotation": 3
   },
   "celeste": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 155,
+    "y": 480,
+    "scale": 0.82,
+    "rotation": -4
   },
   "drifter": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 155,
+    "y": 500,
+    "scale": 0.82,
+    "rotation": -6
   },
   "dynamo": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 205,
+    "y": 470,
+    "scale": 0.82,
+    "rotation": -14
   },
   "graves": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 245,
+    "y": 430,
+    "scale": 0.75,
+    "rotation": -5
   },
   "grey_talon": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 285,
+    "y": 430,
+    "scale": 0.75,
+    "rotation": -5
   },
   "haze": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 225,
+    "y": 450,
+    "scale": 0.75,
+    "rotation": 3
   },
   "holliday": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 245,
+    "y": 420,
+    "scale": 0.75,
+    "rotation": 7
   },
   "infernus": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 155,
+    "y": 440,
+    "scale": 0.65,
+    "rotation": -10
   },
   "ivy": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 235,
+    "y": 400,
+    "scale": 0.75,
+    "rotation": -20
   },
   "kelvin": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 205,
+    "y": 440,
+    "scale": 0.75,
+    "rotation": 7
   },
   "lady_geist": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 170,
+    "y": 460,
+    "scale": 0.75,
+    "rotation": -5
   },
   "lash": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 280,
+    "y": 430,
+    "scale": 0.75,
+    "rotation": -15
   },
   "mcginnis": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 280,
+    "y": 470,
+    "scale": 0.75,
+    "rotation": 24
   },
   "mina": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 220,
+    "y": 380,
+    "scale": 0.75,
+    "rotation": -1
   },
   "mirage": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 230,
+    "y": 420,
+    "scale": 0.7,
+    "rotation": -3
   },
   "mo_&_krill": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 130,
+    "y": 420,
+    "scale": 0.65,
+    "rotation": -10
   },
   "paige": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 270,
+    "y": 420,
+    "scale": 0.7,
+    "rotation": 3
   },
   "paradox": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 150,
+    "y": 440,
+    "scale": 0.75,
+    "rotation": -7
   },
   "pocket": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 180,
+    "y": 460,
+    "scale": 0.75,
+    "rotation": -10
   },
   "rem": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 240,
+    "y": 420,
+    "scale": 0.75,
+    "rotation": 10
   },
   "seven": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 240,
+    "y": 420,
+    "scale": 0.7,
+    "rotation": -4
   },
   "shiv": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 100,
+    "y": 400,
+    "scale": 0.7,
+    "rotation": 10
   },
   "silver": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 170,
+    "y": 360,
+    "scale": 0.65,
+    "rotation": 9
   },
   "sinclair": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 215,
+    "y": 440,
+    "scale": 0.75,
+    "rotation": -20
   },
   "the_doorman": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 225,
+    "y": 400,
+    "scale": 0.75,
+    "rotation": -15
   },
   "venator": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 165,
+    "y": 420,
+    "scale": 0.75,
+    "rotation": 5
   },
   "victor": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 205,
+    "y": 420,
+    "scale": 0.7,
+    "rotation": 5
   },
   "vindicta": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 165,
+    "y": 460,
+    "scale": 0.75,
+    "rotation": -5
   },
   "viscous": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 175,
+    "y": 460,
+    "scale": 0.75,
+    "rotation": -10
   },
   "vyper": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 195,
+    "y": 400,
+    "scale": 0.75,
+    "rotation": 17
   },
   "warden": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 205,
+    "y": 460,
+    "scale": 0.75,
+    "rotation": 7
   },
   "wraith": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 235,
+    "y": 410,
+    "scale": 0.75,
+    "rotation": -1
   },
   "yamato": {
-    "left": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    },
-    "right": {
-      "objectPositionX": 50,
-      "objectPositionY": 0,
-      "scale": 1.92,
-      "rotation": 0
-    }
+    "x": 265,
+    "y": 430,
+    "scale": 0.7,
+    "rotation": -5
   }
 }
