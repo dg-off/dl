@@ -1,9 +1,18 @@
 import React, { useMemo } from "react";
-import { AbsoluteFill, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
+import {
+  AbsoluteFill,
+  Audio,
+  Sequence,
+  staticFile,
+  useCurrentFrame,
+  useVideoConfig,
+} from "remotion";
 import { ConversationProgressBar } from "./components/ConversationProgressBar";
 import { PortraitCard } from "./components/PortraitCard";
 import { ConversationTransitionOverlay } from "./components/ConversationTransitionOverlay";
 import { WatermarkBadge } from "./components/WatermarkBadge";
+import { AudioVisualizer } from "./components/AudioVisualizer";
+import { SubtitleDisplay } from "./components/SubtitleDisplay";
 import {
   CONVERSATION_LEAD_IN_FRAMES,
   INTRO_PREROLL_FRAMES,
@@ -11,10 +20,17 @@ import {
   WATERMARK,
 } from "./constants";
 import { toKey, toPortraitKey, toQuirkyNameFile } from "./constants";
-import { getSlotSettings, type Conversation, type ConversationRange, type Props } from "./types";
+import {
+  getSlotSettings,
+  type Conversation,
+  type ConversationRange,
+  type DialogueLine,
+  type Props,
+} from "./types";
 
 const ACTIVE_BG_OPACITY = .8;
 const INACTIVE_BG_OPACITY = 0;
+const VISUALIZER_LINE_CROSSFADE_FRAMES = 8;
 
 // Timeline model types
 type FrameState = {
@@ -30,6 +46,21 @@ type ActivationEvent = {
 type TransitionWindow = {
   startFrame: number;
   endFrame: number;
+};
+
+type ActiveLineState = {
+  currentLine: DialogueLine | null;
+  previousLine: DialogueLine | null;
+  currentLineLocalFrame: number;
+  currentLineFrames: number;
+  previousLineTailFrame: number;
+  crossfadeProgress: number;
+};
+
+type AudioSegment = {
+  from: number;
+  durationInFrames: number;
+  src: string;
 };
 
 const FALLBACK_PARTICIPANTS: [string, string] = ["holliday", "paradox"];
@@ -231,6 +262,140 @@ const getTransitionWindows = (conversations: Conversation[], fps: number): Trans
   return windows;
 };
 
+const normalizeAudioUrl = (audioUrl: string) => {
+  if (/^https?:\/\//i.test(audioUrl)) {
+    return audioUrl;
+  }
+  const normalized = audioUrl.replace(/^\/+/, "");
+  return staticFile(normalized);
+};
+
+const getActiveLineState = (
+  conversations: Conversation[],
+  frame: number,
+  fps: number
+): ActiveLineState => {
+  if (frame < INTRO_PREROLL_FRAMES) {
+    return {
+      currentLine: null,
+      previousLine: null,
+      currentLineLocalFrame: 0,
+      currentLineFrames: 0,
+      previousLineTailFrame: 0,
+      crossfadeProgress: 1,
+    };
+  }
+
+  let cursor = INTRO_PREROLL_FRAMES;
+  let previousLine: DialogueLine | null = null;
+
+  for (let convIndex = 0; convIndex < conversations.length; convIndex++) {
+    if (convIndex > 0) {
+      const leadInEnd = cursor + CONVERSATION_LEAD_IN_FRAMES;
+      if (frame < leadInEnd) {
+        return {
+          currentLine: null,
+          previousLine,
+          currentLineLocalFrame: 0,
+          currentLineFrames: 0,
+          previousLineTailFrame: previousLine
+            ? Math.max(0, getLineDurationInFrames(previousLine.durationInFrames, previousLine.duration, fps) - 1)
+            : 0,
+          crossfadeProgress: 1,
+        };
+      }
+      cursor = leadInEnd;
+    }
+
+    const conversation = conversations[convIndex];
+    for (const line of conversation.lines) {
+      const lineFrames = getLineDurationInFrames(line.durationInFrames, line.duration, fps);
+      const lineEnd = cursor + lineFrames;
+      if (frame < lineEnd) {
+        const currentLineLocalFrame = Math.max(0, frame - cursor);
+        const crossfadeProgress = Math.min(
+          1,
+          Math.max(0, (currentLineLocalFrame + 1) / VISUALIZER_LINE_CROSSFADE_FRAMES)
+        );
+        const previousLineTailFrame = previousLine
+          ? Math.max(
+              0,
+              getLineDurationInFrames(previousLine.durationInFrames, previousLine.duration, fps) -
+                Math.max(1, VISUALIZER_LINE_CROSSFADE_FRAMES - currentLineLocalFrame)
+            )
+          : 0;
+
+        return {
+          currentLine: line,
+          previousLine,
+          currentLineLocalFrame,
+          currentLineFrames: lineFrames,
+          previousLineTailFrame,
+          crossfadeProgress,
+        };
+      }
+      cursor = lineEnd;
+      previousLine = line;
+    }
+
+    if (convIndex < conversations.length - 1) {
+      const transitionEnd = cursor + TRANSITION_FRAMES;
+      if (frame < transitionEnd) {
+        return {
+          currentLine: null,
+          previousLine,
+          currentLineLocalFrame: 0,
+          currentLineFrames: 0,
+          previousLineTailFrame: previousLine
+            ? Math.max(0, getLineDurationInFrames(previousLine.durationInFrames, previousLine.duration, fps) - 1)
+            : 0,
+          crossfadeProgress: 1,
+        };
+      }
+      cursor = transitionEnd;
+    }
+  }
+
+  return {
+    currentLine: null,
+    previousLine,
+    currentLineLocalFrame: 0,
+    currentLineFrames: 0,
+    previousLineTailFrame: previousLine
+      ? Math.max(0, getLineDurationInFrames(previousLine.durationInFrames, previousLine.duration, fps) - 1)
+      : 0,
+    crossfadeProgress: 1,
+  };
+};
+
+const getAudioSegments = (conversations: Conversation[], fps: number): AudioSegment[] => {
+  const segments: AudioSegment[] = [];
+  let cursor = INTRO_PREROLL_FRAMES;
+
+  for (let convIndex = 0; convIndex < conversations.length; convIndex++) {
+    const conversation = conversations[convIndex];
+    if (convIndex > 0) {
+      cursor += CONVERSATION_LEAD_IN_FRAMES;
+    }
+
+    for (const line of conversation.lines) {
+      const lineFrames = getLineDurationInFrames(line.durationInFrames, line.duration, fps);
+      segments.push({
+        from: cursor,
+        durationInFrames: lineFrames,
+        src: normalizeAudioUrl(line.audioUrl),
+      });
+      cursor += lineFrames;
+    }
+
+    if (convIndex < conversations.length - 1) {
+      cursor += TRANSITION_FRAMES;
+    }
+  }
+
+  return segments;
+};
+
 const getLatestActivationFrame = (
   events: ActivationEvent[],
   speakerKey: string,
@@ -269,6 +434,14 @@ export const DeadlockShort: React.FC<Props> = ({ conversations, portraitConfig =
     () => getTransitionWindows(conversations, fps),
     [conversations, fps]
   );
+  const audioSegments = useMemo(
+    () => getAudioSegments(conversations, fps),
+    [conversations, fps]
+  );
+  const activeLineState = useMemo(
+    () => getActiveLineState(conversations, frame, fps),
+    [conversations, frame, fps]
+  );
 
   const [leftKey, rightKey] = frameState.participants;
   const activeSpeaker = frameState.activeSpeaker;
@@ -292,9 +465,25 @@ export const DeadlockShort: React.FC<Props> = ({ conversations, portraitConfig =
   const rightBgZ = isRightActive ? 20 : 10;
   const leftFgZ = 100;
   const rightFgZ = 100;
+  const currentAudioSrc = activeLineState.currentLine
+    ? normalizeAudioUrl(activeLineState.currentLine.audioUrl)
+    : null;
+  const previousAudioSrc = activeLineState.previousLine
+    ? normalizeAudioUrl(activeLineState.previousLine.audioUrl)
+    : null;
 
   return (
-    <AbsoluteFill style={{ background: "#0b0f17" }}>
+    <AbsoluteFill style={{ background: "#070612" }}>
+      {audioSegments.map((segment, index) => (
+        <Sequence
+          key={`line-audio-${index}`}
+          from={segment.from}
+          durationInFrames={segment.durationInFrames}
+        >
+          <Audio src={segment.src} />
+        </Sequence>
+      ))}
+
       <ConversationProgressBar
         frame={frame}
         durationInFrames={durationInFrames}
@@ -347,9 +536,24 @@ export const DeadlockShort: React.FC<Props> = ({ conversations, portraitConfig =
         slideFrom="right"
       />
 
+      <AudioVisualizer
+        currentAudioSrc={currentAudioSrc}
+        previousAudioSrc={previousAudioSrc}
+        currentFrame={activeLineState.currentLineLocalFrame}
+        previousFrame={activeLineState.previousLineTailFrame}
+        crossfadeProgress={activeLineState.crossfadeProgress}
+        fps={fps}
+      />
+
       <ConversationTransitionOverlay
         frame={frame}
         windows={transitionWindows}
+      />
+
+      <SubtitleDisplay
+        currentLine={activeLineState.currentLine}
+        currentLineLocalFrame={activeLineState.currentLineLocalFrame}
+        lineFrames={activeLineState.currentLineFrames}
       />
 
       <WatermarkBadge

@@ -8,13 +8,6 @@ type ConversationProgressBarProps = {
   conversationRanges: ConversationRange[];
 };
 
-const getFrameRatio = (frame: number, durationInFrames: number) => {
-  if (durationInFrames <= 1) {
-    return 0;
-  }
-  return Math.min(1, Math.max(0, frame / (durationInFrames - 1)));
-};
-
 const getConversationIndexAtFrame = (ranges: ConversationRange[], frame: number) => {
   for (const range of ranges) {
     if (frame >= range.startFrame && frame < range.endFrame) {
@@ -30,73 +23,94 @@ export const ConversationProgressBar: React.FC<ConversationProgressBarProps> = (
   conversationRanges,
 }) => {
   // Frame-accurate progress value. Do not ease this, or boundaries drift.
-  const globalProgress = getFrameRatio(frame, durationInFrames);
   const activeConversationIndex = getConversationIndexAtFrame(conversationRanges, frame);
 
   // Precompute geometry and per-column state for this frame.
   const { columns, dividers } = useMemo(() => {
     const availableWidth = 1080 - PROGRESS_BAR_LAYOUT.PADDING_X * 2;
-    const totalGap = (PROGRESS_BAR_LAYOUT.COLUMN_COUNT - 1) * PROGRESS_BAR_LAYOUT.COLUMN_GAP;
-    const columnWidth = (availableWidth - totalGap) / PROGRESS_BAR_LAYOUT.COLUMN_COUNT;
-    const nextDividers = conversationRanges
-      .slice(1)
-      .map((range) => {
-        const ratio = getFrameRatio(range.startFrame, durationInFrames);
-        const flash = frame >= range.startFrame && frame < range.startFrame + PROGRESS_BAR_LAYOUT.DIVIDER_FLASH_FRAMES;
+    const conversationCount = Math.max(1, conversationRanges.length);
+    const baseColumnsPerConversation = Math.floor(
+      PROGRESS_BAR_LAYOUT.COLUMN_COUNT / conversationCount
+    );
+    const extraColumns = PROGRESS_BAR_LAYOUT.COLUMN_COUNT % conversationCount;
+    const columnsPerConversation = conversationRanges.map((_, index) =>
+      baseColumnsPerConversation + (index < extraColumns ? 1 : 0)
+    );
+    const boundaryGapWidth =
+      PROGRESS_BAR_LAYOUT.DIVIDER_WIDTH + PROGRESS_BAR_LAYOUT.DIVIDER_GAP * 2;
+    const interiorGapCount = PROGRESS_BAR_LAYOUT.COLUMN_COUNT - conversationCount;
+    const boundaryGapCount = Math.max(0, conversationCount - 1);
+    const totalGapWidth =
+      interiorGapCount * PROGRESS_BAR_LAYOUT.COLUMN_GAP +
+      boundaryGapCount * boundaryGapWidth;
+    const columnWidth = (availableWidth - totalGapWidth) / PROGRESS_BAR_LAYOUT.COLUMN_COUNT;
+
+    let cursorLeft = PROGRESS_BAR_LAYOUT.PADDING_X;
+    const nextDividers: { left: number; flash: boolean }[] = [];
+    const nextColumns = conversationRanges.flatMap((range, conversationIndex) => {
+      const columnCount = columnsPerConversation[conversationIndex];
+      const conversationDuration = Math.max(1, range.endFrame - range.startFrame);
+      const isLastConversation = conversationIndex === conversationRanges.length - 1;
+      const filledCount =
+        frame < range.startFrame
+          ? 0
+          : frame >= range.endFrame
+            ? columnCount
+            : Math.min(
+                columnCount,
+                Math.floor(
+                  ((frame - range.startFrame) * columnCount) / conversationDuration
+                ) + 1
+              );
+
+      return Array.from({ length: columnCount }, (_, localIndex) => {
+        const localStartFrame =
+          range.startFrame + Math.floor((localIndex / columnCount) * conversationDuration);
+        const localEndFrame =
+          range.startFrame +
+          Math.floor(((localIndex + 1) / columnCount) * conversationDuration);
+        const isFilled = localIndex < filledCount;
+        const isInActiveSegment = conversationIndex === activeConversationIndex;
+        const columnColor = isFilled ? PROGRESS_COLORS.FILL : PROGRESS_COLORS.TRACK;
+        const localCenterFrame = Math.floor((localStartFrame + localEndFrame) / 2);
+        const localDistance = Math.abs(localCenterFrame - frame);
+        const sweepIntensity =
+          isFilled && isInActiveSegment
+            ? Math.max(0, 1 - localDistance / Math.max(1, durationInFrames * 0.08))
+            : 0;
+        const left = cursorLeft;
+
+        cursorLeft += columnWidth;
+
+        const isLastColumnInConversation = localIndex === columnCount - 1;
+        if (!isLastColumnInConversation) {
+          cursorLeft += PROGRESS_BAR_LAYOUT.COLUMN_GAP;
+        } else if (!isLastConversation) {
+          nextDividers.push({
+            left: cursorLeft + PROGRESS_BAR_LAYOUT.DIVIDER_GAP,
+            flash:
+              frame >= conversationRanges[conversationIndex + 1].startFrame &&
+              frame <
+                conversationRanges[conversationIndex + 1].startFrame +
+                  PROGRESS_BAR_LAYOUT.DIVIDER_FLASH_FRAMES,
+          });
+          cursorLeft += boundaryGapWidth;
+        }
         return {
-          left: PROGRESS_BAR_LAYOUT.PADDING_X + availableWidth * ratio - PROGRESS_BAR_LAYOUT.DIVIDER_WIDTH / 2,
-          flash,
+          key: `${conversationIndex}-${localIndex}`,
+          left,
+          width: columnWidth,
+          color: columnColor,
+          sweepIntensity,
         };
       });
-
-    const nextColumns = Array.from({ length: PROGRESS_BAR_LAYOUT.COLUMN_COUNT }, (_, index) => {
-      const left =
-        PROGRESS_BAR_LAYOUT.PADDING_X +
-        index * (columnWidth + PROGRESS_BAR_LAYOUT.COLUMN_GAP);
-      const right = left + columnWidth;
-      const centerFrame = Math.floor(
-        ((index + 0.5) / PROGRESS_BAR_LAYOUT.COLUMN_COUNT) * (durationInFrames - 1)
-      );
-      const centerRatio = getFrameRatio(centerFrame, durationInFrames);
-      const isFilled = centerRatio <= globalProgress;
-      const segment = conversationRanges.find(
-        (range) => centerFrame >= range.startFrame && centerFrame < range.endFrame
-      );
-      const isInActiveSegment = segment?.index === activeConversationIndex;
-      const columnColor = isFilled ? PROGRESS_COLORS.FILL : PROGRESS_COLORS.TRACK;
-
-      // Visual polish only: sheen intensity follows the playhead, but timing stays raw.
-      const sweepCenterRatio = getFrameRatio(frame, durationInFrames);
-      const distance = Math.abs(centerRatio - sweepCenterRatio);
-      const sweepIntensity =
-        isFilled && isInActiveSegment ? Math.max(0, 1 - distance / 0.1) : 0;
-
-      const intersectsDividerGap = nextDividers.some((divider) => {
-        const gapStart = divider.left - PROGRESS_BAR_LAYOUT.DIVIDER_GAP;
-        const gapEnd =
-          divider.left +
-          PROGRESS_BAR_LAYOUT.DIVIDER_WIDTH +
-          PROGRESS_BAR_LAYOUT.DIVIDER_GAP;
-        return right > gapStart && left < gapEnd;
-      });
-
-      if (intersectsDividerGap) {
-        return null;
-      }
-
-      return {
-        left,
-        width: columnWidth,
-        color: columnColor,
-        sweepIntensity,
-      };
     });
 
     return {
       columns: nextColumns,
       dividers: nextDividers,
     };
-  }, [activeConversationIndex, conversationRanges, durationInFrames, frame, globalProgress]);
+  }, [activeConversationIndex, conversationRanges, durationInFrames, frame]);
 
   return (
     <div
@@ -110,10 +124,9 @@ export const ConversationProgressBar: React.FC<ConversationProgressBarProps> = (
         zIndex: 250,
       }}
     >
-      {columns.map((column, index) => (
-        column ? (
+      {columns.map((column) => (
         <div
-          key={`progress-column-${index}`}
+          key={`progress-column-${column.key}`}
           style={{
             position: "absolute",
             left: column.left,
@@ -127,7 +140,6 @@ export const ConversationProgressBar: React.FC<ConversationProgressBarProps> = (
                 : "none",
           }}
         />
-        ) : null
       ))}
 
       {dividers.map((divider, index) => (

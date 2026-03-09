@@ -30,6 +30,20 @@ export const PROGRESS_COLORS = {
   ACTIVE_SWEEP: "rgba(182,133,255,0.9)",
 } as const;
 
+export const AUDIO_VISUALIZER_LAYOUT = {
+  TOP: 1050,
+  WIDTH: 368,
+  HEIGHT: 96,
+  Z_INDEX: 170,
+} as const;
+
+export const AUDIO_VISUALIZER_COLORS = {
+  CORE: "rgba(255,255,255,0.96)",
+  PURPLE_GLOW: "rgba(182,133,255,0.92)",
+  DEPTH_SHADOW: "rgba(88,56,140,0.64)",
+  HAZE: "rgba(120,82,189,0.16)",
+} as const;
+
 /** Normalize a character name to a lookup key */
 export const toKey = (character: string) =>
   character.toLowerCase().replace(/\s+/g, "_");
