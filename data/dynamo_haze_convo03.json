@@ -1,0 +1,45 @@
+{
+  "id": "dynamo_haze_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_haze_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_haze_convo03_01.mp3",
+      "text": "Once I open the blackhole I'm going to be pretty exposed.",
+      "duration": 3.145
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_dynamo_haze_convo03_02",
+      "audioUrl": "audio/haze_match_start_dynamo_haze_convo03_02.mp3",
+      "text": "Don't worry professor, I'll do what I can to capitalize on the opportunity.",
+      "duration": 5.811
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_haze_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_haze_convo03_03.mp3",
+      "text": "I'm not worried about you capitalizing on the opportunity, I'm worried about dying in the process.",
+      "duration": 4.754
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_dynamo_haze_convo03_04",
+      "audioUrl": "audio/haze_match_start_dynamo_haze_convo03_04.mp3",
+      "text": "Your surival may not be a top priority, but it is still a priority.",
+      "duration": 5.52
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_haze_convo03_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_haze_convo03_05.mp3",
+      "text": "Great\u2026",
+      "duration": 0.927
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "graves_haze_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_haze_convo03_01",
+      "audioUrl": "audio/necro_match_start_necro_haze_convo03_01.mp3",
+      "text": "Surprised you're not trying to take the hand.",
+      "duration": 1.816
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_necro_haze_convo03_02",
+      "audioUrl": "audio/haze_match_start_necro_haze_convo03_02.mp3",
+      "text": "Curator's care about things, Sandmen care about people.  So until you become a threat to national security you're not my problem.",
+      "duration": 9.356
+    }
+  ]
+}

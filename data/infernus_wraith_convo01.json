@@ -1,0 +1,21 @@
+{
+  "id": "infernus_wraith_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_inferno_wraith_convo01_01",
+      "audioUrl": "audio/wraith_match_start_inferno_wraith_convo01_01.mp3",
+      "text": "It is going to be offensive how fast we burn down their objectives",
+      "duration": 3.555
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_wraith_convo01_02",
+      "audioUrl": "audio/inferno_match_start_inferno_wraith_convo01_02.mp3",
+      "text": "You know it.",
+      "duration": 0.823
+    }
+  ]
+}

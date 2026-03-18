@@ -1,0 +1,29 @@
+{
+  "id": "drifter_holliday_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_astro_convo02_01",
+      "audioUrl": "audio/drifter_match_start_drifter_astro_convo02_01.mp3",
+      "text": "Tie them down Holliday, and leave the rest to me.",
+      "duration": 3.249
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_drifter_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_drifter_astro_convo02_02.mp3",
+      "text": "I don't take orders from you.",
+      "duration": 1.663
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_astro_convo02_03",
+      "audioUrl": "audio/drifter_match_start_drifter_astro_convo02_03.mp3",
+      "text": "You want 'em dead? Tie 'em down for me.",
+      "duration": 3.22
+    }
+  ]
+}

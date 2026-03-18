@@ -1,0 +1,53 @@
+{
+  "id": "dynamo_vindicta_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_dynamo_hornet_convo03_01",
+      "audioUrl": "audio/hornet_match_start_dynamo_hornet_convo03_01.mp3",
+      "text": "You're a professor at Columbia, yes?",
+      "duration": 2.111
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_hornet_convo03_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_hornet_convo03_02.mp3",
+      "text": "Indeed I am",
+      "duration": 1.014
+    },
+    {
+      "order": 3,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_dynamo_hornet_convo03_03",
+      "audioUrl": "audio/hornet_match_start_dynamo_hornet_convo03_03.mp3",
+      "text": "Isn't that where John Hathorne will be speaking soon?",
+      "duration": 3.166
+    },
+    {
+      "order": 4,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_hornet_convo03_04",
+      "audioUrl": "audio/dynamo_match_start_dynamo_hornet_convo03_04.mp3",
+      "text": "Regretablly.",
+      "duration": 0.892
+    },
+    {
+      "order": 5,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_dynamo_hornet_convo03_05",
+      "audioUrl": "audio/hornet_match_start_dynamo_hornet_convo03_05.mp3",
+      "text": "If the ritual fails, we'll be speaking later.",
+      "duration": 3.319
+    },
+    {
+      "order": 6,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_hornet_convo03_06",
+      "audioUrl": "audio/dynamo_match_start_dynamo_hornet_convo03_06.mp3",
+      "text": "Ok.",
+      "duration": 1.412
+    }
+  ]
+}

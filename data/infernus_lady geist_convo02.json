@@ -1,0 +1,37 @@
+{
+  "id": "infernus_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_inferno_convo02_01",
+      "audioUrl": "audio/ghost_match_start_ghost_inferno_convo02_01.mp3",
+      "text": "How's Hank?",
+      "duration": 1.121
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_ghost_inferno_convo02_02",
+      "audioUrl": "audio/inferno_match_start_ghost_inferno_convo02_02.mp3",
+      "text": "He's nervous.  The bar's not pulling in what it used to and he's got a bunch of issues with The Alchemy Beuaru.",
+      "duration": 5.509
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_inferno_convo02_03",
+      "audioUrl": "audio/ghost_match_start_ghost_inferno_convo02_03.mp3",
+      "text": "Anything I can do to help?",
+      "duration": 1.87
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_ghost_inferno_convo02_04",
+      "audioUrl": "audio/inferno_match_start_ghost_inferno_convo02_04.mp3",
+      "text": "You're doing it right now.",
+      "duration": 1.287
+    }
+  ]
+}

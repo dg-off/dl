@@ -1,0 +1,53 @@
+{
+  "id": "haze_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_frank_haze_convo03_01",
+      "audioUrl": "audio/haze_match_start_frank_haze_convo03_01.mp3",
+      "text": "Are you ready?",
+      "duration": 1.666
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_haze_convo03_02",
+      "audioUrl": "audio/frank_match_start_frank_haze_convo03_02.mp3",
+      "text": "I'm not afraid.",
+      "duration": 1.189
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_frank_haze_convo03_03",
+      "audioUrl": "audio/haze_match_start_frank_haze_convo03_03.mp3",
+      "text": "That's different than being ready.",
+      "duration": 2.673
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_haze_convo03_04",
+      "audioUrl": "audio/frank_match_start_frank_haze_convo03_04.mp3",
+      "text": "I don't think anyone can prepare for something like this.",
+      "duration": 2.651
+    },
+    {
+      "order": 5,
+      "character": "Haze",
+      "audioFile": "haze_match_start_frank_haze_convo03_05",
+      "audioUrl": "audio/haze_match_start_frank_haze_convo03_05.mp3",
+      "text": "Are you kidding me?  There's a mountain of things you can do to prepare.  Drills, research, streaching\u2026 and that's not even dipping our toes in divination and fortu-",
+      "duration": 11.809
+    },
+    {
+      "order": 6,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_haze_convo03_06",
+      "audioUrl": "audio/frank_match_start_frank_haze_convo03_06.mp3",
+      "text": "OK, no I'm not ready.",
+      "duration": 1.809
+    }
+  ]
+}

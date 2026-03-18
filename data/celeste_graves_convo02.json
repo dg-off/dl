@@ -1,0 +1,37 @@
+{
+  "id": "celeste_graves_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_necro_convo02_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_necro_convo02_01.mp3",
+      "text": "Ever thought about leaving home for the circus?",
+      "duration": 2.645
+    },
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_unicorn_necro_convo02_02",
+      "audioUrl": "audio/necro_match_start_unicorn_necro_convo02_02.mp3",
+      "text": "My parents have penthouse in midtown, what do you think?",
+      "duration": 3.017
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_necro_convo02_03",
+      "audioUrl": "audio/unicorn_match_start_unicorn_necro_convo02_03.mp3",
+      "text": "Proably not.",
+      "duration": 0.988
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_unicorn_necro_convo02_04",
+      "audioUrl": "audio/necro_match_start_unicorn_necro_convo02_04.mp3",
+      "text": "Got it in one.",
+      "duration": 0.979
+    }
+  ]
+}

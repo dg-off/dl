@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_lady geist_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_ghost_orion_convo03_01",
+      "audioUrl": "audio/orion_match_start_ghost_orion_convo03_01.mp3",
+      "text": "You know, you're lucky.  If The Baxter Society knew about your arrangement with Oathkeeper they probably would have put you in the ground.",
+      "duration": 8.076
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_orion_convo03_02",
+      "audioUrl": "audio/ghost_match_start_ghost_orion_convo03_02.mp3",
+      "text": "Don't be dramatic, the Baxter Society hunts rampaging monsters; not spirits under lock and key.",
+      "duration": 6.6
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_ghost_orion_convo03_03",
+      "audioUrl": "audio/orion_match_start_ghost_orion_convo03_03.mp3",
+      "text": "Oathkeeper's not the rampaging monster.",
+      "duration": 2.665
+    }
+  ]
+}

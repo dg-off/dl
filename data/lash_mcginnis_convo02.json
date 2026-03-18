@@ -1,0 +1,21 @@
+{
+  "id": "lash_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_forge_convo02_01",
+      "audioUrl": "audio/lash_match_start_lash_forge_convo02_01.mp3",
+      "text": "Are you ready to watch greatness in action?",
+      "duration": 2.524
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_lash_forge_convo02_02",
+      "audioUrl": "audio/forge_match_start_lash_forge_convo02_02.mp3",
+      "text": "Are you?",
+      "duration": 0.695
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "lash_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_frank_lash_convo03_01",
+      "audioUrl": "audio/lash_match_start_frank_lash_convo03_01.mp3",
+      "text": "Here's the plan corpseboy, you draw their fire, and I'll swing in and save the day.",
+      "duration": 5.316
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_lash_convo03_02",
+      "audioUrl": "audio/frank_match_start_frank_lash_convo03_02.mp3",
+      "text": "by the time you \"save the day\" they'll be laughing over my dead body.",
+      "duration": 3.684
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_frank_lash_convo03_03",
+      "audioUrl": "audio/lash_match_start_frank_lash_convo03_03.mp3",
+      "text": "Exactly.  That's when The Lash catches them flatfooted.",
+      "duration": 4.308
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_lash_convo03_04",
+      "audioUrl": "audio/frank_match_start_frank_lash_convo03_04.mp3",
+      "text": "What good does that do me?",
+      "duration": 1.585
+    },
+    {
+      "order": 5,
+      "character": "Lash",
+      "audioFile": "lash_match_start_frank_lash_convo03_05",
+      "audioUrl": "audio/lash_match_start_frank_lash_convo03_05.mp3",
+      "text": "It gives your sad life meaning.  And that should be enough.",
+      "duration": 3.747
+    }
+  ]
+}

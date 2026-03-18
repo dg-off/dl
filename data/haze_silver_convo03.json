@@ -1,0 +1,53 @@
+{
+  "id": "haze_silver_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_haze_convo03_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_haze_convo03_01.mp3",
+      "text": "Never met a Sandman before.",
+      "duration": 1.917
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_werewolf_haze_convo03_02",
+      "audioUrl": "audio/haze_match_start_werewolf_haze_convo03_02.mp3",
+      "text": "Probably means you're living your life right.",
+      "duration": 3.051
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_haze_convo03_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_haze_convo03_03.mp3",
+      "text": "I really doubt that.",
+      "duration": 1.642
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_werewolf_haze_convo03_04",
+      "audioUrl": "audio/haze_match_start_werewolf_haze_convo03_04.mp3",
+      "text": "You probably shouldn't tell me that.",
+      "duration": 3.045
+    },
+    {
+      "order": 5,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_haze_convo03_05",
+      "audioUrl": "audio/werewolf_match_start_werewolf_haze_convo03_05.mp3",
+      "text": "I'mma focus on the ritual.",
+      "duration": 1.573
+    },
+    {
+      "order": 6,
+      "character": "Haze",
+      "audioFile": "haze_match_start_werewolf_haze_convo03_06",
+      "audioUrl": "audio/haze_match_start_werewolf_haze_convo03_06.mp3",
+      "text": "Good plan.",
+      "duration": 1.713
+    }
+  ]
+}

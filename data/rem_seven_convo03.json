@@ -1,0 +1,45 @@
+{
+  "id": "rem_seven_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_familiar_gigawatt_convo03_01",
+      "audioUrl": "audio/gigawatt_match_start_familiar_gigawatt_convo03_01.mp3",
+      "text": "Creature, listen to me.",
+      "duration": 1.873
+    },
+    {
+      "order": 2,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_gigawatt_convo03_02",
+      "audioUrl": "audio/familiar_match_start_familiar_gigawatt_convo03_02.mp3",
+      "text": "My name's Rem.",
+      "duration": 2.227
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_familiar_gigawatt_convo03_03",
+      "audioUrl": "audio/gigawatt_match_start_familiar_gigawatt_convo03_03.mp3",
+      "text": "Fine.  Rem.  Listen to me.  If the ritual fails and you are on your own, stay away from anyone who mentions the OSIC.",
+      "duration": 11.657
+    },
+    {
+      "order": 4,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_gigawatt_convo03_04",
+      "audioUrl": "audio/familiar_match_start_familiar_gigawatt_convo03_04.mp3",
+      "text": "Why?",
+      "duration": 1.641
+    },
+    {
+      "order": 5,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_familiar_gigawatt_convo03_05",
+      "audioUrl": "audio/gigawatt_match_start_familiar_gigawatt_convo03_05.mp3",
+      "text": "They will not help you get home.  Trust me.",
+      "duration": 3.744
+    }
+  ]
+}

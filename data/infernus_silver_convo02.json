@@ -1,0 +1,37 @@
+{
+  "id": "infernus_silver_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_inferno_convo02_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_inferno_convo02_01.mp3",
+      "text": "You sure you want to do this?",
+      "duration": 1.609
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_werewolf_inferno_convo02_02",
+      "audioUrl": "audio/inferno_match_start_werewolf_inferno_convo02_02.mp3",
+      "text": "Hank needs me, can't let him down.",
+      "duration": 2.287
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_inferno_convo02_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_inferno_convo02_03.mp3",
+      "text": "Are you nervous?",
+      "duration": 0.94
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_werewolf_inferno_convo02_04",
+      "audioUrl": "audio/inferno_match_start_werewolf_inferno_convo02_04.mp3",
+      "text": "Only that I'll like it.",
+      "duration": 1.242
+    }
+  ]
+}

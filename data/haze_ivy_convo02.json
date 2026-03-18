@@ -1,0 +1,53 @@
+{
+  "id": "haze_ivy_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_haze_tengu_convo02_01",
+      "audioUrl": "audio/tengu_match_start_haze_tengu_convo02_01.mp3",
+      "text": "Ms. Haze, do you think I'd be a good fit for the OSIC?",
+      "duration": 3.736
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_tengu_convo02_02",
+      "audioUrl": "audio/haze_match_start_haze_tengu_convo02_02.mp3",
+      "text": "No.",
+      "duration": 1.539
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_haze_tengu_convo02_03",
+      "audioUrl": "audio/tengu_match_start_haze_tengu_convo02_03.mp3",
+      "text": "Really?  Why.",
+      "duration": 1.69
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_tengu_convo02_04",
+      "audioUrl": "audio/haze_match_start_haze_tengu_convo02_04.mp3",
+      "text": "You have a big heart.",
+      "duration": 2.084
+    },
+    {
+      "order": 5,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_haze_tengu_convo02_05",
+      "audioUrl": "audio/tengu_match_start_haze_tengu_convo02_05.mp3",
+      "text": "That's not a bad thing.",
+      "duration": 1.584
+    },
+    {
+      "order": 6,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_tengu_convo02_06",
+      "audioUrl": "audio/haze_match_start_haze_tengu_convo02_06.mp3",
+      "text": "Of course not.  But it means the bad days would stay with you.  And in our line of work you can't let it.",
+      "duration": 6.7
+    }
+  ]
+}

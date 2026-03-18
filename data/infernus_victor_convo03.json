@@ -1,0 +1,61 @@
+{
+  "id": "infernus_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_frank_inferno_convo03_01",
+      "audioUrl": "audio/inferno_match_start_frank_inferno_convo03_01.mp3",
+      "text": "You figure out where any of you came from yet?",
+      "duration": 1.889
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_inferno_convo03_02",
+      "audioUrl": "audio/frank_match_start_frank_inferno_convo03_02.mp3",
+      "text": "No.",
+      "duration": 0.818
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_frank_inferno_convo03_03",
+      "audioUrl": "audio/inferno_match_start_frank_inferno_convo03_03.mp3",
+      "text": "I'm sorry man.",
+      "duration": 1.119
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_inferno_convo03_04",
+      "audioUrl": "audio/frank_match_start_frank_inferno_convo03_04.mp3",
+      "text": "For a while I thought my left foot belonged to an accordion player in Milwaukee that was ritually murdered\u2026 turns out he had already lost the foot to gangreen , so that was 4 hours on a greyhound I'm never getting back.",
+      "duration": 9.613
+    },
+    {
+      "order": 5,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_frank_inferno_convo03_05",
+      "audioUrl": "audio/inferno_match_start_frank_inferno_convo03_05.mp3",
+      "text": "Oh\u2026",
+      "duration": 0.848
+    },
+    {
+      "order": 6,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_inferno_convo03_06",
+      "audioUrl": "audio/frank_match_start_frank_inferno_convo03_06.mp3",
+      "text": "This other time there was a dad in-",
+      "duration": 1.784
+    },
+    {
+      "order": 7,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_frank_inferno_convo03_07",
+      "audioUrl": "audio/inferno_match_start_frank_inferno_convo03_07.mp3",
+      "text": "Hey, they uh, ritual is starting\u2026",
+      "duration": 2.05
+    }
+  ]
+}

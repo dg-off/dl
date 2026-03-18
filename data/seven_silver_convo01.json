@@ -1,0 +1,21 @@
+{
+  "id": "seven_silver_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_werewolf_gigawatt_convo01_01",
+      "audioUrl": "audio/gigawatt_match_start_werewolf_gigawatt_convo01_01.mp3",
+      "text": "Keeping a close eye on me?",
+      "duration": 2.024
+    },
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_gigawatt_convo01_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_gigawatt_convo01_02.mp3",
+      "text": "Seven, I don't do my job out of a sense of justice. I do it to pay rent. And if we win today, that won't be a problem anymore. So trust me, I got no problem working with you if it means we win.",
+      "duration": 11.589
+    }
+  ]
+}

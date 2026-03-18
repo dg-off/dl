@@ -1,0 +1,37 @@
+{
+  "id": "kelvin_lash_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_lash_kelvin_convo03_01",
+      "audioUrl": "audio/kelvin_match_start_lash_kelvin_convo03_01.mp3",
+      "text": "You should be kinder to people Lash",
+      "duration": 2.17
+    },
+    {
+      "order": 2,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_kelvin_convo03_02",
+      "audioUrl": "audio/lash_match_start_lash_kelvin_convo03_02.mp3",
+      "text": "The Lash rejects the premise of your argument.",
+      "duration": 3.246
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_lash_kelvin_convo03_03",
+      "audioUrl": "audio/kelvin_match_start_lash_kelvin_convo03_03.mp3",
+      "text": "I'm not making an argument, I'm asking you to be nicer.",
+      "duration": 3.416
+    },
+    {
+      "order": 4,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_kelvin_convo03_04",
+      "audioUrl": "audio/lash_match_start_lash_kelvin_convo03_04.mp3",
+      "text": "Kelvin: where you there when I broke someone's left arm because they were right handed?  Or when I pointed out that a woman's baby looked stupid wearing a headband bow?  The Lash needs to be nicer? No\u2026 The lash is a humanitarian through and through",
+      "duration": 17.997
+    }
+  ]
+}

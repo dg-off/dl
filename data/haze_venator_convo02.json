@@ -1,0 +1,45 @@
+{
+  "id": "haze_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_haze_convo02_01",
+      "audioUrl": "audio/priest_match_start_priest_haze_convo02_01.mp3",
+      "text": "You ever work with a Venator before?",
+      "duration": 1.88
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_priest_haze_convo02_02",
+      "audioUrl": "audio/haze_match_start_priest_haze_convo02_02.mp3",
+      "text": "No.",
+      "duration": 1.489
+    },
+    {
+      "order": 3,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_haze_convo02_03",
+      "audioUrl": "audio/priest_match_start_priest_haze_convo02_03.mp3",
+      "text": "Well just to set expectations we can be\u2026 a bit exhuberant in our methods.",
+      "duration": 6.552
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_priest_haze_convo02_04",
+      "audioUrl": "audio/haze_match_start_priest_haze_convo02_04.mp3",
+      "text": "I appreciate the importance of being thorough .",
+      "duration": 3.552
+    },
+    {
+      "order": 5,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_haze_convo02_05",
+      "audioUrl": "audio/priest_match_start_priest_haze_convo02_05.mp3",
+      "text": "Then we should have no problems",
+      "duration": 1.733
+    }
+  ]
+}

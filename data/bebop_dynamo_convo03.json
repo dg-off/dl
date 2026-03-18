@@ -1,0 +1,53 @@
+{
+  "id": "bebop_dynamo_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_bebop_dynamo_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_bebop_dynamo_convo03_01.mp3",
+      "text": "You know you seem remarkably polite for a pit fighter.",
+      "duration": 3.418
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_dynamo_convo03_02",
+      "audioUrl": "audio/bebop_match_start_bebop_dynamo_convo03_02.mp3",
+      "text": "Ms Shelly stresses the importance of ettiquette",
+      "duration": 2.555
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_bebop_dynamo_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_bebop_dynamo_convo03_03.mp3",
+      "text": "Who's that.",
+      "duration": 0.63
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_dynamo_convo03_04",
+      "audioUrl": "audio/bebop_match_start_bebop_dynamo_convo03_04.mp3",
+      "text": "My creator.  Very kind woman.",
+      "duration": 3.076
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_bebop_dynamo_convo03_05",
+      "audioUrl": "audio/dynamo_match_start_bebop_dynamo_convo03_05.mp3",
+      "text": "Well she should be proud of her son",
+      "duration": 1.79
+    },
+    {
+      "order": 6,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_dynamo_convo03_06",
+      "audioUrl": "audio/bebop_match_start_bebop_dynamo_convo03_06.mp3",
+      "text": "I like to think she is.",
+      "duration": 1.529
+    }
+  ]
+}

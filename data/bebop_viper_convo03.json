@@ -1,0 +1,37 @@
+{
+  "id": "bebop_viper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_viper_bebop_convo03_01",
+      "audioUrl": "audio/bebop_match_start_viper_bebop_convo03_01.mp3",
+      "text": "Surprised you're not in prison.",
+      "duration": 2.092
+    },
+    {
+      "order": 2,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_bebop_convo03_02",
+      "audioUrl": "audio/viper_match_start_viper_bebop_convo03_02.mp3",
+      "text": "Yeah me too.",
+      "duration": 1.077
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_viper_bebop_convo03_03",
+      "audioUrl": "audio/bebop_match_start_viper_bebop_convo03_03.mp3",
+      "text": "Are you supposed to be in prison?",
+      "duration": 1.954
+    },
+    {
+      "order": 4,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_bebop_convo03_04",
+      "audioUrl": "audio/viper_match_start_viper_bebop_convo03_04.mp3",
+      "text": "I mean, I killed my parole officer so probably - that's a joke, I got jokes - he probably survived.",
+      "duration": 6.952
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "apollo_celeste_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_fencer_convo02_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_fencer_convo02_01.mp3",
+      "text": "You're not like the other Blackmore Kids.",
+      "duration": 2.361
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_unicorn_fencer_convo02_02",
+      "audioUrl": "audio/fencer_match_start_unicorn_fencer_convo02_02.mp3",
+      "text": "Of course I'm not.  I'm better than them.",
+      "duration": 2.604
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_fencer_convo02_03",
+      "audioUrl": "audio/unicorn_match_start_unicorn_fencer_convo02_03.mp3",
+      "text": "Nevermind .  You're just like the other Blackmore kids.",
+      "duration": 3.305
+    }
+  ]
+}

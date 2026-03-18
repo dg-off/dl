@@ -1,0 +1,45 @@
+{
+  "id": "drifter_haze_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_haze_convo03_01",
+      "audioUrl": "audio/drifter_match_start_drifter_haze_convo03_01.mp3",
+      "text": "Smile Haze, you're gonna like killing people with me.",
+      "duration": 3.93
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_drifter_haze_convo03_02",
+      "audioUrl": "audio/haze_match_start_drifter_haze_convo03_02.mp3",
+      "text": "Being good at something and liking something are two different things.",
+      "duration": 4.63
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_haze_convo03_03",
+      "audioUrl": "audio/drifter_match_start_drifter_haze_convo03_03.mp3",
+      "text": "Lifes more fun when you accept who you are Haze\u2026",
+      "duration": 3.643
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_drifter_haze_convo03_04",
+      "audioUrl": "audio/haze_match_start_drifter_haze_convo03_04.mp3",
+      "text": "Thanks for the advice.",
+      "duration": 2.271
+    },
+    {
+      "order": 5,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_haze_convo03_05",
+      "audioUrl": "audio/drifter_match_start_drifter_haze_convo03_05.mp3",
+      "text": "It's true.",
+      "duration": 1.204
+    }
+  ]
+}

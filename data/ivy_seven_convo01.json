@@ -1,0 +1,21 @@
+{
+  "id": "ivy_seven_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_gigawatt_tengu_convo01_01",
+      "audioUrl": "audio/tengu_match_start_gigawatt_tengu_convo01_01.mp3",
+      "text": "I'm not sure how I feel about working with you",
+      "duration": 2.754
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_tengu_convo01_02",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_tengu_convo01_02.mp3",
+      "text": "Greatful.  You should feel greatful.",
+      "duration": 3.089
+    }
+  ]
+}

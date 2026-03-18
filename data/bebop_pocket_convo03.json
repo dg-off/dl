@@ -1,0 +1,21 @@
+{
+  "id": "bebop_pocket_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_bebop_synth_convo03_01",
+      "audioUrl": "audio/synth_match_start_bebop_synth_convo03_01.mp3",
+      "text": "Why do hate Lash?",
+      "duration": 1.353
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_synth_convo03_02",
+      "audioUrl": "audio/bebop_match_start_bebop_synth_convo03_02.mp3",
+      "text": "He's Lash.",
+      "duration": 1.32
+    }
+  ]
+}

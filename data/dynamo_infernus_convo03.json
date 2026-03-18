@@ -1,0 +1,29 @@
+{
+  "id": "dynamo_infernus_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_inferno_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_inferno_convo03_01.mp3",
+      "text": "You don't seem particularly nervous",
+      "duration": 2.046
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_dynamo_inferno_convo03_02",
+      "audioUrl": "audio/inferno_match_start_dynamo_inferno_convo03_02.mp3",
+      "text": "Not my first time lighting things on fire.",
+      "duration": 2.033
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_inferno_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_inferno_convo03_03.mp3",
+      "text": "That's good.  I think.",
+      "duration": 1.734
+    }
+  ]
+}

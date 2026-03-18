@@ -1,0 +1,29 @@
+{
+  "id": "infernus_yamato_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_yamato_inferno_convo02_01",
+      "audioUrl": "audio/inferno_match_start_yamato_inferno_convo02_01.mp3",
+      "text": "You wanna come up with a plan.",
+      "duration": 1.493
+    },
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_inferno_convo02_02",
+      "audioUrl": "audio/yamato_match_start_yamato_inferno_convo02_02.mp3",
+      "text": "I have one.  Kill them all and ignore your existance.",
+      "duration": 3.661
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_yamato_inferno_convo02_03",
+      "audioUrl": "audio/inferno_match_start_yamato_inferno_convo02_03.mp3",
+      "text": "It's gonna be a long day\u2026",
+      "duration": 1.839
+    }
+  ]
+}

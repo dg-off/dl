@@ -1,0 +1,61 @@
+{
+  "id": "lady geist_paradox_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_chrono_convo02_01",
+      "audioUrl": "audio/ghost_match_start_ghost_chrono_convo02_01.mp3",
+      "text": "You know I've been to the Paradox Museum last summer.",
+      "duration": 3.175
+    },
+    {
+      "order": 2,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_ghost_chrono_convo02_02",
+      "audioUrl": "audio/chrono_match_start_ghost_chrono_convo02_02.mp3",
+      "text": "Did you enjoy yourself?",
+      "duration": 1.594
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_chrono_convo02_03",
+      "audioUrl": "audio/ghost_match_start_ghost_chrono_convo02_03.mp3",
+      "text": "I found it clich\u00e9 and overwrought.",
+      "duration": 2.551
+    },
+    {
+      "order": 4,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_ghost_chrono_convo02_04",
+      "audioUrl": "audio/chrono_match_start_ghost_chrono_convo02_04.mp3",
+      "text": "Excuse me?",
+      "duration": 1.359
+    },
+    {
+      "order": 5,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_chrono_convo02_05",
+      "audioUrl": "audio/ghost_match_start_ghost_chrono_convo02_05.mp3",
+      "text": "It was a multimillion exhibition with the emotional depth of a 10th grader writing \"I will rage against conformity\" in their poetry unit of remidial english",
+      "duration": 9.407
+    },
+    {
+      "order": 6,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_ghost_chrono_convo02_06",
+      "audioUrl": "audio/chrono_match_start_ghost_chrono_convo02_06.mp3",
+      "text": "It had a Hellenistic bust of Homer",
+      "duration": 2.549
+    },
+    {
+      "order": 7,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_chrono_convo02_07",
+      "audioUrl": "audio/ghost_match_start_ghost_chrono_convo02_07.mp3",
+      "text": "Homer is also overwrought",
+      "duration": 2.527
+    }
+  ]
+}

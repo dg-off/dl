@@ -1,0 +1,29 @@
+{
+  "id": "billy_ivy_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_punkgoat_tengu_convo03_01",
+      "audioUrl": "audio/tengu_match_start_punkgoat_tengu_convo03_01.mp3",
+      "text": "Hey, Billy\u2026 so I was wondering\u2026",
+      "duration": 3.08
+    },
+    {
+      "order": 2,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_tengu_convo03_02",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_tengu_convo03_02.mp3",
+      "text": "You ask me how I got the goat head I'll bash your skull in",
+      "duration": 3.709
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_punkgoat_tengu_convo03_03",
+      "audioUrl": "audio/tengu_match_start_punkgoat_tengu_convo03_03.mp3",
+      "text": "What?  People ask about that?  That'd be crazy.",
+      "duration": 3.532
+    }
+  ]
+}

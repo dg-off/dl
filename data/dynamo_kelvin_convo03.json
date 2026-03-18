@@ -1,0 +1,61 @@
+{
+  "id": "dynamo_kelvin_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_dynamo_kelvin_convo03_01",
+      "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo03_01.mp3",
+      "text": "How's Marla doing?",
+      "duration": 1.769
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_kelvin_convo03_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo03_02.mp3",
+      "text": "Good.  Our anniversary's coming up.",
+      "duration": 1.958
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_dynamo_kelvin_convo03_03",
+      "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo03_03.mp3",
+      "text": "Wonderful!  How long?",
+      "duration": 2.655
+    },
+    {
+      "order": 4,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_kelvin_convo03_04",
+      "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo03_04.mp3",
+      "text": "31 years.",
+      "duration": 1.396
+    },
+    {
+      "order": 5,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_dynamo_kelvin_convo03_05",
+      "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo03_05.mp3",
+      "text": "You picked out a gift yet?",
+      "duration": 1.711
+    },
+    {
+      "order": 6,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_kelvin_convo03_06",
+      "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo03_06.mp3",
+      "text": "Well, I'm hoping my body.  But if not, I've got an eye on some books.",
+      "duration": 4.635
+    },
+    {
+      "order": 7,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_dynamo_kelvin_convo03_07",
+      "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo03_07.mp3",
+      "text": "You won't have to settle, Professor.  We'll win this day.",
+      "duration": 4.456
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dynamo_infernus_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_inferno_convo02_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_inferno_convo02_01.mp3",
+      "text": "May I ask a favor Infernus?",
+      "duration": 1.708
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_dynamo_inferno_convo02_02",
+      "audioUrl": "audio/inferno_match_start_dynamo_inferno_convo02_02.mp3",
+      "text": "Sure.  We surive this I figure I'll owe you one.",
+      "duration": 3.209
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_inferno_convo02_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_inferno_convo02_03.mp3",
+      "text": "I was thinking of buying a hat and I would love it if you'd join me at the haberdashery.",
+      "duration": 3.792
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_dynamo_inferno_convo02_04",
+      "audioUrl": "audio/inferno_match_start_dynamo_inferno_convo02_04.mp3",
+      "text": "Professor, you don't gotta waste a favor on that, I got you.",
+      "duration": 2.996
+    }
+  ]
+}

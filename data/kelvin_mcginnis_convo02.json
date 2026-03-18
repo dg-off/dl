@@ -1,0 +1,69 @@
+{
+  "id": "kelvin_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_kelvin_forge_convo02_01",
+      "audioUrl": "audio/forge_match_start_kelvin_forge_convo02_01.mp3",
+      "text": "I'm looking forward to working with you Kevin.",
+      "duration": 1.863
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_forge_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_kelvin_forge_convo02_02.mp3",
+      "text": "Kelvin.",
+      "duration": 1.064
+    },
+    {
+      "order": 3,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_kelvin_forge_convo02_03",
+      "audioUrl": "audio/forge_match_start_kelvin_forge_convo02_03.mp3",
+      "text": "That's what I said.",
+      "duration": 0.957
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_forge_convo02_04",
+      "audioUrl": "audio/kelvin_match_start_kelvin_forge_convo02_04.mp3",
+      "text": "I'm pretty sure you said Kevin.",
+      "duration": 2.556
+    },
+    {
+      "order": 5,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_kelvin_forge_convo02_05",
+      "audioUrl": "audio/forge_match_start_kelvin_forge_convo02_05.mp3",
+      "text": "Psh, no.",
+      "duration": 1.228
+    },
+    {
+      "order": 6,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_forge_convo02_06",
+      "audioUrl": "audio/kelvin_match_start_kelvin_forge_convo02_06.mp3",
+      "text": "Yes.",
+      "duration": 0.941
+    },
+    {
+      "order": 7,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_kelvin_forge_convo02_07",
+      "audioUrl": "audio/forge_match_start_kelvin_forge_convo02_07.mp3",
+      "text": "I think I know what I said.",
+      "duration": 1.21
+    },
+    {
+      "order": 8,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_forge_convo02_08",
+      "audioUrl": "audio/kelvin_match_start_kelvin_forge_convo02_08.mp3",
+      "text": "I think you do too.",
+      "duration": 1.678
+    }
+  ]
+}

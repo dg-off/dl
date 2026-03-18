@@ -1,0 +1,37 @@
+{
+  "id": "kelvin_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_ghost_kelvin_convo02_01",
+      "audioUrl": "audio/kelvin_match_start_ghost_kelvin_convo02_01.mp3",
+      "text": "You seem to be short on friends Lady Geist",
+      "duration": 3.101
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_kelvin_convo02_02",
+      "audioUrl": "audio/ghost_match_start_ghost_kelvin_convo02_02.mp3",
+      "text": "I don't need friends, that's what money's for.",
+      "duration": 3.477
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_ghost_kelvin_convo02_03",
+      "audioUrl": "audio/kelvin_match_start_ghost_kelvin_convo02_03.mp3",
+      "text": "That way of thinking is a fast path to a lonely life\u2026 you'll realize that when you're older.",
+      "duration": 5.881
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_kelvin_convo02_04",
+      "audioUrl": "audio/ghost_match_start_ghost_kelvin_convo02_04.mp3",
+      "text": "Kelvin.  Believe me when I tell you that you have no idea what you're talking about.",
+      "duration": 5.194
+    }
+  ]
+}

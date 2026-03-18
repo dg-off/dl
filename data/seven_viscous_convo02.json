@@ -1,0 +1,53 @@
+{
+  "id": "seven_viscous_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_gigawatt_viscous_convo02_01",
+      "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo02_01.mp3",
+      "text": "So what do you do?",
+      "duration": 1.6
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_viscous_convo02_02",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo02_02.mp3",
+      "text": "Strive for apotheosis",
+      "duration": 1.915
+    },
+    {
+      "order": 3,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_gigawatt_viscous_convo02_03",
+      "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo02_03.mp3",
+      "text": "That's a big word.",
+      "duration": 1.901
+    },
+    {
+      "order": 4,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_viscous_convo02_04",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo02_04.mp3",
+      "text": "Indeed.",
+      "duration": 1.135
+    },
+    {
+      "order": 5,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_gigawatt_viscous_convo02_05",
+      "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo02_05.mp3",
+      "text": "What's it mean?",
+      "duration": 1.459
+    },
+    {
+      "order": 6,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_viscous_convo02_06",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo02_06.mp3",
+      "text": "Once we summon the patron you'll see for yourelf.",
+      "duration": 3.085
+    }
+  ]
+}

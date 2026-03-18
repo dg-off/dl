@@ -1,0 +1,37 @@
+{
+  "id": "drifter_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_drifter_wraith_convo03_01",
+      "audioUrl": "audio/wraith_match_start_drifter_wraith_convo03_01.mp3",
+      "text": "Glad you're on our side Drifter",
+      "duration": 1.714
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_wraith_convo03_02",
+      "audioUrl": "audio/drifter_match_start_drifter_wraith_convo03_02.mp3",
+      "text": "You should be Wraith, otherwise I-",
+      "duration": 2.86
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_drifter_wraith_convo03_03",
+      "audioUrl": "audio/wraith_match_start_drifter_wraith_convo03_03.mp3",
+      "text": "No need to threaten me, I'm already scared of you.",
+      "duration": 2.961
+    },
+    {
+      "order": 4,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_wraith_convo03_04",
+      "audioUrl": "audio/drifter_match_start_drifter_wraith_convo03_04.mp3",
+      "text": "Very good.",
+      "duration": 2.571
+    }
+  ]
+}

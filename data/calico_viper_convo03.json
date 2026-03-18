@@ -1,0 +1,45 @@
+{
+  "id": "calico_viper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_nano_convo03_01",
+      "audioUrl": "audio/viper_match_start_viper_nano_convo03_01.mp3",
+      "text": "3 bucks for your cat.",
+      "duration": 1.202
+    },
+    {
+      "order": 2,
+      "character": "Calico",
+      "audioFile": "nano_match_start_viper_nano_convo03_02",
+      "audioUrl": "audio/nano_match_start_viper_nano_convo03_02.mp3",
+      "text": "She's not for sale.",
+      "duration": 1.099
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_nano_convo03_03",
+      "audioUrl": "audio/viper_match_start_viper_nano_convo03_03.mp3",
+      "text": "Tell ya what, I'll bump it up to a crisp lincoln.",
+      "duration": 2.074
+    },
+    {
+      "order": 4,
+      "character": "Calico",
+      "audioFile": "nano_match_start_viper_nano_convo03_04",
+      "audioUrl": "audio/nano_match_start_viper_nano_convo03_04.mp3",
+      "text": "Vyper, there are some who may find your pathetic nature endearing.  I am not one of them.  So let me lay down ground rules.  If you touch my cat, I'll take your hand.  If you hurt my cat, I'll kill you.  And if for some pruno addled reason you decide that it's a good idea to steal my cat, you will pray for a death that will not come.",
+      "duration": 17.639
+    },
+    {
+      "order": 5,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_nano_convo03_05",
+      "audioUrl": "audio/viper_match_start_viper_nano_convo03_05.mp3",
+      "text": "I like the way you threaten people C, we're gonna be best friends I can tell.",
+      "duration": 4.893
+    }
+  ]
+}

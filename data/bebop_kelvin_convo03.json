@@ -1,0 +1,37 @@
+{
+  "id": "bebop_kelvin_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_kelvin_convo03_01",
+      "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo03_01.mp3",
+      "text": "Thank you Kelvin.",
+      "duration": 1.24
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_bebop_kelvin_convo03_02",
+      "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo03_02.mp3",
+      "text": "I haven't done anything yet.",
+      "duration": 1.954
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_kelvin_convo03_03",
+      "audioUrl": "audio/bebop_match_start_bebop_kelvin_convo03_03.mp3",
+      "text": "Ms. Shelly loved reading about your adventures.  When you disappeared it was sad thinking  about her not being able to read a new one before she died.  But now that you're back there's hope for one more story.",
+      "duration": 11.614
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_bebop_kelvin_convo03_04",
+      "audioUrl": "audio/kelvin_match_start_bebop_kelvin_convo03_04.mp3",
+      "text": "They'll be more than one my friend.",
+      "duration": 2.531
+    }
+  ]
+}

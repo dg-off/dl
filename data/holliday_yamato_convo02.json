@@ -1,0 +1,29 @@
+{
+  "id": "holliday_yamato_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_astro_convo02_01",
+      "audioUrl": "audio/yamato_match_start_yamato_astro_convo02_01.mp3",
+      "text": "in japanese \" So you're Murphy's lover, yes?\" - \u3042\u3093\u305f\u304c\u30de\u30fc\u30d5\u30a3\u306e\u5973\u304b\uff1f",
+      "duration": 1.751
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_yamato_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_yamato_astro_convo02_02.mp3",
+      "text": "What did you say about Murphy?",
+      "duration": 1.932
+    },
+    {
+      "order": 3,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_astro_convo02_03",
+      "audioUrl": "audio/yamato_match_start_yamato_astro_convo02_03.mp3",
+      "text": "Don't worry Sheriff.  Play your part and he lives.",
+      "duration": 3.671
+    }
+  ]
+}

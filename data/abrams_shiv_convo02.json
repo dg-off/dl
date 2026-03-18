@@ -1,0 +1,21 @@
+{
+  "id": "abrams_shiv_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_shiv_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_shiv_convo02_01.mp3",
+      "text": "How long it take you to do your hair",
+      "duration": 2.488
+    },
+    {
+      "order": 2,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_atlas_shiv_convo02_02",
+      "audioUrl": "audio/shiv_match_start_atlas_shiv_convo02_02.mp3",
+      "text": "Please, I wake up looking this pretty.",
+      "duration": 3.09
+    }
+  ]
+}

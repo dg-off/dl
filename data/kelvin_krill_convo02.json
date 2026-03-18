@@ -1,0 +1,29 @@
+{
+  "id": "kelvin_krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_krill_convo02_01",
+      "audioUrl": "audio/kelvin_match_start_kelvin_krill_convo02_01.mp3",
+      "text": "Your friendship is inspiring to behold",
+      "duration": 3.175
+    },
+    {
+      "order": 2,
+      "character": "Krill",
+      "audioFile": "krill_match_start_kelvin_krill_convo02_02",
+      "audioUrl": "audio/krill_match_start_kelvin_krill_convo02_02.mp3",
+      "text": "Respect and certain death have a way of binding people together don't they.",
+      "duration": 5.035
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_krill_convo02_03",
+      "audioUrl": "audio/kelvin_match_start_kelvin_krill_convo02_03.mp3",
+      "text": "Yes.  Yes they do\u2026",
+      "duration": 2.721
+    }
+  ]
+}

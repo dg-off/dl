@@ -1,0 +1,45 @@
+{
+  "id": "mirage_viper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_mirage_convo02_01",
+      "audioUrl": "audio/viper_match_start_viper_mirage_convo02_01.mp3",
+      "text": "Why you got a girl in a bottle?",
+      "duration": 1.761
+    },
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_viper_mirage_convo02_02",
+      "audioUrl": "audio/mirage_match_start_viper_mirage_convo02_02.mp3",
+      "text": "That's my employer,  Ambasador Nashala.",
+      "duration": 3.051
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_mirage_convo02_03",
+      "audioUrl": "audio/viper_match_start_viper_mirage_convo02_03.mp3",
+      "text": "Whaddya say I throw her into the Hudson so we can run off together?",
+      "duration": 4.22
+    },
+    {
+      "order": 4,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_viper_mirage_convo02_04",
+      "audioUrl": "audio/mirage_match_start_viper_mirage_convo02_04.mp3",
+      "text": "Do not touch her if you value your life.",
+      "duration": 2.691
+    },
+    {
+      "order": 5,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_mirage_convo02_05",
+      "audioUrl": "audio/viper_match_start_viper_mirage_convo02_05.mp3",
+      "text": "You're no fun.",
+      "duration": 1.618
+    }
+  ]
+}

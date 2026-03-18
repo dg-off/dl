@@ -1,0 +1,29 @@
+{
+  "id": "dynamo_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_hornet_convo02_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_hornet_convo02_01.mp3",
+      "text": "You know I have a friend in the history department that would be over the moon if he got to meet you",
+      "duration": 3.983
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_dynamo_hornet_convo02_02",
+      "audioUrl": "audio/hornet_match_start_dynamo_hornet_convo02_02.mp3",
+      "text": "I'm not a prop for show and tell",
+      "duration": 1.998
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_hornet_convo02_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_hornet_convo02_03.mp3",
+      "text": "You are not and I am sorry to offend you.",
+      "duration": 2.805
+    }
+  ]
+}

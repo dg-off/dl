@@ -1,0 +1,53 @@
+{
+  "id": "graves_infernus_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_necro_inferno_convo03_01",
+      "audioUrl": "audio/inferno_match_start_necro_inferno_convo03_01.mp3",
+      "text": "Hey Graves.  I'm not gonna tell you how to live your life cause lord knows you don't wanna hear it\u2026",
+      "duration": 5.486
+    },
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_inferno_convo03_02",
+      "audioUrl": "audio/necro_match_start_necro_inferno_convo03_02.mp3",
+      "text": "But.",
+      "duration": 0.883
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_necro_inferno_convo03_03",
+      "audioUrl": "audio/inferno_match_start_necro_inferno_convo03_03.mp3",
+      "text": "If you ever find yourself over your head you can talk to me for help.",
+      "duration": 3.865
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_inferno_convo03_04",
+      "audioUrl": "audio/necro_match_start_necro_inferno_convo03_04.mp3",
+      "text": "We close now?",
+      "duration": 1.252
+    },
+    {
+      "order": 5,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_necro_inferno_convo03_05",
+      "audioUrl": "audio/inferno_match_start_necro_inferno_convo03_05.mp3",
+      "text": "Look when I was around your age I needed help and someone gave it to me.  It changed my life, and I just wanted you to know that I'm willing to pay it forward.",
+      "duration": 10.333
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_inferno_convo03_06",
+      "audioUrl": "audio/necro_match_start_necro_inferno_convo03_06.mp3",
+      "text": "Good talk.",
+      "duration": 1.037
+    }
+  ]
+}

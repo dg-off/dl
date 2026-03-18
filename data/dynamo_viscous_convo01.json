@@ -1,0 +1,53 @@
+{
+  "id": "dynamo_viscous_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_viscous_convo01_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_viscous_convo01_01.mp3",
+      "text": "Well aren't you a facinating creature\u2026",
+      "duration": 2.032
+    },
+    {
+      "order": 2,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_dynamo_viscous_convo01_02",
+      "audioUrl": "audio/viscous_match_start_dynamo_viscous_convo01_02.mp3",
+      "text": "I think so.",
+      "duration": 1.159
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_viscous_convo01_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_viscous_convo01_03.mp3",
+      "text": "When the ritual is over I'd love to pick your brain.",
+      "duration": 3.256
+    },
+    {
+      "order": 4,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_dynamo_viscous_convo01_04",
+      "audioUrl": "audio/viscous_match_start_dynamo_viscous_convo01_04.mp3",
+      "text": "Please don't stab my face",
+      "duration": 1.889
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_viscous_convo01_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_viscous_convo01_05.mp3",
+      "text": "Oh!  It's an expression, it means to ask questions.",
+      "duration": 3.459
+    },
+    {
+      "order": 6,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_dynamo_viscous_convo01_06",
+      "audioUrl": "audio/viscous_match_start_dynamo_viscous_convo01_06.mp3",
+      "text": "Oh, that sounds more fun.  OK!",
+      "duration": 2.961
+    }
+  ]
+}

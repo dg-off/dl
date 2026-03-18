@@ -1,0 +1,45 @@
+{
+  "id": "seven_silver_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_werewolf_gigawatt_convo03_01",
+      "audioUrl": "audio/gigawatt_match_start_werewolf_gigawatt_convo03_01.mp3",
+      "text": "How long are you going to squander your talents?",
+      "duration": 2.881
+    },
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_gigawatt_convo03_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_gigawatt_convo03_02.mp3",
+      "text": "You don't know me, Seven.",
+      "duration": 1.579
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_werewolf_gigawatt_convo03_03",
+      "audioUrl": "audio/gigawatt_match_start_werewolf_gigawatt_convo03_03.mp3",
+      "text": "I know the clich\u00e9 you are all-to keen to wrap yourself in.  You're worse than a petulant teenager\u2026 at least they have the excuse that their brains aren't fully formed.",
+      "duration": 10.887
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_gigawatt_convo03_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_gigawatt_convo03_04.mp3",
+      "text": "Hell of a pep talk, Dad.",
+      "duration": 1.619
+    },
+    {
+      "order": 5,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_werewolf_gigawatt_convo03_05",
+      "audioUrl": "audio/gigawatt_match_start_werewolf_gigawatt_convo03_05.mp3",
+      "text": "You don't know your dad.",
+      "duration": 1.826
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "haze_infernus_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_inferno_convo01_01",
+      "audioUrl": "audio/haze_match_start_haze_inferno_convo01_01.mp3",
+      "text": "Those guardians won't be standing for long.",
+      "duration": 3.75
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_haze_inferno_convo01_02",
+      "audioUrl": "audio/inferno_match_start_haze_inferno_convo01_02.mp3",
+      "text": "No ma'am they won't be.",
+      "duration": 1.63
+    }
+  ]
+}

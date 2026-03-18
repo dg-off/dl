@@ -1,0 +1,29 @@
+{
+  "id": "bebop_holliday_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_bebop_astro_convo02_01",
+      "audioUrl": "audio/astro_match_start_bebop_astro_convo02_01.mp3",
+      "text": "So what's the plan?",
+      "duration": 1.458
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_astro_convo02_02",
+      "audioUrl": "audio/bebop_match_start_bebop_astro_convo02_02.mp3",
+      "text": "I'll pull 'em in, you grab 'em?",
+      "duration": 1.726
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_bebop_astro_convo02_03",
+      "audioUrl": "audio/astro_match_start_bebop_astro_convo02_03.mp3",
+      "text": "I like the way you think tin man.",
+      "duration": 2.222
+    }
+  ]
+}

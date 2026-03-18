@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_lash_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_lash_orion_convo03_01",
+      "audioUrl": "audio/orion_match_start_lash_orion_convo03_01.mp3",
+      "text": "If we're going to win we need to learn to work together.",
+      "duration": 3.066
+    },
+    {
+      "order": 2,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_orion_convo03_02",
+      "audioUrl": "audio/lash_match_start_lash_orion_convo03_02.mp3",
+      "text": "Grandpa, all you need to do to win is kick back and watch the lash do his thing.",
+      "duration": 6.004
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_lash_orion_convo03_03",
+      "audioUrl": "audio/orion_match_start_lash_orion_convo03_03.mp3",
+      "text": "This is going to be goddamn nightmare.",
+      "duration": 3.234
+    }
+  ]
+}

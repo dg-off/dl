@@ -1,0 +1,37 @@
+{
+  "id": "lady geist_shiv_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_shiv_convo02_01",
+      "audioUrl": "audio/ghost_match_start_ghost_shiv_convo02_01.mp3",
+      "text": "How long have you been with the Baxter's society?",
+      "duration": 3.021
+    },
+    {
+      "order": 2,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_ghost_shiv_convo02_02",
+      "audioUrl": "audio/shiv_match_start_ghost_shiv_convo02_02.mp3",
+      "text": "Not long.",
+      "duration": 1.11
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_shiv_convo02_03",
+      "audioUrl": "audio/ghost_match_start_ghost_shiv_convo02_03.mp3",
+      "text": "Oh great.  I'm paired with a rank ametuer.",
+      "duration": 3.248
+    },
+    {
+      "order": 4,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_ghost_shiv_convo02_04",
+      "audioUrl": "audio/shiv_match_start_ghost_shiv_convo02_04.mp3",
+      "text": "Just try to keep up Lady Geist.  I'll be accepting your apology later.",
+      "duration": 3.916
+    }
+  ]
+}

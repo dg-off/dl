@@ -1,0 +1,29 @@
+{
+  "id": "celeste_infernus_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_unicorn_inferno_convo02_01",
+      "audioUrl": "audio/inferno_match_start_unicorn_inferno_convo02_01.mp3",
+      "text": "How's things at the sideshow?",
+      "duration": 1.438
+    },
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_inferno_convo02_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_inferno_convo02_02.mp3",
+      "text": "Good, you should swing by next weekend and say hi to the boys.",
+      "duration": 3.712
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_unicorn_inferno_convo02_03",
+      "audioUrl": "audio/inferno_match_start_unicorn_inferno_convo02_03.mp3",
+      "text": "Assuming we get through the ritual, that sounds great.",
+      "duration": 2.904
+    }
+  ]
+}

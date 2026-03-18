@@ -1,0 +1,53 @@
+{
+  "id": "grey talon_lash_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_orion_convo02_01",
+      "audioUrl": "audio/lash_match_start_lash_orion_convo02_01.mp3",
+      "text": "You think I got what it takes to be in the Baxter Society",
+      "duration": 3.274
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_lash_orion_convo02_02",
+      "audioUrl": "audio/orion_match_start_lash_orion_convo02_02.mp3",
+      "text": "I do.  You're prowess is undeniable.",
+      "duration": 3.758
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_orion_convo02_03",
+      "audioUrl": "audio/lash_match_start_lash_orion_convo02_03.mp3",
+      "text": "Boush.",
+      "duration": 0.983
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_lash_orion_convo02_04",
+      "audioUrl": "audio/orion_match_start_lash_orion_convo02_04.mp3",
+      "text": "You'd begin your career with a string of modest successes, each one throwing logs on the fire of self confidence.",
+      "duration": 7.312
+    },
+    {
+      "order": 5,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_orion_convo02_05",
+      "audioUrl": "audio/lash_match_start_lash_orion_convo02_05.mp3",
+      "text": "Obviously.",
+      "duration": 1.137
+    },
+    {
+      "order": 6,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_lash_orion_convo02_06",
+      "audioUrl": "audio/orion_match_start_lash_orion_convo02_06.mp3",
+      "text": "Then you'd start taking more dangerous work.  Work that you feel only you could handle. Your unorthodox tactics work 100% of the time.  Until they don't.  And then your brothers find your skinless corpse in a retention pond in Portugual or Denmark.   It's always Portugal or Denmark.",
+      "duration": 21.014
+    }
+  ]
+}

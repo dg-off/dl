@@ -1,0 +1,29 @@
+{
+  "id": "drifter_kelvin_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_kelvin_convo02_01",
+      "audioUrl": "audio/drifter_match_start_drifter_kelvin_convo02_01.mp3",
+      "text": "You're lookin a little upset Kelvin.",
+      "duration": 2.678
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_drifter_kelvin_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_drifter_kelvin_convo02_02.mp3",
+      "text": "I don't want to work with someone like you.",
+      "duration": 2.029
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_kelvin_convo02_03",
+      "audioUrl": "audio/drifter_match_start_drifter_kelvin_convo02_03.mp3",
+      "text": "Careful now, you keep talkin' like that you might hurt my feelings; and no one wants that\u2026",
+      "duration": 6.937
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bebop_ivy_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_bebop_tengu_convo02_01",
+      "audioUrl": "audio/tengu_match_start_bebop_tengu_convo02_01.mp3",
+      "text": "Why do you fight people for money?",
+      "duration": 2.04
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_tengu_convo02_02",
+      "audioUrl": "audio/bebop_match_start_bebop_tengu_convo02_02.mp3",
+      "text": "Why do you fight people for free?",
+      "duration": 1.879
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_bebop_tengu_convo02_03",
+      "audioUrl": "audio/tengu_match_start_bebop_tengu_convo02_03.mp3",
+      "text": "Because if I didn't people would've died.",
+      "duration": 2.497
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_tengu_convo02_04",
+      "audioUrl": "audio/bebop_match_start_bebop_tengu_convo02_04.mp3",
+      "text": "Well there's your answer",
+      "duration": 2.131
+    }
+  ]
+}

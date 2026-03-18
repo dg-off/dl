@@ -1,0 +1,21 @@
+{
+  "id": "vindicta_viper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_viper_hornet_convo03_01",
+      "audioUrl": "audio/hornet_match_start_viper_hornet_convo03_01.mp3",
+      "text": "Do you have a plan Viper?",
+      "duration": 1.736
+    },
+    {
+      "order": 2,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_hornet_convo03_02",
+      "audioUrl": "audio/viper_match_start_viper_hornet_convo03_02.mp3",
+      "text": "I got a gun.  You got a gun.  This baby writes itself.",
+      "duration": 3.581
+    }
+  ]
+}

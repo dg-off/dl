@@ -1,0 +1,21 @@
+{
+  "id": "doorman_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_doorman_ghost_convo02_01",
+      "audioUrl": "audio/ghost_match_start_doorman_ghost_convo02_01.mp3",
+      "text": "I hope you don't expect a tip for helping me.",
+      "duration": 2.906
+    },
+    {
+      "order": 2,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_ghost_convo02_02",
+      "audioUrl": "audio/doorman_match_start_doorman_ghost_convo02_02.mp3",
+      "text": "I wouldn't dream of expecting anything from you Lady Geist.",
+      "duration": 4.408
+    }
+  ]
+}

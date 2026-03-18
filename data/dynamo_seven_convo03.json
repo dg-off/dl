@@ -1,0 +1,53 @@
+{
+  "id": "dynamo_seven_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_gigawatt_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_gigawatt_convo03_01.mp3",
+      "text": "I'm sure it's a touchy subject, but I simply must know how you stopped your soul from being obliterated",
+      "duration": 5.366
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_dynamo_gigawatt_convo03_02",
+      "audioUrl": "audio/gigawatt_match_start_dynamo_gigawatt_convo03_02.mp3",
+      "text": "I mean no disrespect Professor, but some things may be beyond you.",
+      "duration": 5.845
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_gigawatt_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_gigawatt_convo03_03.mp3",
+      "text": "Many things are, but if I let that stop me from trying to learn I wouldn't be.. Well I probably would still have my body.",
+      "duration": 8.141
+    },
+    {
+      "order": 4,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_dynamo_gigawatt_convo03_04",
+      "audioUrl": "audio/gigawatt_match_start_dynamo_gigawatt_convo03_04.mp3",
+      "text": "Hm.  Perhaps we're cut from the same cloth.",
+      "duration": 3.998
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_gigawatt_convo03_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_gigawatt_convo03_05.mp3",
+      "text": "Let's not go that far.",
+      "duration": 1.332
+    },
+    {
+      "order": 6,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_dynamo_gigawatt_convo03_06",
+      "audioUrl": "audio/gigawatt_match_start_dynamo_gigawatt_convo03_06.mp3",
+      "text": "I'll consider your request, Professor.",
+      "duration": 2.096
+    }
+  ]
+}

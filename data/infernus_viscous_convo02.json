@@ -1,0 +1,61 @@
+{
+  "id": "infernus_viscous_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_viscous_convo02_01",
+      "audioUrl": "audio/inferno_match_start_inferno_viscous_convo02_01.mp3",
+      "text": "How you liking New York?",
+      "duration": 1.313
+    },
+    {
+      "order": 2,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_inferno_viscous_convo02_02",
+      "audioUrl": "audio/viscous_match_start_inferno_viscous_convo02_02.mp3",
+      "text": "People watching is fun.",
+      "duration": 1.895
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_viscous_convo02_03",
+      "audioUrl": "audio/inferno_match_start_inferno_viscous_convo02_03.mp3",
+      "text": "You should stop by Jezebel's sometime, if you like people watching you'll see all types there.",
+      "duration": 5.092
+    },
+    {
+      "order": 4,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_inferno_viscous_convo02_04",
+      "audioUrl": "audio/viscous_match_start_inferno_viscous_convo02_04.mp3",
+      "text": "What's that?",
+      "duration": 1.09
+    },
+    {
+      "order": 5,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_viscous_convo02_05",
+      "audioUrl": "audio/inferno_match_start_inferno_viscous_convo02_05.mp3",
+      "text": "The bar my buddy Hank owns",
+      "duration": 1.529
+    },
+    {
+      "order": 6,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_inferno_viscous_convo02_06",
+      "audioUrl": "audio/viscous_match_start_inferno_viscous_convo02_06.mp3",
+      "text": "Why isn't it called Hank's?",
+      "duration": 2.558
+    },
+    {
+      "order": 7,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_viscous_convo02_07",
+      "audioUrl": "audio/inferno_match_start_inferno_viscous_convo02_07.mp3",
+      "text": "Long story.  I'll tell you later.",
+      "duration": 2.155
+    }
+  ]
+}

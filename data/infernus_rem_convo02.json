@@ -1,0 +1,53 @@
+{
+  "id": "infernus_rem_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_inferno_convo02_01",
+      "audioUrl": "audio/familiar_match_start_familiar_inferno_convo02_01.mp3",
+      "text": "You have a hat and I have a hat.",
+      "duration": 2.849
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_familiar_inferno_convo02_02",
+      "audioUrl": "audio/inferno_match_start_familiar_inferno_convo02_02.mp3",
+      "text": "That's\u2026 that's right.",
+      "duration": 1.533
+    },
+    {
+      "order": 3,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_inferno_convo02_03",
+      "audioUrl": "audio/familiar_match_start_familiar_inferno_convo02_03.mp3",
+      "text": "We're hat brothers.",
+      "duration": 2.588
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_familiar_inferno_convo02_04",
+      "audioUrl": "audio/inferno_match_start_familiar_inferno_convo02_04.mp3",
+      "text": "Sure.",
+      "duration": 0.692
+    },
+    {
+      "order": 5,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_inferno_convo02_05",
+      "audioUrl": "audio/familiar_match_start_familiar_inferno_convo02_05.mp3",
+      "text": "Brothers for life.",
+      "duration": 2.799
+    },
+    {
+      "order": 6,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_familiar_inferno_convo02_06",
+      "audioUrl": "audio/inferno_match_start_familiar_inferno_convo02_06.mp3",
+      "text": "Great.",
+      "duration": 0.57
+    }
+  ]
+}

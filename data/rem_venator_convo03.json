@@ -1,0 +1,29 @@
+{
+  "id": "rem_venator_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_priest_convo03_01",
+      "audioUrl": "audio/familiar_match_start_familiar_priest_convo03_01.mp3",
+      "text": "I'm going to follow you around",
+      "duration": 3.183
+    },
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_familiar_priest_convo03_02",
+      "audioUrl": "audio/priest_match_start_familiar_priest_convo03_02.mp3",
+      "text": "Please don't",
+      "duration": 1.36
+    },
+    {
+      "order": 3,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_priest_convo03_03",
+      "audioUrl": "audio/familiar_match_start_familiar_priest_convo03_03.mp3",
+      "text": "You say that now, but you'll like me",
+      "duration": 3.922
+    }
+  ]
+}

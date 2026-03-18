@@ -1,0 +1,53 @@
+{
+  "id": "dynamo_yamato_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_yamato_dynamo_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_yamato_dynamo_convo03_01.mp3",
+      "text": "Forgive my ignorance Yamato, but is that sword an heirloom?",
+      "duration": 3.421
+    },
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_dynamo_convo03_02",
+      "audioUrl": "audio/yamato_match_start_yamato_dynamo_convo03_02.mp3",
+      "text": "It is.",
+      "duration": 0.799
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_yamato_dynamo_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_yamato_dynamo_convo03_03.mp3",
+      "text": "How old?",
+      "duration": 0.802
+    },
+    {
+      "order": 4,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_dynamo_convo03_04",
+      "audioUrl": "audio/yamato_match_start_yamato_dynamo_convo03_04.mp3",
+      "text": "Very.",
+      "duration": 0.845
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_yamato_dynamo_convo03_05",
+      "audioUrl": "audio/dynamo_match_start_yamato_dynamo_convo03_05.mp3",
+      "text": "Can you elaborate?",
+      "duration": 1.217
+    },
+    {
+      "order": 6,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_dynamo_convo03_06",
+      "audioUrl": "audio/yamato_match_start_yamato_dynamo_convo03_06.mp3",
+      "text": "No.",
+      "duration": 0.544
+    }
+  ]
+}

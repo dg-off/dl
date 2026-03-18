@@ -1,0 +1,29 @@
+{
+  "id": "vindicta_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_hornet_wraith_convo02_01",
+      "audioUrl": "audio/hornet_match_start_hornet_wraith_convo02_01.mp3",
+      "text": "I'm surprised you're getting your hands dirty, I thought someone like you would send out goons to do the messy work.",
+      "duration": 6.467
+    },
+    {
+      "order": 2,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_hornet_wraith_convo02_02",
+      "audioUrl": "audio/wraith_match_start_hornet_wraith_convo02_02.mp3",
+      "text": "I believe in leading by example.",
+      "duration": 1.678
+    },
+    {
+      "order": 3,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_hornet_wraith_convo02_03",
+      "audioUrl": "audio/hornet_match_start_hornet_wraith_convo02_03.mp3",
+      "text": "So do i",
+      "duration": 1.257
+    }
+  ]
+}

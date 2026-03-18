@@ -1,0 +1,29 @@
+{
+  "id": "abrams_pocket_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_synth_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_synth_convo02_01.mp3",
+      "text": "Look, about your old man\u2026",
+      "duration": 2.585
+    },
+    {
+      "order": 2,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_atlas_synth_convo02_02",
+      "audioUrl": "audio/synth_match_start_atlas_synth_convo02_02.mp3",
+      "text": "Please don't talk to me like you know me",
+      "duration": 1.736
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_synth_convo02_03",
+      "audioUrl": "audio/atlas_match_start_atlas_synth_convo02_03.mp3",
+      "text": "You got it kid.",
+      "duration": 1.349
+    }
+  ]
+}

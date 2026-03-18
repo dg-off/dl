@@ -1,0 +1,37 @@
+{
+  "id": "bebop_grey talon_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_orion_convo02_01",
+      "audioUrl": "audio/bebop_match_start_bebop_orion_convo02_01.mp3",
+      "text": "I'm heard rumors about you.",
+      "duration": 1.914
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_bebop_orion_convo02_02",
+      "audioUrl": "audio/orion_match_start_bebop_orion_convo02_02.mp3",
+      "text": "That so.",
+      "duration": 1.026
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_orion_convo02_03",
+      "audioUrl": "audio/bebop_match_start_bebop_orion_convo02_03.mp3",
+      "text": "Yeah.  Seems like a lot of people are scared of you.",
+      "duration": 2.958
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_bebop_orion_convo02_04",
+      "audioUrl": "audio/orion_match_start_bebop_orion_convo02_04.mp3",
+      "text": "They should be.",
+      "duration": 0.962
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "rem_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_priest_convo02_01",
+      "audioUrl": "audio/familiar_match_start_familiar_priest_convo02_01.mp3",
+      "text": "I thought priests were supposed to be nice.",
+      "duration": 3.304
+    },
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_familiar_priest_convo02_02",
+      "audioUrl": "audio/priest_match_start_familiar_priest_convo02_02.mp3",
+      "text": "Who said I wasn't",
+      "duration": 1.17
+    },
+    {
+      "order": 3,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_priest_convo02_03",
+      "audioUrl": "audio/familiar_match_start_familiar_priest_convo02_03.mp3",
+      "text": "I'm pretty sure you're about to kill people.",
+      "duration": 3.535
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_familiar_priest_convo02_04",
+      "audioUrl": "audio/priest_match_start_familiar_priest_convo02_04.mp3",
+      "text": "Some people need to die",
+      "duration": 1.483
+    },
+    {
+      "order": 5,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_priest_convo02_05",
+      "audioUrl": "audio/familiar_match_start_familiar_priest_convo02_05.mp3",
+      "text": "Are you sure you're a priest?",
+      "duration": 2.955
+    },
+    {
+      "order": 6,
+      "character": "Venator",
+      "audioFile": "priest_match_start_familiar_priest_convo02_06",
+      "audioUrl": "audio/priest_match_start_familiar_priest_convo02_06.mp3",
+      "text": "I don't expect you to understand the nuance of my world",
+      "duration": 3.059
+    },
+    {
+      "order": 7,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_priest_convo02_07",
+      "audioUrl": "audio/familiar_match_start_familiar_priest_convo02_07.mp3",
+      "text": "Nuance sounds like a big word.",
+      "duration": 3.514
+    },
+    {
+      "order": 8,
+      "character": "Venator",
+      "audioFile": "priest_match_start_familiar_priest_convo02_08",
+      "audioUrl": "audio/priest_match_start_familiar_priest_convo02_08.mp3",
+      "text": "Don't worry about it.  Just know I'll protect you.",
+      "duration": 2.89
+    }
+  ]
+}

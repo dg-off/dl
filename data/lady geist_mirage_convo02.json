@@ -1,0 +1,53 @@
+{
+  "id": "lady geist_mirage_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_mirage_convo02_01",
+      "audioUrl": "audio/ghost_match_start_ghost_mirage_convo02_01.mp3",
+      "text": "You're Ambassador Nashala's bodyman, yes?",
+      "duration": 3.051
+    },
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_ghost_mirage_convo02_02",
+      "audioUrl": "audio/mirage_match_start_ghost_mirage_convo02_02.mp3",
+      "text": "Correct.",
+      "duration": 0.85
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_mirage_convo02_03",
+      "audioUrl": "audio/ghost_match_start_ghost_mirage_convo02_03.mp3",
+      "text": "When the ritual is compete I'd love to have a chat with her.",
+      "duration": 3.349
+    },
+    {
+      "order": 4,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_ghost_mirage_convo02_04",
+      "audioUrl": "audio/mirage_match_start_ghost_mirage_convo02_04.mp3",
+      "text": "What is it regarding?",
+      "duration": 1.462
+    },
+    {
+      "order": 5,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_mirage_convo02_05",
+      "audioUrl": "audio/ghost_match_start_ghost_mirage_convo02_05.mp3",
+      "text": "That's not your concern.",
+      "duration": 1.742
+    },
+    {
+      "order": 6,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_ghost_mirage_convo02_06",
+      "audioUrl": "audio/mirage_match_start_ghost_mirage_convo02_06.mp3",
+      "text": "But it is.  When you decide that you wish to be fortright let me know and I'll consider your request.",
+      "duration": 7.097
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "celeste_silver_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_werewolf_convo02_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo02_01.mp3",
+      "text": "What are ya doing after the ritual?",
+      "duration": 1.873
+    },
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_unicorn_werewolf_convo02_02",
+      "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo02_02.mp3",
+      "text": "Hittin' a bar.",
+      "duration": 1.103
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_werewolf_convo02_03",
+      "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo02_03.mp3",
+      "text": "Want some company?",
+      "duration": 1.274
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_unicorn_werewolf_convo02_04",
+      "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo02_04.mp3",
+      "text": "I wouldn't say no.",
+      "duration": 1.678
+    },
+    {
+      "order": 5,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_werewolf_convo02_05",
+      "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo02_05.mp3",
+      "text": "Then lets have some fun.",
+      "duration": 1.535
+    }
+  ]
+}

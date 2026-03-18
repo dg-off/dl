@@ -1,0 +1,37 @@
+{
+  "id": "grey talon_haze_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_orion_convo03_01",
+      "audioUrl": "audio/haze_match_start_haze_orion_convo03_01.mp3",
+      "text": "So you're back with the Baxter Society?",
+      "duration": 3.3
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_haze_orion_convo03_02",
+      "audioUrl": "audio/orion_match_start_haze_orion_convo03_02.mp3",
+      "text": "No.",
+      "duration": 0.61
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_orion_convo03_03",
+      "audioUrl": "audio/haze_match_start_haze_orion_convo03_03.mp3",
+      "text": "So this is\u2026",
+      "duration": 2.725
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_haze_orion_convo03_04",
+      "audioUrl": "audio/orion_match_start_haze_orion_convo03_04.mp3",
+      "text": "Personal.",
+      "duration": 0.875
+    }
+  ]
+}

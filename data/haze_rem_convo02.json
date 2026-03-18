@@ -1,0 +1,37 @@
+{
+  "id": "haze_rem_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_familiar_haze_convo02_01",
+      "audioUrl": "audio/haze_match_start_familiar_haze_convo02_01.mp3",
+      "text": "I'm going to get you home.",
+      "duration": 2.473
+    },
+    {
+      "order": 2,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_haze_convo02_02",
+      "audioUrl": "audio/familiar_match_start_familiar_haze_convo02_02.mp3",
+      "text": "I trust you.  You're my mom.",
+      "duration": 3.181
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_familiar_haze_convo02_03",
+      "audioUrl": "audio/haze_match_start_familiar_haze_convo02_03.mp3",
+      "text": "I'm not.",
+      "duration": 1.841
+    },
+    {
+      "order": 4,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_haze_convo02_04",
+      "audioUrl": "audio/familiar_match_start_familiar_haze_convo02_04.mp3",
+      "text": "I mean.  You kinda are.",
+      "duration": 2.844
+    }
+  ]
+}

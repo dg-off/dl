@@ -1,0 +1,45 @@
+{
+  "id": "bebop_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_bebop_wraith_convo02_01",
+      "audioUrl": "audio/wraith_match_start_bebop_wraith_convo02_01.mp3",
+      "text": "Why are you wasting your time at a junk yard.",
+      "duration": 2.357
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_wraith_convo02_02",
+      "audioUrl": "audio/bebop_match_start_bebop_wraith_convo02_02.mp3",
+      "text": "Helping Ms Shelly's never a waste of time.",
+      "duration": 2.558
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_bebop_wraith_convo02_03",
+      "audioUrl": "audio/wraith_match_start_bebop_wraith_convo02_03.mp3",
+      "text": "How long are you planning on lying to that lady.",
+      "duration": 2.094
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_wraith_convo02_04",
+      "audioUrl": "audio/bebop_match_start_bebop_wraith_convo02_04.mp3",
+      "text": "I don't lie to her.",
+      "duration": 1.554
+    },
+    {
+      "order": 5,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_bebop_wraith_convo02_05",
+      "audioUrl": "audio/wraith_match_start_bebop_wraith_convo02_05.mp3",
+      "text": "No, you just lie to yourself.",
+      "duration": 2.036
+    }
+  ]
+}

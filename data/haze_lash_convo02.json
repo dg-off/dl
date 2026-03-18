@@ -1,0 +1,45 @@
+{
+  "id": "haze_lash_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_haze_lash_convo02_01",
+      "audioUrl": "audio/lash_match_start_haze_lash_convo02_01.mp3",
+      "text": "The Lash and the Sandman.  Sounds like a movie doesn't it.",
+      "duration": 4.279
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_lash_convo02_02",
+      "audioUrl": "audio/haze_match_start_haze_lash_convo02_02.mp3",
+      "text": "Sure.",
+      "duration": 2.329
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_haze_lash_convo02_03",
+      "audioUrl": "audio/lash_match_start_haze_lash_convo02_03.mp3",
+      "text": "I can see it now.  An impossibly handsome leading man.  An emotionally unavailable killing machine.  A little action.  A lot of sexual tension\u2026",
+      "duration": 11.283
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_lash_convo02_04",
+      "audioUrl": "audio/haze_match_start_haze_lash_convo02_04.mp3",
+      "text": "Does he die at the end?",
+      "duration": 2.339
+    },
+    {
+      "order": 5,
+      "character": "Lash",
+      "audioFile": "lash_match_start_haze_lash_convo02_05",
+      "audioUrl": "audio/lash_match_start_haze_lash_convo02_05.mp3",
+      "text": "Yeah, you get it.",
+      "duration": 2.688
+    }
+  ]
+}

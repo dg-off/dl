@@ -1,0 +1,21 @@
+{
+  "id": "haze_mirage_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_mirage_convo02_01",
+      "audioUrl": "audio/haze_match_start_haze_mirage_convo02_01.mp3",
+      "text": "It's nice to get to work with someone else with discipline.",
+      "duration": 3.593
+    },
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_haze_mirage_convo02_02",
+      "audioUrl": "audio/mirage_match_start_haze_mirage_convo02_02.mp3",
+      "text": "The feeling's mutual.",
+      "duration": 1.449
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kelvin_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_kelvin_hornet_convo02_01",
+      "audioUrl": "audio/hornet_match_start_kelvin_hornet_convo02_01.mp3",
+      "text": "That ice dome of yours had best not block my line of sight.",
+      "duration": 3.061
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_hornet_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_kelvin_hornet_convo02_02.mp3",
+      "text": "Vindicta, my priority will always be saving life; not faciliting you ending it.",
+      "duration": 6.189
+    },
+    {
+      "order": 3,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_kelvin_hornet_convo02_03",
+      "audioUrl": "audio/hornet_match_start_kelvin_hornet_convo02_03.mp3",
+      "text": "That's your problem Kelvin\u2026 I am saving life.",
+      "duration": 3.447
+    }
+  ]
+}

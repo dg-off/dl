@@ -1,0 +1,37 @@
+{
+  "id": "lady geist_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_forge_convo02_01",
+      "audioUrl": "audio/ghost_match_start_ghost_forge_convo02_01.mp3",
+      "text": "Ugh, you smell of motor oil and labor.",
+      "duration": 3.181
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_ghost_forge_convo02_02",
+      "audioUrl": "audio/forge_match_start_ghost_forge_convo02_02.mp3",
+      "text": "That's because I work for a living.",
+      "duration": 1.983
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_forge_convo02_03",
+      "audioUrl": "audio/ghost_match_start_ghost_forge_convo02_03.mp3",
+      "text": "How fun for you.",
+      "duration": 1.441
+    },
+    {
+      "order": 4,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_ghost_forge_convo02_04",
+      "audioUrl": "audio/forge_match_start_ghost_forge_convo02_04.mp3",
+      "text": "Yeah, turns out being a human being is good for the soul, you should try it sometime.",
+      "duration": 4.189
+    }
+  ]
+}

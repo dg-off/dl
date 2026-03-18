@@ -1,0 +1,29 @@
+{
+  "id": "haze_viscous_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_haze_viscous_convo03_01",
+      "audioUrl": "audio/viscous_match_start_haze_viscous_convo03_01.mp3",
+      "text": "Thanks for your help Haze, not everyone takes the problems of The Deep seriously.",
+      "duration": 4.934
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_viscous_convo03_02",
+      "audioUrl": "audio/haze_match_start_haze_viscous_convo03_02.mp3",
+      "text": "We don't live in a vaccum.  If there's a problem in The Deep it's only a matter of time before it's a problem on land.",
+      "duration": 7.634
+    },
+    {
+      "order": 3,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_haze_viscous_convo03_03",
+      "audioUrl": "audio/viscous_match_start_haze_viscous_convo03_03.mp3",
+      "text": "Exactly",
+      "duration": 1.279
+    }
+  ]
+}

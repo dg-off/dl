@@ -1,0 +1,53 @@
+{
+  "id": "apollo_rem_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_familiar_fencer_convo02_01",
+      "audioUrl": "audio/fencer_match_start_familiar_fencer_convo02_01.mp3",
+      "text": "This is no place for a child.",
+      "duration": 2.047
+    },
+    {
+      "order": 2,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_fencer_convo02_02",
+      "audioUrl": "audio/familiar_match_start_familiar_fencer_convo02_02.mp3",
+      "text": "Probably not.  That's why I'm going to follow you.",
+      "duration": 3.965
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_familiar_fencer_convo02_03",
+      "audioUrl": "audio/fencer_match_start_familiar_fencer_convo02_03.mp3",
+      "text": "Please don't.",
+      "duration": 1.145
+    },
+    {
+      "order": 4,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_fencer_convo02_04",
+      "audioUrl": "audio/familiar_match_start_familiar_fencer_convo02_04.mp3",
+      "text": "You can be my big brother that stabs people.",
+      "duration": 3.755
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_familiar_fencer_convo02_05",
+      "audioUrl": "audio/fencer_match_start_familiar_fencer_convo02_05.mp3",
+      "text": "I'm an only child.",
+      "duration": 1.284
+    },
+    {
+      "order": 6,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_fencer_convo02_06",
+      "audioUrl": "audio/familiar_match_start_familiar_fencer_convo02_06.mp3",
+      "text": "Not anymore!",
+      "duration": 2.85
+    }
+  ]
+}

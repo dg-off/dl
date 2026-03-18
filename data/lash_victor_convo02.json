@@ -1,0 +1,45 @@
+{
+  "id": "lash_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_frank_lash_convo02_01",
+      "audioUrl": "audio/lash_match_start_frank_lash_convo02_01.mp3",
+      "text": "Ready to do this Patchwork?",
+      "duration": 2.101
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_lash_convo02_02",
+      "audioUrl": "audio/frank_match_start_frank_lash_convo02_02.mp3",
+      "text": "That's not my name.",
+      "duration": 1.428
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_frank_lash_convo02_03",
+      "audioUrl": "audio/lash_match_start_frank_lash_convo02_03.mp3",
+      "text": "Yeah, but there's no way I'm going to remember your name. This is a mnemonic.",
+      "duration": 3.651
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_lash_convo02_04",
+      "audioUrl": "audio/frank_match_start_frank_lash_convo02_04.mp3",
+      "text": "Patchwork isn't a mnemonic, it's just you being shitty.",
+      "duration": 3.13
+    },
+    {
+      "order": 5,
+      "character": "Lash",
+      "audioFile": "lash_match_start_frank_lash_convo02_05",
+      "audioUrl": "audio/lash_match_start_frank_lash_convo02_05.mp3",
+      "text": "You got me there, Patches!",
+      "duration": 1.679
+    }
+  ]
+}

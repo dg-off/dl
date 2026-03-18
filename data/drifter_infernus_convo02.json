@@ -1,0 +1,53 @@
+{
+  "id": "drifter_infernus_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_drifter_inferno_convo02_01",
+      "audioUrl": "audio/inferno_match_start_drifter_inferno_convo02_01.mp3",
+      "text": "Level with me: are you The Troubadour?",
+      "duration": 2.876
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_inferno_convo02_02",
+      "audioUrl": "audio/drifter_match_start_drifter_inferno_convo02_02.mp3",
+      "text": "While I do have a song in my heart, I am not.",
+      "duration": 3.514
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_drifter_inferno_convo02_03",
+      "audioUrl": "audio/inferno_match_start_drifter_inferno_convo02_03.mp3",
+      "text": "Is he a friend of yours?",
+      "duration": 1.344
+    },
+    {
+      "order": 4,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_inferno_convo02_04",
+      "audioUrl": "audio/drifter_match_start_drifter_inferno_convo02_04.mp3",
+      "text": "You friends with every bartnder in Manhattan?",
+      "duration": 2.829
+    },
+    {
+      "order": 5,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_drifter_inferno_convo02_05",
+      "audioUrl": "audio/inferno_match_start_drifter_inferno_convo02_05.mp3",
+      "text": "A lot of 'em.",
+      "duration": 0.985
+    },
+    {
+      "order": 6,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_inferno_convo02_06",
+      "audioUrl": "audio/drifter_match_start_drifter_inferno_convo02_06.mp3",
+      "text": "No.  Never met the man, just know him by reputation.",
+      "duration": 4.636
+    }
+  ]
+}

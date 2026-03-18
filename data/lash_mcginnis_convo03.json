@@ -1,0 +1,45 @@
+{
+  "id": "lash_mcginnis_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_lash_forge_convo03_01",
+      "audioUrl": "audio/forge_match_start_lash_forge_convo03_01.mp3",
+      "text": "You can go over my walls right?",
+      "duration": 1.548
+    },
+    {
+      "order": 2,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_forge_convo03_02",
+      "audioUrl": "audio/lash_match_start_lash_forge_convo03_02.mp3",
+      "text": "We talking metaphorical or literal?",
+      "duration": 2.418
+    },
+    {
+      "order": 3,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_lash_forge_convo03_03",
+      "audioUrl": "audio/forge_match_start_lash_forge_convo03_03.mp3",
+      "text": "I'm amazed you know what either of those words mean.",
+      "duration": 2.428
+    },
+    {
+      "order": 4,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_forge_convo03_04",
+      "audioUrl": "audio/lash_match_start_lash_forge_convo03_04.mp3",
+      "text": "Maggie Mac, if you wanna say you got a crush on the lash you don't have to pull my hair, you can just say so.",
+      "duration": 7.609
+    },
+    {
+      "order": 5,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_lash_forge_convo03_05",
+      "audioUrl": "audio/forge_match_start_lash_forge_convo03_05.mp3",
+      "text": "Shut up.",
+      "duration": 0.915
+    }
+  ]
+}

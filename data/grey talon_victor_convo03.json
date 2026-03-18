@@ -1,0 +1,69 @@
+{
+  "id": "grey talon_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_orion_convo03_01",
+      "audioUrl": "audio/frank_match_start_frank_orion_convo03_01.mp3",
+      "text": "Heard you hunt monsters.",
+      "duration": 2.114
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_frank_orion_convo03_02",
+      "audioUrl": "audio/orion_match_start_frank_orion_convo03_02.mp3",
+      "text": "I do.",
+      "duration": 0.77
+    },
+    {
+      "order": 3,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_orion_convo03_03",
+      "audioUrl": "audio/frank_match_start_frank_orion_convo03_03.mp3",
+      "text": "Literally or figuratively.",
+      "duration": 1.834
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_frank_orion_convo03_04",
+      "audioUrl": "audio/orion_match_start_frank_orion_convo03_04.mp3",
+      "text": "It used to be literal.  Then I retired. Now it's more figurative.",
+      "duration": 4.793
+    },
+    {
+      "order": 5,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_orion_convo03_05",
+      "audioUrl": "audio/frank_match_start_frank_orion_convo03_05.mp3",
+      "text": "So you just murder people.",
+      "duration": 1.56
+    },
+    {
+      "order": 6,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_frank_orion_convo03_06",
+      "audioUrl": "audio/orion_match_start_frank_orion_convo03_06.mp3",
+      "text": "That's a little reductive.",
+      "duration": 1.378
+    },
+    {
+      "order": 7,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_orion_convo03_07",
+      "audioUrl": "audio/frank_match_start_frank_orion_convo03_07.mp3",
+      "text": "is it?",
+      "duration": 0.687
+    },
+    {
+      "order": 8,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_frank_orion_convo03_08",
+      "audioUrl": "audio/orion_match_start_frank_orion_convo03_08.mp3",
+      "text": "Yes.",
+      "duration": 0.534
+    }
+  ]
+}

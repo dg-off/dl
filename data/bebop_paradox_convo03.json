@@ -1,0 +1,61 @@
+{
+  "id": "bebop_paradox_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_bebop_chrono_convo03_01",
+      "audioUrl": "audio/chrono_match_start_bebop_chrono_convo03_01.mp3",
+      "text": "Bebop\u2026 that\u2019s a curious name for a golem",
+      "duration": 3.806
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_chrono_convo03_02",
+      "audioUrl": "audio/bebop_match_start_bebop_chrono_convo03_02.mp3",
+      "text": "Ms shelly's a fan of music.",
+      "duration": 2.255
+    },
+    {
+      "order": 3,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_bebop_chrono_convo03_03",
+      "audioUrl": "audio/chrono_match_start_bebop_chrono_convo03_03.mp3",
+      "text": "Do you play?",
+      "duration": 1.116
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_chrono_convo03_04",
+      "audioUrl": "audio/bebop_match_start_bebop_chrono_convo03_04.mp3",
+      "text": "Sadly no, these hands aren't exactly delicate.",
+      "duration": 3.87
+    },
+    {
+      "order": 5,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_bebop_chrono_convo03_05",
+      "audioUrl": "audio/chrono_match_start_bebop_chrono_convo03_05.mp3",
+      "text": "You gonna let a little thing like hands stop you?",
+      "duration": 2.863
+    },
+    {
+      "order": 6,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_chrono_convo03_06",
+      "audioUrl": "audio/bebop_match_start_bebop_chrono_convo03_06.mp3",
+      "text": "It seems rather important.",
+      "duration": 2.102
+    },
+    {
+      "order": 7,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_bebop_chrono_convo03_07",
+      "audioUrl": "audio/chrono_match_start_bebop_chrono_convo03_07.mp3",
+      "text": "Suppose so, but I bet there's a solution if you try hard enough",
+      "duration": 4.56
+    }
+  ]
+}

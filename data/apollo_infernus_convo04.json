@@ -1,0 +1,53 @@
+{
+  "id": "apollo_infernus_convo04",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_inferno_convo04_01",
+      "audioUrl": "audio/fencer_match_start_fencer_inferno_convo04_01.mp3",
+      "text": "Sirosi galah, Infernus.",
+      "duration": 2.261
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_fencer_inferno_convo04_02",
+      "audioUrl": "audio/inferno_match_start_fencer_inferno_convo04_02.mp3",
+      "text": "You having a stroke, son?",
+      "duration": 1.327
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_inferno_convo04_03",
+      "audioUrl": "audio/fencer_match_start_fencer_inferno_convo04_03.mp3",
+      "text": "You don't know Ixian?",
+      "duration": 1.282
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_fencer_inferno_convo04_04",
+      "audioUrl": "audio/inferno_match_start_fencer_inferno_convo04_04.mp3",
+      "text": "English is the only language my parents will speak around me.",
+      "duration": 2.454
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_inferno_convo04_05",
+      "audioUrl": "audio/fencer_match_start_fencer_inferno_convo04_05.mp3",
+      "text": "So they just want to abandon our culture?",
+      "duration": 2.103
+    },
+    {
+      "order": 6,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_fencer_inferno_convo04_06",
+      "audioUrl": "audio/inferno_match_start_fencer_inferno_convo04_06.mp3",
+      "text": "You'd have to ask them.  All I know is that If my parents thought living in Ixia was so great they never would've left.",
+      "duration": 6.12
+    }
+  ]
+}

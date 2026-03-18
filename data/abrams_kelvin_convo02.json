@@ -1,0 +1,29 @@
+{
+  "id": "abrams_kelvin_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_kelvin_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_kelvin_convo02_01.mp3",
+      "text": "You hot in that thing?",
+      "duration": 2.172
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_atlas_kelvin_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_atlas_kelvin_convo02_02.mp3",
+      "text": "Revenant's don't really sweat",
+      "duration": 2.021
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_kelvin_convo02_03",
+      "audioUrl": "audio/atlas_match_start_atlas_kelvin_convo02_03.mp3",
+      "text": "Checks out.",
+      "duration": 1.36
+    }
+  ]
+}

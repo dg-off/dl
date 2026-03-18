@@ -1,0 +1,21 @@
+{
+  "id": "celeste_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_gigawatt_convo02_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_gigawatt_convo02_01.mp3",
+      "text": "I shouldn't be helping you.",
+      "duration": 1.807
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_unicorn_gigawatt_convo02_02",
+      "audioUrl": "audio/gigawatt_match_start_unicorn_gigawatt_convo02_02.mp3",
+      "text": "Don't be hard on yourself, people's morality always crumbles in the face of self interest.",
+      "duration": 6.911
+    }
+  ]
+}

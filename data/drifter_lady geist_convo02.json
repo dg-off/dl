@@ -1,0 +1,37 @@
+{
+  "id": "drifter_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_drifter_ghost_convo02_01",
+      "audioUrl": "audio/ghost_match_start_drifter_ghost_convo02_01.mp3",
+      "text": "Oathkeeper asked me to give you a message.",
+      "duration": 2.815
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_ghost_convo02_02",
+      "audioUrl": "audio/drifter_match_start_drifter_ghost_convo02_02.mp3",
+      "text": "Can't wait to hear it.",
+      "duration": 1.381
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_drifter_ghost_convo02_03",
+      "audioUrl": "audio/ghost_match_start_drifter_ghost_convo02_03.mp3",
+      "text": "See you soon.",
+      "duration": 1.578
+    },
+    {
+      "order": 4,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_ghost_convo02_04",
+      "audioUrl": "audio/drifter_match_start_drifter_ghost_convo02_04.mp3",
+      "text": "<laughs> Oh today is gonna be fun\u2026",
+      "duration": 4.909
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lady geist_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_ghost_convo02_01",
+      "audioUrl": "audio/frank_match_start_frank_ghost_convo02_01.mp3",
+      "text": "You look repulsed Lady Geist.",
+      "duration": 1.922
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_frank_ghost_convo02_02",
+      "audioUrl": "audio/ghost_match_start_frank_ghost_convo02_02.mp3",
+      "text": "You're a shambling mass of flesh, why wouldn't I be.",
+      "duration": 3.85
+    }
+  ]
+}

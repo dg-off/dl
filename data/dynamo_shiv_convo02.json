@@ -1,0 +1,29 @@
+{
+  "id": "dynamo_shiv_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_dynamo_shiv_convo02_01",
+      "audioUrl": "audio/shiv_match_start_dynamo_shiv_convo02_01.mp3",
+      "text": "You got the stomach for this professor?",
+      "duration": 2.194
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_shiv_convo02_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_shiv_convo02_02.mp3",
+      "text": "If you think academics lack willpower you are sorely mistaken.",
+      "duration": 3.798
+    },
+    {
+      "order": 3,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_dynamo_shiv_convo02_03",
+      "audioUrl": "audio/shiv_match_start_dynamo_shiv_convo02_03.mp3",
+      "text": "I hope so.",
+      "duration": 1.185
+    }
+  ]
+}

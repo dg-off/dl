@@ -1,0 +1,37 @@
+{
+  "id": "ivy_kelvin_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_kelvin_convo02_01",
+      "audioUrl": "audio/tengu_match_start_tengu_kelvin_convo02_01.mp3",
+      "text": "Mr. Kelvin?",
+      "duration": 1.423
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_tengu_kelvin_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_tengu_kelvin_convo02_02.mp3",
+      "text": "Yes?",
+      "duration": 0.946
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_kelvin_convo02_03",
+      "audioUrl": "audio/tengu_match_start_tengu_kelvin_convo02_03.mp3",
+      "text": "I know this is an awkward time to ask, but when this is over would you be willing to talk to my little brother?  He's a big fan of your adventure stories.",
+      "duration": 8.602
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_tengu_kelvin_convo02_04",
+      "audioUrl": "audio/kelvin_match_start_tengu_kelvin_convo02_04.mp3",
+      "text": "Of course Ivy.",
+      "duration": 1.983
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "infernus_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_inferno_wraith_convo02_01",
+      "audioUrl": "audio/wraith_match_start_inferno_wraith_convo02_01.mp3",
+      "text": "How's working at the boring bar.",
+      "duration": 1.518
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_wraith_convo02_02",
+      "audioUrl": "audio/inferno_match_start_inferno_wraith_convo02_02.mp3",
+      "text": "Legal doesn't mean boring.",
+      "duration": 2.365
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_inferno_wraith_convo02_03",
+      "audioUrl": "audio/wraith_match_start_inferno_wraith_convo02_03.mp3",
+      "text": "Kind of does.",
+      "duration": 0.948
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_wraith_convo02_04",
+      "audioUrl": "audio/inferno_match_start_inferno_wraith_convo02_04.mp3",
+      "text": "Hank's a good man.",
+      "duration": 1.161
+    },
+    {
+      "order": 5,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_inferno_wraith_convo02_05",
+      "audioUrl": "audio/wraith_match_start_inferno_wraith_convo02_05.mp3",
+      "text": "He is.  A good. Boring. Man.",
+      "duration": 4.158
+    }
+  ]
+}

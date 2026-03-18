@@ -1,0 +1,37 @@
+{
+  "id": "haze_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_haze_hornet_convo02_01",
+      "audioUrl": "audio/hornet_match_start_haze_hornet_convo02_01.mp3",
+      "text": "How can you work for them?",
+      "duration": 1.538
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_hornet_convo02_02",
+      "audioUrl": "audio/haze_match_start_haze_hornet_convo02_02.mp3",
+      "text": "I love my country.",
+      "duration": 1.99
+    },
+    {
+      "order": 3,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_haze_hornet_convo02_03",
+      "audioUrl": "audio/hornet_match_start_haze_hornet_convo02_03.mp3",
+      "text": "I don't know why I'm bothering to reason with a zealot.",
+      "duration": 2.608
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_hornet_convo02_04",
+      "audioUrl": "audio/haze_match_start_haze_hornet_convo02_04.mp3",
+      "text": "I'm not a zealot.  The OSIC isn't perfect, and neither is the world.  You of all people should understand that the ends justify the means.",
+      "duration": 9.494
+    }
+  ]
+}

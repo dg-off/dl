@@ -1,0 +1,37 @@
+{
+  "id": "lady geist_pocket_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_synth_convo03_01",
+      "audioUrl": "audio/ghost_match_start_ghost_synth_convo03_01.mp3",
+      "text": "Who did you rob for that overcoat?",
+      "duration": 2.278
+    },
+    {
+      "order": 2,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_ghost_synth_convo03_02",
+      "audioUrl": "audio/synth_match_start_ghost_synth_convo03_02.mp3",
+      "text": "Excuse me?",
+      "duration": 0.995
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_synth_convo03_03",
+      "audioUrl": "audio/ghost_match_start_ghost_synth_convo03_03.mp3",
+      "text": "That jacket is a Kelsey Evans.  There's no way someone like you could afford it, who did you rob?",
+      "duration": 6.72
+    },
+    {
+      "order": 4,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_ghost_synth_convo03_04",
+      "audioUrl": "audio/synth_match_start_ghost_synth_convo03_04.mp3",
+      "text": "Just leave me alone.",
+      "duration": 1.271
+    }
+  ]
+}

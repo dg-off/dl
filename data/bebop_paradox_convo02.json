@@ -1,0 +1,21 @@
+{
+  "id": "bebop_paradox_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_bebop_chrono_convo02_01",
+      "audioUrl": "audio/chrono_match_start_bebop_chrono_convo02_01.mp3",
+      "text": "Between the two of us we'll put them right where we want them.",
+      "duration": 4.109
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_chrono_convo02_02",
+      "audioUrl": "audio/bebop_match_start_bebop_chrono_convo02_02.mp3",
+      "text": "Looking forward to working with you Paradox",
+      "duration": 2.234
+    }
+  ]
+}

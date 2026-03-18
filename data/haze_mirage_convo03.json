@@ -1,0 +1,53 @@
+{
+  "id": "haze_mirage_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_haze_mirage_convo03_01",
+      "audioUrl": "audio/mirage_match_start_haze_mirage_convo03_01.mp3",
+      "text": "Do you think your government will be reasonable?",
+      "duration": 2.367
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_mirage_convo03_02",
+      "audioUrl": "audio/haze_match_start_haze_mirage_convo03_02.mp3",
+      "text": "You're talking about buying a state.",
+      "duration": 2.681
+    },
+    {
+      "order": 3,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_haze_mirage_convo03_03",
+      "audioUrl": "audio/mirage_match_start_haze_mirage_convo03_03.mp3",
+      "text": "Part of a state.",
+      "duration": 1.193
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_mirage_convo03_04",
+      "audioUrl": "audio/haze_match_start_haze_mirage_convo03_04.mp3",
+      "text": "Still, it's hard to picture.",
+      "duration": 2.645
+    },
+    {
+      "order": 5,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_haze_mirage_convo03_05",
+      "audioUrl": "audio/mirage_match_start_haze_mirage_convo03_05.mp3",
+      "text": "It's how you got Louisiana.",
+      "duration": 1.601
+    },
+    {
+      "order": 6,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_mirage_convo03_06",
+      "audioUrl": "audio/haze_match_start_haze_mirage_convo03_06.mp3",
+      "text": "Fair.",
+      "duration": 1.499
+    }
+  ]
+}

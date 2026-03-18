@@ -1,0 +1,45 @@
+{
+  "id": "haze_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_ghost_convo02_01",
+      "audioUrl": "audio/haze_match_start_haze_ghost_convo02_01.mp3",
+      "text": "You look nervous Lady Geist.",
+      "duration": 2.85
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_haze_ghost_convo02_02",
+      "audioUrl": "audio/ghost_match_start_haze_ghost_convo02_02.mp3",
+      "text": "As a general rule I do my best to avoid state sponsored assassins.",
+      "duration": 4.206
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_ghost_convo02_03",
+      "audioUrl": "audio/haze_match_start_haze_ghost_convo02_03.mp3",
+      "text": "Assassins work in the private sector. When you're federally employeed you're called an asset.",
+      "duration": 5.65
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_haze_ghost_convo02_04",
+      "audioUrl": "audio/ghost_match_start_haze_ghost_convo02_04.mp3",
+      "text": "Apologies, forgive the wrong nomenclature.",
+      "duration": 3.491
+    },
+    {
+      "order": 5,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_ghost_convo02_05",
+      "audioUrl": "audio/haze_match_start_haze_ghost_convo02_05.mp3",
+      "text": "Happens all the time.",
+      "duration": 2.138
+    }
+  ]
+}

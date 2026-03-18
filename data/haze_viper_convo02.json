@@ -1,0 +1,37 @@
+{
+  "id": "haze_viper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_viper_haze_convo02_01",
+      "audioUrl": "audio/haze_match_start_viper_haze_convo02_01.mp3",
+      "text": "So what do you do?",
+      "duration": 2.164
+    },
+    {
+      "order": 2,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_haze_convo02_02",
+      "audioUrl": "audio/viper_match_start_viper_haze_convo02_02.mp3",
+      "text": "Make poor life decisions.",
+      "duration": 1.558
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_viper_haze_convo02_03",
+      "audioUrl": "audio/haze_match_start_viper_haze_convo02_03.mp3",
+      "text": "This should be interesting\u2026",
+      "duration": 2.572
+    },
+    {
+      "order": 4,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_haze_convo02_04",
+      "audioUrl": "audio/viper_match_start_viper_haze_convo02_04.mp3",
+      "text": "Fun, haze.  It should be fun.",
+      "duration": 2.296
+    }
+  ]
+}

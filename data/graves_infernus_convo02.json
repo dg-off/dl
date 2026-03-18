@@ -1,0 +1,69 @@
+{
+  "id": "graves_infernus_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_inferno_convo02_01",
+      "audioUrl": "audio/necro_match_start_necro_inferno_convo02_01.mp3",
+      "text": "Ya know there's rumors about you.",
+      "duration": 2.279
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_necro_inferno_convo02_02",
+      "audioUrl": "audio/inferno_match_start_necro_inferno_convo02_02.mp3",
+      "text": "That right?",
+      "duration": 0.828
+    },
+    {
+      "order": 3,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_inferno_convo02_03",
+      "audioUrl": "audio/necro_match_start_necro_inferno_convo02_03.mp3",
+      "text": "Yeah.  Supposedly you're with the mob.",
+      "duration": 2.524
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_necro_inferno_convo02_04",
+      "audioUrl": "audio/inferno_match_start_necro_inferno_convo02_04.mp3",
+      "text": "I'm just a bartender.",
+      "duration": 1.6
+    },
+    {
+      "order": 5,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_inferno_convo02_05",
+      "audioUrl": "audio/necro_match_start_necro_inferno_convo02_05.mp3",
+      "text": "That's not what my classmates say.",
+      "duration": 1.998
+    },
+    {
+      "order": 6,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_necro_inferno_convo02_06",
+      "audioUrl": "audio/inferno_match_start_necro_inferno_convo02_06.mp3",
+      "text": "I don't know if I'd trust the Blackmore Academy rumor mill.",
+      "duration": 2.77
+    },
+    {
+      "order": 7,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_inferno_convo02_07",
+      "audioUrl": "audio/necro_match_start_necro_inferno_convo02_07.mp3",
+      "text": "They play cards at Wraiths.",
+      "duration": 1.622
+    },
+    {
+      "order": 8,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_necro_inferno_convo02_08",
+      "audioUrl": "audio/inferno_match_start_necro_inferno_convo02_08.mp3",
+      "text": "Don't know if I'd trust what she has to say either.",
+      "duration": 2.229
+    }
+  ]
+}

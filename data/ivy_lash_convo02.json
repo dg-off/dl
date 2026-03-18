@@ -1,0 +1,53 @@
+{
+  "id": "ivy_lash_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_lash_convo02_01",
+      "audioUrl": "audio/tengu_match_start_tengu_lash_convo02_01.mp3",
+      "text": "Do we have a plan?",
+      "duration": 1.355
+    },
+    {
+      "order": 2,
+      "character": "Lash",
+      "audioFile": "lash_match_start_tengu_lash_convo02_02",
+      "audioUrl": "audio/lash_match_start_tengu_lash_convo02_02.mp3",
+      "text": "You think we need one?",
+      "duration": 1.25
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_lash_convo02_03",
+      "audioUrl": "audio/tengu_match_start_tengu_lash_convo02_03.mp3",
+      "text": "Probably?",
+      "duration": 1.074
+    },
+    {
+      "order": 4,
+      "character": "Lash",
+      "audioFile": "lash_match_start_tengu_lash_convo02_04",
+      "audioUrl": "audio/lash_match_start_tengu_lash_convo02_04.mp3",
+      "text": "Ivy.  A plan's a list of things that don't happen.  What we need is The Lash.",
+      "duration": 6.967
+    },
+    {
+      "order": 5,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_lash_convo02_05",
+      "audioUrl": "audio/tengu_match_start_tengu_lash_convo02_05.mp3",
+      "text": "We need\u2026 you.",
+      "duration": 1.985
+    },
+    {
+      "order": 6,
+      "character": "Lash",
+      "audioFile": "lash_match_start_tengu_lash_convo02_06",
+      "audioUrl": "audio/lash_match_start_tengu_lash_convo02_06.mp3",
+      "text": "Goddamn right.",
+      "duration": 1.808
+    }
+  ]
+}

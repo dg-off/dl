@@ -1,0 +1,21 @@
+{
+  "id": "grey talon_vindicta_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_orion_hornet_convo01_01",
+      "audioUrl": "audio/hornet_match_start_orion_hornet_convo01_01.mp3",
+      "text": "This is our moment Wesley.",
+      "duration": 1.909
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_hornet_convo01_02",
+      "audioUrl": "audio/orion_match_start_orion_hornet_convo01_02.mp3",
+      "text": "It is. And we won't squander it.",
+      "duration": 2.849
+    }
+  ]
+}

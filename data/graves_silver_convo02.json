@@ -1,0 +1,45 @@
+{
+  "id": "graves_silver_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_werewolf_convo02_01",
+      "audioUrl": "audio/necro_match_start_necro_werewolf_convo02_01.mp3",
+      "text": "You like being a werewolf?",
+      "duration": 1.158
+    },
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_necro_werewolf_convo02_02",
+      "audioUrl": "audio/werewolf_match_start_necro_werewolf_convo02_02.mp3",
+      "text": "I don't know.",
+      "duration": 0.917
+    },
+    {
+      "order": 3,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_werewolf_convo02_03",
+      "audioUrl": "audio/necro_match_start_necro_werewolf_convo02_03.mp3",
+      "text": "You don't know?",
+      "duration": 1.217
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_necro_werewolf_convo02_04",
+      "audioUrl": "audio/werewolf_match_start_necro_werewolf_convo02_04.mp3",
+      "text": "I've never not been one. Imagine if I asked you how you liked being a human.",
+      "duration": 4.733
+    },
+    {
+      "order": 5,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_werewolf_convo02_05",
+      "audioUrl": "audio/necro_match_start_necro_werewolf_convo02_05.mp3",
+      "text": "I'd say that humans are generally awful with moments of surprising compassion and that we would all probably be better off if 90% of us were replaced by cats.",
+      "duration": 8.799
+    }
+  ]
+}

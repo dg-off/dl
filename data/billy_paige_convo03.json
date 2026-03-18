@@ -1,0 +1,37 @@
+{
+  "id": "billy_paige_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_punkgoat_bookworm_convo03_01",
+      "audioUrl": "audio/bookworm_match_start_punkgoat_bookworm_convo03_01.mp3",
+      "text": "You know there's a shakespere festival next weekend",
+      "duration": 2.409
+    },
+    {
+      "order": 2,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bookworm_convo03_02",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bookworm_convo03_02.mp3",
+      "text": "You think I give a shit about some snob that wrote in middle english",
+      "duration": 3.423
+    },
+    {
+      "order": 3,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_punkgoat_bookworm_convo03_03",
+      "audioUrl": "audio/bookworm_match_start_punkgoat_bookworm_convo03_03.mp3",
+      "text": "He didn't write in middle english but that's a whole nother thing, point is that every one loves Midsumer Nights Dream and you would basically be their king.",
+      "duration": 7.686
+    },
+    {
+      "order": 4,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bookworm_convo03_04",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bookworm_convo03_04.mp3",
+      "text": "Maybe I'll check it out.",
+      "duration": 1.296
+    }
+  ]
+}

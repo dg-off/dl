@@ -1,0 +1,53 @@
+{
+  "id": "haze_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_frank_haze_convo02_01",
+      "audioUrl": "audio/haze_match_start_frank_haze_convo02_01.mp3",
+      "text": "So you find out where you came from, what comes next.",
+      "duration": 4.192
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_haze_convo02_02",
+      "audioUrl": "audio/frank_match_start_frank_haze_convo02_02.mp3",
+      "text": "Never really thought about it.",
+      "duration": 1.666
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_frank_haze_convo02_03",
+      "audioUrl": "audio/haze_match_start_frank_haze_convo02_03.mp3",
+      "text": "You should.",
+      "duration": 1.633
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_haze_convo02_04",
+      "audioUrl": "audio/frank_match_start_frank_haze_convo02_04.mp3",
+      "text": "Any suggestions?",
+      "duration": 1.377
+    },
+    {
+      "order": 5,
+      "character": "Haze",
+      "audioFile": "haze_match_start_frank_haze_convo02_05",
+      "audioUrl": "audio/haze_match_start_frank_haze_convo02_05.mp3",
+      "text": "I'm biased, but I think you should consider the OSIC.",
+      "duration": 4.519
+    },
+    {
+      "order": 6,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_haze_convo02_06",
+      "audioUrl": "audio/frank_match_start_frank_haze_convo02_06.mp3",
+      "text": "I'll keep that in mind.",
+      "duration": 1.314
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "apollo_rem_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_fencer_convo03_01",
+      "audioUrl": "audio/familiar_match_start_familiar_fencer_convo03_01.mp3",
+      "text": "How can I get a jacket like yours?",
+      "duration": 3.445
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_familiar_fencer_convo03_02",
+      "audioUrl": "audio/fencer_match_start_familiar_fencer_convo03_02.mp3",
+      "text": "Do you have rich parents?",
+      "duration": 1.576
+    },
+    {
+      "order": 3,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_fencer_convo03_03",
+      "audioUrl": "audio/familiar_match_start_familiar_fencer_convo03_03.mp3",
+      "text": "No.",
+      "duration": 1.624
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_familiar_fencer_convo03_04",
+      "audioUrl": "audio/fencer_match_start_familiar_fencer_convo03_04.mp3",
+      "text": "Are you the best at anything?",
+      "duration": 1.612
+    },
+    {
+      "order": 5,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_fencer_convo03_05",
+      "audioUrl": "audio/familiar_match_start_familiar_fencer_convo03_05.mp3",
+      "text": "Sleeping.",
+      "duration": 2.037
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_familiar_fencer_convo03_06",
+      "audioUrl": "audio/fencer_match_start_familiar_fencer_convo03_06.mp3",
+      "text": "You're not getting a jacket like this, sorry.",
+      "duration": 2.89
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "apollo_graves_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_necro_convo02_01",
+      "audioUrl": "audio/fencer_match_start_fencer_necro_convo02_01.mp3",
+      "text": "You weren't in class yesterday.",
+      "duration": 1.548
+    },
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_fencer_necro_convo02_02",
+      "audioUrl": "audio/necro_match_start_fencer_necro_convo02_02.mp3",
+      "text": "You noticed?",
+      "duration": 0.939
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_necro_convo02_03",
+      "audioUrl": "audio/fencer_match_start_fencer_necro_convo02_03.mp3",
+      "text": "I notice everything.  Were you sick?",
+      "duration": 2.491
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_fencer_necro_convo02_04",
+      "audioUrl": "audio/necro_match_start_fencer_necro_convo02_04.mp3",
+      "text": "Do you care?",
+      "duration": 0.876
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_necro_convo02_05",
+      "audioUrl": "audio/fencer_match_start_fencer_necro_convo02_05.mp3",
+      "text": "Of course I care.  It's hard for you fight if you have a high fever or food poisoning or whatever.",
+      "duration": 4.926
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_fencer_necro_convo02_06",
+      "audioUrl": "audio/necro_match_start_fencer_necro_convo02_06.mp3",
+      "text": "I was skipping class.  I'm fine.",
+      "duration": 1.681
+    },
+    {
+      "order": 7,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_necro_convo02_07",
+      "audioUrl": "audio/fencer_match_start_fencer_necro_convo02_07.mp3",
+      "text": "\"I'm fine.  Just undisciplined and negligent.\"",
+      "duration": 2.997
+    },
+    {
+      "order": 8,
+      "character": "Graves",
+      "audioFile": "necro_match_start_fencer_necro_convo02_08",
+      "audioUrl": "audio/necro_match_start_fencer_necro_convo02_08.mp3",
+      "text": "You're such a prick.",
+      "duration": 0.989
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "paradox_wraith_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_chrono_wraith_convo01_01",
+      "audioUrl": "audio/chrono_match_start_chrono_wraith_convo01_01.mp3",
+      "text": "At some point they're going to think they escaped us, and then reality is going to hit them.",
+      "duration": 4.974
+    },
+    {
+      "order": 2,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_chrono_wraith_convo01_02",
+      "audioUrl": "audio/wraith_match_start_chrono_wraith_convo01_02.mp3",
+      "text": "Oh it's going to be hilarious.",
+      "duration": 2.228
+    }
+  ]
+}

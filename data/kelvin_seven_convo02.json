@@ -1,0 +1,29 @@
+{
+  "id": "kelvin_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_kelvin_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_kelvin_convo02_01.mp3",
+      "text": "Don't worry Kelvin, I won't let you die.",
+      "duration": 3.364
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_gigawatt_kelvin_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_gigawatt_kelvin_convo02_02.mp3",
+      "text": "I thought you hated me",
+      "duration": 2.495
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_kelvin_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_kelvin_convo02_03.mp3",
+      "text": "I do.  But if anyone is going to kill you, it's going to be me.",
+      "duration": 4.504
+    }
+  ]
+}

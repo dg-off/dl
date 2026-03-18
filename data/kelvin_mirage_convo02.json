@@ -1,0 +1,45 @@
+{
+  "id": "kelvin_mirage_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_mirage_convo02_01",
+      "audioUrl": "audio/kelvin_match_start_kelvin_mirage_convo02_01.mp3",
+      "text": "I imagine your career choice has taken you to some fantastic locales.",
+      "duration": 4.359
+    },
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_kelvin_mirage_convo02_02",
+      "audioUrl": "audio/mirage_match_start_kelvin_mirage_convo02_02.mp3",
+      "text": "It has.",
+      "duration": 0.876
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_mirage_convo02_03",
+      "audioUrl": "audio/kelvin_match_start_kelvin_mirage_convo02_03.mp3",
+      "text": "I look forward to reading all about them.",
+      "duration": 2.625
+    },
+    {
+      "order": 4,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_kelvin_mirage_convo02_04",
+      "audioUrl": "audio/mirage_match_start_kelvin_mirage_convo02_04.mp3",
+      "text": "You won't be.  Revealing those details would be a major break of Nashala's trust.",
+      "duration": 4.942
+    },
+    {
+      "order": 5,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_mirage_convo02_05",
+      "audioUrl": "audio/kelvin_match_start_kelvin_mirage_convo02_05.mp3",
+      "text": "Disapointing, but respectable.",
+      "duration": 3.341
+    }
+  ]
+}

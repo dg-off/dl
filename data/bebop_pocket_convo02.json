@@ -1,0 +1,21 @@
+{
+  "id": "bebop_pocket_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_synth_convo02_01",
+      "audioUrl": "audio/bebop_match_start_bebop_synth_convo02_01.mp3",
+      "text": "Pocket\u2026 I don't mean to pry, but if after the ritual you need a place to stay\u2026",
+      "duration": 6.099
+    },
+    {
+      "order": 2,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_bebop_synth_convo02_02",
+      "audioUrl": "audio/synth_match_start_bebop_synth_convo02_02.mp3",
+      "text": "That's very kind of you Bebop, but I'm fine.",
+      "duration": 2.716
+    }
+  ]
+}

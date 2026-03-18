@@ -1,0 +1,53 @@
+{
+  "id": "lash_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_wraith_convo02_01",
+      "audioUrl": "audio/lash_match_start_lash_wraith_convo02_01.mp3",
+      "text": "So you're the lady that bets on Bebop.",
+      "duration": 3.368
+    },
+    {
+      "order": 2,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_lash_wraith_convo02_02",
+      "audioUrl": "audio/wraith_match_start_lash_wraith_convo02_02.mp3",
+      "text": "And you're the guy that lost to Bebop.",
+      "duration": 2.448
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_wraith_convo02_03",
+      "audioUrl": "audio/lash_match_start_lash_wraith_convo02_03.mp3",
+      "text": "One time.",
+      "duration": 0.961
+    },
+    {
+      "order": 4,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_lash_wraith_convo02_04",
+      "audioUrl": "audio/wraith_match_start_lash_wraith_convo02_04.mp3",
+      "text": "One time's all it takes to be a loser.",
+      "duration": 1.987
+    },
+    {
+      "order": 4,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_lash_wraith_convo02_04_02",
+      "audioUrl": "audio/wraith_match_start_lash_wraith_convo02_04_02.mp3",
+      "text": "One time's all it takes to be a loser.",
+      "duration": 1.787
+    },
+    {
+      "order": 5,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_wraith_convo02_05",
+      "audioUrl": "audio/lash_match_start_lash_wraith_convo02_05.mp3",
+      "text": "Shutup!",
+      "duration": 0.916
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "doorman_grey talon_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_doorman_orion_convo03_01",
+      "audioUrl": "audio/orion_match_start_doorman_orion_convo03_01.mp3",
+      "text": "The Baroness still the most haunted hotel in America?",
+      "duration": 2.833
+    },
+    {
+      "order": 2,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_orion_convo03_02",
+      "audioUrl": "audio/doorman_match_start_doorman_orion_convo03_02.mp3",
+      "text": "Just the tri-state area I'm afraid, that ghastly business in Macomb pulled a lot of midwest specters.",
+      "duration": 7.741
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_doorman_orion_convo03_03",
+      "audioUrl": "audio/orion_match_start_doorman_orion_convo03_03.mp3",
+      "text": "Sorry.",
+      "duration": 0.647
+    },
+    {
+      "order": 4,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_orion_convo03_04",
+      "audioUrl": "audio/doorman_match_start_doorman_orion_convo03_04.mp3",
+      "text": "It's fine.  I imagine today will put things back on track.",
+      "duration": 3.76
+    }
+  ]
+}

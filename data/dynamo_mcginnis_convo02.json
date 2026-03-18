@@ -1,0 +1,53 @@
+{
+  "id": "dynamo_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_forge_convo02_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_forge_convo02_01.mp3",
+      "text": "Have you ever considered being an adjunct professor?",
+      "duration": 2.303
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_dynamo_forge_convo02_02",
+      "audioUrl": "audio/forge_match_start_dynamo_forge_convo02_02.mp3",
+      "text": "No, I'd make a really bad teacher.",
+      "duration": 2.219
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_forge_convo02_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_forge_convo02_03.mp3",
+      "text": "Why do you think that?",
+      "duration": 1.066
+    },
+    {
+      "order": 4,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_dynamo_forge_convo02_04",
+      "audioUrl": "audio/forge_match_start_dynamo_forge_convo02_04.mp3",
+      "text": "I don't know how I do what I do, it just comes naturally\u2026 if I tried to teach someone it would probably boil down to me saying \"try it again, but don't suck this time\"",
+      "duration": 8.494
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_forge_convo02_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_forge_convo02_05.mp3",
+      "text": "Good god, you'd be the Lash of acadameia.",
+      "duration": 2.52
+    },
+    {
+      "order": 6,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_dynamo_forge_convo02_06",
+      "audioUrl": "audio/forge_match_start_dynamo_forge_convo02_06.mp3",
+      "text": "You say it like that, I kind of wanna give it a try.",
+      "duration": 2.349
+    }
+  ]
+}

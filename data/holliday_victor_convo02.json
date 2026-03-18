@@ -1,0 +1,29 @@
+{
+  "id": "holliday_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_astro_convo02_01",
+      "audioUrl": "audio/frank_match_start_frank_astro_convo02_01.mp3",
+      "text": "Something bothering you sheriff?",
+      "duration": 1.81
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_frank_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_frank_astro_convo02_02.mp3",
+      "text": "Whole lotta things are bothering me\u2026 nothing you can help with though.",
+      "duration": 3.94
+    },
+    {
+      "order": 3,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_astro_convo02_03",
+      "audioUrl": "audio/frank_match_start_frank_astro_convo02_03.mp3",
+      "text": "Understood.",
+      "duration": 0.987
+    }
+  ]
+}

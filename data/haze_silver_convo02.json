@@ -1,0 +1,45 @@
+{
+  "id": "haze_silver_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_haze_convo02_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_haze_convo02_01.mp3",
+      "text": "We gonna have a conflict of interest?",
+      "duration": 1.903
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_werewolf_haze_convo02_02",
+      "audioUrl": "audio/haze_match_start_werewolf_haze_convo02_02.mp3",
+      "text": "We're on the same team.",
+      "duration": 2.406
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_haze_convo02_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_haze_convo02_03.mp3",
+      "text": "Only one of us is making a salary and it sure as hell ain't me.",
+      "duration": 3.747
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_werewolf_haze_convo02_04",
+      "audioUrl": "audio/haze_match_start_werewolf_haze_convo02_04.mp3",
+      "text": "I'm not trying to take your paycheck, Silver. I just want them dead. Feel free to take all of the credit.",
+      "duration": 7.116
+    },
+    {
+      "order": 5,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_haze_convo02_05",
+      "audioUrl": "audio/werewolf_match_start_werewolf_haze_convo02_05.mp3",
+      "text": "That's some teamwork right there.",
+      "duration": 1.803
+    }
+  ]
+}

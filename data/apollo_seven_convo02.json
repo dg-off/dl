@@ -1,0 +1,53 @@
+{
+  "id": "apollo_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_gigawatt_convo02_01",
+      "audioUrl": "audio/fencer_match_start_fencer_gigawatt_convo02_01.mp3",
+      "text": "You're the one that escaped Lost Whisper.",
+      "duration": 2.122
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_fencer_gigawatt_convo02_02",
+      "audioUrl": "audio/gigawatt_match_start_fencer_gigawatt_convo02_02.mp3",
+      "text": "I am.",
+      "duration": 1.417
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_gigawatt_convo02_03",
+      "audioUrl": "audio/fencer_match_start_fencer_gigawatt_convo02_03.mp3",
+      "text": "What was it like?",
+      "duration": 0.912
+    },
+    {
+      "order": 4,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_fencer_gigawatt_convo02_04",
+      "audioUrl": "audio/gigawatt_match_start_fencer_gigawatt_convo02_04.mp3",
+      "text": "I don't have time to wax poetic about the indignities I suffered.",
+      "duration": 4.621
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_gigawatt_convo02_05",
+      "audioUrl": "audio/fencer_match_start_fencer_gigawatt_convo02_05.mp3",
+      "text": "Just enough time to wax poetic about brushing me off?",
+      "duration": 2.966
+    },
+    {
+      "order": 6,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_fencer_gigawatt_convo02_06",
+      "audioUrl": "audio/gigawatt_match_start_fencer_gigawatt_convo02_06.mp3",
+      "text": "Silence child.",
+      "duration": 1.52
+    }
+  ]
+}

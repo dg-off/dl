@@ -1,0 +1,29 @@
+{
+  "id": "billy_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_hornet_convo02_01",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_hornet_convo02_01.mp3",
+      "text": "Your dress is rediculous.",
+      "duration": 1.929
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_punkgoat_hornet_convo02_02",
+      "audioUrl": "audio/hornet_match_start_punkgoat_hornet_convo02_02.mp3",
+      "text": "You have a goat head.",
+      "duration": 1.347
+    },
+    {
+      "order": 3,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_hornet_convo02_03",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_hornet_convo02_03.mp3",
+      "text": "Way to go for low hanging fruit Vindicta, real classy.",
+      "duration": 3.943
+    }
+  ]
+}

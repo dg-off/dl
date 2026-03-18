@@ -1,0 +1,29 @@
+{
+  "id": "drifter_viper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_drifter_viper_convo02_01",
+      "audioUrl": "audio/viper_match_start_drifter_viper_convo02_01.mp3",
+      "text": "Whatcha doing after the ritual?",
+      "duration": 1.754
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_viper_convo02_02",
+      "audioUrl": "audio/drifter_match_start_drifter_viper_convo02_02.mp3",
+      "text": "What, you lookin' to get drinks?",
+      "duration": 2.364
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_drifter_viper_convo02_03",
+      "audioUrl": "audio/viper_match_start_drifter_viper_convo02_03.mp3",
+      "text": "Ya know I was looking to get as far away from you as possible while you were still in a good mood, but if you're buying I'm good for a cocktail or two.",
+      "duration": 6.989
+    }
+  ]
+}

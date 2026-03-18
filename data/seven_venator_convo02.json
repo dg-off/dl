@@ -1,0 +1,21 @@
+{
+  "id": "seven_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_gigawatt_convo02_01",
+      "audioUrl": "audio/priest_match_start_priest_gigawatt_convo02_01.mp3",
+      "text": "You killed a friend of mine.",
+      "duration": 1.711
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_priest_gigawatt_convo02_02",
+      "audioUrl": "audio/gigawatt_match_start_priest_gigawatt_convo02_02.mp3",
+      "text": "Please, you're still willing to work with me - I killed a work acquaintence at best.",
+      "duration": 7.546
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dynamo_pocket_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_dynamo_synth_convo02_01",
+      "audioUrl": "audio/synth_match_start_dynamo_synth_convo02_01.mp3",
+      "text": "Are you still friends with my father?",
+      "duration": 1.732
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_synth_convo02_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_synth_convo02_02.mp3",
+      "text": "These days \"friends\" might be pushing it, but I'd say he has warm nostaliga for me",
+      "duration": 7.502
+    },
+    {
+      "order": 3,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_dynamo_synth_convo02_03",
+      "audioUrl": "audio/synth_match_start_dynamo_synth_convo02_03.mp3",
+      "text": "He's not a good man.",
+      "duration": 1.391
+    },
+    {
+      "order": 4,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_synth_convo02_04",
+      "audioUrl": "audio/dynamo_match_start_dynamo_synth_convo02_04.mp3",
+      "text": "He's a complicated man.  There's a difference.",
+      "duration": 2.639
+    },
+    {
+      "order": 5,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_dynamo_synth_convo02_05",
+      "audioUrl": "audio/synth_match_start_dynamo_synth_convo02_05.mp3",
+      "text": "Not to me.",
+      "duration": 0.909
+    }
+  ]
+}

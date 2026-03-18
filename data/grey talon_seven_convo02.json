@@ -1,0 +1,21 @@
+{
+  "id": "grey talon_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_orion_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_orion_convo02_01.mp3",
+      "text": "Good luck on your quest for revenge\u2026 the small minded deserve to be culled.",
+      "duration": 5.3
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_gigawatt_orion_convo02_02",
+      "audioUrl": "audio/orion_match_start_gigawatt_orion_convo02_02.mp3",
+      "text": "Thank you.",
+      "duration": 0.756
+    }
+  ]
+}

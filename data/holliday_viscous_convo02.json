@@ -1,0 +1,61 @@
+{
+  "id": "holliday_viscous_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_viscous_convo02_01",
+      "audioUrl": "audio/astro_match_start_astro_viscous_convo02_01.mp3",
+      "text": "So where are you from?",
+      "duration": 1.439
+    },
+    {
+      "order": 2,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_astro_viscous_convo02_02",
+      "audioUrl": "audio/viscous_match_start_astro_viscous_convo02_02.mp3",
+      "text": "The Deep.",
+      "duration": 1.081
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_viscous_convo02_03",
+      "audioUrl": "audio/astro_match_start_astro_viscous_convo02_03.mp3",
+      "text": "So like\u2026 Mobile?",
+      "duration": 2.089
+    },
+    {
+      "order": 4,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_astro_viscous_convo02_04",
+      "audioUrl": "audio/viscous_match_start_astro_viscous_convo02_04.mp3",
+      "text": "Sure!",
+      "duration": 1.116
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_viscous_convo02_05",
+      "audioUrl": "audio/astro_match_start_astro_viscous_convo02_05.mp3",
+      "text": "You don't know what I said do you",
+      "duration": 2.067
+    },
+    {
+      "order": 6,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_astro_viscous_convo02_06",
+      "audioUrl": "audio/viscous_match_start_astro_viscous_convo02_06.mp3",
+      "text": "No!",
+      "duration": 1.114
+    },
+    {
+      "order": 7,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_viscous_convo02_07",
+      "audioUrl": "audio/astro_match_start_astro_viscous_convo02_07.mp3",
+      "text": "This is gonna go great\u2026.",
+      "duration": 1.747
+    }
+  ]
+}

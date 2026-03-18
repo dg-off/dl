@@ -1,0 +1,45 @@
+{
+  "id": "mcginnis_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_gigawatt_forge_convo02_01",
+      "audioUrl": "audio/forge_match_start_gigawatt_forge_convo02_01.mp3",
+      "text": "You ever take that thing off?",
+      "duration": 1.449
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_forge_convo02_02",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_forge_convo02_02.mp3",
+      "text": "It's impossible",
+      "duration": 1.491
+    },
+    {
+      "order": 3,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_gigawatt_forge_convo02_03",
+      "audioUrl": "audio/forge_match_start_gigawatt_forge_convo02_03.mp3",
+      "text": "For someone who likes to talk about having no limits you sure seem quick to give up the ghost on that one.",
+      "duration": 4.575
+    },
+    {
+      "order": 4,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_forge_convo02_04",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_forge_convo02_04.mp3",
+      "text": "hmm.",
+      "duration": 0.963
+    },
+    {
+      "order": 5,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_gigawatt_forge_convo02_05",
+      "audioUrl": "audio/forge_match_start_gigawatt_forge_convo02_05.mp3",
+      "text": "When this is over come find me.",
+      "duration": 2.108
+    }
+  ]
+}

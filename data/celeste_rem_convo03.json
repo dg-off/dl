@@ -1,0 +1,37 @@
+{
+  "id": "celeste_rem_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_familiar_unicorn_convo03_01",
+      "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo03_01.mp3",
+      "text": "If you can't find your way home, you can stay with me for a while",
+      "duration": 3.299
+    },
+    {
+      "order": 2,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_unicorn_convo03_02",
+      "audioUrl": "audio/familiar_match_start_familiar_unicorn_convo03_02.mp3",
+      "text": "Really?",
+      "duration": 1.573
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_familiar_unicorn_convo03_03",
+      "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo03_03.mp3",
+      "text": "Yeah.  Folks like us need to stick together.",
+      "duration": 3.236
+    },
+    {
+      "order": 4,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_unicorn_convo03_04",
+      "audioUrl": "audio/familiar_match_start_familiar_unicorn_convo03_04.mp3",
+      "text": "Thank you.",
+      "duration": 1.583
+    }
+  ]
+}

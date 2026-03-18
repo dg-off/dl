@@ -1,0 +1,21 @@
+{
+  "id": "mirage_viper_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_viper_mirage_convo01_01",
+      "audioUrl": "audio/mirage_match_start_viper_mirage_convo01_01.mp3",
+      "text": "You smell of cheap cigarettes and cheaper morals.",
+      "duration": 3.355
+    },
+    {
+      "order": 2,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_mirage_convo01_02",
+      "audioUrl": "audio/viper_match_start_viper_mirage_convo01_02.mp3",
+      "text": "Keep talking to me like that and I'm gonna lead you to a cheaper motel.",
+      "duration": 3.198
+    }
+  ]
+}

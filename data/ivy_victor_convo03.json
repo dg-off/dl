@@ -1,0 +1,37 @@
+{
+  "id": "ivy_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_frank_tengu_convo03_01",
+      "audioUrl": "audio/tengu_match_start_frank_tengu_convo03_01.mp3",
+      "text": "So Victor.  I'm not sure what your plans are after the ritual\u2026",
+      "duration": 4.993
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_tengu_convo03_02",
+      "audioUrl": "audio/frank_match_start_frank_tengu_convo03_02.mp3",
+      "text": "Depends on what I glean from The Patron.  Could be anything from doing research, to traveling on a bus, to shaking down a mass murderer.",
+      "duration": 7.011
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_frank_tengu_convo03_03",
+      "audioUrl": "audio/tengu_match_start_frank_tengu_convo03_03.mp3",
+      "text": "I was talking about dinner.",
+      "duration": 2.128
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_tengu_convo03_04",
+      "audioUrl": "audio/frank_match_start_frank_tengu_convo03_04.mp3",
+      "text": "Oh.  I dunno, get a hotdog?",
+      "duration": 3.076
+    }
+  ]
+}

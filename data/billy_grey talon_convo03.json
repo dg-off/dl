@@ -1,0 +1,53 @@
+{
+  "id": "billy_grey talon_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_orion_convo03_01",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_orion_convo03_01.mp3",
+      "text": "Old timers like you don't know how hard it is in the real world.  You're just sitting around smoking cigars and getting drunk on nostaliga.",
+      "duration": 7.758
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_punkgoat_orion_convo03_02",
+      "audioUrl": "audio/orion_match_start_punkgoat_orion_convo03_02.mp3",
+      "text": "Clearly.",
+      "duration": 1.274
+    },
+    {
+      "order": 3,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_orion_convo03_03",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_orion_convo03_03.mp3",
+      "text": "You think being smug makes you better than me?",
+      "duration": 2.189
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_punkgoat_orion_convo03_04",
+      "audioUrl": "audio/orion_match_start_punkgoat_orion_convo03_04.mp3",
+      "text": "I think the fact that I didn't turn my head into a goat makes me better than you.",
+      "duration": 3.571
+    },
+    {
+      "order": 5,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_orion_convo03_05",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_orion_convo03_05.mp3",
+      "text": "There it is.  There it is.  I knew that you were biased against me from the beginning.",
+      "duration": 4.993
+    },
+    {
+      "order": 6,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_punkgoat_orion_convo03_06",
+      "audioUrl": "audio/orion_match_start_punkgoat_orion_convo03_06.mp3",
+      "text": "You want to act like a jackass that\u2019s your business, but you don\u2019t get to be indignent when I point it out.  Now shut up and try not to die.",
+      "duration": 8.65
+    }
+  ]
+}

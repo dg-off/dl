@@ -1,0 +1,37 @@
+{
+  "id": "billy_grey talon_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_orion_convo02_01",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_orion_convo02_01.mp3",
+      "text": "I bet the Baxter society never killed any real monsters, it was all a bunch of smoke and mirrors for publicity.",
+      "duration": 6.356
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_punkgoat_orion_convo02_02",
+      "audioUrl": "audio/orion_match_start_punkgoat_orion_convo02_02.mp3",
+      "text": "You don't know what you're talking about.",
+      "duration": 1.689
+    },
+    {
+      "order": 3,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_orion_convo02_03",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_orion_convo02_03.mp3",
+      "text": "Big surprise, the mastermind of the whole charade tells me I'm wrong.",
+      "duration": 4.091
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_punkgoat_orion_convo02_04",
+      "audioUrl": "audio/orion_match_start_punkgoat_orion_convo02_04.mp3",
+      "text": "You being a moron has nothing to do with me starting the Baxter Society",
+      "duration": 4.427
+    }
+  ]
+}

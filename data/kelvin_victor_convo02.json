@@ -1,0 +1,37 @@
+{
+  "id": "kelvin_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_frank_kelvin_convo02_01",
+      "audioUrl": "audio/kelvin_match_start_frank_kelvin_convo02_01.mp3",
+      "text": "Do you have a plan for the battle, my morose friend.",
+      "duration": 2.682
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_kelvin_convo02_02",
+      "audioUrl": "audio/frank_match_start_frank_kelvin_convo02_02.mp3",
+      "text": "My plans tend to devolve into me throwing my body at my enemies until we all drown in blood.",
+      "duration": 5.092
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_frank_kelvin_convo02_03",
+      "audioUrl": "audio/kelvin_match_start_frank_kelvin_convo02_03.mp3",
+      "text": "That doesn't sound very sustainable.",
+      "duration": 2.624
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_kelvin_convo02_04",
+      "audioUrl": "audio/frank_match_start_frank_kelvin_convo02_04.mp3",
+      "text": "Ideally I rise like a macabre pheonix, but it doesn't always work  out.",
+      "duration": 4.3
+    }
+  ]
+}

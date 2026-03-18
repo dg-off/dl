@@ -1,0 +1,77 @@
+{
+  "id": "billy_paige_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_punkgoat_bookworm_convo02_01",
+      "audioUrl": "audio/bookworm_match_start_punkgoat_bookworm_convo02_01.mp3",
+      "text": "I get what you're doing.",
+      "duration": 1.443
+    },
+    {
+      "order": 2,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bookworm_convo02_02",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bookworm_convo02_02.mp3",
+      "text": "The hell you talking about.",
+      "duration": 1.389
+    },
+    {
+      "order": 3,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_punkgoat_bookworm_convo02_03",
+      "audioUrl": "audio/bookworm_match_start_punkgoat_bookworm_convo02_03.mp3",
+      "text": "This whole mad at the world schtick.  I bet secretly you have the heart of a poet and just are waiting for the world to be a little kinder.",
+      "duration": 7.706
+    },
+    {
+      "order": 4,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bookworm_convo02_04",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bookworm_convo02_04.mp3",
+      "text": "I hate people.",
+      "duration": 1.234
+    },
+    {
+      "order": 5,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_punkgoat_bookworm_convo02_05",
+      "audioUrl": "audio/bookworm_match_start_punkgoat_bookworm_convo02_05.mp3",
+      "text": "You think you do, but that's just masking some void in your life.",
+      "duration": 3.92
+    },
+    {
+      "order": 6,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bookworm_convo02_06",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bookworm_convo02_06.mp3",
+      "text": "I hate you.",
+      "duration": 1.285
+    },
+    {
+      "order": 7,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_punkgoat_bookworm_convo02_07",
+      "audioUrl": "audio/bookworm_match_start_punkgoat_bookworm_convo02_07.mp3",
+      "text": "See that doesn't make any sense because you don't know me.",
+      "duration": 2.601
+    },
+    {
+      "order": 8,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_bookworm_convo02_08",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_bookworm_convo02_08.mp3",
+      "text": "I don't want to know you.",
+      "duration": 1.257
+    },
+    {
+      "order": 9,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_punkgoat_bookworm_convo02_09",
+      "audioUrl": "audio/bookworm_match_start_punkgoat_bookworm_convo02_09.mp3",
+      "text": "That's what people say in the first act, but then by the thrid they're best friends.",
+      "duration": 3.687
+    }
+  ]
+}

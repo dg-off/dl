@@ -1,0 +1,29 @@
+{
+  "id": "abrams_lash_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_atlas_lash_convo02_01",
+      "audioUrl": "audio/lash_match_start_atlas_lash_convo02_01.mp3",
+      "text": "I'm excited for you Abrams\u2026 you get to bathe in the glory of Lash.",
+      "duration": 5.019
+    },
+    {
+      "order": 2,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_lash_convo02_02",
+      "audioUrl": "audio/atlas_match_start_atlas_lash_convo02_02.mp3",
+      "text": "You are something else.",
+      "duration": 1.877
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_atlas_lash_convo02_03",
+      "audioUrl": "audio/lash_match_start_atlas_lash_convo02_03.mp3",
+      "text": "Just remember to say thank you when this is all over.",
+      "duration": 2.944
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+abrams + apollo: 4
+abrams + bebop: 3
+abrams + celeste: 3
+abrams + doorman: 3
+abrams + drifter: 3
+abrams + dynamo: 5
+abrams + graves: 3
+abrams + grey talon: 3
+abrams + haze: 3
+abrams + holliday: 3
+abrams + infernus: 3
+abrams + ivy: 3
+abrams + kelvin: 3
+abrams + krill: 3
+abrams + lady geist: 5
+abrams + lash: 3
+abrams + mcginnis: 3
+abrams + mirage: 3
+abrams + paradox: 3
+abrams + pocket: 3
+abrams + seven: 3
+abrams + shiv: 3
+abrams + silver: 3
+abrams + venator: 3
+abrams + victor: 3
+abrams + vindicta: 3
+abrams + viper: 3
+abrams + viscous: 3
+abrams + wraith: 3
+abrams + yamato: 3
+apollo + bebop: 3
+apollo + billy: 3
+apollo + calico: 3
+apollo + celeste: 3
+apollo + doorman: 3
+apollo + dynamo: 3
+apollo + graves: 3
+apollo + grey talon: 3
+apollo + haze: 3
+apollo + holliday: 3
+apollo + infernus: 4
+apollo + ivy: 3
+apollo + kelvin: 3
+apollo + krill: 3
+apollo + lady geist: 3
+apollo + lash: 3
+apollo + mcginnis: 3
+apollo + mirage: 3
+apollo + paradox: 3
+apollo + pocket: 3
+apollo + rem: 3
+apollo + seven: 3
+apollo + shiv: 3
+apollo + silver: 3
+apollo + venator: 3
+apollo + vindicta: 3
+apollo + viper: 3
+apollo + viscous: 3
+apollo + wraith: 3
+bebop + billy: 3
+bebop + calico: 3
+bebop + celeste: 3
+bebop + doorman: 3
+bebop + drifter: 3
+bebop + dynamo: 3
+bebop + graves: 3
+bebop + grey talon: 3
+bebop + haze: 3
+bebop + holliday: 3
+bebop + infernus: 3
+bebop + ivy: 3
+bebop + kelvin: 3
+bebop + krill: 3
+bebop + lady geist: 3
+bebop + mcginnis: 3
+bebop + mirage: 3
+bebop + paradox: 3
+bebop + pocket: 3
+bebop + seven: 3
+bebop + silver: 3
+bebop + venator: 3
+bebop + victor: 3
+bebop + vindicta: 3
+bebop + viper: 3
+bebop + viscous: 3
+bebop + wraith: 3
+bebop + yamato: 3
+billy + graves: 1
+billy + grey talon: 3
+billy + ivy: 3
+billy + lady geist: 2
+billy + paige: 3
+billy + vindicta: 3
+billy + viper: 1
+billy + wraith: 3
+billy + yamato: 2
+calico + celeste: 3
+calico + doorman: 3
+calico + drifter: 3
+calico + graves: 3
+calico + grey talon: 3
+calico + haze: 3
+calico + holliday: 3
+calico + krill: 3
+calico + mirage: 3
+calico + pocket: 3
+calico + seven: 3
+calico + silver: 3
+calico + venator: 3
+calico + victor: 3
+calico + vindicta: 3
+calico + viper: 3
+calico + yamato: 3
+celeste + dynamo: 3
+celeste + graves: 3
+celeste + haze: 3
+celeste + infernus: 3
+celeste + krill: 1
+celeste + lady geist: 1
+celeste + rem: 3
+celeste + seven: 3
+celeste + shiv: 1
+celeste + silver: 3
+celeste + venator: 3
+doorman + dynamo: 3
+doorman + grey talon: 3
+doorman + lady geist: 3
+doorman + mina: 3
+doorman + paige: 3
+doorman + silver: 3
+doorman + victor: 3
+drifter + dynamo: 3
+drifter + grey talon: 3
+drifter + haze: 3
+drifter + holliday: 3
+drifter + infernus: 3
+drifter + ivy: 3
+drifter + kelvin: 3
+drifter + lady geist: 3
+drifter + lash: 3
+drifter + mirage: 3
+drifter + paige: 3
+drifter + paradox: 3
+drifter + venator: 3
+drifter + vindicta: 3
+drifter + viper: 2
+drifter + wraith: 3
+dynamo + graves: 3
+dynamo + grey talon: 3
+dynamo + haze: 3
+dynamo + holliday: 3
+dynamo + infernus: 3
+dynamo + ivy: 3
+dynamo + kelvin: 3
+dynamo + krill: 3
+dynamo + lady geist: 5
+dynamo + lash: 3
+dynamo + mcginnis: 3
+dynamo + mirage: 3
+dynamo + paradox: 3
+dynamo + pocket: 3
+dynamo + seven: 3
+dynamo + shiv: 3
+dynamo + silver: 3
+dynamo + venator: 3
+dynamo + victor: 3
+dynamo + vindicta: 3
+dynamo + viper: 3
+dynamo + viscous: 3
+dynamo + warden: 3
+dynamo + wraith: 3
+dynamo + wrecker: 3
+dynamo + yamato: 3
+fathom + holliday: 3
+graves + grey talon: 3
+graves + haze: 3
+graves + holliday: 3
+graves + infernus: 3
+graves + lady geist: 3
+graves + paige: 1
+graves + rem: 3
+graves + seven: 3
+graves + silver: 3
+graves + venator: 3
+graves + viper: 3
+graves + wraith: 1
+grey talon + haze: 3
+grey talon + holliday: 3
+grey talon + kelvin: 3
+grey talon + krill: 3
+grey talon + lady geist: 3
+grey talon + lash: 3
+grey talon + mcginnis: 3
+grey talon + paige: 3
+grey talon + paradox: 3
+grey talon + pocket: 3
+grey talon + seven: 3
+grey talon + shiv: 3
+grey talon + silver: 3
+grey talon + venator: 3
+grey talon + victor: 3
+grey talon + vindicta: 3
+grey talon + viper: 3
+grey talon + viscous: 3
+grey talon + warden: 3
+grey talon + wraith: 3
+grey talon + yamato: 3
+haze + holliday: 6
+haze + infernus: 3
+haze + ivy: 3
+haze + kelvin: 3
+haze + krill: 3
+haze + lady geist: 3
+haze + lash: 3
+haze + mcginnis: 3
+haze + mirage: 3
+haze + paradox: 3
+haze + pocket: 3
+haze + rem: 3
+haze + seven: 3
+haze + shiv: 3
+haze + silver: 3
+haze + venator: 3
+haze + victor: 3
+haze + vindicta: 3
+haze + viper: 3
+haze + viscous: 3
+haze + warden: 3
+haze + wraith: 3
+haze + yamato: 3
+holliday + infernus: 3
+holliday + ivy: 3
+holliday + kelvin: 3
+holliday + krill: 4
+holliday + lady geist: 3
+holliday + lash: 3
+holliday + magician: 3
+holliday + mcginnis: 3
+holliday + mirage: 3
+holliday + operative: 3
+holliday + paradox: 4
+holliday + pocket: 3
+holliday + rem: 3
+holliday + seven: 6
+holliday + shiv: 3
+holliday + silver: 3
+holliday + trapper: 3
+holliday + venator: 3
+holliday + victor: 3
+holliday + vindicta: 3
+holliday + viper: 3
+holliday + viscous: 3
+holliday + warden: 3
+holliday + wraith: 3
+holliday + wrecker: 3
+holliday + yamato: 3
+infernus + kelvin: 3
+infernus + krill: 3
+infernus + lady geist: 3
+infernus + mcginnis: 3
+infernus + rem: 3
+infernus + seven: 3
+infernus + silver: 3
+infernus + venator: 3
+infernus + victor: 3
+infernus + vindicta: 3
+infernus + viscous: 3
+infernus + wraith: 3
+infernus + yamato: 3
+ivy + kelvin: 3
+ivy + krill: 3
+ivy + lash: 3
+ivy + mcginnis: 3
+ivy + seven: 3
+ivy + silver: 3
+ivy + victor: 3
+ivy + vindicta: 3
+ivy + viper: 3
+ivy + wraith: 3
+ivy + yamato: 3
+kelvin + krill: 3
+kelvin + lady geist: 3
+kelvin + lash: 3
+kelvin + mcginnis: 3
+kelvin + mirage: 3
+kelvin + paradox: 3
+kelvin + seven: 3
+kelvin + silver: 3
+kelvin + victor: 3
+kelvin + vindicta: 3
+kelvin + viper: 3
+kelvin + wraith: 3
+kelvin + yamato: 3
+krill + lady geist: 3
+krill + mirage: 3
+krill + paradox: 3
+krill + pocket: 3
+krill + rem: 1
+krill + seven: 3
+krill + shiv: 3
+krill + victor: 3
+krill + vindicta: 1
+krill + wraith: 3
+krill + yamato: 3
+lady geist + lash: 3
+lady geist + mcginnis: 4
+lady geist + mirage: 3
+lady geist + paradox: 3
+lady geist + pocket: 3
+lady geist + seven: 3
+lady geist + shiv: 3
+lady geist + silver: 3
+lady geist + venator: 3
+lady geist + victor: 3
+lady geist + vindicta: 3
+lady geist + viper: 3
+lady geist + viscous: 3
+lady geist + warden: 3
+lady geist + wraith: 3
+lady geist + yamato: 3
+lash + mcginnis: 3
+lash + seven: 3
+lash + victor: 3
+lash + viper: 3
+lash + wraith: 3
+lash + yamato: 3
+mcginnis + seven: 3
+mcginnis + wraith: 3
+mcginnis + yamato: 3
+mina + victor: 3
+mina + vindicta: 3
+mirage + seven: 3
+mirage + viper: 3
+mirage + yamato: 2
+paige + victor: 3
+paige + viper: 3
+paige + yamato: 3
+paradox + seven: 3
+paradox + wraith: 3
+pocket + shiv: 1
+pocket + wraith: 1
+rem + seven: 3
+rem + silver: 3
+rem + venator: 3
+seven + silver: 3
+seven + venator: 3
+seven + vindicta: 3
+seven + viscous: 3
+shiv + venator: 3
+silver + venator: 3
+venator + yamato: 3
+victor + yamato: 1
+vindicta + viper: 3
+vindicta + wraith: 3
+viper + wraith: 3
+viper + yamato: 3
+wraith + yamato: 3

@@ -1,0 +1,29 @@
+{
+  "id": "bebop_lady geist_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_bebop_ghost_convo01_01",
+      "audioUrl": "audio/ghost_match_start_bebop_ghost_convo01_01.mp3",
+      "text": "Great, I'm stuck working with an automoton.",
+      "duration": 3.546
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_ghost_convo01_02",
+      "audioUrl": "audio/bebop_match_start_bebop_ghost_convo01_02.mp3",
+      "text": "in French \"Super, maintenant je suis coince' avec un bourgois\"",
+      "duration": 3.539
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_bebop_ghost_convo01_03",
+      "audioUrl": "audio/ghost_match_start_bebop_ghost_convo01_03.mp3",
+      "text": "Apologies, I didn't realize I was working with a man of culture",
+      "duration": 4.12
+    }
+  ]
+}

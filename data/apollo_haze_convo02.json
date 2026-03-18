@@ -1,0 +1,45 @@
+{
+  "id": "apollo_haze_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_fencer_haze_convo02_01",
+      "audioUrl": "audio/haze_match_start_fencer_haze_convo02_01.mp3",
+      "text": "You shouldn't be here.",
+      "duration": 2.153
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_haze_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_haze_convo02_02.mp3",
+      "text": "I don't take orders from you.",
+      "duration": 1.514
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_fencer_haze_convo02_03",
+      "audioUrl": "audio/haze_match_start_fencer_haze_convo02_03.mp3",
+      "text": "If you die there's going to be an international incident.",
+      "duration": 4.225
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_haze_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_haze_convo02_04.mp3",
+      "text": "Then I guess we better win.",
+      "duration": 1.556
+    },
+    {
+      "order": 5,
+      "character": "Haze",
+      "audioFile": "haze_match_start_fencer_haze_convo02_05",
+      "audioUrl": "audio/haze_match_start_fencer_haze_convo02_05.mp3",
+      "text": "Us winning and you dying aren't mutually exclusive.",
+      "duration": 4.221
+    }
+  ]
+}

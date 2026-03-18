@@ -1,0 +1,29 @@
+{
+  "id": "haze_kelvin_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_haze_kelvin_convo03_01",
+      "audioUrl": "audio/kelvin_match_start_haze_kelvin_convo03_01.mp3",
+      "text": "Stay close to me Haze, I'll  be able to heal you in my ice dome.",
+      "duration": 3.934
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_kelvin_convo03_02",
+      "audioUrl": "audio/haze_match_start_haze_kelvin_convo03_02.mp3",
+      "text": "Today your dome isnt for healing.  It's to trap enemies inside with me.",
+      "duration": 6.054
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_haze_kelvin_convo03_03",
+      "audioUrl": "audio/kelvin_match_start_haze_kelvin_convo03_03.mp3",
+      "text": "That works too.",
+      "duration": 1.331
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "graves",
+    "conversations": [
+      "graves_rem_convo01",
+      "graves_rem_convo02",
+      "graves_rem_convo03"
+    ]
+  },
+  {
+    "name": "mina",
+    "conversations": [
+      "mina_victor_convo01",
+      "mina_victor_convo02",
+      "mina_victor_convo03"
+    ]
+  },
+  {
+    "name": "celeste",
+    "conversations": [
+      "celeste_seven_convo01",
+      "celeste_seven_convo02",
+      "celeste_seven_convo03"
+    ]
+  }
+]

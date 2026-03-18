@@ -1,0 +1,61 @@
+{
+  "id": "infernus_viscous_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_viscous_convo03_01",
+      "audioUrl": "audio/inferno_match_start_inferno_viscous_convo03_01.mp3",
+      "text": "You're new here, right?",
+      "duration": 1.012
+    },
+    {
+      "order": 2,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_inferno_viscous_convo03_02",
+      "audioUrl": "audio/viscous_match_start_inferno_viscous_convo03_02.mp3",
+      "text": "Yep",
+      "duration": 0.746
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_viscous_convo03_03",
+      "audioUrl": "audio/inferno_match_start_inferno_viscous_convo03_03.mp3",
+      "text": "Can I give you some adivce?",
+      "duration": 1.418
+    },
+    {
+      "order": 4,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_inferno_viscous_convo03_04",
+      "audioUrl": "audio/viscous_match_start_inferno_viscous_convo03_04.mp3",
+      "text": "Sure!",
+      "duration": 1.055
+    },
+    {
+      "order": 5,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_viscous_convo03_05",
+      "audioUrl": "audio/inferno_match_start_inferno_viscous_convo03_05.mp3",
+      "text": "If Wraith invites you to play cards, say no.",
+      "duration": 2.236
+    },
+    {
+      "order": 6,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_inferno_viscous_convo03_06",
+      "audioUrl": "audio/viscous_match_start_inferno_viscous_convo03_06.mp3",
+      "text": "But that would be rude!",
+      "duration": 1.707
+    },
+    {
+      "order": 7,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_viscous_convo03_07",
+      "audioUrl": "audio/inferno_match_start_inferno_viscous_convo03_07.mp3",
+      "text": "Trust me.",
+      "duration": 0.845
+    }
+  ]
+}

@@ -900,7 +900,70 @@
         "dynamo_mcginnis_convo02"
       ],
       "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0101",
+      "conversations": [
+        "graves_rem_convo01",
+        "graves_rem_convo02",
+        "graves_rem_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0102",
+      "conversations": [
+        "mina_victor_convo01",
+        "mina_victor_convo02",
+        "mina_victor_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0103",
+      "conversations": [
+        "celeste_seven_convo01",
+        "celeste_seven_convo02",
+        "celeste_seven_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0104",
+      "conversations": [
+        "viper_wraith_convo01",
+        "viper_wraith_convo02",
+        "viper_wraith_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0105",
+      "conversations": [
+        "seven_vindicta_convo01",
+        "seven_vindicta_convo02",
+        "seven_vindicta_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0106",
+      "conversations": [
+        "dynamo_lash_convo01",
+        "dynamo_lash_convo02",
+        "dynamo_lash_convo03"
+      ],
+      "status": "json_only"
+    },
+    {
+      "reel_id": "reel_0107",
+      "conversations": [
+        "apollo_rem_convo01",
+        "apollo_rem_convo02",
+        "apollo_rem_convo03"
+      ],
+      "status": "json_only"
     }
   ],
-  "updated_at": "2026-03-01T00:12:45.775122+00:00"
+  "updated_at": "2026-03-18T14:31:06.366347+00:00"
 }

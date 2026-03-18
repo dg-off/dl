@@ -1,0 +1,21 @@
+{
+  "id": "abrams_haze_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_haze_convo03_01",
+      "audioUrl": "audio/atlas_match_start_atlas_haze_convo03_01.mp3",
+      "text": "You're not going to leave me out to dry are you?",
+      "duration": 2.405
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_atlas_haze_convo03_02",
+      "audioUrl": "audio/haze_match_start_atlas_haze_convo03_02.mp3",
+      "text": "You may not see me detective, but I promise you: I'm doing my part.",
+      "duration": 6.179
+    }
+  ]
+}

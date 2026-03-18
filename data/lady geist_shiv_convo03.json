@@ -1,0 +1,45 @@
+{
+  "id": "lady geist_shiv_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_shiv_convo03_01",
+      "audioUrl": "audio/ghost_match_start_ghost_shiv_convo03_01.mp3",
+      "text": "I'm impressed.",
+      "duration": 1.159
+    },
+    {
+      "order": 2,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_ghost_shiv_convo03_02",
+      "audioUrl": "audio/shiv_match_start_ghost_shiv_convo03_02.mp3",
+      "text": "I haven't done anything yet.",
+      "duration": 1.802
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_shiv_convo03_03",
+      "audioUrl": "audio/ghost_match_start_ghost_shiv_convo03_03.mp3",
+      "text": "You managed to make a pompadour look attractive.",
+      "duration": 2.852
+    },
+    {
+      "order": 4,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_ghost_shiv_convo03_04",
+      "audioUrl": "audio/shiv_match_start_ghost_shiv_convo03_04.mp3",
+      "text": "Wait till you see me stab something.",
+      "duration": 2.413
+    },
+    {
+      "order": 5,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_shiv_convo03_05",
+      "audioUrl": "audio/ghost_match_start_ghost_shiv_convo03_05.mp3",
+      "text": "Darling you're a delight.",
+      "duration": 2.236
+    }
+  ]
+}

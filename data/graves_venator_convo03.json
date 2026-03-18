@@ -1,0 +1,69 @@
+{
+  "id": "graves_venator_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_necro_priest_convo03_01",
+      "audioUrl": "audio/priest_match_start_necro_priest_convo03_01.mp3",
+      "text": "The lich is using you.",
+      "duration": 1.929
+    },
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_priest_convo03_02",
+      "audioUrl": "audio/necro_match_start_necro_priest_convo03_02.mp3",
+      "text": "You don't know her.",
+      "duration": 1.271
+    },
+    {
+      "order": 3,
+      "character": "Venator",
+      "audioFile": "priest_match_start_necro_priest_convo03_03",
+      "audioUrl": "audio/priest_match_start_necro_priest_convo03_03.mp3",
+      "text": "They're all the same.",
+      "duration": 1.402
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_priest_convo03_04",
+      "audioUrl": "audio/necro_match_start_necro_priest_convo03_04.mp3",
+      "text": "Oh my god, someone religious is being closed minded I wish I wore pearls so I could clutch them.",
+      "duration": 4.822
+    },
+    {
+      "order": 5,
+      "character": "Venator",
+      "audioFile": "priest_match_start_necro_priest_convo03_05",
+      "audioUrl": "audio/priest_match_start_necro_priest_convo03_05.mp3",
+      "text": "It's a real shame that you're not going to live long enough to learn the wisdom that comes with age.",
+      "duration": 4.57
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_priest_convo03_06",
+      "audioUrl": "audio/necro_match_start_necro_priest_convo03_06.mp3",
+      "text": "Don\u2019t threaten me.",
+      "duration": 1.095
+    },
+    {
+      "order": 7,
+      "character": "Venator",
+      "audioFile": "priest_match_start_necro_priest_convo03_07",
+      "audioUrl": "audio/priest_match_start_necro_priest_convo03_07.mp3",
+      "text": "Threaten you?  I'm trying to save your life.",
+      "duration": 2.599
+    },
+    {
+      "order": 8,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_priest_convo03_08",
+      "audioUrl": "audio/necro_match_start_necro_priest_convo03_08.mp3",
+      "text": "Thanks for your concern.  I can take things from here.",
+      "duration": 2.742
+    }
+  ]
+}

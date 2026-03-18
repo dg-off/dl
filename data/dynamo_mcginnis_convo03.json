@@ -1,0 +1,45 @@
+{
+  "id": "dynamo_mcginnis_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_dynamo_forge_convo03_01",
+      "audioUrl": "audio/forge_match_start_dynamo_forge_convo03_01.mp3",
+      "text": "Neat gun.",
+      "duration": 1.147
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_forge_convo03_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_forge_convo03_02.mp3",
+      "text": "Thanks, I desgined it myself.",
+      "duration": 1.682
+    },
+    {
+      "order": 3,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_dynamo_forge_convo03_03",
+      "audioUrl": "audio/forge_match_start_dynamo_forge_convo03_03.mp3",
+      "text": "Did you patent it?",
+      "duration": 0.893
+    },
+    {
+      "order": 4,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_forge_convo03_04",
+      "audioUrl": "audio/dynamo_match_start_dynamo_forge_convo03_04.mp3",
+      "text": "Oh no, why do you ask?",
+      "duration": 1.83
+    },
+    {
+      "order": 5,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_dynamo_forge_convo03_05",
+      "audioUrl": "audio/forge_match_start_dynamo_forge_convo03_05.mp3",
+      "text": "No reason.",
+      "duration": 0.649
+    }
+  ]
+}

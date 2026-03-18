@@ -1,0 +1,29 @@
+{
+  "id": "vindicta_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_hornet_wraith_convo03_01",
+      "audioUrl": "audio/wraith_match_start_hornet_wraith_convo03_01.mp3",
+      "text": "How you like being a ghost?",
+      "duration": 1.359
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_hornet_wraith_convo03_02",
+      "audioUrl": "audio/hornet_match_start_hornet_wraith_convo03_02.mp3",
+      "text": "I'd rather not be dead.",
+      "duration": 1.408
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_hornet_wraith_convo03_03",
+      "audioUrl": "audio/wraith_match_start_hornet_wraith_convo03_03.mp3",
+      "text": "Checks out.",
+      "duration": 0.713
+    }
+  ]
+}

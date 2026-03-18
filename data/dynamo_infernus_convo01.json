@@ -1,0 +1,21 @@
+{
+  "id": "dynamo_infernus_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_dynamo_inferno_convo01_01",
+      "audioUrl": "audio/inferno_match_start_dynamo_inferno_convo01_01.mp3",
+      "text": "I'd buy you a drink when this is all over but\u2026",
+      "duration": 2.23
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_inferno_convo01_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_inferno_convo01_02.mp3",
+      "text": "No mouth.  I get it.",
+      "duration": 1.209
+    }
+  ]
+}

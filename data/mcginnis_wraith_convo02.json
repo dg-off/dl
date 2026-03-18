@@ -1,0 +1,21 @@
+{
+  "id": "mcginnis_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_forge_wraith_convo02_01",
+      "audioUrl": "audio/wraith_match_start_forge_wraith_convo02_01.mp3",
+      "text": "Bet your turrets can't keep up with me\u2026",
+      "duration": 1.972
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_forge_wraith_convo02_02",
+      "audioUrl": "audio/forge_match_start_forge_wraith_convo02_02.mp3",
+      "text": "You're on\u2026",
+      "duration": 0.857
+    }
+  ]
+}

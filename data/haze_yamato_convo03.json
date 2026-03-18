@@ -1,0 +1,37 @@
+{
+  "id": "haze_yamato_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_haze_convo03_01",
+      "audioUrl": "audio/yamato_match_start_yamato_haze_convo03_01.mp3",
+      "text": "When do you try to arrest me?",
+      "duration": 1.829
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_yamato_haze_convo03_02",
+      "audioUrl": "audio/haze_match_start_yamato_haze_convo03_02.mp3",
+      "text": "Right now your operation is small enough that the OSIC wouldn't waste allocating resources on you.",
+      "duration": 6.537
+    },
+    {
+      "order": 3,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_haze_convo03_03",
+      "audioUrl": "audio/yamato_match_start_yamato_haze_convo03_03.mp3",
+      "text": "And if the 7th Moon grows?",
+      "duration": 1.873
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_yamato_haze_convo03_04",
+      "audioUrl": "audio/haze_match_start_yamato_haze_convo03_04.mp3",
+      "text": "Well, if it gets big enough it stops being a gang and starts being a cartel.  That's usually when my superiors start thinking about having me kill you in your sleep.",
+      "duration": 10.769
+    }
+  ]
+}

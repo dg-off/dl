@@ -1,0 +1,53 @@
+{
+  "id": "haze_kelvin_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_kelvin_convo02_01",
+      "audioUrl": "audio/haze_match_start_haze_kelvin_convo02_01.mp3",
+      "text": "The OSIC have questions about your condition.",
+      "duration": 4.176
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_haze_kelvin_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_haze_kelvin_convo02_02.mp3",
+      "text": "Is this a friendly request for a chat or a threat?",
+      "duration": 3.873
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_kelvin_convo02_03",
+      "audioUrl": "audio/haze_match_start_haze_kelvin_convo02_03.mp3",
+      "text": "It's the federal government, why not both.",
+      "duration": 3.546
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_haze_kelvin_convo02_04",
+      "audioUrl": "audio/kelvin_match_start_haze_kelvin_convo02_04.mp3",
+      "text": "I take it I should make myself\u2026 unavailable after the ritual?",
+      "duration": 4.979
+    },
+    {
+      "order": 5,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_kelvin_convo02_05",
+      "audioUrl": "audio/haze_match_start_haze_kelvin_convo02_05.mp3",
+      "text": "What you do with your time while I'm filing reports is entirely up to you.",
+      "duration": 4.826
+    },
+    {
+      "order": 6,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_haze_kelvin_convo02_06",
+      "audioUrl": "audio/kelvin_match_start_haze_kelvin_convo02_06.mp3",
+      "text": "Thank you.",
+      "duration": 1.012
+    }
+  ]
+}

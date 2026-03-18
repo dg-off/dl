@@ -1,0 +1,61 @@
+{
+  "id": "kelvin_vindicta_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_kelvin_hornet_convo03_01",
+      "audioUrl": "audio/hornet_match_start_kelvin_hornet_convo03_01.mp3",
+      "text": "How are you adjusting?",
+      "duration": 1.407
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_hornet_convo03_02",
+      "audioUrl": "audio/kelvin_match_start_kelvin_hornet_convo03_02.mp3",
+      "text": "It's strange returning after being gone for a year.",
+      "duration": 3.229
+    },
+    {
+      "order": 3,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_kelvin_hornet_convo03_03",
+      "audioUrl": "audio/hornet_match_start_kelvin_hornet_convo03_03.mp3",
+      "text": "Try 200.",
+      "duration": 1.499
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_hornet_convo03_04",
+      "audioUrl": "audio/kelvin_match_start_kelvin_hornet_convo03_04.mp3",
+      "text": "Oh, by no means was I trying to draw comparisons\u2026 how long did it take you to make sense of the modern world.",
+      "duration": 7.003
+    },
+    {
+      "order": 5,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_kelvin_hornet_convo03_05",
+      "audioUrl": "audio/hornet_match_start_kelvin_hornet_convo03_05.mp3",
+      "text": "A while.  People always ask me about adapting to technology, but really the language was the hardest. For a while I felt lost, but I was able to find my way and my purpose.",
+      "duration": 12.785
+    },
+    {
+      "order": 6,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_hornet_convo03_06",
+      "audioUrl": "audio/kelvin_match_start_kelvin_hornet_convo03_06.mp3",
+      "text": "A lust for murder isn't purpose Vindicta.",
+      "duration": 3.179
+    },
+    {
+      "order": 7,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_kelvin_hornet_convo03_07",
+      "audioUrl": "audio/hornet_match_start_kelvin_hornet_convo03_07.mp3",
+      "text": "That's not for you to say Kelvin.  You weren't there.",
+      "duration": 3.655
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "silver_venator_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_priest_convo03_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_priest_convo03_01.mp3",
+      "text": "Got any whiskey on ya?",
+      "duration": 1.414
+    },
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_werewolf_priest_convo03_02",
+      "audioUrl": "audio/priest_match_start_werewolf_priest_convo03_02.mp3",
+      "text": "I was going to ask you the same thing.",
+      "duration": 1.958
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_priest_convo03_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_priest_convo03_03.mp3",
+      "text": "Damn, wanna get around after the ritual if we don't wind up dead?",
+      "duration": 4.105
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_werewolf_priest_convo03_04",
+      "audioUrl": "audio/priest_match_start_werewolf_priest_convo03_04.mp3",
+      "text": "Why not.",
+      "duration": 0.858
+    }
+  ]
+}

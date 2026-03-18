@@ -1,0 +1,61 @@
+{
+  "id": "graves_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_necro_gigawatt_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_necro_gigawatt_convo02_01.mp3",
+      "text": "Don't trust your mentor.",
+      "duration": 1.788
+    },
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_gigawatt_convo02_02",
+      "audioUrl": "audio/necro_match_start_necro_gigawatt_convo02_02.mp3",
+      "text": "Why, cause she's a lich?",
+      "duration": 1.444
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_necro_gigawatt_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_necro_gigawatt_convo02_03.mp3",
+      "text": "No, because mentors only teach what they want you to learn.  They are craven and use the young to live glories they could not achieve on their own.",
+      "duration": 10.412
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_gigawatt_convo02_04",
+      "audioUrl": "audio/necro_match_start_necro_gigawatt_convo02_04.mp3",
+      "text": "She's not like that.",
+      "duration": 1.33
+    },
+    {
+      "order": 5,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_necro_gigawatt_convo02_05",
+      "audioUrl": "audio/gigawatt_match_start_necro_gigawatt_convo02_05.mp3",
+      "text": "Of couse not.  She sees potential in you that she's never seen in ages.  You're special.",
+      "duration": 7.574
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_gigawatt_convo02_06",
+      "audioUrl": "audio/necro_match_start_necro_gigawatt_convo02_06.mp3",
+      "text": "You don't know what you're talking about.",
+      "duration": 1.582
+    },
+    {
+      "order": 7,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_necro_gigawatt_convo02_07",
+      "audioUrl": "audio/gigawatt_match_start_necro_gigawatt_convo02_07.mp3",
+      "text": "You're right.  How silly of me.",
+      "duration": 3.077
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "lady geist_lash_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_ghost_lash_convo03_01",
+      "audioUrl": "audio/lash_match_start_ghost_lash_convo03_01.mp3",
+      "text": "Now what's the lady who's got everything need from The Patrons?",
+      "duration": 4.008
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_lash_convo03_02",
+      "audioUrl": "audio/ghost_match_start_ghost_lash_convo03_02.mp3",
+      "text": "We're not friends Lash.  You don't keep my confidence.",
+      "duration": 3.918
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_ghost_lash_convo03_03",
+      "audioUrl": "audio/lash_match_start_ghost_lash_convo03_03.mp3",
+      "text": "They say comrades in arms build deeper relationships than lovers.",
+      "duration": 3.641
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_lash_convo03_04",
+      "audioUrl": "audio/ghost_match_start_ghost_lash_convo03_04.mp3",
+      "text": "We are neither.",
+      "duration": 1.429
+    }
+  ]
+}

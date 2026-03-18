@@ -1,0 +1,29 @@
+{
+  "id": "lady geist_viper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_ghost_convo03_01",
+      "audioUrl": "audio/viper_match_start_viper_ghost_convo03_01.mp3",
+      "text": "You got a son?",
+      "duration": 0.922
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_viper_ghost_convo03_02",
+      "audioUrl": "audio/ghost_match_start_viper_ghost_convo03_02.mp3",
+      "text": "Why.",
+      "duration": 1.0
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_ghost_convo03_03",
+      "audioUrl": "audio/viper_match_start_viper_ghost_convo03_03.mp3",
+      "text": "I want to marry into money, wait 5 years, then bump off my husband for the inheritance because this bird wasn't meant to be in a gilded cage.",
+      "duration": 8.119
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lady geist_pocket_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_synth_convo02_01",
+      "audioUrl": "audio/ghost_match_start_ghost_synth_convo02_01.mp3",
+      "text": "What's in the suitcase?",
+      "duration": 1.577
+    },
+    {
+      "order": 2,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_ghost_synth_convo02_02",
+      "audioUrl": "audio/synth_match_start_ghost_synth_convo02_02.mp3",
+      "text": "Nothing you want to see.",
+      "duration": 1.43
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_synth_convo02_03",
+      "audioUrl": "audio/ghost_match_start_ghost_synth_convo02_03.mp3",
+      "text": "I believe you.",
+      "duration": 1.098
+    }
+  ]
+}

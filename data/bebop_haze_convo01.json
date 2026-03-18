@@ -1,0 +1,21 @@
+{
+  "id": "bebop_haze_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_bebop_haze_convo01_01",
+      "audioUrl": "audio/haze_match_start_bebop_haze_convo01_01.mp3",
+      "text": "Bring them to me, Bebop.",
+      "duration": 2.531
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_haze_convo01_02",
+      "audioUrl": "audio/bebop_match_start_bebop_haze_convo01_02.mp3",
+      "text": "You got it Haze.",
+      "duration": 1.41
+    }
+  ]
+}

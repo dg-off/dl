@@ -1,0 +1,29 @@
+{
+  "id": "infernus_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_hornet_convo02_01",
+      "audioUrl": "audio/inferno_match_start_inferno_hornet_convo02_01.mp3",
+      "text": "You know there was a time when I was angry too\u2026",
+      "duration": 2.141
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_inferno_hornet_convo02_02",
+      "audioUrl": "audio/hornet_match_start_inferno_hornet_convo02_02.mp3",
+      "text": "Don't try to relate to me.  You're still alive.",
+      "duration": 3.113
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_hornet_convo02_03",
+      "audioUrl": "audio/inferno_match_start_inferno_hornet_convo02_03.mp3",
+      "text": "Fair enough.",
+      "duration": 0.963
+    }
+  ]
+}

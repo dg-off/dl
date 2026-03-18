@@ -1,0 +1,21 @@
+{
+  "id": "abrams_bebop_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_bebop_convo01_01",
+      "audioUrl": "audio/atlas_match_start_atlas_bebop_convo01_01.mp3",
+      "text": "Hey Bebop, just do me a favor: if I'm punching someone in the face, please don't knock 'em away.",
+      "duration": 7.63
+    },
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_atlas_bebop_convo01_02",
+      "audioUrl": "audio/bebop_match_start_atlas_bebop_convo01_02.mp3",
+      "text": "Do my best mate, but I make no promises",
+      "duration": 2.282
+    }
+  ]
+}

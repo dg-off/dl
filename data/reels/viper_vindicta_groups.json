@@ -1,0 +1,18 @@
+[
+  {
+    "name": "viper",
+    "conversations": [
+      "viper_wraith_convo01",
+      "viper_wraith_convo02",
+      "viper_wraith_convo03"
+    ]
+  },
+  {
+    "name": "vindicta",
+    "conversations": [
+      "seven_vindicta_convo01",
+      "seven_vindicta_convo02",
+      "seven_vindicta_convo03"
+    ]
+  }
+]

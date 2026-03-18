@@ -1,0 +1,45 @@
+{
+  "id": "viper_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_wraith_convo02_01",
+      "audioUrl": "audio/viper_match_start_viper_wraith_convo02_01.mp3",
+      "text": "If we survive this and you're looking to hire an enforcer, I'm your girl",
+      "duration": 4.118
+    },
+    {
+      "order": 2,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_viper_wraith_convo02_02",
+      "audioUrl": "audio/wraith_match_start_viper_wraith_convo02_02.mp3",
+      "text": "I'd never hire you.",
+      "duration": 1.246
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_wraith_convo02_03",
+      "audioUrl": "audio/viper_match_start_viper_wraith_convo02_03.mp3",
+      "text": "Why? Cause I tried to rob one of your poker rooms?  That's like ancient history.",
+      "duration": 4.075
+    },
+    {
+      "order": 4,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_viper_wraith_convo02_04",
+      "audioUrl": "audio/wraith_match_start_viper_wraith_convo02_04.mp3",
+      "text": "It's not.  But tell you what; if we complete the ritual we'll call things square.",
+      "duration": 4.241
+    },
+    {
+      "order": 5,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_wraith_convo02_05",
+      "audioUrl": "audio/viper_match_start_viper_wraith_convo02_05.mp3",
+      "text": "I'll take it.",
+      "duration": 1.073
+    }
+  ]
+}

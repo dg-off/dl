@@ -1,0 +1,53 @@
+{
+  "id": "apollo_graves_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_fencer_necro_convo03_01",
+      "audioUrl": "audio/necro_match_start_fencer_necro_convo03_01.mp3",
+      "text": "You're dad's a warlord right?",
+      "duration": 1.403
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_necro_convo03_02",
+      "audioUrl": "audio/fencer_match_start_fencer_necro_convo03_02.mp3",
+      "text": "Kind of, yeah.",
+      "duration": 0.923
+    },
+    {
+      "order": 3,
+      "character": "Graves",
+      "audioFile": "necro_match_start_fencer_necro_convo03_03",
+      "audioUrl": "audio/necro_match_start_fencer_necro_convo03_03.mp3",
+      "text": "How is someone kind of a warlord?",
+      "duration": 2.277
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_necro_convo03_04",
+      "audioUrl": "audio/fencer_match_start_fencer_necro_convo03_04.mp3",
+      "text": "It's a cultural thing.  You don't have a word in English for someone who wields the power of a governor and a general the way we do in Ixia.",
+      "duration": 6.823
+    },
+    {
+      "order": 5,
+      "character": "Graves",
+      "audioFile": "necro_match_start_fencer_necro_convo03_05",
+      "audioUrl": "audio/necro_match_start_fencer_necro_convo03_05.mp3",
+      "text": "I mean we do.  It's warlord.",
+      "duration": 2.22
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_necro_convo03_06",
+      "audioUrl": "audio/fencer_match_start_fencer_necro_convo03_06.mp3",
+      "text": "I don't expect you to understand.",
+      "duration": 3.268
+    }
+  ]
+}

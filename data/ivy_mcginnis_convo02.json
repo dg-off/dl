@@ -1,0 +1,53 @@
+{
+  "id": "ivy_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_forge_convo02_01",
+      "audioUrl": "audio/tengu_match_start_tengu_forge_convo02_01.mp3",
+      "text": "How can you work at Fairfax Industires",
+      "duration": 2.809
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_tengu_forge_convo02_02",
+      "audioUrl": "audio/forge_match_start_tengu_forge_convo02_02.mp3",
+      "text": "First step is asking for an application.",
+      "duration": 2.207
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_forge_convo02_03",
+      "audioUrl": "audio/tengu_match_start_tengu_forge_convo02_03.mp3",
+      "text": "I don't want to work there.",
+      "duration": 1.675
+    },
+    {
+      "order": 4,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_tengu_forge_convo02_04",
+      "audioUrl": "audio/forge_match_start_tengu_forge_convo02_04.mp3",
+      "text": "Oh so you wanted to have moral superiority over someone you just met?",
+      "duration": 3.522
+    },
+    {
+      "order": 5,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_forge_convo02_05",
+      "audioUrl": "audio/tengu_match_start_tengu_forge_convo02_05.mp3",
+      "text": "I\u2026I guess so.",
+      "duration": 2.516
+    },
+    {
+      "order": 6,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_tengu_forge_convo02_06",
+      "audioUrl": "audio/forge_match_start_tengu_forge_convo02_06.mp3",
+      "text": "Yeah, don't do that.",
+      "duration": 1.317
+    }
+  ]
+}

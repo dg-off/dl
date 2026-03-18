@@ -1,0 +1,61 @@
+{
+  "id": "grey talon_viscous_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_orion_viscous_convo02_01",
+      "audioUrl": "audio/viscous_match_start_orion_viscous_convo02_01.mp3",
+      "text": "The Baxter Society hunts monsters, right?",
+      "duration": 2.813
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_viscous_convo02_02",
+      "audioUrl": "audio/orion_match_start_orion_viscous_convo02_02.mp3",
+      "text": "They do.",
+      "duration": 0.656
+    },
+    {
+      "order": 3,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_orion_viscous_convo02_03",
+      "audioUrl": "audio/viscous_match_start_orion_viscous_convo02_03.mp3",
+      "text": "If we fail to summon The Patron, do you think they can help stop The Adversary.",
+      "duration": 4.636
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_viscous_convo02_04",
+      "audioUrl": "audio/orion_match_start_orion_viscous_convo02_04.mp3",
+      "text": "If we fail to summon the Patron we'll probably be dead.",
+      "duration": 3.188
+    },
+    {
+      "order": 5,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_orion_viscous_convo02_05",
+      "audioUrl": "audio/viscous_match_start_orion_viscous_convo02_05.mp3",
+      "text": "You'll probably be dead.  I'm goo.  I'll be fine.",
+      "duration": 4.564
+    },
+    {
+      "order": 6,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_viscous_convo02_06",
+      "audioUrl": "audio/orion_match_start_orion_viscous_convo02_06.mp3",
+      "text": "*sigh* bring them my bow, they'll listen to what you have to say.",
+      "duration": 5.104
+    },
+    {
+      "order": 7,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_orion_viscous_convo02_07",
+      "audioUrl": "audio/viscous_match_start_orion_viscous_convo02_07.mp3",
+      "text": "Thanks.",
+      "duration": 1.099
+    }
+  ]
+}

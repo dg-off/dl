@@ -7,6 +7,7 @@ Usage:
 
 Options:
     --group-size N   Conversations per reel (default: 3)
+    --groups-file P  JSON file containing explicit conversation groups to generate
     --limit N        Stop after generating N new reels this run
     --render         Render each reel to MP4 via Remotion after generating its JSON
     --output-dir D   Where to write rendered MP4s (default: output)
@@ -83,6 +84,59 @@ def chunked(lst: list, size: int):
         yield lst[i : i + size]
 
 
+def load_explicit_groups(
+    groups_file: Path,
+    convos_by_id: dict[str, dict],
+    already_used: set[str],
+    group_size: int,
+) -> list[dict]:
+    with open(groups_file) as f:
+        raw_groups = json.load(f)
+
+    if not isinstance(raw_groups, list) or not raw_groups:
+        raise ValueError("--groups-file must contain a non-empty JSON list.")
+
+    requested_ids: set[str] = set()
+    groups = []
+
+    for index, raw_group in enumerate(raw_groups, start=1):
+        if isinstance(raw_group, dict):
+            group_name = raw_group.get("name") or f"group_{index}"
+            convo_ids = raw_group.get("conversations")
+        else:
+            group_name = f"group_{index}"
+            convo_ids = raw_group
+
+        if not isinstance(convo_ids, list):
+            raise ValueError(f"Group '{group_name}' must provide a 'conversations' list.")
+        if len(convo_ids) != group_size:
+            raise ValueError(
+                f"Group '{group_name}' must contain exactly {group_size} conversations."
+            )
+
+        convos = []
+        for convo_id in convo_ids:
+            if convo_id in requested_ids:
+                raise ValueError(f"Conversation '{convo_id}' appears more than once in --groups-file.")
+            requested_ids.add(convo_id)
+
+            conv = convos_by_id.get(convo_id)
+            if conv is None:
+                raise ValueError(f"Conversation '{convo_id}' was not found in all_conversations.json.")
+            if convo_id in already_used:
+                raise ValueError(f"Conversation '{convo_id}' is already assigned in the manifest.")
+            if not is_eligible(conv):
+                raise ValueError(f"Conversation '{convo_id}' is not eligible for reel generation.")
+            convos.append(conv)
+
+        groups.append({
+            "name": group_name,
+            "conversations": convos,
+        })
+
+    return groups
+
+
 # ── Per-group processing ──────────────────────────────────────────────────
 
 def process_group(group: list[dict]) -> list[dict]:
@@ -125,6 +179,10 @@ def main():
         description="Generate reel JSONs for all unused conversation groups."
     )
     parser.add_argument(
+        "--groups-file", type=Path, default=None,
+        help="JSON file containing explicit groups of conversation IDs to generate",
+    )
+    parser.add_argument(
         "--group-size", type=int, default=3,
         help="Conversations per reel (default: 3)",
     )
@@ -143,9 +201,10 @@ def main():
     args = parser.parse_args()
 
     REELS_DIR.mkdir(parents=True, exist_ok=True)
-    JSON_DIR.mkdir(parents=True, exist_ok=True)
-    output_dir = Path(args.output_dir) / "mp4"
-    output_dir.mkdir(parents=True, exist_ok=True)
+    json_dir = Path(args.output_dir) / "json"
+    mp4_dir = Path(args.output_dir) / "mp4"
+    json_dir.mkdir(parents=True, exist_ok=True)
+    mp4_dir.mkdir(parents=True, exist_ok=True)
 
     # ── Load manifest ──────────────────────────────────────────────────────
     manifest = load_manifest()
@@ -166,42 +225,60 @@ def main():
     # ── Load + filter conversations ────────────────────────────────────────
     print("Loading conversations...")
     all_convos = load_all_conversations()
+    convos_by_id = {c["conversation_id"]: c for c in all_convos}
 
-    eligible   = [c for c in all_convos if is_eligible(c)]
-    unused     = [c for c in eligible if c["conversation_id"] not in already_used]
+    eligible = [c for c in all_convos if is_eligible(c)]
+    unused = [c for c in eligible if c["conversation_id"] not in already_used]
 
     print(f"{len(all_convos)} total  |  {len(eligible)} eligible  |  {len(unused)} unused")
 
-    if not unused:
+    if args.groups_file:
+        groups = load_explicit_groups(
+            args.groups_file,
+            convos_by_id,
+            already_used,
+            args.group_size,
+        )
+        print(f"Loaded {len(groups)} explicit reel group(s) from {args.groups_file}")
+    elif not unused:
         print("All eligible conversations have already been assigned to reels. Nothing to do.")
         return
-
-    groups = list(chunked(unused, args.group_size))
-    # Drop the last group if it's smaller than group_size (incomplete reel)
-    if len(groups[-1]) < args.group_size:
-        incomplete = groups.pop()
-        print(f"Holding back {len(incomplete)} conversation(s) — not enough for a full group yet.")
-
-    total_new = len(groups)
-    print(f"{total_new} new reels to generate  ({args.group_size} conversations each)\n")
+    else:
+        groups = [
+            {"name": None, "conversations": group}
+            for group in chunked(unused, args.group_size)
+        ]
+        # Drop the last group if it's smaller than group_size (incomplete reel)
+        if len(groups[-1]["conversations"]) < args.group_size:
+            incomplete = groups.pop()
+            print(
+                f"Holding back {len(incomplete['conversations'])} conversation(s) — "
+                "not enough for a full group yet."
+            )
 
     if args.limit is not None:
         groups = groups[: args.limit]
+
+    total_new = len(groups)
+    print(f"{total_new} new reels to generate  ({args.group_size} conversations each)\n")
 
     generated = 0
     failed    = 0
 
     for group in groups:
         reel_num  = next_reel_num
-        reel_path = JSON_DIR / f"reel_{reel_num:04d}.json"
-        mp4_path  = output_dir / f"reel_{reel_num:04d}.mp4"
-        conv_ids  = [c["conversation_id"] for c in group]
+        reel_path = json_dir / f"reel_{reel_num:04d}.json"
+        mp4_path  = mp4_dir / f"reel_{reel_num:04d}.mp4"
+        conv_ids  = [c["conversation_id"] for c in group["conversations"]]
         label     = f"[{reel_num:4d}]"
 
-        print(f"{label} {' + '.join(conv_ids)}")
+        if group["name"]:
+            print(f"{label} {group['name']}: {' + '.join(conv_ids)}")
+        else:
+            print(f"{label} {' + '.join(conv_ids)}")
 
         # ── Build reel JSON ────────────────────────────────────────────────
-        conversations = process_group(group)
+        conversations = process_group(group["conversations"])
 
         if not conversations:
             print(f"  ERROR: no valid conversations, skipping reel.")

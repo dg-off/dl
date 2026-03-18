@@ -1,0 +1,45 @@
+{
+  "id": "celeste_graves_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_unicorn_necro_convo01_01",
+      "audioUrl": "audio/necro_match_start_unicorn_necro_convo01_01.mp3",
+      "text": "You're not really a unicorn.",
+      "duration": 1.603
+    },
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_necro_convo01_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_necro_convo01_02.mp3",
+      "text": "What makes you say that?",
+      "duration": 1.589
+    },
+    {
+      "order": 3,
+      "character": "Graves",
+      "audioFile": "necro_match_start_unicorn_necro_convo01_03",
+      "audioUrl": "audio/necro_match_start_unicorn_necro_convo01_03.mp3",
+      "text": "I'm not 12.",
+      "duration": 1.094
+    },
+    {
+      "order": 4,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_necro_convo01_04",
+      "audioUrl": "audio/unicorn_match_start_unicorn_necro_convo01_04.mp3",
+      "text": "By what 6 months?",
+      "duration": 1.626
+    },
+    {
+      "order": 5,
+      "character": "Graves",
+      "audioFile": "necro_match_start_unicorn_necro_convo01_05",
+      "audioUrl": "audio/necro_match_start_unicorn_necro_convo01_05.mp3",
+      "text": "Shut up.",
+      "duration": 0.782
+    }
+  ]
+}

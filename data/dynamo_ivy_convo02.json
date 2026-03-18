@@ -1,0 +1,53 @@
+{
+  "id": "dynamo_ivy_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_tengu_convo02_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_tengu_convo02_01.mp3",
+      "text": "You're Sophia Arroyo's sister, right?",
+      "duration": 1.974
+    },
+    {
+      "order": 2,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_dynamo_tengu_convo02_02",
+      "audioUrl": "audio/tengu_match_start_dynamo_tengu_convo02_02.mp3",
+      "text": "Yeah, everything ok?",
+      "duration": 2.072
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_tengu_convo02_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_tengu_convo02_03.mp3",
+      "text": "Ok-ish.  She's a great student, but lately she's been falling asleep in class.  She she says she's been pulling long shifts at her job and it's wearing her out.",
+      "duration": 9.482
+    },
+    {
+      "order": 4,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_dynamo_tengu_convo02_04",
+      "audioUrl": "audio/tengu_match_start_dynamo_tengu_convo02_04.mp3",
+      "text": "I didn't even know Sophia had a job.",
+      "duration": 2.573
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_tengu_convo02_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_tengu_convo02_05.mp3",
+      "text": "Well, if you could talk to her I think it'd do a world of good",
+      "duration": 2.742
+    },
+    {
+      "order": 6,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_dynamo_tengu_convo02_06",
+      "audioUrl": "audio/tengu_match_start_dynamo_tengu_convo02_06.mp3",
+      "text": "I will, thanks.",
+      "duration": 1.494
+    }
+  ]
+}

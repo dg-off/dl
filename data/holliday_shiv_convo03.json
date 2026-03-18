@@ -1,0 +1,37 @@
+{
+  "id": "holliday_shiv_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_astro_shiv_convo03_01",
+      "audioUrl": "audio/shiv_match_start_astro_shiv_convo03_01.mp3",
+      "text": "You're the one looking to kill the Troubadour, right?",
+      "duration": 2.341
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_shiv_convo03_02",
+      "audioUrl": "audio/astro_match_start_astro_shiv_convo03_02.mp3",
+      "text": "Yeah.",
+      "duration": 0.947
+    },
+    {
+      "order": 3,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_astro_shiv_convo03_03",
+      "audioUrl": "audio/shiv_match_start_astro_shiv_convo03_03.mp3",
+      "text": "You make it out alive you should look up the Baxter society\u2026. We could use someone like you.",
+      "duration": 5.757
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_shiv_convo03_04",
+      "audioUrl": "audio/astro_match_start_astro_shiv_convo03_04.mp3",
+      "text": "I'll think about it\u2026",
+      "duration": 1.611
+    }
+  ]
+}

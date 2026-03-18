@@ -1,0 +1,37 @@
+{
+  "id": "infernus_lady geist_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_ghost_inferno_convo03_01",
+      "audioUrl": "audio/inferno_match_start_ghost_inferno_convo03_01.mp3",
+      "text": "What's Johann up to?",
+      "duration": 1.154
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_inferno_convo03_02",
+      "audioUrl": "audio/ghost_match_start_ghost_inferno_convo03_02.mp3",
+      "text": "At this moment his two favorite hobbies are medicine and being sanctamonious.",
+      "duration": 4.493
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_ghost_inferno_convo03_03",
+      "audioUrl": "audio/inferno_match_start_ghost_inferno_convo03_03.mp3",
+      "text": "He's a good kid.",
+      "duration": 1.113
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_inferno_convo03_04",
+      "audioUrl": "audio/ghost_match_start_ghost_inferno_convo03_04.mp3",
+      "text": "I'll keep him for now.",
+      "duration": 1.66
+    }
+  ]
+}

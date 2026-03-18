@@ -1,0 +1,29 @@
+{
+  "id": "celeste_haze_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_haze_convo02_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo02_01.mp3",
+      "text": "You should come by the Sideshow sometime",
+      "duration": 2.28
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_unicorn_haze_convo02_02",
+      "audioUrl": "audio/haze_match_start_unicorn_haze_convo02_02.mp3",
+      "text": "I see enough knife throwing in my 9 to 5.",
+      "duration": 3.842
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_haze_convo02_03",
+      "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo02_03.mp3",
+      "text": "That makes sense.",
+      "duration": 1.265
+    }
+  ]
+}

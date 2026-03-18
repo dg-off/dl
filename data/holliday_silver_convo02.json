@@ -1,0 +1,37 @@
+{
+  "id": "holliday_silver_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_astro_convo02_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_astro_convo02_01.mp3",
+      "text": "Seem a little far from your jurisdiction.",
+      "duration": 2.496
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_werewolf_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_werewolf_astro_convo02_02.mp3",
+      "text": "What I'm doing here is none of your business.",
+      "duration": 2.692
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_astro_convo02_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_astro_convo02_03.mp3",
+      "text": "I just want to make sure you're not trying to make a career change.",
+      "duration": 3.118
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_werewolf_astro_convo02_04",
+      "audioUrl": "audio/astro_match_start_werewolf_astro_convo02_04.mp3",
+      "text": "I'm not going after one of your bounties Silver.  Once I stop The Troubadour I'm going back home.",
+      "duration": 6.262
+    }
+  ]
+}

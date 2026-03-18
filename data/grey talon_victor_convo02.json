@@ -1,0 +1,53 @@
+{
+  "id": "grey talon_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_frank_orion_convo02_01",
+      "audioUrl": "audio/orion_match_start_frank_orion_convo02_01.mp3",
+      "text": "I'll support you the best that I can, but I probably won't be charging in with you.",
+      "duration": 4.805
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_orion_convo02_02",
+      "audioUrl": "audio/frank_match_start_frank_orion_convo02_02.mp3",
+      "text": "That's ok, I'm used to working alone.",
+      "duration": 2.601
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_frank_orion_convo02_03",
+      "audioUrl": "audio/orion_match_start_frank_orion_convo02_03.mp3",
+      "text": "You're not working alone.",
+      "duration": 1.51
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_orion_convo02_04",
+      "audioUrl": "audio/frank_match_start_frank_orion_convo02_04.mp3",
+      "text": "Oh. I'll just die alone.",
+      "duration": 1.298
+    },
+    {
+      "order": 5,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_frank_orion_convo02_05",
+      "audioUrl": "audio/orion_match_start_frank_orion_convo02_05.mp3",
+      "text": "Basically.",
+      "duration": 0.878
+    },
+    {
+      "order": 6,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_orion_convo02_06",
+      "audioUrl": "audio/frank_match_start_frank_orion_convo02_06.mp3",
+      "text": "Great.",
+      "duration": 0.56
+    }
+  ]
+}

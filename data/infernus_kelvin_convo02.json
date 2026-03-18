@@ -1,0 +1,21 @@
+{
+  "id": "infernus_kelvin_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_kelvin_inferno_convo02_01",
+      "audioUrl": "audio/inferno_match_start_kelvin_inferno_convo02_01.mp3",
+      "text": "Kelvin, I wanna make this quick so I can get back to the bar.",
+      "duration": 2.89
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_inferno_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_kelvin_inferno_convo02_02.mp3",
+      "text": "I look forward to celebrating with you there.",
+      "duration": 3.003
+    }
+  ]
+}

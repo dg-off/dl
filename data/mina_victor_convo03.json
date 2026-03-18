@@ -1,0 +1,29 @@
+{
+  "id": "mina_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_frank_vampirebat_convo03_01",
+      "audioUrl": "audio/vampirebat_match_start_frank_vampirebat_convo03_01.mp3",
+      "text": "I don't hate working with you.",
+      "duration": 1.826
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_vampirebat_convo03_02",
+      "audioUrl": "audio/frank_match_start_frank_vampirebat_convo03_02.mp3",
+      "text": "Damning with faint praise?",
+      "duration": 1.543
+    },
+    {
+      "order": 3,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_frank_vampirebat_convo03_03",
+      "audioUrl": "audio/vampirebat_match_start_frank_vampirebat_convo03_03.mp3",
+      "text": "Take the compliment corpse boy",
+      "duration": 1.681
+    }
+  ]
+}

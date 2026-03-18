@@ -1,0 +1,21 @@
+{
+  "id": "apollo_venator_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_fencer_priest_convo01_01",
+      "audioUrl": "audio/priest_match_start_fencer_priest_convo01_01.mp3",
+      "text": "You're the one destined for greatness, right?",
+      "duration": 2.356
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_priest_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_priest_convo01_02.mp3",
+      "text": "No.  I'm great now.   I'm just waiting for the world to catch up with the times so I can show it.",
+      "duration": 5.13
+    }
+  ]
+}

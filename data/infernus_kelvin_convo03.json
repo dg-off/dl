@@ -1,0 +1,53 @@
+{
+  "id": "infernus_kelvin_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_inferno_convo03_01",
+      "audioUrl": "audio/kelvin_match_start_kelvin_inferno_convo03_01.mp3",
+      "text": "I'm sorry about what's going on in Ixia.",
+      "duration": 3.02
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_kelvin_inferno_convo03_02",
+      "audioUrl": "audio/inferno_match_start_kelvin_inferno_convo03_02.mp3",
+      "text": "Don't know much about it.",
+      "duration": 0.985
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_inferno_convo03_03",
+      "audioUrl": "audio/kelvin_match_start_kelvin_inferno_convo03_03.mp3",
+      "text": "You don't care about what's happening back home?",
+      "duration": 2.74
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_kelvin_inferno_convo03_04",
+      "audioUrl": "audio/inferno_match_start_kelvin_inferno_convo03_04.mp3",
+      "text": "I was born in New York.  Home is right here.",
+      "duration": 3.56
+    },
+    {
+      "order": 5,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_inferno_convo03_05",
+      "audioUrl": "audio/kelvin_match_start_kelvin_inferno_convo03_05.mp3",
+      "text": "That came across poorly didn't it.",
+      "duration": 3.16
+    },
+    {
+      "order": 6,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_kelvin_inferno_convo03_06",
+      "audioUrl": "audio/inferno_match_start_kelvin_inferno_convo03_06.mp3",
+      "text": "Yessir it did.",
+      "duration": 1.203
+    }
+  ]
+}

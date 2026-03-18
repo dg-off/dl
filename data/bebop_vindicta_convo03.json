@@ -1,0 +1,29 @@
+{
+  "id": "bebop_vindicta_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_hornet_convo03_01",
+      "audioUrl": "audio/bebop_match_start_bebop_hornet_convo03_01.mp3",
+      "text": "What's on your mind?",
+      "duration": 1.267
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_bebop_hornet_convo03_02",
+      "audioUrl": "audio/hornet_match_start_bebop_hornet_convo03_02.mp3",
+      "text": "Murder.",
+      "duration": 0.966
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_hornet_convo03_03",
+      "audioUrl": "audio/bebop_match_start_bebop_hornet_convo03_03.mp3",
+      "text": "That sounds rather intense,  I think I'll let you be.",
+      "duration": 4.424
+    }
+  ]
+}

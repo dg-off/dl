@@ -1,0 +1,21 @@
+{
+  "id": "infernus_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_inferno_forge_convo02_01",
+      "audioUrl": "audio/forge_match_start_inferno_forge_convo02_01.mp3",
+      "text": "We're gonna make short work of those guardians.",
+      "duration": 2.084
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_forge_convo02_02",
+      "audioUrl": "audio/inferno_match_start_inferno_forge_convo02_02.mp3",
+      "text": "You know it.",
+      "duration": 0.827
+    }
+  ]
+}

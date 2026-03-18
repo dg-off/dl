@@ -1,0 +1,29 @@
+{
+  "id": "lash_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_wraith_convo03_01",
+      "audioUrl": "audio/lash_match_start_lash_wraith_convo03_01.mp3",
+      "text": "Buckle up 4 arms.  The Lash is about to take you on a one way trip to victory-city.",
+      "duration": 7.24
+    },
+    {
+      "order": 2,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_lash_wraith_convo03_02",
+      "audioUrl": "audio/wraith_match_start_lash_wraith_convo03_02.mp3",
+      "text": "You're insufferable,",
+      "duration": 1.436
+    },
+    {
+      "order": 3,
+      "character": "Lash",
+      "audioFile": "lash_match_start_lash_wraith_convo03_03",
+      "audioUrl": "audio/lash_match_start_lash_wraith_convo03_03.mp3",
+      "text": "I'm undeniable baby\u2026 and they're about to find out why,",
+      "duration": 3.832
+    }
+  ]
+}

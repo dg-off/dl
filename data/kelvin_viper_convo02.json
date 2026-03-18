@@ -1,0 +1,45 @@
+{
+  "id": "kelvin_viper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_kelvin_convo02_01",
+      "audioUrl": "audio/viper_match_start_viper_kelvin_convo02_01.mp3",
+      "text": "You got any liquid courage in that that parka of yours for when it gets cold?",
+      "duration": 4.485
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_viper_kelvin_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_viper_kelvin_convo02_02.mp3",
+      "text": "I don't get cold anymore.",
+      "duration": 1.674
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_kelvin_convo02_03",
+      "audioUrl": "audio/viper_match_start_viper_kelvin_convo02_03.mp3",
+      "text": "Neat, anyway back to the whiskey question.",
+      "duration": 2.016
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_viper_kelvin_convo02_04",
+      "audioUrl": "audio/kelvin_match_start_viper_kelvin_convo02_04.mp3",
+      "text": "I don't",
+      "duration": 0.745
+    },
+    {
+      "order": 5,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_kelvin_convo02_05",
+      "audioUrl": "audio/viper_match_start_viper_kelvin_convo02_05.mp3",
+      "text": "Lame.",
+      "duration": 1.21
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "holliday_rem_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_familiar_astro_convo02_01",
+      "audioUrl": "audio/astro_match_start_familiar_astro_convo02_01.mp3",
+      "text": "Stay close to me Rem.",
+      "duration": 1.493
+    },
+    {
+      "order": 2,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_astro_convo02_02",
+      "audioUrl": "audio/familiar_match_start_familiar_astro_convo02_02.mp3",
+      "text": "You keep me safe?",
+      "duration": 2.145
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_familiar_astro_convo02_03",
+      "audioUrl": "audio/astro_match_start_familiar_astro_convo02_03.mp3",
+      "text": "I'm going to try.",
+      "duration": 1.168
+    }
+  ]
+}

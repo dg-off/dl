@@ -1,0 +1,29 @@
+{
+  "id": "apollo_seven_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_fencer_gigawatt_convo03_01",
+      "audioUrl": "audio/gigawatt_match_start_fencer_gigawatt_convo03_01.mp3",
+      "text": "Once I've rendered them helpless, run them through.",
+      "duration": 3.725
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_gigawatt_convo03_02",
+      "audioUrl": "audio/fencer_match_start_fencer_gigawatt_convo03_02.mp3",
+      "text": "There's no honor in stabbing someone who can't defend themselves.",
+      "duration": 2.884
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_fencer_gigawatt_convo03_03",
+      "audioUrl": "audio/gigawatt_match_start_fencer_gigawatt_convo03_03.mp3",
+      "text": "No.  But there is glory in victory.  And victory is all that matters today.",
+      "duration": 8.048
+    }
+  ]
+}

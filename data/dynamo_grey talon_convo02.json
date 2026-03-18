@@ -1,0 +1,45 @@
+{
+  "id": "dynamo_grey talon_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_dynamo_orion_convo02_01",
+      "audioUrl": "audio/orion_match_start_dynamo_orion_convo02_01.mp3",
+      "text": "You have courage professor",
+      "duration": 1.626
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_orion_convo02_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_orion_convo02_02.mp3",
+      "text": "No more than most",
+      "duration": 1.071
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_dynamo_orion_convo02_03",
+      "audioUrl": "audio/orion_match_start_dynamo_orion_convo02_03.mp3",
+      "text": "A lot more than most.  You endured something horrible and yet you live your life like it's going to be ok.",
+      "duration": 5.824
+    },
+    {
+      "order": 4,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_orion_convo02_04",
+      "audioUrl": "audio/dynamo_match_start_dynamo_orion_convo02_04.mp3",
+      "text": "It was either that or give into despair, and that's not really an option is it?",
+      "duration": 4.027
+    },
+    {
+      "order": 5,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_dynamo_orion_convo02_05",
+      "audioUrl": "audio/orion_match_start_dynamo_orion_convo02_05.mp3",
+      "text": "I wish I could be like you.",
+      "duration": 2.135
+    }
+  ]
+}

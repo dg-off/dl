@@ -1,0 +1,45 @@
+{
+  "id": "holliday_venator_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_priest_astro_convo03_01",
+      "audioUrl": "audio/astro_match_start_priest_astro_convo03_01.mp3",
+      "text": "Thanks for praying with me earlier.",
+      "duration": 1.992
+    },
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_astro_convo03_02",
+      "audioUrl": "audio/priest_match_start_priest_astro_convo03_02.mp3",
+      "text": "I hope it brought you some peace.",
+      "duration": 3.064
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_priest_astro_convo03_03",
+      "audioUrl": "audio/astro_match_start_priest_astro_convo03_03.mp3",
+      "text": "It didn't.  But it was nice that you tried.",
+      "duration": 3.305
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_astro_convo03_04",
+      "audioUrl": "audio/priest_match_start_priest_astro_convo03_04.mp3",
+      "text": "Good luck Holliday.",
+      "duration": 1.398
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_priest_astro_convo03_05",
+      "audioUrl": "audio/astro_match_start_priest_astro_convo03_05.mp3",
+      "text": "You too Father.",
+      "duration": 1.199
+    }
+  ]
+}

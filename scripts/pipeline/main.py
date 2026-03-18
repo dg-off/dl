@@ -12,15 +12,18 @@ ALL_CONVOS_URL  = "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/
 AUDIO_BASE      = "https://deadlock.vlviewer.com/Games/Deadlock/DeadlockJan2026/Audio"
 DATA_DIR        = "data"
 CONVOS_CACHE    = os.path.join(DATA_DIR, "all_conversations.json")
+LOCAL_CONVOS    = os.path.join(DATA_DIR, "convos", "all_conversations.json")
 AUDIO_CACHE_DIR = os.path.join("remotion", "public", "audio")
 
 # ── 1. Download the master conversations list ────────────────────────────
 def load_all_conversations():
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    if os.path.exists(CONVOS_CACHE):
-        print("Loading conversations from cache...")
-        with open(CONVOS_CACHE, "r") as f:
+    for cache_path in (CONVOS_CACHE, LOCAL_CONVOS):
+        if not os.path.exists(cache_path):
+            continue
+        print(f"Loading conversations from cache: {cache_path}")
+        with open(cache_path, "r") as f:
             return json.load(f)
 
     print("Downloading conversations list...")

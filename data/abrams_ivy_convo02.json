@@ -1,0 +1,29 @@
+{
+  "id": "abrams_ivy_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_tengu_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_tengu_convo02_01.mp3",
+      "text": "The city owe you a debt for taking care of Mendoza",
+      "duration": 3.075
+    },
+    {
+      "order": 2,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_atlas_tengu_convo02_02",
+      "audioUrl": "audio/tengu_match_start_atlas_tengu_convo02_02.mp3",
+      "text": "I'm not owed anything",
+      "duration": 1.815
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_tengu_convo02_03",
+      "audioUrl": "audio/atlas_match_start_atlas_tengu_convo02_03.mp3",
+      "text": "Humility is good. But word of advice?   Don't undervalue your worth",
+      "duration": 4.802
+    }
+  ]
+}

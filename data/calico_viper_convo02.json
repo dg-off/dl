@@ -1,0 +1,61 @@
+{
+  "id": "calico_viper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_nano_convo02_01",
+      "audioUrl": "audio/viper_match_start_viper_nano_convo02_01.mp3",
+      "text": "Ya know when I was in the joint I heard stories about you.",
+      "duration": 2.46
+    },
+    {
+      "order": 2,
+      "character": "Calico",
+      "audioFile": "nano_match_start_viper_nano_convo02_02",
+      "audioUrl": "audio/nano_match_start_viper_nano_convo02_02.mp3",
+      "text": "I didn't realize my exploits were things of New Jersey lore.",
+      "duration": 3.091
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_nano_convo02_03",
+      "audioUrl": "audio/viper_match_start_viper_nano_convo02_03.mp3",
+      "text": "Not New Jesery, Wisconsin - lots of assassins in Wisconsin.",
+      "duration": 4.648
+    },
+    {
+      "order": 4,
+      "character": "Calico",
+      "audioFile": "nano_match_start_viper_nano_convo02_04",
+      "audioUrl": "audio/nano_match_start_viper_nano_convo02_04.mp3",
+      "text": "Why?",
+      "duration": 0.839
+    },
+    {
+      "order": 5,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_nano_convo02_05",
+      "audioUrl": "audio/viper_match_start_viper_nano_convo02_05.mp3",
+      "text": "Safehouses are cheap in in Milwaukee? I don't know, the point is word on the street is that you do sloppy work.",
+      "duration": 5.541
+    },
+    {
+      "order": 6,
+      "character": "Calico",
+      "audioFile": "nano_match_start_viper_nano_convo02_06",
+      "audioUrl": "audio/nano_match_start_viper_nano_convo02_06.mp3",
+      "text": "Excuse me?",
+      "duration": 1.216
+    },
+    {
+      "order": 7,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_nano_convo02_07",
+      "audioUrl": "audio/viper_match_start_viper_nano_convo02_07.mp3",
+      "text": "Something about a hit that went bad?  I don't remember all the details, Wisconsin hooch is top shelf.",
+      "duration": 5.981
+    }
+  ]
+}

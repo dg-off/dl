@@ -1,0 +1,45 @@
+{
+  "id": "ivy_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_tengu_hornet_convo02_01",
+      "audioUrl": "audio/hornet_match_start_tengu_hornet_convo02_01.mp3",
+      "text": "You're rather cheerful today.",
+      "duration": 1.843
+    },
+    {
+      "order": 2,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_hornet_convo02_02",
+      "audioUrl": "audio/tengu_match_start_tengu_hornet_convo02_02.mp3",
+      "text": "Carlos always says it takes more muscles to frown than to smile",
+      "duration": 4.111
+    },
+    {
+      "order": 3,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_tengu_hornet_convo02_03",
+      "audioUrl": "audio/hornet_match_start_tengu_hornet_convo02_03.mp3",
+      "text": "Carlos souns like a preschool teacher.",
+      "duration": 2.55
+    },
+    {
+      "order": 4,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_hornet_convo02_04",
+      "audioUrl": "audio/tengu_match_start_tengu_hornet_convo02_04.mp3",
+      "text": "First grade.",
+      "duration": 1.239
+    },
+    {
+      "order": 5,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_tengu_hornet_convo02_05",
+      "audioUrl": "audio/hornet_match_start_tengu_hornet_convo02_05.mp3",
+      "text": "Close enough.",
+      "duration": 0.969
+    }
+  ]
+}

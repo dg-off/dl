@@ -1,0 +1,53 @@
+{
+  "id": "apollo_silver_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_fencer_werewolf_convo02_01",
+      "audioUrl": "audio/werewolf_match_start_fencer_werewolf_convo02_01.mp3",
+      "text": "It's cool that you brought a sword. I assumed you were gonna fight 'em with your silver spoon.",
+      "duration": 5.132
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_werewolf_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_werewolf_convo02_02.mp3",
+      "text": "You're hilarious.  Are you housebroken too?",
+      "duration": 3.568
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_fencer_werewolf_convo02_03",
+      "audioUrl": "audio/werewolf_match_start_fencer_werewolf_convo02_03.mp3",
+      "text": "Oh my God, I've never heard that before. You are so clever. I bet you're daddy's special boy.",
+      "duration": 6.185
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_werewolf_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_werewolf_convo02_04.mp3",
+      "text": "Billy?  Is that you?",
+      "duration": 2.237
+    },
+    {
+      "order": 5,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_fencer_werewolf_convo02_05",
+      "audioUrl": "audio/werewolf_match_start_fencer_werewolf_convo02_05.mp3",
+      "text": "Don't compare me to the goddamn goat.",
+      "duration": 2.02
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_werewolf_convo02_06",
+      "audioUrl": "audio/fencer_match_start_fencer_werewolf_convo02_06.mp3",
+      "text": "Then don't act like him",
+      "duration": 1.852
+    }
+  ]
+}

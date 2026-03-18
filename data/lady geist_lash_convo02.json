@@ -1,0 +1,37 @@
+{
+  "id": "lady geist_lash_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_lash_convo02_01",
+      "audioUrl": "audio/ghost_match_start_ghost_lash_convo02_01.mp3",
+      "text": "Tell me you're competent.",
+      "duration": 1.728
+    },
+    {
+      "order": 2,
+      "character": "Lash",
+      "audioFile": "lash_match_start_ghost_lash_convo02_02",
+      "audioUrl": "audio/lash_match_start_ghost_lash_convo02_02.mp3",
+      "text": "Compotent?  No. I'm god's gift to combat.",
+      "duration": 3.438
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_lash_convo02_03",
+      "audioUrl": "audio/ghost_match_start_ghost_lash_convo02_03.mp3",
+      "text": "I can't tell if you're delusional or appropiately arrogant.",
+      "duration": 3.526
+    },
+    {
+      "order": 4,
+      "character": "Lash",
+      "audioFile": "lash_match_start_ghost_lash_convo02_04",
+      "audioUrl": "audio/lash_match_start_ghost_lash_convo02_04.mp3",
+      "text": "Yes.",
+      "duration": 0.918
+    }
+  ]
+}

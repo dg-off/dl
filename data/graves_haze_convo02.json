@@ -1,0 +1,61 @@
+{
+  "id": "graves_haze_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_necro_haze_convo02_01",
+      "audioUrl": "audio/haze_match_start_necro_haze_convo02_01.mp3",
+      "text": "Have you started thinking about your future?",
+      "duration": 3.15
+    },
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_haze_convo02_02",
+      "audioUrl": "audio/necro_match_start_necro_haze_convo02_02.mp3",
+      "text": "Right now I'm worried about living long enough to graduate.",
+      "duration": 2.901
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_necro_haze_convo02_03",
+      "audioUrl": "audio/haze_match_start_necro_haze_convo02_03.mp3",
+      "text": "The OSIC could use someone like you.",
+      "duration": 3.477
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_haze_convo02_04",
+      "audioUrl": "audio/necro_match_start_necro_haze_convo02_04.mp3",
+      "text": "Not interested in being a sandman.",
+      "duration": 1.803
+    },
+    {
+      "order": 5,
+      "character": "Haze",
+      "audioFile": "haze_match_start_necro_haze_convo02_05",
+      "audioUrl": "audio/haze_match_start_necro_haze_convo02_05.mp3",
+      "text": "And I'm not interested in you being one.  But we have multiple divisions\u2026 and I think you might like being a Medium",
+      "duration": 8.315
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_haze_convo02_06",
+      "audioUrl": "audio/necro_match_start_necro_haze_convo02_06.mp3",
+      "text": "That might not suck.",
+      "duration": 3.272
+    },
+    {
+      "order": 7,
+      "character": "Haze",
+      "audioFile": "haze_match_start_necro_haze_convo02_07",
+      "audioUrl": "audio/haze_match_start_necro_haze_convo02_07.mp3",
+      "text": "Think about it.  You can give me a call later",
+      "duration": 3.615
+    }
+  ]
+}

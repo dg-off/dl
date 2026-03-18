@@ -1,0 +1,45 @@
+{
+  "id": "ivy_krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_krill_convo03_01",
+      "audioUrl": "audio/tengu_match_start_tengu_krill_convo03_01.mp3",
+      "text": "So what do you guys do?",
+      "duration": 1.703
+    },
+    {
+      "order": 2,
+      "character": "Krill",
+      "audioFile": "krill_match_start_tengu_krill_convo03_02",
+      "audioUrl": "audio/krill_match_start_tengu_krill_convo03_02.mp3",
+      "text": "Crime mostly.  Yourself?",
+      "duration": 2.866
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_krill_convo03_03",
+      "audioUrl": "audio/tengu_match_start_tengu_krill_convo03_03.mp3",
+      "text": "Vigilante justice.",
+      "duration": 2.272
+    },
+    {
+      "order": 4,
+      "character": "Krill",
+      "audioFile": "krill_match_start_tengu_krill_convo03_04",
+      "audioUrl": "audio/krill_match_start_tengu_krill_convo03_04.mp3",
+      "text": "Good. That's that's fun too\u2026",
+      "duration": 3.807
+    },
+    {
+      "order": 4,
+      "character": "Krill",
+      "audioFile": "krill_match_start_tengu_krill_convo03_04_02",
+      "audioUrl": "audio/krill_match_start_tengu_krill_convo03_04_02.mp3",
+      "text": "Good! That's... that's fun too!",
+      "duration": 3.882
+    }
+  ]
+}

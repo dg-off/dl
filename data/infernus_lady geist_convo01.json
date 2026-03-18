@@ -1,0 +1,21 @@
+{
+  "id": "infernus_lady geist_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_inferno_convo01_01",
+      "audioUrl": "audio/ghost_match_start_ghost_inferno_convo01_01.mp3",
+      "text": "I'm assuming there will be a celebration at Jezebel's after we win?",
+      "duration": 3.443
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_ghost_inferno_convo01_02",
+      "audioUrl": "audio/inferno_match_start_ghost_inferno_convo01_02.mp3",
+      "text": "You know it.",
+      "duration": 0.89
+    }
+  ]
+}

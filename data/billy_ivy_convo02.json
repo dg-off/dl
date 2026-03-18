@@ -1,0 +1,21 @@
+{
+  "id": "billy_ivy_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_punkgoat_tengu_convo02_01",
+      "audioUrl": "audio/tengu_match_start_punkgoat_tengu_convo02_01.mp3",
+      "text": "Why are you so angry.",
+      "duration": 1.941
+    },
+    {
+      "order": 2,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_tengu_convo02_02",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_tengu_convo02_02.mp3",
+      "text": "I don't need to justify shit to Carlos Arroyo's pet gargoyle",
+      "duration": 4.013
+    }
+  ]
+}

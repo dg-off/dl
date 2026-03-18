@@ -1,0 +1,29 @@
+{
+  "id": "haze_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_haze_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_haze_convo02_01.mp3",
+      "text": "Do your superiors know that you're helping me?",
+      "duration": 2.689
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_gigawatt_haze_convo02_02",
+      "audioUrl": "audio/haze_match_start_gigawatt_haze_convo02_02.mp3",
+      "text": "We're not having this conversation.",
+      "duration": 2.956
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_haze_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_haze_convo02_03.mp3",
+      "text": "Struck a nerve?",
+      "duration": 1.576
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "haze_infernus_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_inferno_convo02_01",
+      "audioUrl": "audio/haze_match_start_haze_inferno_convo02_01.mp3",
+      "text": "I would think a bartender would be a little more nervous.",
+      "duration": 3.829
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_haze_inferno_convo02_02",
+      "audioUrl": "audio/inferno_match_start_haze_inferno_convo02_02.mp3",
+      "text": "Wasn't always a bartender.",
+      "duration": 1.506
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_inferno_convo02_03",
+      "audioUrl": "audio/haze_match_start_haze_inferno_convo02_03.mp3",
+      "text": "Military?",
+      "duration": 1.71
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_haze_inferno_convo02_04",
+      "audioUrl": "audio/inferno_match_start_haze_inferno_convo02_04.mp3",
+      "text": "Mispent youth.",
+      "duration": 1.005
+    }
+  ]
+}

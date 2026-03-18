@@ -1,0 +1,37 @@
+{
+  "id": "abrams_infernus_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_inferno_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_inferno_convo02_01.mp3",
+      "text": "When's the last time you went to Ixia?",
+      "duration": 2.314
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_atlas_inferno_convo02_02",
+      "audioUrl": "audio/inferno_match_start_atlas_inferno_convo02_02.mp3",
+      "text": "Never.",
+      "duration": 0.766
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_inferno_convo02_03",
+      "audioUrl": "audio/atlas_match_start_atlas_inferno_convo02_03.mp3",
+      "text": "You gotta be kidding me",
+      "duration": 1.584
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_atlas_inferno_convo02_04",
+      "audioUrl": "audio/inferno_match_start_atlas_inferno_convo02_04.mp3",
+      "text": "New York born and raised, baby",
+      "duration": 2.039
+    }
+  ]
+}

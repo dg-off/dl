@@ -1,0 +1,37 @@
+{
+  "id": "celeste_haze_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_unicorn_haze_convo03_01",
+      "audioUrl": "audio/haze_match_start_unicorn_haze_convo03_01.mp3",
+      "text": "Are you nervous?",
+      "duration": 2.03
+    },
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_haze_convo03_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo03_02.mp3",
+      "text": "More than I expected, but less than I probably should be.",
+      "duration": 3.174
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_unicorn_haze_convo03_03",
+      "audioUrl": "audio/haze_match_start_unicorn_haze_convo03_03.mp3",
+      "text": "Reasonable answer.",
+      "duration": 2.292
+    },
+    {
+      "order": 4,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_haze_convo03_04",
+      "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo03_04.mp3",
+      "text": "I don't know if it's reasonable but it's honest.",
+      "duration": 2.967
+    }
+  ]
+}

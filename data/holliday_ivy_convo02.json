@@ -1,0 +1,45 @@
+{
+  "id": "holliday_ivy_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_tengu_convo02_01",
+      "audioUrl": "audio/astro_match_start_astro_tengu_convo02_01.mp3",
+      "text": "Heard about you on the news",
+      "duration": 1.816
+    },
+    {
+      "order": 2,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_astro_tengu_convo02_02",
+      "audioUrl": "audio/tengu_match_start_astro_tengu_convo02_02.mp3",
+      "text": "Thought you were from Illinois",
+      "duration": 1.642
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_tengu_convo02_03",
+      "audioUrl": "audio/astro_match_start_astro_tengu_convo02_03.mp3",
+      "text": "I am.  Turns out lots of people are interested in crime fighting gargoyles",
+      "duration": 4.627
+    },
+    {
+      "order": 4,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_astro_tengu_convo02_04",
+      "audioUrl": "audio/tengu_match_start_astro_tengu_convo02_04.mp3",
+      "text": "Were they saying nice things at least?",
+      "duration": 2.418
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_tengu_convo02_05",
+      "audioUrl": "audio/astro_match_start_astro_tengu_convo02_05.mp3",
+      "text": "Ivy, it's hard not to say nice things about you\u2026",
+      "duration": 3.517
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kelvin_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_frank_kelvin_convo03_01",
+      "audioUrl": "audio/kelvin_match_start_frank_kelvin_convo03_01.mp3",
+      "text": "I'll do whatever I can to keep you in the fight Victor.",
+      "duration": 2.891
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_kelvin_convo03_02",
+      "audioUrl": "audio/frank_match_start_frank_kelvin_convo03_02.mp3",
+      "text": "Thanks Kelvin.",
+      "duration": 1.003
+    }
+  ]
+}

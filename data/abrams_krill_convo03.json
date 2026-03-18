@@ -1,0 +1,29 @@
+{
+  "id": "abrams_krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_krill_convo03_01",
+      "audioUrl": "audio/atlas_match_start_atlas_krill_convo03_01.mp3",
+      "text": "Didn't expect to be working with you two today.",
+      "duration": 2.738
+    },
+    {
+      "order": 2,
+      "character": "Krill",
+      "audioFile": "krill_match_start_atlas_krill_convo03_02",
+      "audioUrl": "audio/krill_match_start_atlas_krill_convo03_02.mp3",
+      "text": "Aa delight for us as well.   Our enemies will likely be less enthused\u2026",
+      "duration": 5.189
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_krill_convo03_03",
+      "audioUrl": "audio/atlas_match_start_atlas_krill_convo03_03.mp3",
+      "text": "Oh they are going to hate us",
+      "duration": 2.312
+    }
+  ]
+}

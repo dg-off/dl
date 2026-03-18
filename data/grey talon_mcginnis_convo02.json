@@ -1,0 +1,53 @@
+{
+  "id": "grey talon_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_forge_orion_convo02_01",
+      "audioUrl": "audio/forge_match_start_forge_orion_convo02_01.mp3",
+      "text": "If you start smelling burnt toast let me know.",
+      "duration": 2.255
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_forge_orion_convo02_02",
+      "audioUrl": "audio/orion_match_start_forge_orion_convo02_02.mp3",
+      "text": "Excuse me?",
+      "duration": 1.327
+    },
+    {
+      "order": 3,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_forge_orion_convo02_03",
+      "audioUrl": "audio/forge_match_start_forge_orion_convo02_03.mp3",
+      "text": "In case you have a stroke.",
+      "duration": 1.298
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_forge_orion_convo02_04",
+      "audioUrl": "audio/orion_match_start_forge_orion_convo02_04.mp3",
+      "text": "For gods sake.",
+      "duration": 1.355
+    },
+    {
+      "order": 5,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_forge_orion_convo02_05",
+      "audioUrl": "audio/forge_match_start_forge_orion_convo02_05.mp3",
+      "text": "I'm not even being an asshole here, there's a non-zero chance you fall and break a hip or something and if you do I'm going to have to step in.",
+      "duration": 6.323
+    },
+    {
+      "order": 6,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_forge_orion_convo02_06",
+      "audioUrl": "audio/orion_match_start_forge_orion_convo02_06.mp3",
+      "text": "Don't worry about me",
+      "duration": 1.616
+    }
+  ]
+}

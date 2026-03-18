@@ -1,0 +1,29 @@
+{
+  "id": "rem_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_familiar_gigawatt_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_familiar_gigawatt_convo02_01.mp3",
+      "text": "You have a pillow.",
+      "duration": 1.374
+    },
+    {
+      "order": 2,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_gigawatt_convo02_02",
+      "audioUrl": "audio/familiar_match_start_familiar_gigawatt_convo02_02.mp3",
+      "text": "Cause I'm gonna sleep.",
+      "duration": 2.284
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_familiar_gigawatt_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_familiar_gigawatt_convo02_03.mp3",
+      "text": "I see the Patron looks to test my patience today.",
+      "duration": 3.533
+    }
+  ]
+}

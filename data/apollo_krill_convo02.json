@@ -1,0 +1,29 @@
+{
+  "id": "apollo_krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Krill",
+      "audioFile": "krill_match_start_fencer_krill_convo02_01",
+      "audioUrl": "audio/krill_match_start_fencer_krill_convo02_01.mp3",
+      "text": "I hope you're not above fighting dirty.",
+      "duration": 2.142
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_krill_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_krill_convo02_02.mp3",
+      "text": "There's no honor in that.",
+      "duration": 1.609
+    },
+    {
+      "order": 3,
+      "character": "Krill",
+      "audioFile": "krill_match_start_fencer_krill_convo02_03",
+      "audioUrl": "audio/krill_match_start_fencer_krill_convo02_03.mp3",
+      "text": "No.  But there is great satisfaction in being alive.",
+      "duration": 3.531
+    }
+  ]
+}

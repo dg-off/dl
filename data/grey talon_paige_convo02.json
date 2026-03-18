@@ -1,0 +1,37 @@
+{
+  "id": "grey talon_paige_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_orion_convo02_01",
+      "audioUrl": "audio/bookworm_match_start_bookworm_orion_convo02_01.mp3",
+      "text": "I read a book on the Baxter Society once.",
+      "duration": 2.232
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_bookworm_orion_convo02_02",
+      "audioUrl": "audio/orion_match_start_bookworm_orion_convo02_02.mp3",
+      "text": "How was it?",
+      "duration": 0.795
+    },
+    {
+      "order": 3,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_bookworm_orion_convo02_03",
+      "audioUrl": "audio/bookworm_match_start_bookworm_orion_convo02_03.mp3",
+      "text": "Fascinating.  Your life is amazing Grey Talon.",
+      "duration": 3.947
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_bookworm_orion_convo02_04",
+      "audioUrl": "audio/orion_match_start_bookworm_orion_convo02_04.mp3",
+      "text": "It certainly was.",
+      "duration": 1.363
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "grey talon_kelvin_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_kelvin_orion_convo02_01",
+      "audioUrl": "audio/orion_match_start_kelvin_orion_convo02_01.mp3",
+      "text": "Trap them in your ice dome and leave the rest to me.",
+      "duration": 3.026
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_orion_convo02_02",
+      "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo02_02.mp3",
+      "text": "I create shelter for those in need of aid.",
+      "duration": 3.27
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_kelvin_orion_convo02_03",
+      "audioUrl": "audio/orion_match_start_kelvin_orion_convo02_03.mp3",
+      "text": "Today you create a killing floor for me, do you understand?",
+      "duration": 3.746
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_orion_convo02_04",
+      "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo02_04.mp3",
+      "text": "Talon, I-",
+      "duration": 1.247
+    },
+    {
+      "order": 5,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_kelvin_orion_convo02_05",
+      "audioUrl": "audio/orion_match_start_kelvin_orion_convo02_05.mp3",
+      "text": "Do. You. Understand.",
+      "duration": 3.206
+    },
+    {
+      "order": 6,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_orion_convo02_06",
+      "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo02_06.mp3",
+      "text": "Yes.",
+      "duration": 1.287
+    }
+  ]
+}

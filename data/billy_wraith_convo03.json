@@ -1,0 +1,77 @@
+{
+  "id": "billy_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_punkgoat_wraith_convo03_01",
+      "audioUrl": "audio/wraith_match_start_punkgoat_wraith_convo03_01.mp3",
+      "text": "What do you do for fun?",
+      "duration": 1.149
+    },
+    {
+      "order": 2,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_wraith_convo03_02",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_wraith_convo03_02.mp3",
+      "text": "What?",
+      "duration": 0.712
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_punkgoat_wraith_convo03_03",
+      "audioUrl": "audio/wraith_match_start_punkgoat_wraith_convo03_03.mp3",
+      "text": "What do you do for fun? I mean, you say you hate everything but there has to be something.",
+      "duration": 3.557
+    },
+    {
+      "order": 4,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_wraith_convo03_04",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_wraith_convo03_04.mp3",
+      "text": "Don\u2019t act like you want to get to know me",
+      "duration": 1.957
+    },
+    {
+      "order": 5,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_punkgoat_wraith_convo03_05",
+      "audioUrl": "audio/wraith_match_start_punkgoat_wraith_convo03_05.mp3",
+      "text": "I do.",
+      "duration": 0.707
+    },
+    {
+      "order": 6,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_wraith_convo03_06",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_wraith_convo03_06.mp3",
+      "text": "Bullshit.",
+      "duration": 1.253
+    },
+    {
+      "order": 7,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_punkgoat_wraith_convo03_07",
+      "audioUrl": "audio/wraith_match_start_punkgoat_wraith_convo03_07.mp3",
+      "text": "I really do.",
+      "duration": 1.247
+    },
+    {
+      "order": 8,
+      "character": "Billy",
+      "audioFile": "punkgoat_match_start_punkgoat_wraith_convo03_08",
+      "audioUrl": "audio/punkgoat_match_start_punkgoat_wraith_convo03_08.mp3",
+      "text": "Why.",
+      "duration": 0.711
+    },
+    {
+      "order": 9,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_punkgoat_wraith_convo03_09",
+      "audioUrl": "audio/wraith_match_start_punkgoat_wraith_convo03_09.mp3",
+      "text": "So we can find common ground.  Share some laughs.  Bet on sports games then hold markers when you can't cover them.  It's a whole thing but it all starts with building a connection, ya know.",
+      "duration": 10.401
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "grey talon_paradox_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_orion_chrono_convo02_01",
+      "audioUrl": "audio/chrono_match_start_orion_chrono_convo02_01.mp3",
+      "text": "I'd love to see the inside of The Manor House",
+      "duration": 2.702
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_chrono_convo02_02",
+      "audioUrl": "audio/orion_match_start_orion_chrono_convo02_02.mp3",
+      "text": "I wouldn't recommend breaking in.",
+      "duration": 2.153
+    },
+    {
+      "order": 3,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_orion_chrono_convo02_03",
+      "audioUrl": "audio/chrono_match_start_orion_chrono_convo02_03.mp3",
+      "text": "Oh I know what happened to the last member of Paradox that tried to steal from The Baxter society.  That's why I want you to get me in.",
+      "duration": 7.699
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_chrono_convo02_04",
+      "audioUrl": "audio/orion_match_start_orion_chrono_convo02_04.mp3",
+      "text": "Never going to happen.",
+      "duration": 1.634
+    },
+    {
+      "order": 5,
+      "character": "Paradox",
+      "audioFile": "chrono_match_start_orion_chrono_convo02_05",
+      "audioUrl": "audio/chrono_match_start_orion_chrono_convo02_05.mp3",
+      "text": "We'll see.",
+      "duration": 1.097
+    }
+  ]
+}

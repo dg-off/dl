@@ -1,0 +1,69 @@
+{
+  "id": "ivy_viper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_viper_tengu_convo02_01",
+      "audioUrl": "audio/tengu_match_start_viper_tengu_convo02_01.mp3",
+      "text": "Did Mendoza send you.",
+      "duration": 1.566
+    },
+    {
+      "order": 2,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_tengu_convo02_02",
+      "audioUrl": "audio/viper_match_start_viper_tengu_convo02_02.mp3",
+      "text": "Ivy, I don't work for Mendoza",
+      "duration": 1.932
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_viper_tengu_convo02_03",
+      "audioUrl": "audio/tengu_match_start_viper_tengu_convo02_03.mp3",
+      "text": "You killed 13 people for him!",
+      "duration": 2.376
+    },
+    {
+      "order": 4,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_tengu_convo02_04",
+      "audioUrl": "audio/viper_match_start_viper_tengu_convo02_04.mp3",
+      "text": "Allegedly",
+      "duration": 1.326
+    },
+    {
+      "order": 5,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_viper_tengu_convo02_05",
+      "audioUrl": "audio/tengu_match_start_viper_tengu_convo02_05.mp3",
+      "text": "You were convicted.",
+      "duration": 1.441
+    },
+    {
+      "order": 6,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_tengu_convo02_06",
+      "audioUrl": "audio/viper_match_start_viper_tengu_convo02_06.mp3",
+      "text": "Yeah of 13 counts.  The real number is way more impressive.",
+      "duration": 3.708
+    },
+    {
+      "order": 7,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_viper_tengu_convo02_07",
+      "audioUrl": "audio/tengu_match_start_viper_tengu_convo02_07.mp3",
+      "text": "I'm taking you to jail.",
+      "duration": 1.434
+    },
+    {
+      "order": 8,
+      "character": "Viper",
+      "audioFile": "viper_match_start_viper_tengu_convo02_08",
+      "audioUrl": "audio/viper_match_start_viper_tengu_convo02_08.mp3",
+      "text": "You're the one wanting to talk shop, don't be mad at me.",
+      "duration": 2.969
+    }
+  ]
+}

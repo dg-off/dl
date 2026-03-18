@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_pocket_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_synth_convo02_01",
+      "audioUrl": "audio/orion_match_start_orion_synth_convo02_01.mp3",
+      "text": "You're not a talker are you?",
+      "duration": 1.536
+    },
+    {
+      "order": 2,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_orion_synth_convo02_02",
+      "audioUrl": "audio/synth_match_start_orion_synth_convo02_02.mp3",
+      "text": "Not really.",
+      "duration": 0.793
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_synth_convo02_03",
+      "audioUrl": "audio/orion_match_start_orion_synth_convo02_03.mp3",
+      "text": "Great.",
+      "duration": 0.511
+    }
+  ]
+}

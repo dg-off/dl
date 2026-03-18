@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_wraith_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_orion_wraith_convo01_01",
+      "audioUrl": "audio/wraith_match_start_orion_wraith_convo01_01.mp3",
+      "text": "Someone's looking serious.",
+      "duration": 1.589
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_wraith_convo01_02",
+      "audioUrl": "audio/orion_match_start_orion_wraith_convo01_02.mp3",
+      "text": "Im not in the mood to chit chat.",
+      "duration": 1.754
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_orion_wraith_convo01_03",
+      "audioUrl": "audio/wraith_match_start_orion_wraith_convo01_03.mp3",
+      "text": "Suit yourself.",
+      "duration": 1.051
+    }
+  ]
+}

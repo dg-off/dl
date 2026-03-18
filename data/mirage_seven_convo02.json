@@ -1,0 +1,29 @@
+{
+  "id": "mirage_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_mirage_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_mirage_convo02_01.mp3",
+      "text": "So. Wyoming.",
+      "duration": 3.056
+    },
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_gigawatt_mirage_convo02_02",
+      "audioUrl": "audio/mirage_match_start_gigawatt_mirage_convo02_02.mp3",
+      "text": "I know.",
+      "duration": 1.33
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_mirage_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_mirage_convo02_03.mp3",
+      "text": "Good luck with that.",
+      "duration": 1.468
+    }
+  ]
+}

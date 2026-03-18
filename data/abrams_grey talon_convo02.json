@@ -1,0 +1,45 @@
+{
+  "id": "abrams_grey talon_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_atlas_orion_convo02_01",
+      "audioUrl": "audio/orion_match_start_atlas_orion_convo02_01.mp3",
+      "text": "You remind me of my step daughter.",
+      "duration": 1.797
+    },
+    {
+      "order": 2,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_orion_convo02_02",
+      "audioUrl": "audio/atlas_match_start_atlas_orion_convo02_02.mp3",
+      "text": "Son married an Ixian?",
+      "duration": 1.728
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_atlas_orion_convo02_03",
+      "audioUrl": "audio/orion_match_start_atlas_orion_convo02_03.mp3",
+      "text": "Yeah.",
+      "duration": 0.677
+    },
+    {
+      "order": 4,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_orion_convo02_04",
+      "audioUrl": "audio/atlas_match_start_atlas_orion_convo02_04.mp3",
+      "text": "No shit.  Tell ya what, we survive this I'll take the whole family out for a drink.",
+      "duration": 5.548
+    },
+    {
+      "order": 5,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_atlas_orion_convo02_05",
+      "audioUrl": "audio/orion_match_start_atlas_orion_convo02_05.mp3",
+      "text": "That-  that's a nice thought\u2026",
+      "duration": 2.954
+    }
+  ]
+}

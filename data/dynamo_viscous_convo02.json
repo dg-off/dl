@@ -1,0 +1,37 @@
+{
+  "id": "dynamo_viscous_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_dynamo_viscous_convo02_01",
+      "audioUrl": "audio/viscous_match_start_dynamo_viscous_convo02_01.mp3",
+      "text": "What happened to your body?",
+      "duration": 1.45
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_viscous_convo02_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_viscous_convo02_02.mp3",
+      "text": "Obliterated in an astral gate.",
+      "duration": 1.808
+    },
+    {
+      "order": 3,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_dynamo_viscous_convo02_03",
+      "audioUrl": "audio/viscous_match_start_dynamo_viscous_convo02_03.mp3",
+      "text": "That sounds upsetting.",
+      "duration": 1.928
+    },
+    {
+      "order": 4,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_viscous_convo02_04",
+      "audioUrl": "audio/dynamo_match_start_dynamo_viscous_convo02_04.mp3",
+      "text": "I do not recommend it.",
+      "duration": 1.622
+    }
+  ]
+}

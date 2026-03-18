@@ -1,0 +1,29 @@
+{
+  "id": "abrams_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_ghost_convo02_01",
+      "audioUrl": "audio/atlas_match_start_atlas_ghost_convo02_01.mp3",
+      "text": "Nice arm.",
+      "duration": 1.345
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_atlas_ghost_convo02_02",
+      "audioUrl": "audio/ghost_match_start_atlas_ghost_convo02_02.mp3",
+      "text": "It's a melevolant spirit. Nice book.",
+      "duration": 2.713
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_ghost_convo02_03",
+      "audioUrl": "audio/atlas_match_start_atlas_ghost_convo02_03.mp3",
+      "text": "It's a cursed tome.",
+      "duration": 1.495
+    }
+  ]
+}

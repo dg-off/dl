@@ -1,0 +1,69 @@
+{
+  "id": "graves_holliday_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_necro_astro_convo02_01",
+      "audioUrl": "audio/astro_match_start_necro_astro_convo02_01.mp3",
+      "text": "When the ritual starts, go find a playground to brood in",
+      "duration": 3.602
+    },
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_astro_convo02_02",
+      "audioUrl": "audio/necro_match_start_necro_astro_convo02_02.mp3",
+      "text": "A condesending cop.  Shocking.",
+      "duration": 2.596
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_necro_astro_convo02_03",
+      "audioUrl": "audio/astro_match_start_necro_astro_convo02_03.mp3",
+      "text": "Snark isn't gonna keep you alive.",
+      "duration": 2.222
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_astro_convo02_04",
+      "audioUrl": "audio/necro_match_start_necro_astro_convo02_04.mp3",
+      "text": "What, and you are?",
+      "duration": 1.18
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_necro_astro_convo02_05",
+      "audioUrl": "audio/astro_match_start_necro_astro_convo02_05.mp3",
+      "text": "Against my better judgement.",
+      "duration": 1.727
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_astro_convo02_06",
+      "audioUrl": "audio/necro_match_start_necro_astro_convo02_06.mp3",
+      "text": "You're quite the civil servant",
+      "duration": 1.992
+    },
+    {
+      "order": 7,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_necro_astro_convo02_07",
+      "audioUrl": "audio/astro_match_start_necro_astro_convo02_07.mp3",
+      "text": "You shouldn't be here.  It's not safe.",
+      "duration": 2.24
+    },
+    {
+      "order": 8,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_astro_convo02_08",
+      "audioUrl": "audio/necro_match_start_necro_astro_convo02_08.mp3",
+      "text": "I can take care of myself",
+      "duration": 1.317
+    }
+  ]
+}

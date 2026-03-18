@@ -1,0 +1,45 @@
+{
+  "id": "mcginnis_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_forge_wraith_convo03_01",
+      "audioUrl": "audio/wraith_match_start_forge_wraith_convo03_01.mp3",
+      "text": "Ya know I'm used to working with people that are a little more subtle.",
+      "duration": 2.782
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_forge_wraith_convo03_02",
+      "audioUrl": "audio/forge_match_start_forge_wraith_convo03_02.mp3",
+      "text": "You have 4 arms and a tommy gun, subtle is the last word I'd use.",
+      "duration": 3.905
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_forge_wraith_convo03_03",
+      "audioUrl": "audio/wraith_match_start_forge_wraith_convo03_03.mp3",
+      "text": "Subtlety is on a spectrum.",
+      "duration": 1.562
+    },
+    {
+      "order": 4,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_forge_wraith_convo03_04",
+      "audioUrl": "audio/forge_match_start_forge_wraith_convo03_04.mp3",
+      "text": "OK.",
+      "duration": 0.698
+    },
+    {
+      "order": 4,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_forge_wraith_convo03_04_02",
+      "audioUrl": "audio/forge_match_start_forge_wraith_convo03_04_02.mp3",
+      "text": "I'll go.",
+      "duration": 0.681
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "graves_seven_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_gigawatt_convo03_01",
+      "audioUrl": "audio/necro_match_start_necro_gigawatt_convo03_01.mp3",
+      "text": "I'm able to hold my own.",
+      "duration": 1.688
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_necro_gigawatt_convo03_02",
+      "audioUrl": "audio/gigawatt_match_start_necro_gigawatt_convo03_02.mp3",
+      "text": "I never said you couldn't.",
+      "duration": 1.84
+    },
+    {
+      "order": 3,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_gigawatt_convo03_03",
+      "audioUrl": "audio/necro_match_start_necro_gigawatt_convo03_03.mp3",
+      "text": "I know I'm young, but -",
+      "duration": 1.457
+    },
+    {
+      "order": 4,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_necro_gigawatt_convo03_04",
+      "audioUrl": "audio/gigawatt_match_start_necro_gigawatt_convo03_04.mp3",
+      "text": "I don't care how old you are.  If you're compotent you'll survive, if you're not you'll die - either way you're not my concern.",
+      "duration": 8.412
+    }
+  ]
+}

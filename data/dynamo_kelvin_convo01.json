@@ -1,0 +1,37 @@
+{
+  "id": "dynamo_kelvin_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_dynamo_kelvin_convo01_01",
+      "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo01_01.mp3",
+      "text": "Haven't seen you since the Black Chateau.",
+      "duration": 2.641
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_kelvin_convo01_02",
+      "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo01_02.mp3",
+      "text": "Well, you've been a little busy being dead.",
+      "duration": 2.266
+    },
+    {
+      "order": 3,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_dynamo_kelvin_convo01_03",
+      "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo01_03.mp3",
+      "text": "It certainly does cut down on socializing.",
+      "duration": 3.014
+    },
+    {
+      "order": 4,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_kelvin_convo01_04",
+      "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo01_04.mp3",
+      "text": "It's great to see you again Kelvin.",
+      "duration": 1.458
+    }
+  ]
+}

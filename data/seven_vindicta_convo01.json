@@ -1,0 +1,21 @@
+{
+  "id": "seven_vindicta_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_hornet_convo01_01",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_hornet_convo01_01.mp3",
+      "text": "Look at us.  Both victims of the state.",
+      "duration": 3.187
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_gigawatt_hornet_convo01_02",
+      "audioUrl": "audio/hornet_match_start_gigawatt_hornet_convo01_02.mp3",
+      "text": "Don't draw parallels between us.",
+      "duration": 2.306
+    }
+  ]
+}

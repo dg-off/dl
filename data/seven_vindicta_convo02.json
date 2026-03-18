@@ -1,0 +1,29 @@
+{
+  "id": "seven_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_hornet_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_hornet_convo02_01.mp3",
+      "text": "I'm grateful to fight beside someone who has shed the albatross of morality.",
+      "duration": 5.087
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_gigawatt_hornet_convo02_02",
+      "audioUrl": "audio/hornet_match_start_gigawatt_hornet_convo02_02.mp3",
+      "text": "Some people deserve to die.",
+      "duration": 1.895
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_hornet_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_hornet_convo02_03.mp3",
+      "text": "And die they shall.",
+      "duration": 1.529
+    }
+  ]
+}

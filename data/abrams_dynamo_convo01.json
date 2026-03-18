@@ -1,0 +1,21 @@
+{
+  "id": "abrams_dynamo_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_dynamo_convo01_01",
+      "audioUrl": "audio/atlas_match_start_atlas_dynamo_convo01_01.mp3",
+      "text": "You ready for this Professor?",
+      "duration": 1.978
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_atlas_dynamo_convo01_02",
+      "audioUrl": "audio/dynamo_match_start_atlas_dynamo_convo01_02.mp3",
+      "text": "Mr. Abrams, if you think this is the first fight I've been in you've never played pinochle in Bristol.",
+      "duration": 5.092
+    }
+  ]
+}

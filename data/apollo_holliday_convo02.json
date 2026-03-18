@@ -1,0 +1,29 @@
+{
+  "id": "apollo_holliday_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_fencer_astro_convo02_01",
+      "audioUrl": "audio/astro_match_start_fencer_astro_convo02_01.mp3",
+      "text": "Know how to use that sword?",
+      "duration": 1.775
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_astro_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_astro_convo02_02.mp3",
+      "text": "I'm carrying it because I'm in Macbeth, what do you think.",
+      "duration": 3.641
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_fencer_astro_convo02_03",
+      "audioUrl": "audio/astro_match_start_fencer_astro_convo02_03.mp3",
+      "text": "This is gonna be a long day.",
+      "duration": 1.753
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bebop_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_ghost_convo02_01",
+      "audioUrl": "audio/bebop_match_start_bebop_ghost_convo02_01.mp3",
+      "text": "Geist\u2026 are you Dr. Johann's sister?",
+      "duration": 2.883
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_bebop_ghost_convo02_02",
+      "audioUrl": "audio/ghost_match_start_bebop_ghost_convo02_02.mp3",
+      "text": "I'm flattered but no.",
+      "duration": 1.994
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_ghost_convo02_03",
+      "audioUrl": "audio/bebop_match_start_bebop_ghost_convo02_03.mp3",
+      "text": "You have his eyes",
+      "duration": 1.293
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_bebop_ghost_convo02_04",
+      "audioUrl": "audio/ghost_match_start_bebop_ghost_convo02_04.mp3",
+      "text": "He has mine.",
+      "duration": 1.359
+    }
+  ]
+}

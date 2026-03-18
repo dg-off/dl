@@ -1,0 +1,21 @@
+{
+  "id": "drifter_kelvin_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_drifter_kelvin_convo03_01",
+      "audioUrl": "audio/kelvin_match_start_drifter_kelvin_convo03_01.mp3",
+      "text": "I understand that violence is going to happen in the ritual, but it's not necessary for you to make them suffer.",
+      "duration": 6.447
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_kelvin_convo03_02",
+      "audioUrl": "audio/drifter_match_start_drifter_kelvin_convo03_02.mp3",
+      "text": "I know it's not necessary, I just like to go above and beyond expectations.",
+      "duration": 6.479
+    }
+  ]
+}

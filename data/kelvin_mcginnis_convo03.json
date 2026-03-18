@@ -1,0 +1,61 @@
+{
+  "id": "kelvin_mcginnis_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_kelvin_forge_convo03_01",
+      "audioUrl": "audio/forge_match_start_kelvin_forge_convo03_01.mp3",
+      "text": "Hope your back's strong because we are gonna be carrying this team.",
+      "duration": 3.073
+    },
+    {
+      "order": 2,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_forge_convo03_02",
+      "audioUrl": "audio/kelvin_match_start_kelvin_forge_convo03_02.mp3",
+      "text": "Let's not get ahead of ourselves.",
+      "duration": 2.836
+    },
+    {
+      "order": 3,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_kelvin_forge_convo03_03",
+      "audioUrl": "audio/forge_match_start_kelvin_forge_convo03_03.mp3",
+      "text": "Come on;  it's just you and me - we're the two people that are gonna be keeping everyone alive right?",
+      "duration": 4.613
+    },
+    {
+      "order": 4,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_forge_convo03_04",
+      "audioUrl": "audio/kelvin_match_start_kelvin_forge_convo03_04.mp3",
+      "text": "It does seem likely.",
+      "duration": 2.097
+    },
+    {
+      "order": 5,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_kelvin_forge_convo03_05",
+      "audioUrl": "audio/forge_match_start_kelvin_forge_convo03_05.mp3",
+      "text": "Then lets have some healthy arrogance.",
+      "duration": 2.069
+    },
+    {
+      "order": 6,
+      "character": "Kelvin",
+      "audioFile": "kelvin_match_start_kelvin_forge_convo03_06",
+      "audioUrl": "audio/kelvin_match_start_kelvin_forge_convo03_06.mp3",
+      "text": "We're gonna do quite well!",
+      "duration": 2.458
+    },
+    {
+      "order": 7,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_kelvin_forge_convo03_07",
+      "audioUrl": "audio/forge_match_start_kelvin_forge_convo03_07.mp3",
+      "text": "We can work on this.",
+      "duration": 1.128
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_vindicta_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_orion_hornet_convo03_01",
+      "audioUrl": "audio/hornet_match_start_orion_hornet_convo03_01.mp3",
+      "text": "Wesley.  I just.  I just wanted you to know that if I had a father like you I don't think I would have died.",
+      "duration": 6.36
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_hornet_convo03_02",
+      "audioUrl": "audio/orion_match_start_orion_hornet_convo03_02.mp3",
+      "text": "You deserved better.  I'm sorry.",
+      "duration": 2.47
+    },
+    {
+      "order": 3,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_orion_hornet_convo03_03",
+      "audioUrl": "audio/hornet_match_start_orion_hornet_convo03_03.mp3",
+      "text": "It's ok.  I got to meet you.",
+      "duration": 3.217
+    }
+  ]
+}

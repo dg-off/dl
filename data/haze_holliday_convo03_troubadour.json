@@ -1,0 +1,37 @@
+{
+  "id": "haze_holliday_convo03_troubadour",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_haze_astro_troubadour_convo03_01",
+      "audioUrl": "audio/astro_match_start_haze_astro_troubadour_convo03_01.mp3",
+      "text": "I don't think I ever said thank you.",
+      "duration": 2.348
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_astro_troubadour_convo03_02",
+      "audioUrl": "audio/haze_match_start_haze_astro_troubadour_convo03_02.mp3",
+      "text": "No need to thank me, we were both doing our job.",
+      "duration": 3.673
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_haze_astro_troubadour_convo03_03",
+      "audioUrl": "audio/astro_match_start_haze_astro_troubadour_convo03_03.mp3",
+      "text": "We didn't just stop the troubadour, you kept me from crossing a line, and I owe you for that.",
+      "duration": 6.291
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_astro_troubadour_convo03_04",
+      "audioUrl": "audio/haze_match_start_haze_astro_troubadour_convo03_04.mp3",
+      "text": "We can talk later, let's focus on the task at hand.",
+      "duration": 3.579
+    }
+  ]
+}

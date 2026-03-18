@@ -1,0 +1,45 @@
+{
+  "id": "ivy_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_tengu_wraith_convo03_01",
+      "audioUrl": "audio/wraith_match_start_tengu_wraith_convo03_01.mp3",
+      "text": "You gonna cover me?",
+      "duration": 0.957
+    },
+    {
+      "order": 2,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_wraith_convo03_02",
+      "audioUrl": "audio/tengu_match_start_tengu_wraith_convo03_02.mp3",
+      "text": "Yeah.",
+      "duration": 0.762
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_tengu_wraith_convo03_03",
+      "audioUrl": "audio/wraith_match_start_tengu_wraith_convo03_03.mp3",
+      "text": "Try not to sound too excited.",
+      "duration": 1.838
+    },
+    {
+      "order": 4,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_wraith_convo03_04",
+      "audioUrl": "audio/tengu_match_start_tengu_wraith_convo03_04.mp3",
+      "text": "Just not a fan of criminals",
+      "duration": 2.129
+    },
+    {
+      "order": 5,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_tengu_wraith_convo03_05",
+      "audioUrl": "audio/wraith_match_start_tengu_wraith_convo03_05.mp3",
+      "text": "That\u2019s just because you haven't gotten to know me yet",
+      "duration": 2.305
+    }
+  ]
+}

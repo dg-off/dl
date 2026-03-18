@@ -1,0 +1,21 @@
+{
+  "id": "lady geist_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_ghost_hornet_convo02_01",
+      "audioUrl": "audio/hornet_match_start_ghost_hornet_convo02_01.mp3",
+      "text": "It's unbelieveable... I was killed because people thought I was someone like you, meanwhile you're an actual monster and you get to run around like the belle of the ball.",
+      "duration": 8.955
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_hornet_convo02_02",
+      "audioUrl": "audio/ghost_match_start_ghost_hornet_convo02_02.mp3",
+      "text": "That's because I am the belle of the ball.",
+      "duration": 3.368
+    }
+  ]
+}

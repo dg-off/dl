@@ -1,0 +1,37 @@
+{
+  "id": "abrams_lady geist_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_ghost_convo03_01",
+      "audioUrl": "audio/atlas_match_start_atlas_ghost_convo03_01.mp3",
+      "text": "You look remarkably calm for a lady that's about to get shot at.",
+      "duration": 3.52
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_atlas_ghost_convo03_02",
+      "audioUrl": "audio/ghost_match_start_atlas_ghost_convo03_02.mp3",
+      "text": "If I thought we were dealing with anyone compotent maybe I'd be worried",
+      "duration": 3.859
+    },
+    {
+      "order": 3,
+      "character": "Abrams",
+      "audioFile": "atlas_match_start_atlas_ghost_convo03_03",
+      "audioUrl": "audio/atlas_match_start_atlas_ghost_convo03_03.mp3",
+      "text": "So you're calm because you're delusional.",
+      "duration": 2.456
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_atlas_ghost_convo03_04",
+      "audioUrl": "audio/ghost_match_start_atlas_ghost_convo03_04.mp3",
+      "text": "Confident, Detective.  I'm confident.",
+      "duration": 3.698
+    }
+  ]
+}

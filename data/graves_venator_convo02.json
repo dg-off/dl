@@ -1,0 +1,37 @@
+{
+  "id": "graves_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_priest_convo02_01",
+      "audioUrl": "audio/necro_match_start_necro_priest_convo02_01.mp3",
+      "text": "What kind of priest carries a gun",
+      "duration": 1.855
+    },
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_necro_priest_convo02_02",
+      "audioUrl": "audio/priest_match_start_necro_priest_convo02_02.mp3",
+      "text": "One that's about to go to war.  What kind of child traffics with the dead?",
+      "duration": 4.225
+    },
+    {
+      "order": 3,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_priest_convo02_03",
+      "audioUrl": "audio/necro_match_start_necro_priest_convo02_03.mp3",
+      "text": "One that - ugh I don't do purple prose. I do.  I traffic with the dead.   If you have a problem with that  you shouldn't be here.",
+      "duration": 7.245
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_necro_priest_convo02_04",
+      "audioUrl": "audio/priest_match_start_necro_priest_convo02_04.mp3",
+      "text": "No problem at all lass.",
+      "duration": 1.867
+    }
+  ]
+}

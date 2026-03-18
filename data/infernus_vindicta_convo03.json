@@ -1,0 +1,29 @@
+{
+  "id": "infernus_vindicta_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_hornet_convo03_01",
+      "audioUrl": "audio/inferno_match_start_inferno_hornet_convo03_01.mp3",
+      "text": "Heard you're the one taking out the Friends of Humanity",
+      "duration": 2.192
+    },
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_inferno_hornet_convo03_02",
+      "audioUrl": "audio/hornet_match_start_inferno_hornet_convo03_02.mp3",
+      "text": "Let's say that's true; how do you feel about it?",
+      "duration": 3.101
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_hornet_convo03_03",
+      "audioUrl": "audio/inferno_match_start_inferno_hornet_convo03_03.mp3",
+      "text": "I'm not losing sleep.",
+      "duration": 1.219
+    }
+  ]
+}

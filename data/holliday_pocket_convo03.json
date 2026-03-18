@@ -1,0 +1,21 @@
+{
+  "id": "holliday_pocket_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_astro_synth_convo03_01",
+      "audioUrl": "audio/synth_match_start_astro_synth_convo03_01.mp3",
+      "text": "You think we're going to be able to summon the patrons sheriff?",
+      "duration": 2.421
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_synth_convo03_02",
+      "audioUrl": "audio/astro_match_start_astro_synth_convo03_02.mp3",
+      "text": "I think that if we don't we'll be dead so it's not going to matter a whole helluva lot.",
+      "duration": 5.137
+    }
+  ]
+}

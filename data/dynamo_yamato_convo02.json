@@ -1,0 +1,29 @@
+{
+  "id": "dynamo_yamato_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_dynamo_convo02_01",
+      "audioUrl": "audio/yamato_match_start_yamato_dynamo_convo02_01.mp3",
+      "text": "in japanese \"Your ego brought your curse upon you.\" - \u304a\u524d\u306e\u30a8\u30b4\u304c\u62db\u3044\u305f\u7d50\u679c\u3060",
+      "duration": 2.28
+    },
+    {
+      "order": 2,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_yamato_dynamo_convo02_02",
+      "audioUrl": "audio/dynamo_match_start_yamato_dynamo_convo02_02.mp3",
+      "text": "I'm going to assume that's a compliment",
+      "duration": 2.024
+    },
+    {
+      "order": 3,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_dynamo_convo02_03",
+      "audioUrl": "audio/yamato_match_start_yamato_dynamo_convo02_03.mp3",
+      "text": "It wasn't.",
+      "duration": 1.072
+    }
+  ]
+}

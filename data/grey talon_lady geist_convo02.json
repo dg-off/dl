@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_ghost_orion_convo02_01",
+      "audioUrl": "audio/orion_match_start_ghost_orion_convo02_01.mp3",
+      "text": "You were a fool to make a deal with that thing.",
+      "duration": 2.459
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_orion_convo02_02",
+      "audioUrl": "audio/ghost_match_start_ghost_orion_convo02_02.mp3",
+      "text": "Please, I'm in control.",
+      "duration": 1.991
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_ghost_orion_convo02_03",
+      "audioUrl": "audio/orion_match_start_ghost_orion_convo02_03.mp3",
+      "text": "If you were I doubt you'd be risking your life right now.",
+      "duration": 2.83
+    }
+  ]
+}

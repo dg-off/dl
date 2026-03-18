@@ -1,0 +1,85 @@
+{
+  "id": "mina_victor_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_frank_vampirebat_convo02_01",
+      "audioUrl": "audio/vampirebat_match_start_frank_vampirebat_convo02_01.mp3",
+      "text": "Whoever stitched you up did a shit job.",
+      "duration": 2.288
+    },
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_vampirebat_convo02_02",
+      "audioUrl": "audio/frank_match_start_frank_vampirebat_convo02_02.mp3",
+      "text": "You think you could do it better?",
+      "duration": 1.734
+    },
+    {
+      "order": 3,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_frank_vampirebat_convo02_03",
+      "audioUrl": "audio/vampirebat_match_start_frank_vampirebat_convo02_03.mp3",
+      "text": "Of course I could do it better.",
+      "duration": 1.356
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_vampirebat_convo02_04",
+      "audioUrl": "audio/frank_match_start_frank_vampirebat_convo02_04.mp3",
+      "text": "Didn't realize you were a doctor.",
+      "duration": 1.925
+    },
+    {
+      "order": 5,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_frank_vampirebat_convo02_05",
+      "audioUrl": "audio/vampirebat_match_start_frank_vampirebat_convo02_05.mp3",
+      "text": "I'm not, I'm someone who actually knows how to sew.",
+      "duration": 2.536
+    },
+    {
+      "order": 6,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_vampirebat_convo02_06",
+      "audioUrl": "audio/frank_match_start_frank_vampirebat_convo02_06.mp3",
+      "text": "Then fix me up after the ritual.",
+      "duration": 1.925
+    },
+    {
+      "order": 7,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_frank_vampirebat_convo02_07",
+      "audioUrl": "audio/vampirebat_match_start_frank_vampirebat_convo02_07.mp3",
+      "text": "You walk one of my shows then sure.",
+      "duration": 2.054
+    },
+    {
+      "order": 8,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_vampirebat_convo02_08",
+      "audioUrl": "audio/frank_match_start_frank_vampirebat_convo02_08.mp3",
+      "text": "Sure.",
+      "duration": 0.705
+    },
+    {
+      "order": 9,
+      "character": "Mina",
+      "audioFile": "vampirebat_match_start_frank_vampirebat_convo02_09",
+      "audioUrl": "audio/vampirebat_match_start_frank_vampirebat_convo02_09.mp3",
+      "text": "Really?",
+      "duration": 0.651
+    },
+    {
+      "order": 10,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_vampirebat_convo02_10",
+      "audioUrl": "audio/frank_match_start_frank_vampirebat_convo02_10.mp3",
+      "text": "Why not, what else am I gonna do?",
+      "duration": 1.771
+    }
+  ]
+}

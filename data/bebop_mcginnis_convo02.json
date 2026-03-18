@@ -1,0 +1,29 @@
+{
+  "id": "bebop_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_forge_convo02_01",
+      "audioUrl": "audio/bebop_match_start_bebop_forge_convo02_01.mp3",
+      "text": "Your commitment to ordinance is impressive McGinnis.",
+      "duration": 2.976
+    },
+    {
+      "order": 2,
+      "character": "Mcginnis",
+      "audioFile": "forge_match_start_bebop_forge_convo02_02",
+      "audioUrl": "audio/forge_match_start_bebop_forge_convo02_02.mp3",
+      "text": "I like blowing things up.",
+      "duration": 1.644
+    },
+    {
+      "order": 3,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_forge_convo02_03",
+      "audioUrl": "audio/bebop_match_start_bebop_forge_convo02_03.mp3",
+      "text": "Me too.",
+      "duration": 1.073
+    }
+  ]
+}

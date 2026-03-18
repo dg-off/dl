@@ -1,0 +1,61 @@
+{
+  "id": "haze_viscous_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_haze_viscous_convo02_01",
+      "audioUrl": "audio/viscous_match_start_haze_viscous_convo02_01.mp3",
+      "text": "You seem serious.",
+      "duration": 1.893
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_viscous_convo02_02",
+      "audioUrl": "audio/haze_match_start_haze_viscous_convo02_02.mp3",
+      "text": "I have a serious job.",
+      "duration": 2.234
+    },
+    {
+      "order": 3,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_haze_viscous_convo02_03",
+      "audioUrl": "audio/viscous_match_start_haze_viscous_convo02_03.mp3",
+      "text": "Do you ever have fun?",
+      "duration": 1.573
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_viscous_convo02_04",
+      "audioUrl": "audio/haze_match_start_haze_viscous_convo02_04.mp3",
+      "text": "Of course.",
+      "duration": 1.57
+    },
+    {
+      "order": 5,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_haze_viscous_convo02_05",
+      "audioUrl": "audio/viscous_match_start_haze_viscous_convo02_05.mp3",
+      "text": "What do you do?",
+      "duration": 1.196
+    },
+    {
+      "order": 6,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_viscous_convo02_06",
+      "audioUrl": "audio/haze_match_start_haze_viscous_convo02_06.mp3",
+      "text": "I play the cello.",
+      "duration": 1.935
+    },
+    {
+      "order": 7,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_haze_viscous_convo02_07",
+      "audioUrl": "audio/viscous_match_start_haze_viscous_convo02_07.mp3",
+      "text": "Neat!",
+      "duration": 1.142
+    }
+  ]
+}

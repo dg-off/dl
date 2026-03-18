@@ -1,0 +1,21 @@
+{
+  "id": "bebop_seven_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_gigawatt_convo03_01",
+      "audioUrl": "audio/bebop_match_start_bebop_gigawatt_convo03_01.mp3",
+      "text": "I got my eye on you Seven",
+      "duration": 2.239
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_bebop_gigawatt_convo03_02",
+      "audioUrl": "audio/gigawatt_match_start_bebop_gigawatt_convo03_02.mp3",
+      "text": "Bebop, you should be relieved, not suspicious.  Thanks to me your precious Ms Shelly has a chance to live out the rest of her pleasant yet unremarkable life.",
+      "duration": 8.363
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "haze_yamato_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_yamato_haze_convo02_01",
+      "audioUrl": "audio/haze_match_start_yamato_haze_convo02_01.mp3",
+      "text": "We're going to win today Yamato.  And when we do you'll use the patrons to make the 7th Moon strong.  But know this: we're watching you.",
+      "duration": 9.975
+    },
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_haze_convo02_02",
+      "audioUrl": "audio/yamato_match_start_yamato_haze_convo02_02.mp3",
+      "text": "I don't care.",
+      "duration": 1.746
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_yamato_haze_convo02_03",
+      "audioUrl": "audio/haze_match_start_yamato_haze_convo02_03.mp3",
+      "text": "If you step out of line you will.",
+      "duration": 3.189
+    }
+  ]
+}

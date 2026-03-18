@@ -1,0 +1,29 @@
+{
+  "id": "haze_holliday_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_astro_convo02_01",
+      "audioUrl": "audio/haze_match_start_haze_astro_convo02_01.mp3",
+      "text": "You don't have any issues working with the OSIC do you?",
+      "duration": 4.329
+    },
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_haze_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_haze_astro_convo02_02.mp3",
+      "text": "I'm happy to work with anyone who doesn't get in my way.",
+      "duration": 2.847
+    },
+    {
+      "order": 3,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_astro_convo02_03",
+      "audioUrl": "audio/haze_match_start_haze_astro_convo02_03.mp3",
+      "text": "Don't worry sheriff.  I think our partnership will be good for everyone\u2026",
+      "duration": 5.381
+    }
+  ]
+}

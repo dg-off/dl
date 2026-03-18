@@ -1,0 +1,21 @@
+{
+  "id": "seven_silver_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_gigawatt_convo02_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_gigawatt_convo02_01.mp3",
+      "text": "So should I be worried that you were sloppy enough to end up in Lost Whisper? Or glad that you're competent enough to escape?",
+      "duration": 7.511
+    },
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_werewolf_gigawatt_convo02_02",
+      "audioUrl": "audio/gigawatt_match_start_werewolf_gigawatt_convo02_02.mp3",
+      "text": "How charming.  What are you planning on asking the Patron for, Silver?  A new liver?",
+      "duration": 6.456
+    }
+  ]
+}

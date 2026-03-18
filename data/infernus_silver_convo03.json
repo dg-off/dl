@@ -1,0 +1,45 @@
+{
+  "id": "infernus_silver_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_inferno_convo03_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_inferno_convo03_01.mp3",
+      "text": "My hair's gonna get frizzy, isn't it?",
+      "duration": 2.209
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_werewolf_inferno_convo03_02",
+      "audioUrl": "audio/inferno_match_start_werewolf_inferno_convo03_02.mp3",
+      "text": "Not sure that should be your top concern.",
+      "duration": 2.146
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_inferno_convo03_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_inferno_convo03_03.mp3",
+      "text": "Never said it was a top concern, just acknowledging that you're not Mr. Constant Temperature.",
+      "duration": 5.087
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_werewolf_inferno_convo03_04",
+      "audioUrl": "audio/inferno_match_start_werewolf_inferno_convo03_04.mp3",
+      "text": "Least I'm not Seven.",
+      "duration": 1.486
+    },
+    {
+      "order": 5,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_inferno_convo03_05",
+      "audioUrl": "audio/werewolf_match_start_werewolf_inferno_convo03_05.mp3",
+      "text": "Yeah, that would be worse for a lot of reasons.",
+      "duration": 2.393
+    }
+  ]
+}

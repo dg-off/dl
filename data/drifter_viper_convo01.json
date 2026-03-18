@@ -1,0 +1,45 @@
+{
+  "id": "drifter_viper_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viper",
+      "audioFile": "viper_match_start_drifter_viper_convo01_01",
+      "audioUrl": "audio/viper_match_start_drifter_viper_convo01_01.mp3",
+      "text": "I can't believe I'm gonna get to murder people with you.",
+      "duration": 2.965
+    },
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_viper_convo01_02",
+      "audioUrl": "audio/drifter_match_start_drifter_viper_convo01_02.mp3",
+      "text": "I don't know if the rest of our team shares your exhuberance.",
+      "duration": 3.554
+    },
+    {
+      "order": 3,
+      "character": "Viper",
+      "audioFile": "viper_match_start_drifter_viper_convo01_03",
+      "audioUrl": "audio/viper_match_start_drifter_viper_convo01_03.mp3",
+      "text": "That\u2019s cause they never did time in OKC.  Buddy, you're a legend there, like bonafide boogeyman.  As far as I'm concerned this is like sitting next to motzart on the piano bench while he plays cannon in D.",
+      "duration": 12.632
+    },
+    {
+      "order": 4,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_viper_convo01_04",
+      "audioUrl": "audio/drifter_match_start_drifter_viper_convo01_04.mp3",
+      "text": "Pretty sure that was Pachelbel.",
+      "duration": 2.067
+    },
+    {
+      "order": 5,
+      "character": "Viper",
+      "audioFile": "viper_match_start_drifter_viper_convo01_05",
+      "audioUrl": "audio/viper_match_start_drifter_viper_convo01_05.mp3",
+      "text": "Him too.  Point still stands.",
+      "duration": 1.944
+    }
+  ]
+}

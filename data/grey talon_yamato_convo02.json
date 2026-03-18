@@ -1,0 +1,37 @@
+{
+  "id": "grey talon_yamato_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_orion_convo02_01",
+      "audioUrl": "audio/yamato_match_start_yamato_orion_convo02_01.mp3",
+      "text": "You're old.",
+      "duration": 1.138
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_yamato_orion_convo02_02",
+      "audioUrl": "audio/orion_match_start_yamato_orion_convo02_02.mp3",
+      "text": "How observant.",
+      "duration": 1.283
+    },
+    {
+      "order": 3,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_orion_convo02_03",
+      "audioUrl": "audio/yamato_match_start_yamato_orion_convo02_03.mp3",
+      "text": "That wasn't an insult.",
+      "duration": 1.601
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_yamato_orion_convo02_04",
+      "audioUrl": "audio/orion_match_start_yamato_orion_convo02_04.mp3",
+      "text": "Please accept my apology.",
+      "duration": 1.945
+    }
+  ]
+}

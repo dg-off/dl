@@ -1,0 +1,53 @@
+{
+  "id": "apollo_celeste_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_fencer_convo03_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_fencer_convo03_01.mp3",
+      "text": "I've never seen an 18-year-old look so serious.",
+      "duration": 3.171
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_unicorn_fencer_convo03_02",
+      "audioUrl": "audio/fencer_match_start_unicorn_fencer_convo03_02.mp3",
+      "text": "Most 18-year-olds aren't about to summon an Elder God.",
+      "duration": 3.206
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_fencer_convo03_03",
+      "audioUrl": "audio/unicorn_match_start_unicorn_fencer_convo03_03.mp3",
+      "text": "That's fair, but I bet you'd look the same if you were at the circus.",
+      "duration": 4.117
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_unicorn_fencer_convo03_04",
+      "audioUrl": "audio/fencer_match_start_unicorn_fencer_convo03_04.mp3",
+      "text": "I'd never waste my time going to the circus.",
+      "duration": 2.431
+    },
+    {
+      "order": 5,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_fencer_convo03_05",
+      "audioUrl": "audio/unicorn_match_start_unicorn_fencer_convo03_05.mp3",
+      "text": "You're missing out on life.",
+      "duration": 1.702
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_unicorn_fencer_convo03_06",
+      "audioUrl": "audio/fencer_match_start_unicorn_fencer_convo03_06.mp3",
+      "text": "No, I'm setting myself up to enjoy it.",
+      "duration": 2.98
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "dynamo_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_wraith_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_wraith_convo03_01.mp3",
+      "text": "Wraith, you're a killer, right?",
+      "duration": 1.166
+    },
+    {
+      "order": 2,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_dynamo_wraith_convo03_02",
+      "audioUrl": "audio/wraith_match_start_dynamo_wraith_convo03_02.mp3",
+      "text": "I mean I've killed people but it's not like a recreational thing for me.",
+      "duration": 4.101
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_wraith_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_wraith_convo03_03.mp3",
+      "text": "So yes.  Anyway: a profesional question for you -",
+      "duration": 3.863
+    },
+    {
+      "order": 4,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_dynamo_wraith_convo03_04",
+      "audioUrl": "audio/wraith_match_start_dynamo_wraith_convo03_04.mp3",
+      "text": "again, not a proffessional",
+      "duration": 2.041
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_wraith_convo03_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_wraith_convo03_05.mp3",
+      "text": "In your line of work do people end up dead",
+      "duration": 2.601
+    },
+    {
+      "order": 6,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_dynamo_wraith_convo03_06",
+      "audioUrl": "audio/wraith_match_start_dynamo_wraith_convo03_06.mp3",
+      "text": "Oh yeah",
+      "duration": 0.666
+    },
+    {
+      "order": 7,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_wraith_convo03_07",
+      "audioUrl": "audio/dynamo_match_start_dynamo_wraith_convo03_07.mp3",
+      "text": "Because of you.",
+      "duration": 1.364
+    },
+    {
+      "order": 8,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_dynamo_wraith_convo03_08",
+      "audioUrl": "audio/wraith_match_start_dynamo_wraith_convo03_08.mp3",
+      "text": "I am often adjacent, yes.",
+      "duration": 1.777
+    },
+    {
+      "order": 9,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_wraith_convo03_09",
+      "audioUrl": "audio/dynamo_match_start_dynamo_wraith_convo03_09.mp3",
+      "text": "Then close enough.  The point is if I hold someone in a black hole are you ok with shooting them.",
+      "duration": 3.773
+    },
+    {
+      "order": 10,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_dynamo_wraith_convo03_10",
+      "audioUrl": "audio/wraith_match_start_dynamo_wraith_convo03_10.mp3",
+      "text": "Honey, I got you covered don't worry.",
+      "duration": 1.971
+    }
+  ]
+}

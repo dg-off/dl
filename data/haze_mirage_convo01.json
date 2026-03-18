@@ -1,0 +1,21 @@
+{
+  "id": "haze_mirage_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_haze_mirage_convo01_01",
+      "audioUrl": "audio/mirage_match_start_haze_mirage_convo01_01.mp3",
+      "text": "Hopfully this is just the beginning of a partnership with your nation.",
+      "duration": 3.584
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_mirage_convo01_02",
+      "audioUrl": "audio/haze_match_start_haze_mirage_convo01_02.mp3",
+      "text": "I'm not a politician Mirage, my approval will neither help nor hinder the Djinn's chances of buying Wyoming.",
+      "duration": 6.894
+    }
+  ]
+}

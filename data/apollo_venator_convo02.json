@@ -1,0 +1,37 @@
+{
+  "id": "apollo_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_fencer_priest_convo02_01",
+      "audioUrl": "audio/priest_match_start_fencer_priest_convo02_01.mp3",
+      "text": "You don't trust me.",
+      "duration": 1.278
+    },
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_priest_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_priest_convo02_02.mp3",
+      "text": "Men like you call people like me demons, so no.  I don't trust you.",
+      "duration": 3.898
+    },
+    {
+      "order": 3,
+      "character": "Venator",
+      "audioFile": "priest_match_start_fencer_priest_convo02_03",
+      "audioUrl": "audio/priest_match_start_fencer_priest_convo02_03.mp3",
+      "text": "Young man, I don't care about the circumstances of your birth, I care about who you are.  I don't give a damn if you look like a monster\u2026. But if you act like one I will put you down.",
+      "duration": 10.568
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_priest_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_priest_convo02_04.mp3",
+      "text": "Yeah I definitely don't trust you.",
+      "duration": 2.118
+    }
+  ]
+}

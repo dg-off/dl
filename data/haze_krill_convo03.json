@@ -1,0 +1,37 @@
+{
+  "id": "haze_krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Krill",
+      "audioFile": "krill_match_start_haze_krill_convo03_01",
+      "audioUrl": "audio/krill_match_start_haze_krill_convo03_01.mp3",
+      "text": "Today doesn't end with us getting arrested, right",
+      "duration": 2.785
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_krill_convo03_02",
+      "audioUrl": "audio/haze_match_start_haze_krill_convo03_02.mp3",
+      "text": "You want me to spoil the surprise?",
+      "duration": 2.922
+    },
+    {
+      "order": 3,
+      "character": "Krill",
+      "audioFile": "krill_match_start_haze_krill_convo03_03",
+      "audioUrl": "audio/krill_match_start_haze_krill_convo03_03.mp3",
+      "text": "That's not funny.",
+      "duration": 1.814
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_krill_convo03_04",
+      "audioUrl": "audio/haze_match_start_haze_krill_convo03_04.mp3",
+      "text": "I'm hilarious.",
+      "duration": 2.268
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "dynamo_haze_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_haze_convo02_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_haze_convo02_01.mp3",
+      "text": "So you're in the Sandman Division.",
+      "duration": 1.858
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_dynamo_haze_convo02_02",
+      "audioUrl": "audio/haze_match_start_dynamo_haze_convo02_02.mp3",
+      "text": "Yes.",
+      "duration": 1.316
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_haze_convo02_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_haze_convo02_03.mp3",
+      "text": "Are there a lot of you?",
+      "duration": 1.046
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_dynamo_haze_convo02_04",
+      "audioUrl": "audio/haze_match_start_dynamo_haze_convo02_04.mp3",
+      "text": "Enough that we call ourselves a divison.",
+      "duration": 3.122
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_haze_convo02_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_haze_convo02_05.mp3",
+      "text": "That's a rather unsettling idea.",
+      "duration": 1.85
+    },
+    {
+      "order": 6,
+      "character": "Haze",
+      "audioFile": "haze_match_start_dynamo_haze_convo02_06",
+      "audioUrl": "audio/haze_match_start_dynamo_haze_convo02_06.mp3",
+      "text": "We like it that way.",
+      "duration": 2.022
+    }
+  ]
+}
