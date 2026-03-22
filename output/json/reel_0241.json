@@ -1,0 +1,99 @@
+{
+  "conversations": [
+    {
+      "conversationId": "grey talon_viscous_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_orion_viscous_convo03_01",
+          "audioUrl": "audio/viscous_match_start_orion_viscous_convo03_01.mp3",
+          "text": "At your fragile age I think you'll find the  cube to be quite helpful.",
+          "duration": 4.055
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_orion_viscous_convo03_02",
+          "audioUrl": "audio/orion_match_start_orion_viscous_convo03_02.mp3",
+          "text": "I'm not fragile.",
+          "duration": 1.354
+        },
+        {
+          "order": 3,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_orion_viscous_convo03_03",
+          "audioUrl": "audio/viscous_match_start_orion_viscous_convo03_03.mp3",
+          "text": "No, you are.  But you lie to yourself because you're a human.",
+          "duration": 4.004
+        }
+      ]
+    },
+    {
+      "conversationId": "grey talon_wraith_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_orion_wraith_convo01_01",
+          "audioUrl": "audio/wraith_match_start_orion_wraith_convo01_01.mp3",
+          "text": "Someone's looking serious.",
+          "duration": 1.589
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_orion_wraith_convo01_02",
+          "audioUrl": "audio/orion_match_start_orion_wraith_convo01_02.mp3",
+          "text": "Im not in the mood to chit chat.",
+          "duration": 1.754
+        },
+        {
+          "order": 3,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_orion_wraith_convo01_03",
+          "audioUrl": "audio/wraith_match_start_orion_wraith_convo01_03.mp3",
+          "text": "Suit yourself.",
+          "duration": 1.051
+        }
+      ]
+    },
+    {
+      "conversationId": "grey talon_wraith_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_orion_wraith_convo02_01",
+          "audioUrl": "audio/wraith_match_start_orion_wraith_convo02_01.mp3",
+          "text": "Are you as dangerous as they say?",
+          "duration": 1.824
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_orion_wraith_convo02_02",
+          "audioUrl": "audio/orion_match_start_orion_wraith_convo02_02.mp3",
+          "text": "What do they say?",
+          "duration": 1.047
+        },
+        {
+          "order": 3,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_orion_wraith_convo02_03",
+          "audioUrl": "audio/wraith_match_start_orion_wraith_convo02_03.mp3",
+          "text": "That when you retired you had more confirmed kills than anyone in The Baxter Society.",
+          "duration": 4.3
+        },
+        {
+          "order": 4,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_orion_wraith_convo02_04",
+          "audioUrl": "audio/orion_match_start_orion_wraith_convo02_04.mp3",
+          "text": "If that's all they're saying, I'm far more dangerous.",
+          "duration": 3.036
+        }
+      ]
+    }
+  ]
+}

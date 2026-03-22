@@ -1,0 +1,139 @@
+{
+  "conversations": [
+    {
+      "conversationId": "haze_infernus_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_inferno_convo01_01",
+          "audioUrl": "audio/haze_match_start_haze_inferno_convo01_01.mp3",
+          "text": "Those guardians won't be standing for long.",
+          "duration": 3.75
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_haze_inferno_convo01_02",
+          "audioUrl": "audio/inferno_match_start_haze_inferno_convo01_02.mp3",
+          "text": "No ma'am they won't be.",
+          "duration": 1.63
+        }
+      ]
+    },
+    {
+      "conversationId": "haze_infernus_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_inferno_convo02_01",
+          "audioUrl": "audio/haze_match_start_haze_inferno_convo02_01.mp3",
+          "text": "I would think a bartender would be a little more nervous.",
+          "duration": 3.829
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_haze_inferno_convo02_02",
+          "audioUrl": "audio/inferno_match_start_haze_inferno_convo02_02.mp3",
+          "text": "Wasn't always a bartender.",
+          "duration": 1.506
+        },
+        {
+          "order": 3,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_inferno_convo02_03",
+          "audioUrl": "audio/haze_match_start_haze_inferno_convo02_03.mp3",
+          "text": "Military?",
+          "duration": 1.71
+        },
+        {
+          "order": 4,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_haze_inferno_convo02_04",
+          "audioUrl": "audio/inferno_match_start_haze_inferno_convo02_04.mp3",
+          "text": "Mispent youth.",
+          "duration": 1.005
+        }
+      ]
+    },
+    {
+      "conversationId": "haze_infernus_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_haze_inferno_convo03_01",
+          "audioUrl": "audio/inferno_match_start_haze_inferno_convo03_01.mp3",
+          "text": "Haze, you got any friends in the Alchemy Bureau?",
+          "duration": 2.597
+        },
+        {
+          "order": 2,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_inferno_convo03_02",
+          "audioUrl": "audio/haze_match_start_haze_inferno_convo03_02.mp3",
+          "text": "That might be the first time somone asked me if I had friends.",
+          "duration": 4.534
+        },
+        {
+          "order": 3,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_haze_inferno_convo03_03",
+          "audioUrl": "audio/inferno_match_start_haze_inferno_convo03_03.mp3",
+          "text": "Do you?",
+          "duration": 0.704
+        },
+        {
+          "order": 4,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_inferno_convo03_04",
+          "audioUrl": "audio/haze_match_start_haze_inferno_convo03_04.mp3",
+          "text": "Have friends?  Of course.",
+          "duration": 3.059
+        },
+        {
+          "order": 5,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_haze_inferno_convo03_05",
+          "audioUrl": "audio/inferno_match_start_haze_inferno_convo03_05.mp3",
+          "text": "In the Alchemy Bureau.",
+          "duration": 1.216
+        },
+        {
+          "order": 6,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_inferno_convo03_06",
+          "audioUrl": "audio/haze_match_start_haze_inferno_convo03_06.mp3",
+          "text": "\"Friend\" would be pushing it, but I know someone.",
+          "duration": 4.334
+        },
+        {
+          "order": 7,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_haze_inferno_convo03_07",
+          "audioUrl": "audio/inferno_match_start_haze_inferno_convo03_07.mp3",
+          "text": "If the ritual goes bad, could you do me a favor?",
+          "duration": 2.267
+        },
+        {
+          "order": 8,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_inferno_convo03_08",
+          "audioUrl": "audio/haze_match_start_haze_inferno_convo03_08.mp3",
+          "text": "If the ritual goes bad, why would I want to?",
+          "duration": 3.798
+        },
+        {
+          "order": 9,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_haze_inferno_convo03_09",
+          "audioUrl": "audio/inferno_match_start_haze_inferno_convo03_09.mp3",
+          "text": "Forget it.",
+          "duration": 0.772
+        }
+      ]
+    }
+  ]
+}

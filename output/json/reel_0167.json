@@ -1,0 +1,131 @@
+{
+  "conversations": [
+    {
+      "conversationId": "grey talon_lady geist_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_ghost_orion_convo03_01",
+          "audioUrl": "audio/orion_match_start_ghost_orion_convo03_01.mp3",
+          "text": "You know, you're lucky.  If The Baxter Society knew about your arrangement with Oathkeeper they probably would have put you in the ground.",
+          "duration": 8.076
+        },
+        {
+          "order": 2,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_orion_convo03_02",
+          "audioUrl": "audio/ghost_match_start_ghost_orion_convo03_02.mp3",
+          "text": "Don't be dramatic, the Baxter Society hunts rampaging monsters; not spirits under lock and key.",
+          "duration": 6.6
+        },
+        {
+          "order": 3,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_ghost_orion_convo03_03",
+          "audioUrl": "audio/orion_match_start_ghost_orion_convo03_03.mp3",
+          "text": "Oathkeeper's not the rampaging monster.",
+          "duration": 2.665
+        }
+      ]
+    },
+    {
+      "conversationId": "lady geist_shiv_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_shiv_convo01_01",
+          "audioUrl": "audio/ghost_match_start_ghost_shiv_convo01_01.mp3",
+          "text": "After the ritual would you like to have a drink?",
+          "duration": 2.569
+        },
+        {
+          "order": 2,
+          "character": "Shiv",
+          "audioFile": "shiv_match_start_ghost_shiv_convo01_02",
+          "audioUrl": "audio/shiv_match_start_ghost_shiv_convo01_02.mp3",
+          "text": "I don't know, word on the street is that you're a dangerous woman to know.",
+          "duration": 4.573
+        },
+        {
+          "order": 3,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_shiv_convo01_03",
+          "audioUrl": "audio/ghost_match_start_ghost_shiv_convo01_03.mp3",
+          "text": "I'm a dangerous woman whether you know me or not.",
+          "duration": 3.011
+        },
+        {
+          "order": 4,
+          "character": "Shiv",
+          "audioFile": "shiv_match_start_ghost_shiv_convo01_04",
+          "audioUrl": "audio/shiv_match_start_ghost_shiv_convo01_04.mp3",
+          "text": "What bar?",
+          "duration": 1.09
+        },
+        {
+          "order": 5,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_shiv_convo01_05",
+          "audioUrl": "audio/ghost_match_start_ghost_shiv_convo01_05.mp3",
+          "text": "Jezebel's, assuming the barman's not dead.",
+          "duration": 2.962
+        },
+        {
+          "order": 6,
+          "character": "Shiv",
+          "audioFile": "shiv_match_start_ghost_shiv_convo01_06",
+          "audioUrl": "audio/shiv_match_start_ghost_shiv_convo01_06.mp3",
+          "text": "It\u2019s a date.",
+          "duration": 1.183
+        },
+        {
+          "order": 7,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_shiv_convo01_07",
+          "audioUrl": "audio/ghost_match_start_ghost_shiv_convo01_07.mp3",
+          "text": "Let's not get ahead of ourselves.",
+          "duration": 2.327
+        }
+      ]
+    },
+    {
+      "conversationId": "lady geist_shiv_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_shiv_convo02_01",
+          "audioUrl": "audio/ghost_match_start_ghost_shiv_convo02_01.mp3",
+          "text": "How long have you been with the Baxter's society?",
+          "duration": 3.021
+        },
+        {
+          "order": 2,
+          "character": "Shiv",
+          "audioFile": "shiv_match_start_ghost_shiv_convo02_02",
+          "audioUrl": "audio/shiv_match_start_ghost_shiv_convo02_02.mp3",
+          "text": "Not long.",
+          "duration": 1.11
+        },
+        {
+          "order": 3,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_shiv_convo02_03",
+          "audioUrl": "audio/ghost_match_start_ghost_shiv_convo02_03.mp3",
+          "text": "Oh great.  I'm paired with a rank ametuer.",
+          "duration": 3.248
+        },
+        {
+          "order": 4,
+          "character": "Shiv",
+          "audioFile": "shiv_match_start_ghost_shiv_convo02_04",
+          "audioUrl": "audio/shiv_match_start_ghost_shiv_convo02_04.mp3",
+          "text": "Just try to keep up Lady Geist.  I'll be accepting your apology later.",
+          "duration": 3.916
+        }
+      ]
+    }
+  ]
+}

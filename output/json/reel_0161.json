@@ -1,0 +1,91 @@
+{
+  "conversations": [
+    {
+      "conversationId": "lady geist_vindicta_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_hornet_convo03_01",
+          "audioUrl": "audio/ghost_match_start_ghost_hornet_convo03_01.mp3",
+          "text": "You're going to actually support me and not just fly away, right?",
+          "duration": 4.021
+        },
+        {
+          "order": 2,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_ghost_hornet_convo03_02",
+          "audioUrl": "audio/hornet_match_start_ghost_hornet_convo03_02.mp3",
+          "text": "If you want help, all you have to do is ask.",
+          "duration": 2.377
+        },
+        {
+          "order": 3,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_hornet_convo03_03",
+          "audioUrl": "audio/ghost_match_start_ghost_hornet_convo03_03.mp3",
+          "text": "This isn't the time to be smug, both of our futures are at stake.",
+          "duration": 4.115
+        }
+      ]
+    },
+    {
+      "conversationId": "infernus_lady geist_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_inferno_convo01_01",
+          "audioUrl": "audio/ghost_match_start_ghost_inferno_convo01_01.mp3",
+          "text": "I'm assuming there will be a celebration at Jezebel's after we win?",
+          "duration": 3.443
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_ghost_inferno_convo01_02",
+          "audioUrl": "audio/inferno_match_start_ghost_inferno_convo01_02.mp3",
+          "text": "You know it.",
+          "duration": 0.89
+        }
+      ]
+    },
+    {
+      "conversationId": "infernus_lady geist_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_inferno_convo02_01",
+          "audioUrl": "audio/ghost_match_start_ghost_inferno_convo02_01.mp3",
+          "text": "How's Hank?",
+          "duration": 1.121
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_ghost_inferno_convo02_02",
+          "audioUrl": "audio/inferno_match_start_ghost_inferno_convo02_02.mp3",
+          "text": "He's nervous.  The bar's not pulling in what it used to and he's got a bunch of issues with The Alchemy Beuaru.",
+          "duration": 5.509
+        },
+        {
+          "order": 3,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_ghost_inferno_convo02_03",
+          "audioUrl": "audio/ghost_match_start_ghost_inferno_convo02_03.mp3",
+          "text": "Anything I can do to help?",
+          "duration": 1.87
+        },
+        {
+          "order": 4,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_ghost_inferno_convo02_04",
+          "audioUrl": "audio/inferno_match_start_ghost_inferno_convo02_04.mp3",
+          "text": "You're doing it right now.",
+          "duration": 1.287
+        }
+      ]
+    }
+  ]
+}

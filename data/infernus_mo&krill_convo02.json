@@ -1,0 +1,37 @@
+{
+  "id": "infernus_mo&krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_krill_convo02_01",
+      "audioUrl": "audio/inferno_match_start_inferno_krill_convo02_01.mp3",
+      "text": "How are you guys doing?",
+      "duration": 1.081
+    },
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_inferno_krill_convo02_02",
+      "audioUrl": "audio/krill_match_start_inferno_krill_convo02_02.mp3",
+      "text": "Not bad.  Work is interesting and violent, I'm 31 chapters into my memoir, momo's trying his paws at pottery.",
+      "duration": 8.363
+    },
+    {
+      "order": 3,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_krill_convo02_03",
+      "audioUrl": "audio/inferno_match_start_inferno_krill_convo02_03.mp3",
+      "text": "Memoir?",
+      "duration": 0.892
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_inferno_krill_convo02_04",
+      "audioUrl": "audio/krill_match_start_inferno_krill_convo02_04.mp3",
+      "text": "My friend, if I died before I got to tell the world of our adventures it would be a far greater crime than any we've committed,",
+      "duration": 7.912
+    }
+  ]
+}

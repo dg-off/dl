@@ -1,0 +1,45 @@
+{
+  "id": "lady geist_mo&krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_ghost_krill_convo03_01",
+      "audioUrl": "audio/krill_match_start_ghost_krill_convo03_01.mp3",
+      "text": "It's nice to meet you Lady Geist",
+      "duration": 2.335
+    },
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_krill_convo03_02",
+      "audioUrl": "audio/ghost_match_start_ghost_krill_convo03_02.mp3",
+      "text": "Ugh, it talks.",
+      "duration": 2.216
+    },
+    {
+      "order": 3,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_ghost_krill_convo03_03",
+      "audioUrl": "audio/krill_match_start_ghost_krill_convo03_03.mp3",
+      "text": "It does.  It also plays a critical role in your survival so perhaps we should try that again.  It's nice to meet you Lady Geist.",
+      "duration": 9.973
+    },
+    {
+      "order": 4,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_krill_convo03_04",
+      "audioUrl": "audio/ghost_match_start_ghost_krill_convo03_04.mp3",
+      "text": "Hello.",
+      "duration": 1.134
+    },
+    {
+      "order": 5,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_ghost_krill_convo03_05",
+      "audioUrl": "audio/krill_match_start_ghost_krill_convo03_05.mp3",
+      "text": "And so our friendship begins.",
+      "duration": 2.899
+    }
+  ]
+}

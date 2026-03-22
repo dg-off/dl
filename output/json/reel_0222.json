@@ -1,0 +1,115 @@
+{
+  "conversations": [
+    {
+      "conversationId": "grey talon_kelvin_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_kelvin_orion_convo01_01",
+          "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo01_01.mp3",
+          "text": "All that rage wont bring your family back.",
+          "duration": 3.265
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_kelvin_orion_convo01_02",
+          "audioUrl": "audio/orion_match_start_kelvin_orion_convo01_02.mp3",
+          "text": "You don't know me.  You don't know my family.  And I'm willing to bet you don't know what real loss feels like.  So kindly keep your dime store platitudes to yourself.",
+          "duration": 11.441
+        }
+      ]
+    },
+    {
+      "conversationId": "grey talon_kelvin_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_kelvin_orion_convo02_01",
+          "audioUrl": "audio/orion_match_start_kelvin_orion_convo02_01.mp3",
+          "text": "Trap them in your ice dome and leave the rest to me.",
+          "duration": 3.026
+        },
+        {
+          "order": 2,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_kelvin_orion_convo02_02",
+          "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo02_02.mp3",
+          "text": "I create shelter for those in need of aid.",
+          "duration": 3.27
+        },
+        {
+          "order": 3,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_kelvin_orion_convo02_03",
+          "audioUrl": "audio/orion_match_start_kelvin_orion_convo02_03.mp3",
+          "text": "Today you create a killing floor for me, do you understand?",
+          "duration": 3.746
+        },
+        {
+          "order": 4,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_kelvin_orion_convo02_04",
+          "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo02_04.mp3",
+          "text": "Talon, I-",
+          "duration": 1.247
+        },
+        {
+          "order": 5,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_kelvin_orion_convo02_05",
+          "audioUrl": "audio/orion_match_start_kelvin_orion_convo02_05.mp3",
+          "text": "Do. You. Understand.",
+          "duration": 3.206
+        },
+        {
+          "order": 6,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_kelvin_orion_convo02_06",
+          "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo02_06.mp3",
+          "text": "Yes.",
+          "duration": 1.287
+        }
+      ]
+    },
+    {
+      "conversationId": "grey talon_kelvin_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_kelvin_orion_convo03_01",
+          "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo03_01.mp3",
+          "text": "The Baxter Society has done a lot of good.",
+          "duration": 2.989
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_kelvin_orion_convo03_02",
+          "audioUrl": "audio/orion_match_start_kelvin_orion_convo03_02.mp3",
+          "text": "It has.",
+          "duration": 0.731
+        },
+        {
+          "order": 3,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_kelvin_orion_convo03_03",
+          "audioUrl": "audio/kelvin_match_start_kelvin_orion_convo03_03.mp3",
+          "text": "Don't sully it's name.",
+          "duration": 2.078
+        },
+        {
+          "order": 4,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_kelvin_orion_convo03_04",
+          "audioUrl": "audio/orion_match_start_kelvin_orion_convo03_04.mp3",
+          "text": "I built it's name.  And the reputation of monster hunters is the least of my concern.",
+          "duration": 6.094
+        }
+      ]
+    }
+  ]
+}

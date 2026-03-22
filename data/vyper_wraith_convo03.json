@@ -1,0 +1,37 @@
+{
+  "id": "vyper_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_wraith_convo03_01",
+      "audioUrl": "audio/viper_match_start_viper_wraith_convo03_01.mp3",
+      "text": "You wanna bet on how many bullets we go through?",
+      "duration": 3.063
+    },
+    {
+      "order": 2,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_viper_wraith_convo03_02",
+      "audioUrl": "audio/wraith_match_start_viper_wraith_convo03_02.mp3",
+      "text": "Obviously.  How much you wanna wager? A thousand?",
+      "duration": 3.034
+    },
+    {
+      "order": 3,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_wraith_convo03_03",
+      "audioUrl": "audio/viper_match_start_viper_wraith_convo03_03.mp3",
+      "text": "Thousand sounds great.  Hey Wraith, can I borrow a thousand bucks?",
+      "duration": 3.383
+    },
+    {
+      "order": 4,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_viper_wraith_convo03_04",
+      "audioUrl": "audio/wraith_match_start_viper_wraith_convo03_04.mp3",
+      "text": "<sigh>",
+      "duration": 1.267
+    }
+  ]
+}

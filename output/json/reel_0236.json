@@ -1,0 +1,139 @@
+{
+  "conversations": [
+    {
+      "conversationId": "calico_vyper_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_nano_convo03_01",
+          "audioUrl": "audio/viper_match_start_viper_nano_convo03_01.mp3",
+          "text": "3 bucks for your cat.",
+          "duration": 1.202
+        },
+        {
+          "order": 2,
+          "character": "Calico",
+          "audioFile": "nano_match_start_viper_nano_convo03_02",
+          "audioUrl": "audio/nano_match_start_viper_nano_convo03_02.mp3",
+          "text": "She's not for sale.",
+          "duration": 1.099
+        },
+        {
+          "order": 3,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_nano_convo03_03",
+          "audioUrl": "audio/viper_match_start_viper_nano_convo03_03.mp3",
+          "text": "Tell ya what, I'll bump it up to a crisp lincoln.",
+          "duration": 2.074
+        },
+        {
+          "order": 4,
+          "character": "Calico",
+          "audioFile": "nano_match_start_viper_nano_convo03_04",
+          "audioUrl": "audio/nano_match_start_viper_nano_convo03_04.mp3",
+          "text": "Vyper, there are some who may find your pathetic nature endearing.  I am not one of them.  So let me lay down ground rules.  If you touch my cat, I'll take your hand.  If you hurt my cat, I'll kill you.  And if for some pruno addled reason you decide that it's a good idea to steal my cat, you will pray for a death that will not come.",
+          "duration": 17.639
+        },
+        {
+          "order": 5,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_nano_convo03_05",
+          "audioUrl": "audio/viper_match_start_viper_nano_convo03_05.mp3",
+          "text": "I like the way you threaten people C, we're gonna be best friends I can tell.",
+          "duration": 4.893
+        }
+      ]
+    },
+    {
+      "conversationId": "graves_venator_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Venator",
+          "audioFile": "priest_match_start_necro_priest_convo01_01",
+          "audioUrl": "audio/priest_match_start_necro_priest_convo01_01.mp3",
+          "text": "You're in over your head child",
+          "duration": 2.033
+        },
+        {
+          "order": 2,
+          "character": "Graves",
+          "audioFile": "necro_match_start_necro_priest_convo01_02",
+          "audioUrl": "audio/necro_match_start_necro_priest_convo01_02.mp3",
+          "text": "I get that a lot",
+          "duration": 1.106
+        },
+        {
+          "order": 3,
+          "character": "Venator",
+          "audioFile": "priest_match_start_necro_priest_convo01_03",
+          "audioUrl": "audio/priest_match_start_necro_priest_convo01_03.mp3",
+          "text": "Give me the lich hand",
+          "duration": 1.519
+        },
+        {
+          "order": 4,
+          "character": "Graves",
+          "audioFile": "necro_match_start_necro_priest_convo01_04",
+          "audioUrl": "audio/necro_match_start_necro_priest_convo01_04.mp3",
+          "text": "Not happening",
+          "duration": 0.897
+        },
+        {
+          "order": 5,
+          "character": "Venator",
+          "audioFile": "priest_match_start_necro_priest_convo01_05",
+          "audioUrl": "audio/priest_match_start_necro_priest_convo01_05.mp3",
+          "text": "You will regret your choice",
+          "duration": 2.236
+        },
+        {
+          "order": 6,
+          "character": "Graves",
+          "audioFile": "necro_match_start_necro_priest_convo01_06",
+          "audioUrl": "audio/necro_match_start_necro_priest_convo01_06.mp3",
+          "text": "Believe me father, I already regret meeting you.",
+          "duration": 2.656
+        }
+      ]
+    },
+    {
+      "conversationId": "graves_venator_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Graves",
+          "audioFile": "necro_match_start_necro_priest_convo02_01",
+          "audioUrl": "audio/necro_match_start_necro_priest_convo02_01.mp3",
+          "text": "What kind of priest carries a gun",
+          "duration": 1.855
+        },
+        {
+          "order": 2,
+          "character": "Venator",
+          "audioFile": "priest_match_start_necro_priest_convo02_02",
+          "audioUrl": "audio/priest_match_start_necro_priest_convo02_02.mp3",
+          "text": "One that's about to go to war.  What kind of child traffics with the dead?",
+          "duration": 4.225
+        },
+        {
+          "order": 3,
+          "character": "Graves",
+          "audioFile": "necro_match_start_necro_priest_convo02_03",
+          "audioUrl": "audio/necro_match_start_necro_priest_convo02_03.mp3",
+          "text": "One that - ugh I don't do purple prose. I do.  I traffic with the dead.   If you have a problem with that  you shouldn't be here.",
+          "duration": 7.245
+        },
+        {
+          "order": 4,
+          "character": "Venator",
+          "audioFile": "priest_match_start_necro_priest_convo02_04",
+          "audioUrl": "audio/priest_match_start_necro_priest_convo02_04.mp3",
+          "text": "No problem at all lass.",
+          "duration": 1.867
+        }
+      ]
+    }
+  ]
+}

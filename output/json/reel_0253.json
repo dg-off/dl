@@ -1,0 +1,123 @@
+{
+  "conversations": [
+    {
+      "conversationId": "celeste_silver_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_werewolf_convo02_01",
+          "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo02_01.mp3",
+          "text": "What are ya doing after the ritual?",
+          "duration": 1.873
+        },
+        {
+          "order": 2,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_unicorn_werewolf_convo02_02",
+          "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo02_02.mp3",
+          "text": "Hittin' a bar.",
+          "duration": 1.103
+        },
+        {
+          "order": 3,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_werewolf_convo02_03",
+          "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo02_03.mp3",
+          "text": "Want some company?",
+          "duration": 1.274
+        },
+        {
+          "order": 4,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_unicorn_werewolf_convo02_04",
+          "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo02_04.mp3",
+          "text": "I wouldn't say no.",
+          "duration": 1.678
+        },
+        {
+          "order": 5,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_werewolf_convo02_05",
+          "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo02_05.mp3",
+          "text": "Then lets have some fun.",
+          "duration": 1.535
+        }
+      ]
+    },
+    {
+      "conversationId": "celeste_silver_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_werewolf_convo03_01",
+          "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo03_01.mp3",
+          "text": "Well don't we look like trouble.",
+          "duration": 2.603
+        },
+        {
+          "order": 2,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_unicorn_werewolf_convo03_02",
+          "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo03_02.mp3",
+          "text": "I look like trouble. You look like a fairytale princess taking a smoke break.",
+          "duration": 4.955
+        },
+        {
+          "order": 3,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_werewolf_convo03_03",
+          "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo03_03.mp3",
+          "text": "Isn't that the same thing.",
+          "duration": 1.491
+        },
+        {
+          "order": 4,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_unicorn_werewolf_convo03_04",
+          "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo03_04.mp3",
+          "text": "Not even close.",
+          "duration": 1.637
+        }
+      ]
+    },
+    {
+      "conversationId": "vyper_wraith_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_viper_wraith_convo01_01",
+          "audioUrl": "audio/wraith_match_start_viper_wraith_convo01_01.mp3",
+          "text": "Heard you shanked Molly.",
+          "duration": 1.383
+        },
+        {
+          "order": 2,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_wraith_convo01_02",
+          "audioUrl": "audio/viper_match_start_viper_wraith_convo01_02.mp3",
+          "text": "Molenzo? No. Who said that, whydidja ask, she a friend of yours, I never knew she was a friend of yours",
+          "duration": 4.47
+        },
+        {
+          "order": 3,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_viper_wraith_convo01_03",
+          "audioUrl": "audio/wraith_match_start_viper_wraith_convo01_03.mp3",
+          "text": "Shes not.",
+          "duration": 0.894
+        },
+        {
+          "order": 4,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_wraith_convo01_04",
+          "audioUrl": "audio/viper_match_start_viper_wraith_convo01_04.mp3",
+          "text": "Cool, yeah I stabbed the hell outta her, not a fan.",
+          "duration": 2.695
+        }
+      ]
+    }
+  ]
+}

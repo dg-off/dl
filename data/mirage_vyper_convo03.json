@@ -1,0 +1,53 @@
+{
+  "id": "mirage_vyper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_mirage_convo03_01",
+      "audioUrl": "audio/viper_match_start_viper_mirage_convo03_01.mp3",
+      "text": "Heard the Djinn want Wyoming.",
+      "duration": 2.064
+    },
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_viper_mirage_convo03_02",
+      "audioUrl": "audio/mirage_match_start_viper_mirage_convo03_02.mp3",
+      "text": "It seemed like the most sensible place for them build a new home.",
+      "duration": 3.596
+    },
+    {
+      "order": 3,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_mirage_convo03_03",
+      "audioUrl": "audio/viper_match_start_viper_mirage_convo03_03.mp3",
+      "text": "You're only saying that because you've never experienced the majesty of dekalb.",
+      "duration": 4.202
+    },
+    {
+      "order": 4,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_viper_mirage_convo03_04",
+      "audioUrl": "audio/mirage_match_start_viper_mirage_convo03_04.mp3",
+      "text": "\"Dekalb\".",
+      "duration": 1.34
+    },
+    {
+      "order": 5,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_mirage_convo03_05",
+      "audioUrl": "audio/viper_match_start_viper_mirage_convo03_05.mp3",
+      "text": "It'll grab your heart and never let go.",
+      "duration": 2.727
+    },
+    {
+      "order": 6,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_viper_mirage_convo03_06",
+      "audioUrl": "audio/mirage_match_start_viper_mirage_convo03_06.mp3",
+      "text": "I will look into this place.",
+      "duration": 1.666
+    }
+  ]
+}

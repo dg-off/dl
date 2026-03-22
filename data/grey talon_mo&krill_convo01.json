@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_mo&krill_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_orion_convo01_01",
+      "audioUrl": "audio/krill_match_start_krill_orion_convo01_01.mp3",
+      "text": "You're the man making life hell for the friends of humanity, yes?",
+      "duration": 3.779
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_krill_orion_convo01_02",
+      "audioUrl": "audio/orion_match_start_krill_orion_convo01_02.mp3",
+      "text": "I am.",
+      "duration": 0.752
+    },
+    {
+      "order": 3,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_orion_convo01_03",
+      "audioUrl": "audio/krill_match_start_krill_orion_convo01_03.mp3",
+      "text": "Thank you.",
+      "duration": 1.457
+    }
+  ]
+}

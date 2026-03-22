@@ -1,0 +1,61 @@
+{
+  "id": "mo&krill_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_krill_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_krill_convo02_01.mp3",
+      "text": "Gentlemen, a word?",
+      "duration": 1.534
+    },
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_gigawatt_krill_convo02_02",
+      "audioUrl": "audio/krill_match_start_gigawatt_krill_convo02_02.mp3",
+      "text": "What is it Seven?",
+      "duration": 1.38
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_krill_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_krill_convo02_03.mp3",
+      "text": "After the ritual, I have some particular needs in regards to new tunnels\u2026",
+      "duration": 5.488
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_gigawatt_krill_convo02_04",
+      "audioUrl": "audio/krill_match_start_gigawatt_krill_convo02_04.mp3",
+      "text": "Is the OSIC still looking for you?",
+      "duration": 2.592
+    },
+    {
+      "order": 5,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_krill_convo02_05",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_krill_convo02_05.mp3",
+      "text": "If they weren't I wouldn't have particular needs in regards to new tunnels.",
+      "duration": 5.25
+    },
+    {
+      "order": 6,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_gigawatt_krill_convo02_06",
+      "audioUrl": "audio/krill_match_start_gigawatt_krill_convo02_06.mp3",
+      "text": "We can help, but the rate will be higher",
+      "duration": 4.22
+    },
+    {
+      "order": 7,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_gigawatt_krill_convo02_07",
+      "audioUrl": "audio/gigawatt_match_start_gigawatt_krill_convo02_07.mp3",
+      "text": "I expected nothing less.",
+      "duration": 1.825
+    }
+  ]
+}

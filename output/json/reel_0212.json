@@ -1,0 +1,155 @@
+{
+  "conversations": [
+    {
+      "conversationId": "infernus_mo&krill_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Mo&krill",
+          "audioFile": "krill_match_start_inferno_krill_convo03_01",
+          "audioUrl": "audio/krill_match_start_inferno_krill_convo03_01.mp3",
+          "text": "You look good Fern.",
+          "duration": 1.595
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_krill_convo03_02",
+          "audioUrl": "audio/inferno_match_start_inferno_krill_convo03_02.mp3",
+          "text": "Thanks.",
+          "duration": 0.802
+        },
+        {
+          "order": 3,
+          "character": "Mo&krill",
+          "audioFile": "krill_match_start_inferno_krill_convo03_03",
+          "audioUrl": "audio/krill_match_start_inferno_krill_convo03_03.mp3",
+          "text": "How's Hank doing?  I heard the bar is going through a\u2026transitional period.",
+          "duration": 5.782
+        },
+        {
+          "order": 4,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_krill_convo03_04",
+          "audioUrl": "audio/inferno_match_start_inferno_krill_convo03_04.mp3",
+          "text": "He's nervous, but Jezebel's an institution, we won't let it close without a fight.",
+          "duration": 5.048
+        },
+        {
+          "order": 5,
+          "character": "Mo&krill",
+          "audioFile": "krill_match_start_inferno_krill_convo03_05",
+          "audioUrl": "audio/krill_match_start_inferno_krill_convo03_05.mp3",
+          "text": "If there's anything we can do, let us know.",
+          "duration": 3.494
+        },
+        {
+          "order": 6,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_krill_convo03_06",
+          "audioUrl": "audio/inferno_match_start_inferno_krill_convo03_06.mp3",
+          "text": "You're already doing it brother.",
+          "duration": 1.497
+        }
+      ]
+    },
+    {
+      "conversationId": "infernus_viscous_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_inferno_viscous_convo01_01",
+          "audioUrl": "audio/viscous_match_start_inferno_viscous_convo01_01.mp3",
+          "text": "Do you always dress fancy or is it just for work?",
+          "duration": 3.339
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_viscous_convo01_02",
+          "audioUrl": "audio/inferno_match_start_inferno_viscous_convo01_02.mp3",
+          "text": "Look good feel good, baby.",
+          "duration": 2.029
+        },
+        {
+          "order": 3,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_inferno_viscous_convo01_03",
+          "audioUrl": "audio/viscous_match_start_inferno_viscous_convo01_03.mp3",
+          "text": "I need a tie.",
+          "duration": 1.586
+        },
+        {
+          "order": 4,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_viscous_convo01_04",
+          "audioUrl": "audio/inferno_match_start_inferno_viscous_convo01_04.mp3",
+          "text": "You're goddamn right you do.",
+          "duration": 1.324
+        }
+      ]
+    },
+    {
+      "conversationId": "infernus_viscous_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_viscous_convo02_01",
+          "audioUrl": "audio/inferno_match_start_inferno_viscous_convo02_01.mp3",
+          "text": "How you liking New York?",
+          "duration": 1.313
+        },
+        {
+          "order": 2,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_inferno_viscous_convo02_02",
+          "audioUrl": "audio/viscous_match_start_inferno_viscous_convo02_02.mp3",
+          "text": "People watching is fun.",
+          "duration": 1.895
+        },
+        {
+          "order": 3,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_viscous_convo02_03",
+          "audioUrl": "audio/inferno_match_start_inferno_viscous_convo02_03.mp3",
+          "text": "You should stop by Jezebel's sometime, if you like people watching you'll see all types there.",
+          "duration": 5.092
+        },
+        {
+          "order": 4,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_inferno_viscous_convo02_04",
+          "audioUrl": "audio/viscous_match_start_inferno_viscous_convo02_04.mp3",
+          "text": "What's that?",
+          "duration": 1.09
+        },
+        {
+          "order": 5,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_viscous_convo02_05",
+          "audioUrl": "audio/inferno_match_start_inferno_viscous_convo02_05.mp3",
+          "text": "The bar my buddy Hank owns",
+          "duration": 1.529
+        },
+        {
+          "order": 6,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_inferno_viscous_convo02_06",
+          "audioUrl": "audio/viscous_match_start_inferno_viscous_convo02_06.mp3",
+          "text": "Why isn't it called Hank's?",
+          "duration": 2.558
+        },
+        {
+          "order": 7,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_inferno_viscous_convo02_07",
+          "audioUrl": "audio/inferno_match_start_inferno_viscous_convo02_07.mp3",
+          "text": "Long story.  I'll tell you later.",
+          "duration": 2.155
+        }
+      ]
+    }
+  ]
+}

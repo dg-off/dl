@@ -1,0 +1,69 @@
+{
+  "id": "dynamo_mo&krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_krill_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo03_01.mp3",
+      "text": "Gentlemen, you're both well connected individuals right?",
+      "duration": 2.861
+    },
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_dynamo_krill_convo03_02",
+      "audioUrl": "audio/krill_match_start_dynamo_krill_convo03_02.mp3",
+      "text": "We have lived quite the life, yes.",
+      "duration": 2.513
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_krill_convo03_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo03_03.mp3",
+      "text": "My anniversary is coming  up and I was really hoping to get Marla something special.",
+      "duration": 4.465
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_dynamo_krill_convo03_04",
+      "audioUrl": "audio/krill_match_start_dynamo_krill_convo03_04.mp3",
+      "text": "What are you thinking? Jewels, fine art, Ixian trickets?",
+      "duration": 4.367
+    },
+    {
+      "order": 5,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_krill_convo03_05",
+      "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo03_05.mp3",
+      "text": "She's a big reader so I was thinking a rare book.",
+      "duration": 3.624
+    },
+    {
+      "order": 6,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_dynamo_krill_convo03_06",
+      "audioUrl": "audio/krill_match_start_dynamo_krill_convo03_06.mp3",
+      "text": "My friend, what if I told you I knew someone looking to move a first edition Don Quixote",
+      "duration": 5.464
+    },
+    {
+      "order": 7,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_krill_convo03_07",
+      "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo03_07.mp3",
+      "text": "I would be very excited, then remind you that I have a teacher's salary.",
+      "duration": 4.248
+    },
+    {
+      "order": 8,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_dynamo_krill_convo03_08",
+      "audioUrl": "audio/krill_match_start_dynamo_krill_convo03_08.mp3",
+      "text": "That does make it a challenge, but one I gladly accept.  I will find you options.",
+      "duration": 6.062
+    }
+  ]
+}

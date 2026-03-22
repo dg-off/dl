@@ -1,0 +1,147 @@
+{
+  "conversations": [
+    {
+      "conversationId": "apollo_graves_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Apollo",
+          "audioFile": "fencer_match_start_fencer_necro_convo02_01",
+          "audioUrl": "audio/fencer_match_start_fencer_necro_convo02_01.mp3",
+          "text": "You weren't in class yesterday.",
+          "duration": 1.548
+        },
+        {
+          "order": 2,
+          "character": "Graves",
+          "audioFile": "necro_match_start_fencer_necro_convo02_02",
+          "audioUrl": "audio/necro_match_start_fencer_necro_convo02_02.mp3",
+          "text": "You noticed?",
+          "duration": 0.939
+        },
+        {
+          "order": 3,
+          "character": "Apollo",
+          "audioFile": "fencer_match_start_fencer_necro_convo02_03",
+          "audioUrl": "audio/fencer_match_start_fencer_necro_convo02_03.mp3",
+          "text": "I notice everything.  Were you sick?",
+          "duration": 2.491
+        },
+        {
+          "order": 4,
+          "character": "Graves",
+          "audioFile": "necro_match_start_fencer_necro_convo02_04",
+          "audioUrl": "audio/necro_match_start_fencer_necro_convo02_04.mp3",
+          "text": "Do you care?",
+          "duration": 0.876
+        },
+        {
+          "order": 5,
+          "character": "Apollo",
+          "audioFile": "fencer_match_start_fencer_necro_convo02_05",
+          "audioUrl": "audio/fencer_match_start_fencer_necro_convo02_05.mp3",
+          "text": "Of course I care.  It's hard for you fight if you have a high fever or food poisoning or whatever.",
+          "duration": 4.926
+        },
+        {
+          "order": 6,
+          "character": "Graves",
+          "audioFile": "necro_match_start_fencer_necro_convo02_06",
+          "audioUrl": "audio/necro_match_start_fencer_necro_convo02_06.mp3",
+          "text": "I was skipping class.  I'm fine.",
+          "duration": 1.681
+        },
+        {
+          "order": 7,
+          "character": "Apollo",
+          "audioFile": "fencer_match_start_fencer_necro_convo02_07",
+          "audioUrl": "audio/fencer_match_start_fencer_necro_convo02_07.mp3",
+          "text": "\"I'm fine.  Just undisciplined and negligent.\"",
+          "duration": 2.997
+        },
+        {
+          "order": 8,
+          "character": "Graves",
+          "audioFile": "necro_match_start_fencer_necro_convo02_08",
+          "audioUrl": "audio/necro_match_start_fencer_necro_convo02_08.mp3",
+          "text": "You're such a prick.",
+          "duration": 0.989
+        }
+      ]
+    },
+    {
+      "conversationId": "apollo_graves_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Graves",
+          "audioFile": "necro_match_start_fencer_necro_convo03_01",
+          "audioUrl": "audio/necro_match_start_fencer_necro_convo03_01.mp3",
+          "text": "You're dad's a warlord right?",
+          "duration": 1.403
+        },
+        {
+          "order": 2,
+          "character": "Apollo",
+          "audioFile": "fencer_match_start_fencer_necro_convo03_02",
+          "audioUrl": "audio/fencer_match_start_fencer_necro_convo03_02.mp3",
+          "text": "Kind of, yeah.",
+          "duration": 0.923
+        },
+        {
+          "order": 3,
+          "character": "Graves",
+          "audioFile": "necro_match_start_fencer_necro_convo03_03",
+          "audioUrl": "audio/necro_match_start_fencer_necro_convo03_03.mp3",
+          "text": "How is someone kind of a warlord?",
+          "duration": 2.277
+        },
+        {
+          "order": 4,
+          "character": "Apollo",
+          "audioFile": "fencer_match_start_fencer_necro_convo03_04",
+          "audioUrl": "audio/fencer_match_start_fencer_necro_convo03_04.mp3",
+          "text": "It's a cultural thing.  You don't have a word in English for someone who wields the power of a governor and a general the way we do in Ixia.",
+          "duration": 6.823
+        },
+        {
+          "order": 5,
+          "character": "Graves",
+          "audioFile": "necro_match_start_fencer_necro_convo03_05",
+          "audioUrl": "audio/necro_match_start_fencer_necro_convo03_05.mp3",
+          "text": "I mean we do.  It's warlord.",
+          "duration": 2.22
+        },
+        {
+          "order": 6,
+          "character": "Apollo",
+          "audioFile": "fencer_match_start_fencer_necro_convo03_06",
+          "audioUrl": "audio/fencer_match_start_fencer_necro_convo03_06.mp3",
+          "text": "I don't expect you to understand.",
+          "duration": 3.268
+        }
+      ]
+    },
+    {
+      "conversationId": "apollo_venator_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Venator",
+          "audioFile": "priest_match_start_fencer_priest_convo01_01",
+          "audioUrl": "audio/priest_match_start_fencer_priest_convo01_01.mp3",
+          "text": "You're the one destined for greatness, right?",
+          "duration": 2.356
+        },
+        {
+          "order": 2,
+          "character": "Apollo",
+          "audioFile": "fencer_match_start_fencer_priest_convo01_02",
+          "audioUrl": "audio/fencer_match_start_fencer_priest_convo01_02.mp3",
+          "text": "No.  I'm great now.   I'm just waiting for the world to catch up with the times so I can show it.",
+          "duration": 5.13
+        }
+      ]
+    }
+  ]
+}

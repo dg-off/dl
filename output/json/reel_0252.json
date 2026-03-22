@@ -1,0 +1,203 @@
+{
+  "conversations": [
+    {
+      "conversationId": "ivy_vyper_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo02_01",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo02_01.mp3",
+          "text": "Did Mendoza send you.",
+          "duration": 1.566
+        },
+        {
+          "order": 2,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo02_02",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo02_02.mp3",
+          "text": "Ivy, I don't work for Mendoza",
+          "duration": 1.932
+        },
+        {
+          "order": 3,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo02_03",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo02_03.mp3",
+          "text": "You killed 13 people for him!",
+          "duration": 2.376
+        },
+        {
+          "order": 4,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo02_04",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo02_04.mp3",
+          "text": "Allegedly",
+          "duration": 1.326
+        },
+        {
+          "order": 5,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo02_05",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo02_05.mp3",
+          "text": "You were convicted.",
+          "duration": 1.441
+        },
+        {
+          "order": 6,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo02_06",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo02_06.mp3",
+          "text": "Yeah of 13 counts.  The real number is way more impressive.",
+          "duration": 3.708
+        },
+        {
+          "order": 7,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo02_07",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo02_07.mp3",
+          "text": "I'm taking you to jail.",
+          "duration": 1.434
+        },
+        {
+          "order": 8,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo02_08",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo02_08.mp3",
+          "text": "You're the one wanting to talk shop, don't be mad at me.",
+          "duration": 2.969
+        }
+      ]
+    },
+    {
+      "conversationId": "ivy_vyper_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo03_01",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo03_01.mp3",
+          "text": "Well if it isn't the loyal pet of the Arroyos.",
+          "duration": 3.678
+        },
+        {
+          "order": 2,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo03_02",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo03_02.mp3",
+          "text": "Viper.  I see you managed not to get stabbed in prison.",
+          "duration": 3.953
+        },
+        {
+          "order": 3,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo03_03",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo03_03.mp3",
+          "text": "Oh no, they stabbed me, but you a can't keep a broad like me down.",
+          "duration": 4.595
+        },
+        {
+          "order": 4,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo03_04",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo03_04.mp3",
+          "text": "What do you want",
+          "duration": 1.096
+        },
+        {
+          "order": 5,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo03_05",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo03_05.mp3",
+          "text": "I just wanted to know how you feel about your sister working for Wraith.",
+          "duration": 3.129
+        },
+        {
+          "order": 6,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo03_06",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo03_06.mp3",
+          "text": "What are you talking about.",
+          "duration": 1.338
+        },
+        {
+          "order": 7,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo03_07",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo03_07.mp3",
+          "text": "Oh my god, you didn't know this is hilarious.",
+          "duration": 4.225
+        },
+        {
+          "order": 8,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo03_08",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo03_08.mp3",
+          "text": "What are you talking about, Viper",
+          "duration": 2.267
+        },
+        {
+          "order": 9,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo03_09",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo03_09.mp3",
+          "text": "Sorry I love hearing about family drama,  but I'm not inserting myself in it unless a will's invovled.  Let's uh, let's go shoot some people.",
+          "duration": 7.878
+        }
+      ]
+    },
+    {
+      "conversationId": "celeste_silver_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_werewolf_convo01_01",
+          "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo01_01.mp3",
+          "text": "Ya know, our last werewolf retired\u2026 we have an opening\u2026",
+          "duration": 3.424
+        },
+        {
+          "order": 2,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_unicorn_werewolf_convo01_02",
+          "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo01_02.mp3",
+          "text": "Why are you telling me?",
+          "duration": 1.368
+        },
+        {
+          "order": 3,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_werewolf_convo01_03",
+          "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo01_03.mp3",
+          "text": "So you could apply for the job.",
+          "duration": 2.064
+        },
+        {
+          "order": 4,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_unicorn_werewolf_convo01_04",
+          "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo01_04.mp3",
+          "text": "You think I want to work in a sideshow?",
+          "duration": 1.969
+        },
+        {
+          "order": 5,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_werewolf_convo01_05",
+          "audioUrl": "audio/unicorn_match_start_unicorn_werewolf_convo01_05.mp3",
+          "text": "Beats getting shot at.",
+          "duration": 1.494
+        },
+        {
+          "order": 6,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_unicorn_werewolf_convo01_06",
+          "audioUrl": "audio/werewolf_match_start_unicorn_werewolf_convo01_06.mp3",
+          "text": "Not so sure about that.",
+          "duration": 1.993
+        }
+      ]
+    }
+  ]
+}

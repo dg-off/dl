@@ -1,0 +1,53 @@
+{
+  "id": "lash_vyper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_lash_convo03_01",
+      "audioUrl": "audio/viper_match_start_viper_lash_convo03_01.mp3",
+      "text": "You get the letters I sent you when I was in jail?",
+      "duration": 2.418
+    },
+    {
+      "order": 2,
+      "character": "Lash",
+      "audioFile": "lash_match_start_viper_lash_convo03_02",
+      "audioUrl": "audio/lash_match_start_viper_lash_convo03_02.mp3",
+      "text": "Yeah they were\u2026 very specific",
+      "duration": 3.932
+    },
+    {
+      "order": 3,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_lash_convo03_03",
+      "audioUrl": "audio/viper_match_start_viper_lash_convo03_03.mp3",
+      "text": "Im sure you get a lot of fan mail so I wanted to make sure they stood out.",
+      "duration": 4.625
+    },
+    {
+      "order": 4,
+      "character": "Lash",
+      "audioFile": "lash_match_start_viper_lash_convo03_04",
+      "audioUrl": "audio/lash_match_start_viper_lash_convo03_04.mp3",
+      "text": "They did.",
+      "duration": 2.337
+    },
+    {
+      "order": 5,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_lash_convo03_05",
+      "audioUrl": "audio/viper_match_start_viper_lash_convo03_05.mp3",
+      "text": "Bet you never thought we'd actually meet though, huh",
+      "duration": 2.704
+    },
+    {
+      "order": 6,
+      "character": "Lash",
+      "audioFile": "lash_match_start_viper_lash_convo03_06",
+      "audioUrl": "audio/lash_match_start_viper_lash_convo03_06.mp3",
+      "text": "No\u2026 I uh\u2026 I really didn\u2019t",
+      "duration": 2.605
+    }
+  ]
+}

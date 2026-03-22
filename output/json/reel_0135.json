@@ -1,0 +1,187 @@
+{
+  "conversations": [
+    {
+      "conversationId": "celeste_rem_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_familiar_unicorn_convo03_01",
+          "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo03_01.mp3",
+          "text": "If you can't find your way home, you can stay with me for a while",
+          "duration": 3.299
+        },
+        {
+          "order": 2,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_unicorn_convo03_02",
+          "audioUrl": "audio/familiar_match_start_familiar_unicorn_convo03_02.mp3",
+          "text": "Really?",
+          "duration": 1.573
+        },
+        {
+          "order": 3,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_familiar_unicorn_convo03_03",
+          "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo03_03.mp3",
+          "text": "Yeah.  Folks like us need to stick together.",
+          "duration": 3.236
+        },
+        {
+          "order": 4,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_unicorn_convo03_04",
+          "audioUrl": "audio/familiar_match_start_familiar_unicorn_convo03_04.mp3",
+          "text": "Thank you.",
+          "duration": 1.583
+        }
+      ]
+    },
+    {
+      "conversationId": "rem_silver_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_werewolf_convo01_01",
+          "audioUrl": "audio/familiar_match_start_familiar_werewolf_convo01_01.mp3",
+          "text": "Can I use your jacket as a blanket?",
+          "duration": 3.106
+        },
+        {
+          "order": 2,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo01_02",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo01_02.mp3",
+          "text": "I mean, in general, sure, but not now.",
+          "duration": 2.841
+        },
+        {
+          "order": 3,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_werewolf_convo01_03",
+          "audioUrl": "audio/familiar_match_start_familiar_werewolf_convo01_03.mp3",
+          "text": "Why not?",
+          "duration": 1.79
+        },
+        {
+          "order": 4,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo01_04",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo01_04.mp3",
+          "text": "I'm wearing it.",
+          "duration": 1.037
+        },
+        {
+          "order": 5,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_werewolf_convo01_05",
+          "audioUrl": "audio/familiar_match_start_familiar_werewolf_convo01_05.mp3",
+          "text": "Take it off!",
+          "duration": 1.947
+        },
+        {
+          "order": 6,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo01_06",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo01_06.mp3",
+          "text": "No.",
+          "duration": 0.622
+        },
+        {
+          "order": 7,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_werewolf_convo01_07",
+          "audioUrl": "audio/familiar_match_start_familiar_werewolf_convo01_07.mp3",
+          "text": "But I want it!",
+          "duration": 2.184
+        },
+        {
+          "order": 8,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo01_08",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo01_08.mp3",
+          "text": "I don't care.",
+          "duration": 1.312
+        },
+        {
+          "order": 9,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_werewolf_convo01_09",
+          "audioUrl": "audio/familiar_match_start_familiar_werewolf_convo01_09.mp3",
+          "text": "You're mean.",
+          "duration": 2.029
+        },
+        {
+          "order": 10,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo01_10",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo01_10.mp3",
+          "text": "Yep.",
+          "duration": 0.909
+        }
+      ]
+    },
+    {
+      "conversationId": "rem_silver_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_werewolf_convo02_01",
+          "audioUrl": "audio/familiar_match_start_familiar_werewolf_convo02_01.mp3",
+          "text": "Can you help me?",
+          "duration": 2.143
+        },
+        {
+          "order": 2,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo02_02",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo02_02.mp3",
+          "text": "I don't know. Can you pay me?",
+          "duration": 2.036
+        },
+        {
+          "order": 2,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo02_02_alt_01",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo02_02_alt_01.mp3",
+          "text": "I don't know. Can you pay me?",
+          "duration": 2.213
+        },
+        {
+          "order": 3,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_werewolf_convo02_03",
+          "audioUrl": "audio/familiar_match_start_familiar_werewolf_convo02_03.mp3",
+          "text": "I can hug.",
+          "duration": 2.109
+        },
+        {
+          "order": 4,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo02_04",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo02_04.mp3",
+          "text": "I'm good.",
+          "duration": 0.822
+        },
+        {
+          "order": 5,
+          "character": "Rem",
+          "audioFile": "familiar_match_start_familiar_werewolf_convo02_05",
+          "audioUrl": "audio/familiar_match_start_familiar_werewolf_convo02_05.mp3",
+          "text": "<starts crying>",
+          "duration": 3.383
+        },
+        {
+          "order": 6,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_familiar_werewolf_convo02_06",
+          "audioUrl": "audio/werewolf_match_start_familiar_werewolf_convo02_06.mp3",
+          "text": "Okay, okay, I'll help! Jesus!",
+          "duration": 2.117
+        }
+      ]
+    }
+  ]
+}

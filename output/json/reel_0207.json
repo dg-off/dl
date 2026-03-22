@@ -1,0 +1,83 @@
+{
+  "conversations": [
+    {
+      "conversationId": "mo&krill_vindicta_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Mo&krill",
+          "audioFile": "krill_match_start_krill_hornet_convo01_01",
+          "audioUrl": "audio/krill_match_start_krill_hornet_convo01_01.mp3",
+          "text": "When we hold them down, you take the shot.",
+          "duration": 2.582
+        },
+        {
+          "order": 2,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_krill_hornet_convo01_02",
+          "audioUrl": "audio/hornet_match_start_krill_hornet_convo01_02.mp3",
+          "text": "Understood.",
+          "duration": 0.902
+        }
+      ]
+    },
+    {
+      "conversationId": "grey talon_vindicta_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_orion_hornet_convo01_01",
+          "audioUrl": "audio/hornet_match_start_orion_hornet_convo01_01.mp3",
+          "text": "This is our moment Wesley.",
+          "duration": 1.909
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_orion_hornet_convo01_02",
+          "audioUrl": "audio/orion_match_start_orion_hornet_convo01_02.mp3",
+          "text": "It is. And we won't squander it.",
+          "duration": 2.849
+        }
+      ]
+    },
+    {
+      "conversationId": "grey talon_vindicta_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_orion_hornet_convo02_01",
+          "audioUrl": "audio/hornet_match_start_orion_hornet_convo02_01.mp3",
+          "text": "If all goes well today this might be the last time we see each other.",
+          "duration": 3.541
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_orion_hornet_convo02_02",
+          "audioUrl": "audio/orion_match_start_orion_hornet_convo02_02.mp3",
+          "text": "I know.",
+          "duration": 0.821
+        },
+        {
+          "order": 3,
+          "character": "Vindicta",
+          "audioFile": "hornet_match_start_orion_hornet_convo02_03",
+          "audioUrl": "audio/hornet_match_start_orion_hornet_convo02_03.mp3",
+          "text": "That makes me sad.",
+          "duration": 1.219
+        },
+        {
+          "order": 4,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_orion_hornet_convo02_04",
+          "audioUrl": "audio/orion_match_start_orion_hornet_convo02_04.mp3",
+          "text": "Me too.",
+          "duration": 0.763
+        }
+      ]
+    }
+  ]
+}

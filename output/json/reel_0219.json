@@ -1,0 +1,115 @@
+{
+  "conversations": [
+    {
+      "conversationId": "infernus_silver_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_werewolf_inferno_convo03_01",
+          "audioUrl": "audio/werewolf_match_start_werewolf_inferno_convo03_01.mp3",
+          "text": "My hair's gonna get frizzy, isn't it?",
+          "duration": 2.209
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_werewolf_inferno_convo03_02",
+          "audioUrl": "audio/inferno_match_start_werewolf_inferno_convo03_02.mp3",
+          "text": "Not sure that should be your top concern.",
+          "duration": 2.146
+        },
+        {
+          "order": 3,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_werewolf_inferno_convo03_03",
+          "audioUrl": "audio/werewolf_match_start_werewolf_inferno_convo03_03.mp3",
+          "text": "Never said it was a top concern, just acknowledging that you're not Mr. Constant Temperature.",
+          "duration": 5.087
+        },
+        {
+          "order": 4,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_werewolf_inferno_convo03_04",
+          "audioUrl": "audio/inferno_match_start_werewolf_inferno_convo03_04.mp3",
+          "text": "Least I'm not Seven.",
+          "duration": 1.486
+        },
+        {
+          "order": 5,
+          "character": "Silver",
+          "audioFile": "werewolf_match_start_werewolf_inferno_convo03_05",
+          "audioUrl": "audio/werewolf_match_start_werewolf_inferno_convo03_05.mp3",
+          "text": "Yeah, that would be worse for a lot of reasons.",
+          "duration": 2.393
+        }
+      ]
+    },
+    {
+      "conversationId": "infernus_yamato_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Yamato",
+          "audioFile": "yamato_match_start_yamato_inferno_convo01_01",
+          "audioUrl": "audio/yamato_match_start_yamato_inferno_convo01_01.mp3",
+          "text": "In Japanese \"If this guy lasts  5 minutes it'll be a miracle\" - \u3053\u3044\u3064\u306f\uff15\u5206\u6301\u3066\u3070\u5947\u8de1\u3060\u306a\u3002",
+          "duration": 2.285
+        },
+        {
+          "order": 2,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_yamato_inferno_convo01_02",
+          "audioUrl": "audio/inferno_match_start_yamato_inferno_convo01_02.mp3",
+          "text": "You uh\u2026 you don't sound to excited to work with me.",
+          "duration": 3.349
+        },
+        {
+          "order": 3,
+          "character": "Yamato",
+          "audioFile": "yamato_match_start_yamato_inferno_convo01_03",
+          "audioUrl": "audio/yamato_match_start_yamato_inferno_convo01_03.mp3",
+          "text": "You're a bartender.",
+          "duration": 1.623
+        },
+        {
+          "order": 4,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_yamato_inferno_convo01_04",
+          "audioUrl": "audio/inferno_match_start_yamato_inferno_convo01_04.mp3",
+          "text": "Wasn't always.",
+          "duration": 1.376
+        }
+      ]
+    },
+    {
+      "conversationId": "infernus_yamato_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_yamato_inferno_convo02_01",
+          "audioUrl": "audio/inferno_match_start_yamato_inferno_convo02_01.mp3",
+          "text": "You wanna come up with a plan.",
+          "duration": 1.493
+        },
+        {
+          "order": 2,
+          "character": "Yamato",
+          "audioFile": "yamato_match_start_yamato_inferno_convo02_02",
+          "audioUrl": "audio/yamato_match_start_yamato_inferno_convo02_02.mp3",
+          "text": "I have one.  Kill them all and ignore your existance.",
+          "duration": 3.661
+        },
+        {
+          "order": 3,
+          "character": "Infernus",
+          "audioFile": "inferno_match_start_yamato_inferno_convo02_03",
+          "audioUrl": "audio/inferno_match_start_yamato_inferno_convo02_03.mp3",
+          "text": "It's gonna be a long day\u2026",
+          "duration": 1.839
+        }
+      ]
+    }
+  ]
+}

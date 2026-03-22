@@ -1,0 +1,139 @@
+{
+  "conversations": [
+    {
+      "conversationId": "ivy_wraith_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_tengu_wraith_convo02_01",
+          "audioUrl": "audio/tengu_match_start_tengu_wraith_convo02_01.mp3",
+          "text": "Stay out of Spanish Harlem Wraith",
+          "duration": 2.654
+        },
+        {
+          "order": 2,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_tengu_wraith_convo02_02",
+          "audioUrl": "audio/wraith_match_start_tengu_wraith_convo02_02.mp3",
+          "text": "Now that is needlessly hostile.",
+          "duration": 2.277
+        },
+        {
+          "order": 3,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_tengu_wraith_convo02_03",
+          "audioUrl": "audio/tengu_match_start_tengu_wraith_convo02_03.mp3",
+          "text": "Just cause Mendoza was run off doesn't mean you get to muscle in.",
+          "duration": 3.705
+        },
+        {
+          "order": 4,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_tengu_wraith_convo02_04",
+          "audioUrl": "audio/wraith_match_start_tengu_wraith_convo02_04.mp3",
+          "text": "I'm not.",
+          "duration": 0.866
+        },
+        {
+          "order": 5,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_tengu_wraith_convo02_05",
+          "audioUrl": "audio/tengu_match_start_tengu_wraith_convo02_05.mp3",
+          "text": "I saw you poking around the neighborhood.",
+          "duration": 2.22
+        },
+        {
+          "order": 6,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_tengu_wraith_convo02_06",
+          "audioUrl": "audio/wraith_match_start_tengu_wraith_convo02_06.mp3",
+          "text": "Just visiting a friend.",
+          "duration": 1.291
+        },
+        {
+          "order": 7,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_tengu_wraith_convo02_07",
+          "audioUrl": "audio/tengu_match_start_tengu_wraith_convo02_07.mp3",
+          "text": "Visit somewhere else.",
+          "duration": 1.907
+        }
+      ]
+    },
+    {
+      "conversationId": "ivy_wraith_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_tengu_wraith_convo03_01",
+          "audioUrl": "audio/wraith_match_start_tengu_wraith_convo03_01.mp3",
+          "text": "You gonna cover me?",
+          "duration": 0.957
+        },
+        {
+          "order": 2,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_tengu_wraith_convo03_02",
+          "audioUrl": "audio/tengu_match_start_tengu_wraith_convo03_02.mp3",
+          "text": "Yeah.",
+          "duration": 0.762
+        },
+        {
+          "order": 3,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_tengu_wraith_convo03_03",
+          "audioUrl": "audio/wraith_match_start_tengu_wraith_convo03_03.mp3",
+          "text": "Try not to sound too excited.",
+          "duration": 1.838
+        },
+        {
+          "order": 4,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_tengu_wraith_convo03_04",
+          "audioUrl": "audio/tengu_match_start_tengu_wraith_convo03_04.mp3",
+          "text": "Just not a fan of criminals",
+          "duration": 2.129
+        },
+        {
+          "order": 5,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_tengu_wraith_convo03_05",
+          "audioUrl": "audio/wraith_match_start_tengu_wraith_convo03_05.mp3",
+          "text": "That\u2019s just because you haven't gotten to know me yet",
+          "duration": 2.305
+        }
+      ]
+    },
+    {
+      "conversationId": "ivy_vyper_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo01_01",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo01_01.mp3",
+          "text": "Oh look, everyone's favorite gargoyle showed up",
+          "duration": 3.084
+        },
+        {
+          "order": 2,
+          "character": "Ivy",
+          "audioFile": "tengu_match_start_viper_tengu_convo01_02",
+          "audioUrl": "audio/tengu_match_start_viper_tengu_convo01_02.mp3",
+          "text": "Shouldn't you be in jail?",
+          "duration": 1.669
+        },
+        {
+          "order": 3,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_tengu_convo01_03",
+          "audioUrl": "audio/viper_match_start_viper_tengu_convo01_03.mp3",
+          "text": "Probably.",
+          "duration": 1.524
+        }
+      ]
+    }
+  ]
+}

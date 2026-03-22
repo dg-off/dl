@@ -1,0 +1,115 @@
+{
+  "conversations": [
+    {
+      "conversationId": "celeste_haze_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_haze_convo01_01",
+          "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo01_01.mp3",
+          "text": "That tie looks cute on you.",
+          "duration": 1.759
+        },
+        {
+          "order": 2,
+          "character": "Haze",
+          "audioFile": "haze_match_start_unicorn_haze_convo01_02",
+          "audioUrl": "audio/haze_match_start_unicorn_haze_convo01_02.mp3",
+          "text": "Thanks\u2026",
+          "duration": 1.889
+        },
+        {
+          "order": 3,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_haze_convo01_03",
+          "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo01_03.mp3",
+          "text": "You ok?",
+          "duration": 1.064
+        },
+        {
+          "order": 4,
+          "character": "Haze",
+          "audioFile": "haze_match_start_unicorn_haze_convo01_04",
+          "audioUrl": "audio/haze_match_start_unicorn_haze_convo01_04.mp3",
+          "text": "I don't usually get compliments on the uniform.",
+          "duration": 3.797
+        },
+        {
+          "order": 5,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_haze_convo01_05",
+          "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo01_05.mp3",
+          "text": "I call it like I see it.",
+          "duration": 1.452
+        }
+      ]
+    },
+    {
+      "conversationId": "celeste_haze_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_haze_convo02_01",
+          "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo02_01.mp3",
+          "text": "You should come by the Sideshow sometime",
+          "duration": 2.28
+        },
+        {
+          "order": 2,
+          "character": "Haze",
+          "audioFile": "haze_match_start_unicorn_haze_convo02_02",
+          "audioUrl": "audio/haze_match_start_unicorn_haze_convo02_02.mp3",
+          "text": "I see enough knife throwing in my 9 to 5.",
+          "duration": 3.842
+        },
+        {
+          "order": 3,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_haze_convo02_03",
+          "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo02_03.mp3",
+          "text": "That makes sense.",
+          "duration": 1.265
+        }
+      ]
+    },
+    {
+      "conversationId": "celeste_haze_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Haze",
+          "audioFile": "haze_match_start_unicorn_haze_convo03_01",
+          "audioUrl": "audio/haze_match_start_unicorn_haze_convo03_01.mp3",
+          "text": "Are you nervous?",
+          "duration": 2.03
+        },
+        {
+          "order": 2,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_haze_convo03_02",
+          "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo03_02.mp3",
+          "text": "More than I expected, but less than I probably should be.",
+          "duration": 3.174
+        },
+        {
+          "order": 3,
+          "character": "Haze",
+          "audioFile": "haze_match_start_unicorn_haze_convo03_03",
+          "audioUrl": "audio/haze_match_start_unicorn_haze_convo03_03.mp3",
+          "text": "Reasonable answer.",
+          "duration": 2.292
+        },
+        {
+          "order": 4,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_haze_convo03_04",
+          "audioUrl": "audio/unicorn_match_start_unicorn_haze_convo03_04.mp3",
+          "text": "I don't know if it's reasonable but it's honest.",
+          "duration": 2.967
+        }
+      ]
+    }
+  ]
+}

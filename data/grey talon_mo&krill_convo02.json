@@ -1,0 +1,21 @@
+{
+  "id": "grey talon_mo&krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_krill_orion_convo02_01",
+      "audioUrl": "audio/orion_match_start_krill_orion_convo02_01.mp3",
+      "text": "If we fail today, can you help me track someone down?",
+      "duration": 3.31
+    },
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_orion_convo02_02",
+      "audioUrl": "audio/krill_match_start_krill_orion_convo02_02.mp3",
+      "text": "Traditionally we deal with objects more than people, but for you we'd be happy to ask some questions",
+      "duration": 6.376
+    }
+  ]
+}

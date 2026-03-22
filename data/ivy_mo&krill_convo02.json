@@ -1,0 +1,53 @@
+{
+  "id": "ivy_mo&krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_krill_convo02_01",
+      "audioUrl": "audio/tengu_match_start_tengu_krill_convo02_01.mp3",
+      "text": "You guys seem nice.",
+      "duration": 1.668
+    },
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_tengu_krill_convo02_02",
+      "audioUrl": "audio/krill_match_start_tengu_krill_convo02_02.mp3",
+      "text": "That's because we are.",
+      "duration": 1.751
+    },
+    {
+      "order": 3,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_krill_convo02_03",
+      "audioUrl": "audio/tengu_match_start_tengu_krill_convo02_03.mp3",
+      "text": "Why do you help horrible people.",
+      "duration": 1.979
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_tengu_krill_convo02_04",
+      "audioUrl": "audio/krill_match_start_tengu_krill_convo02_04.mp3",
+      "text": "Because horrible people tend to have the most money.",
+      "duration": 3.139
+    },
+    {
+      "order": 5,
+      "character": "Ivy",
+      "audioFile": "tengu_match_start_tengu_krill_convo02_05",
+      "audioUrl": "audio/tengu_match_start_tengu_krill_convo02_05.mp3",
+      "text": "Is money all that matters to you?",
+      "duration": 2.163
+    },
+    {
+      "order": 6,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_tengu_krill_convo02_06",
+      "audioUrl": "audio/krill_match_start_tengu_krill_convo02_06.mp3",
+      "text": "Parquet floors don't just arrive in your hovel, Ivy",
+      "duration": 3.844
+    }
+  ]
+}

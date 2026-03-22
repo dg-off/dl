@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_vyper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_viper_orion_convo02_01",
+      "audioUrl": "audio/orion_match_start_viper_orion_convo02_01.mp3",
+      "text": "I'm not looking to chit chat.",
+      "duration": 1.7
+    },
+    {
+      "order": 2,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_orion_convo02_02",
+      "audioUrl": "audio/viper_match_start_viper_orion_convo02_02.mp3",
+      "text": "That's cool, I'm not looking to make friends with an old guy that carries a bow around Manhattan.",
+      "duration": 5.438
+    },
+    {
+      "order": 3,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_viper_orion_convo02_03",
+      "audioUrl": "audio/orion_match_start_viper_orion_convo02_03.mp3",
+      "text": "Glad we understand each other.",
+      "duration": 1.72
+    }
+  ]
+}

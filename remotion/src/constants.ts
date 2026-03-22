@@ -52,6 +52,7 @@ export const toKey = (character: string) =>
 const PORTRAIT_KEY_OVERRIDES: Record<string, string> = {
   mo: "mo_&_krill",
   krill: "mo_&_krill",
+  "mo&krill": "mo_&_krill",
   viper: "vyper",
   doorman: "the_doorman",
 };

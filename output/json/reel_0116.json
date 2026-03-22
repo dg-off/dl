@@ -1,0 +1,131 @@
+{
+  "conversations": [
+    {
+      "conversationId": "dynamo_lady geist_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_dynamo_ghost_convo01_01",
+          "audioUrl": "audio/ghost_match_start_dynamo_ghost_convo01_01.mp3",
+          "text": "May I have a word professor?",
+          "duration": 2.057
+        },
+        {
+          "order": 2,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_ghost_convo01_02",
+          "audioUrl": "audio/dynamo_match_start_dynamo_ghost_convo01_02.mp3",
+          "text": "Of course",
+          "duration": 0.765
+        },
+        {
+          "order": 3,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_dynamo_ghost_convo01_03",
+          "audioUrl": "audio/ghost_match_start_dynamo_ghost_convo01_03.mp3",
+          "text": "Your sport coat is wretched",
+          "duration": 2.067
+        },
+        {
+          "order": 4,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_ghost_convo01_04",
+          "audioUrl": "audio/dynamo_match_start_dynamo_ghost_convo01_04.mp3",
+          "text": "Not sure what to do with that",
+          "duration": 1.871
+        },
+        {
+          "order": 5,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_dynamo_ghost_convo01_05",
+          "audioUrl": "audio/ghost_match_start_dynamo_ghost_convo01_05.mp3",
+          "text": "Find dignity and a halfway decent tailor",
+          "duration": 3.323
+        },
+        {
+          "order": 6,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_ghost_convo01_06",
+          "audioUrl": "audio/dynamo_match_start_dynamo_ghost_convo01_06.mp3",
+          "text": "I'll see what I can do.",
+          "duration": 1.137
+        }
+      ]
+    },
+    {
+      "conversationId": "dynamo_lady geist_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_ghost_convo02_01",
+          "audioUrl": "audio/dynamo_match_start_dynamo_ghost_convo02_01.mp3",
+          "text": "That binding ward is looking in rough shape",
+          "duration": 2.247
+        },
+        {
+          "order": 2,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_dynamo_ghost_convo02_02",
+          "audioUrl": "audio/ghost_match_start_dynamo_ghost_convo02_02.mp3",
+          "text": "A fact that I'm keenly aware of.",
+          "duration": 2.342
+        },
+        {
+          "order": 3,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_ghost_convo02_03",
+          "audioUrl": "audio/dynamo_match_start_dynamo_ghost_convo02_03.mp3",
+          "text": "I would have that looked at soon.",
+          "duration": 2.061
+        },
+        {
+          "order": 4,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_dynamo_ghost_convo02_04",
+          "audioUrl": "audio/ghost_match_start_dynamo_ghost_convo02_04.mp3",
+          "text": "Thank you for your concern professor.",
+          "duration": 2.341
+        }
+      ]
+    },
+    {
+      "conversationId": "dynamo_lady geist_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_dynamo_ghost_convo03_01",
+          "audioUrl": "audio/ghost_match_start_dynamo_ghost_convo03_01.mp3",
+          "text": "You seem preoccupied professor",
+          "duration": 2.367
+        },
+        {
+          "order": 2,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_ghost_convo03_02",
+          "audioUrl": "audio/dynamo_match_start_dynamo_ghost_convo03_02.mp3",
+          "text": "Just thinking about my wife",
+          "duration": 1.564
+        },
+        {
+          "order": 3,
+          "character": "Lady geist",
+          "audioFile": "ghost_match_start_dynamo_ghost_convo03_03",
+          "audioUrl": "audio/ghost_match_start_dynamo_ghost_convo03_03.mp3",
+          "text": "Is she alive?",
+          "duration": 1.062
+        },
+        {
+          "order": 4,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_ghost_convo03_04",
+          "audioUrl": "audio/dynamo_match_start_dynamo_ghost_convo03_04.mp3",
+          "text": "Yes.  And very paitient.  Hopfully after the ritual that patience will be rearded.",
+          "duration": 5.911
+        }
+      ]
+    }
+  ]
+}

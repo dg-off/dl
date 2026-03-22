@@ -1,0 +1,29 @@
+{
+  "id": "mo&krill_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_krill_wraith_convo02_01",
+      "audioUrl": "audio/wraith_match_start_krill_wraith_convo02_01.mp3",
+      "text": "I almost feel sorry for the poor bastards waiting for us in the lane.",
+      "duration": 3.709
+    },
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_wraith_convo02_02",
+      "audioUrl": "audio/krill_match_start_krill_wraith_convo02_02.mp3",
+      "text": "Wraith.  Is that compassion I hear?",
+      "duration": 3.787
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_krill_wraith_convo02_03",
+      "audioUrl": "audio/wraith_match_start_krill_wraith_convo02_03.mp3",
+      "text": "I said almost.",
+      "duration": 2.027
+    }
+  ]
+}

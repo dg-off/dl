@@ -1,0 +1,123 @@
+{
+  "conversations": [
+    {
+      "conversationId": "grey talon_yamato_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_yamato_orion_convo03_01",
+          "audioUrl": "audio/orion_match_start_yamato_orion_convo03_01.mp3",
+          "text": "A sword and a bow\u2026 aren't we the icons of the modern world.",
+          "duration": 4.858
+        },
+        {
+          "order": 2,
+          "character": "Yamato",
+          "audioFile": "yamato_match_start_yamato_orion_convo03_02",
+          "audioUrl": "audio/yamato_match_start_yamato_orion_convo03_02.mp3",
+          "text": "heh\u2026indeed.",
+          "duration": 1.264
+        }
+      ]
+    },
+    {
+      "conversationId": "celeste_venator_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Venator",
+          "audioFile": "priest_match_start_unicorn_priest_convo01_01",
+          "audioUrl": "audio/priest_match_start_unicorn_priest_convo01_01.mp3",
+          "text": "You look\u2026 delicate.",
+          "duration": 2.658
+        },
+        {
+          "order": 2,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_priest_convo01_02",
+          "audioUrl": "audio/unicorn_match_start_unicorn_priest_convo01_02.mp3",
+          "text": "Delicate?",
+          "duration": 1.158
+        },
+        {
+          "order": 3,
+          "character": "Venator",
+          "audioFile": "priest_match_start_unicorn_priest_convo01_03",
+          "audioUrl": "audio/priest_match_start_unicorn_priest_convo01_03.mp3",
+          "text": "I'm trying to be kind.",
+          "duration": 1.62
+        },
+        {
+          "order": 4,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_priest_convo01_04",
+          "audioUrl": "audio/unicorn_match_start_unicorn_priest_convo01_04.mp3",
+          "text": "You think I can't fight?",
+          "duration": 1.672
+        },
+        {
+          "order": 5,
+          "character": "Venator",
+          "audioFile": "priest_match_start_unicorn_priest_convo01_05",
+          "audioUrl": "audio/priest_match_start_unicorn_priest_convo01_05.mp3",
+          "text": "We're about be shot at and you're dressed like you just got off a shift at the circus. So yes.  I have concerns.",
+          "duration": 7.158
+        },
+        {
+          "order": 6,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_priest_convo01_06",
+          "audioUrl": "audio/unicorn_match_start_unicorn_priest_convo01_06.mp3",
+          "text": "It's the sideshow, but close enough.",
+          "duration": 2.133
+        },
+        {
+          "order": 7,
+          "character": "Venator",
+          "audioFile": "priest_match_start_unicorn_priest_convo01_07",
+          "audioUrl": "audio/priest_match_start_unicorn_priest_convo01_07.mp3",
+          "text": "God help me.",
+          "duration": 1.31
+        }
+      ]
+    },
+    {
+      "conversationId": "celeste_venator_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Venator",
+          "audioFile": "priest_match_start_unicorn_priest_convo02_01",
+          "audioUrl": "audio/priest_match_start_unicorn_priest_convo02_01.mp3",
+          "text": "You look nervous, child.",
+          "duration": 1.633
+        },
+        {
+          "order": 2,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_priest_convo02_02",
+          "audioUrl": "audio/unicorn_match_start_unicorn_priest_convo02_02.mp3",
+          "text": "You've seen what you look like, right?",
+          "duration": 2.248
+        },
+        {
+          "order": 3,
+          "character": "Venator",
+          "audioFile": "priest_match_start_unicorn_priest_convo02_03",
+          "audioUrl": "audio/priest_match_start_unicorn_priest_convo02_03.mp3",
+          "text": "Do you always make judgements on appearances?",
+          "duration": 2.433
+        },
+        {
+          "order": 4,
+          "character": "Celeste",
+          "audioFile": "unicorn_match_start_unicorn_priest_convo02_04",
+          "audioUrl": "audio/unicorn_match_start_unicorn_priest_convo02_04.mp3",
+          "text": "I mean, you're either gonna start screamin' Latin and shootin' people, or you're gonna do a burlesque act. And somethin' tells me that cassock ain't tear-away.",
+          "duration": 8.519
+        }
+      ]
+    }
+  ]
+}

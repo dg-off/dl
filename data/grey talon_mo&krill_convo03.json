@@ -1,0 +1,37 @@
+{
+  "id": "grey talon_mo&krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_orion_convo03_01",
+      "audioUrl": "audio/krill_match_start_krill_orion_convo03_01.mp3",
+      "text": "Are you ready to go hunting Talon?",
+      "duration": 2.37
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_krill_orion_convo03_02",
+      "audioUrl": "audio/orion_match_start_krill_orion_convo03_02.mp3",
+      "text": "Always.",
+      "duration": 0.84
+    },
+    {
+      "order": 3,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_orion_convo03_03",
+      "audioUrl": "audio/krill_match_start_krill_orion_convo03_03.mp3",
+      "text": "Are you ready to say anything else?",
+      "duration": 3.164
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_krill_orion_convo03_04",
+      "audioUrl": "audio/orion_match_start_krill_orion_convo03_04.mp3",
+      "text": "No.",
+      "duration": 0.738
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "conversations": [
+    {
+      "conversationId": "billy_grey talon_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Billy",
+          "audioFile": "punkgoat_match_start_punkgoat_orion_convo03_01",
+          "audioUrl": "audio/punkgoat_match_start_punkgoat_orion_convo03_01.mp3",
+          "text": "Old timers like you don't know how hard it is in the real world.  You're just sitting around smoking cigars and getting drunk on nostaliga.",
+          "duration": 7.758
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_punkgoat_orion_convo03_02",
+          "audioUrl": "audio/orion_match_start_punkgoat_orion_convo03_02.mp3",
+          "text": "Clearly.",
+          "duration": 1.274
+        },
+        {
+          "order": 3,
+          "character": "Billy",
+          "audioFile": "punkgoat_match_start_punkgoat_orion_convo03_03",
+          "audioUrl": "audio/punkgoat_match_start_punkgoat_orion_convo03_03.mp3",
+          "text": "You think being smug makes you better than me?",
+          "duration": 2.189
+        },
+        {
+          "order": 4,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_punkgoat_orion_convo03_04",
+          "audioUrl": "audio/orion_match_start_punkgoat_orion_convo03_04.mp3",
+          "text": "I think the fact that I didn't turn my head into a goat makes me better than you.",
+          "duration": 3.571
+        },
+        {
+          "order": 5,
+          "character": "Billy",
+          "audioFile": "punkgoat_match_start_punkgoat_orion_convo03_05",
+          "audioUrl": "audio/punkgoat_match_start_punkgoat_orion_convo03_05.mp3",
+          "text": "There it is.  There it is.  I knew that you were biased against me from the beginning.",
+          "duration": 4.993
+        },
+        {
+          "order": 6,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_punkgoat_orion_convo03_06",
+          "audioUrl": "audio/orion_match_start_punkgoat_orion_convo03_06.mp3",
+          "text": "You want to act like a jackass that\u2019s your business, but you don\u2019t get to be indignent when I point it out.  Now shut up and try not to die.",
+          "duration": 8.65
+        }
+      ]
+    },
+    {
+      "conversationId": "grey talon_vyper_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_orion_convo01_01",
+          "audioUrl": "audio/viper_match_start_viper_orion_convo01_01.mp3",
+          "text": "I'm not trained in CPR",
+          "duration": 1.978
+        },
+        {
+          "order": 2,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_viper_orion_convo01_02",
+          "audioUrl": "audio/orion_match_start_viper_orion_convo01_02.mp3",
+          "text": "What?",
+          "duration": 0.536
+        },
+        {
+          "order": 3,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_orion_convo01_03",
+          "audioUrl": "audio/viper_match_start_viper_orion_convo01_03.mp3",
+          "text": "Like, if you have a heart attack you're gonna die beause I aint helping ya.",
+          "duration": 4.462
+        },
+        {
+          "order": 4,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_viper_orion_convo01_04",
+          "audioUrl": "audio/orion_match_start_viper_orion_convo01_04.mp3",
+          "text": "Thanks for letting me know.",
+          "duration": 1.535
+        },
+        {
+          "order": 5,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_orion_convo01_05",
+          "audioUrl": "audio/viper_match_start_viper_orion_convo01_05.mp3",
+          "text": "<clicks> you got it",
+          "duration": 1.44
+        }
+      ]
+    },
+    {
+      "conversationId": "grey talon_vyper_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_viper_orion_convo02_01",
+          "audioUrl": "audio/orion_match_start_viper_orion_convo02_01.mp3",
+          "text": "I'm not looking to chit chat.",
+          "duration": 1.7
+        },
+        {
+          "order": 2,
+          "character": "Vyper",
+          "audioFile": "viper_match_start_viper_orion_convo02_02",
+          "audioUrl": "audio/viper_match_start_viper_orion_convo02_02.mp3",
+          "text": "That's cool, I'm not looking to make friends with an old guy that carries a bow around Manhattan.",
+          "duration": 5.438
+        },
+        {
+          "order": 3,
+          "character": "Grey talon",
+          "audioFile": "orion_match_start_viper_orion_convo02_03",
+          "audioUrl": "audio/orion_match_start_viper_orion_convo02_03.mp3",
+          "text": "Glad we understand each other.",
+          "duration": 1.72
+        }
+      ]
+    }
+  ]
+}

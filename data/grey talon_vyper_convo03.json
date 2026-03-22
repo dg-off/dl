@@ -1,0 +1,37 @@
+{
+  "id": "grey talon_vyper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_orion_convo03_01",
+      "audioUrl": "audio/viper_match_start_viper_orion_convo03_01.mp3",
+      "text": "How do you like to work?",
+      "duration": 1.415
+    },
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_viper_orion_convo03_02",
+      "audioUrl": "audio/orion_match_start_viper_orion_convo03_02.mp3",
+      "text": "Methodically.",
+      "duration": 1.194
+    },
+    {
+      "order": 3,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_orion_convo03_03",
+      "audioUrl": "audio/viper_match_start_viper_orion_convo03_03.mp3",
+      "text": "Yeah, that's not me.",
+      "duration": 1.279
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_viper_orion_convo03_04",
+      "audioUrl": "audio/orion_match_start_viper_orion_convo03_04.mp3",
+      "text": "This should be interesting\u2026",
+      "duration": 1.944
+    }
+  ]
+}

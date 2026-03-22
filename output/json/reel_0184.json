@@ -1,0 +1,155 @@
+{
+  "conversations": [
+    {
+      "conversationId": "seven_viscous_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_gigawatt_viscous_convo01_01",
+          "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo01_01.mp3",
+          "text": "Hello.",
+          "duration": 0.95
+        },
+        {
+          "order": 2,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo01_02",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo01_02.mp3",
+          "text": "Oh god it's talking to me",
+          "duration": 1.966
+        },
+        {
+          "order": 3,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_gigawatt_viscous_convo01_03",
+          "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo01_03.mp3",
+          "text": "I'm viscous",
+          "duration": 1.561
+        },
+        {
+          "order": 4,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo01_04",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo01_04.mp3",
+          "text": "I can see that.",
+          "duration": 1.445
+        },
+        {
+          "order": 5,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_gigawatt_viscous_convo01_05",
+          "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo01_05.mp3",
+          "text": "I'm made of goo.",
+          "duration": 1.609
+        },
+        {
+          "order": 6,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo01_06",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo01_06.mp3",
+          "text": "This could be a nightmare.",
+          "duration": 1.463
+        }
+      ]
+    },
+    {
+      "conversationId": "seven_viscous_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_gigawatt_viscous_convo02_01",
+          "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo02_01.mp3",
+          "text": "So what do you do?",
+          "duration": 1.6
+        },
+        {
+          "order": 2,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo02_02",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo02_02.mp3",
+          "text": "Strive for apotheosis",
+          "duration": 1.915
+        },
+        {
+          "order": 3,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_gigawatt_viscous_convo02_03",
+          "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo02_03.mp3",
+          "text": "That's a big word.",
+          "duration": 1.901
+        },
+        {
+          "order": 4,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo02_04",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo02_04.mp3",
+          "text": "Indeed.",
+          "duration": 1.135
+        },
+        {
+          "order": 5,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_gigawatt_viscous_convo02_05",
+          "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo02_05.mp3",
+          "text": "What's it mean?",
+          "duration": 1.459
+        },
+        {
+          "order": 6,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo02_06",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo02_06.mp3",
+          "text": "Once we summon the patron you'll see for yourelf.",
+          "duration": 3.085
+        }
+      ]
+    },
+    {
+      "conversationId": "seven_viscous_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo03_01",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo03_01.mp3",
+          "text": "So you say you're from The Deep",
+          "duration": 2.437
+        },
+        {
+          "order": 2,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_gigawatt_viscous_convo03_02",
+          "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo03_02.mp3",
+          "text": "Oh yes.",
+          "duration": 1.135
+        },
+        {
+          "order": 3,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo03_03",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo03_03.mp3",
+          "text": "And why are you here.",
+          "duration": 1.527
+        },
+        {
+          "order": 4,
+          "character": "Viscous",
+          "audioFile": "viscous_match_start_gigawatt_viscous_convo03_04",
+          "audioUrl": "audio/viscous_match_start_gigawatt_viscous_convo03_04.mp3",
+          "text": "The adversary\u2026 he comes for The Deep.  And if I don't stop him, he'll come for everything.",
+          "duration": 6.557
+        },
+        {
+          "order": 5,
+          "character": "Seven",
+          "audioFile": "gigawatt_match_start_gigawatt_viscous_convo03_05",
+          "audioUrl": "audio/gigawatt_match_start_gigawatt_viscous_convo03_05.mp3",
+          "text": "There's more to you than I expected Viscous.",
+          "duration": 2.762
+        }
+      ]
+    }
+  ]
+}

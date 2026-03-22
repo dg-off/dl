@@ -1,0 +1,155 @@
+{
+  "conversations": [
+    {
+      "conversationId": "dynamo_kelvin_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_dynamo_kelvin_convo02_01",
+          "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo02_01.mp3",
+          "text": "This story writes itself: two men of science fighting to get our lives back.",
+          "duration": 5.376
+        },
+        {
+          "order": 2,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_kelvin_convo02_02",
+          "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo02_02.mp3",
+          "text": "Today wil be a day to remember, my friend.",
+          "duration": 2.09
+        },
+        {
+          "order": 3,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_dynamo_kelvin_convo02_03",
+          "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo02_03.mp3",
+          "text": "Indeed it will.",
+          "duration": 1.909
+        }
+      ]
+    },
+    {
+      "conversationId": "dynamo_kelvin_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_dynamo_kelvin_convo03_01",
+          "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo03_01.mp3",
+          "text": "How's Marla doing?",
+          "duration": 1.769
+        },
+        {
+          "order": 2,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_kelvin_convo03_02",
+          "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo03_02.mp3",
+          "text": "Good.  Our anniversary's coming up.",
+          "duration": 1.958
+        },
+        {
+          "order": 3,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_dynamo_kelvin_convo03_03",
+          "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo03_03.mp3",
+          "text": "Wonderful!  How long?",
+          "duration": 2.655
+        },
+        {
+          "order": 4,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_kelvin_convo03_04",
+          "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo03_04.mp3",
+          "text": "31 years.",
+          "duration": 1.396
+        },
+        {
+          "order": 5,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_dynamo_kelvin_convo03_05",
+          "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo03_05.mp3",
+          "text": "You picked out a gift yet?",
+          "duration": 1.711
+        },
+        {
+          "order": 6,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_kelvin_convo03_06",
+          "audioUrl": "audio/dynamo_match_start_dynamo_kelvin_convo03_06.mp3",
+          "text": "Well, I'm hoping my body.  But if not, I've got an eye on some books.",
+          "duration": 4.635
+        },
+        {
+          "order": 7,
+          "character": "Kelvin",
+          "audioFile": "kelvin_match_start_dynamo_kelvin_convo03_07",
+          "audioUrl": "audio/kelvin_match_start_dynamo_kelvin_convo03_07.mp3",
+          "text": "You won't have to settle, Professor.  We'll win this day.",
+          "duration": 4.456
+        }
+      ]
+    },
+    {
+      "conversationId": "dynamo_mo&krill_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Mo&krill",
+          "audioFile": "krill_match_start_dynamo_krill_convo01_01",
+          "audioUrl": "audio/krill_match_start_dynamo_krill_convo01_01.mp3",
+          "text": "Professor, you teach at Columbia yes?",
+          "duration": 2.657
+        },
+        {
+          "order": 2,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_krill_convo01_02",
+          "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo01_02.mp3",
+          "text": "That's right",
+          "duration": 0.713
+        },
+        {
+          "order": 3,
+          "character": "Mo&krill",
+          "audioFile": "krill_match_start_dynamo_krill_convo01_03",
+          "audioUrl": "audio/krill_match_start_dynamo_krill_convo01_03.mp3",
+          "text": "I don't suppose you have any connections in the art department.  Mo was hoping to audit a pottery class.",
+          "duration": 6.571
+        },
+        {
+          "order": 4,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_krill_convo01_04",
+          "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo01_04.mp3",
+          "text": "Sadly I don't.",
+          "duration": 1.272
+        },
+        {
+          "order": 5,
+          "character": "Mo&krill",
+          "audioFile": "krill_match_start_dynamo_krill_convo01_05",
+          "audioUrl": "audio/krill_match_start_dynamo_krill_convo01_05.mp3",
+          "text": "Ah well, I guess we'll fall back on the orginal plan of threatening someone in the admissions office",
+          "duration": 5.687
+        },
+        {
+          "order": 6,
+          "character": "Dynamo",
+          "audioFile": "dynamo_match_start_dynamo_krill_convo01_06",
+          "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo01_06.mp3",
+          "text": "You know what, actually I do think there is someone I can talk to",
+          "duration": 2.695
+        },
+        {
+          "order": 7,
+          "character": "Mo&krill",
+          "audioFile": "krill_match_start_dynamo_krill_convo01_07",
+          "audioUrl": "audio/krill_match_start_dynamo_krill_convo01_07.mp3",
+          "text": "You've made his day Professor, thank you",
+          "duration": 3.904
+        }
+      ]
+    }
+  ]
+}

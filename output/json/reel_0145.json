@@ -1,0 +1,123 @@
+{
+  "conversations": [
+    {
+      "conversationId": "mcginnis_wraith_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_forge_wraith_convo01_01",
+          "audioUrl": "audio/wraith_match_start_forge_wraith_convo01_01.mp3",
+          "text": "You're Fairfax's pet genius, right?",
+          "duration": 1.913
+        },
+        {
+          "order": 2,
+          "character": "Mcginnis",
+          "audioFile": "forge_match_start_forge_wraith_convo01_02",
+          "audioUrl": "audio/forge_match_start_forge_wraith_convo01_02.mp3",
+          "text": "I'm no one' pet anything.",
+          "duration": 1.7
+        },
+        {
+          "order": 3,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_forge_wraith_convo01_03",
+          "audioUrl": "audio/wraith_match_start_forge_wraith_convo01_03.mp3",
+          "text": "Bad choice of words.",
+          "duration": 1.245
+        },
+        {
+          "order": 4,
+          "character": "Mcginnis",
+          "audioFile": "forge_match_start_forge_wraith_convo01_04",
+          "audioUrl": "audio/forge_match_start_forge_wraith_convo01_04.mp3",
+          "text": "Little bit.",
+          "duration": 0.719
+        },
+        {
+          "order": 5,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_forge_wraith_convo01_05",
+          "audioUrl": "audio/wraith_match_start_forge_wraith_convo01_05.mp3",
+          "text": "Suppose now's not the time to ask for an introduction.",
+          "duration": 2.822
+        },
+        {
+          "order": 6,
+          "character": "Mcginnis",
+          "audioFile": "forge_match_start_forge_wraith_convo01_06",
+          "audioUrl": "audio/forge_match_start_forge_wraith_convo01_06.mp3",
+          "text": "You'd be correct.",
+          "duration": 1.103
+        }
+      ]
+    },
+    {
+      "conversationId": "mcginnis_wraith_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_forge_wraith_convo02_01",
+          "audioUrl": "audio/wraith_match_start_forge_wraith_convo02_01.mp3",
+          "text": "Bet your turrets can't keep up with me\u2026",
+          "duration": 1.972
+        },
+        {
+          "order": 2,
+          "character": "Mcginnis",
+          "audioFile": "forge_match_start_forge_wraith_convo02_02",
+          "audioUrl": "audio/forge_match_start_forge_wraith_convo02_02.mp3",
+          "text": "You're on\u2026",
+          "duration": 0.857
+        }
+      ]
+    },
+    {
+      "conversationId": "mcginnis_wraith_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_forge_wraith_convo03_01",
+          "audioUrl": "audio/wraith_match_start_forge_wraith_convo03_01.mp3",
+          "text": "Ya know I'm used to working with people that are a little more subtle.",
+          "duration": 2.782
+        },
+        {
+          "order": 2,
+          "character": "Mcginnis",
+          "audioFile": "forge_match_start_forge_wraith_convo03_02",
+          "audioUrl": "audio/forge_match_start_forge_wraith_convo03_02.mp3",
+          "text": "You have 4 arms and a tommy gun, subtle is the last word I'd use.",
+          "duration": 3.905
+        },
+        {
+          "order": 3,
+          "character": "Wraith",
+          "audioFile": "wraith_match_start_forge_wraith_convo03_03",
+          "audioUrl": "audio/wraith_match_start_forge_wraith_convo03_03.mp3",
+          "text": "Subtlety is on a spectrum.",
+          "duration": 1.562
+        },
+        {
+          "order": 4,
+          "character": "Mcginnis",
+          "audioFile": "forge_match_start_forge_wraith_convo03_04",
+          "audioUrl": "audio/forge_match_start_forge_wraith_convo03_04.mp3",
+          "text": "OK.",
+          "duration": 0.698
+        },
+        {
+          "order": 4,
+          "character": "Mcginnis",
+          "audioFile": "forge_match_start_forge_wraith_convo03_04_02",
+          "audioUrl": "audio/forge_match_start_forge_wraith_convo03_04_02.mp3",
+          "text": "I'll go.",
+          "duration": 0.681
+        }
+      ]
+    }
+  ]
+}

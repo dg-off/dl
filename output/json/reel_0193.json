@@ -1,0 +1,99 @@
+{
+  "conversations": [
+    {
+      "conversationId": "haze_mirage_convo01",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Mirage",
+          "audioFile": "mirage_match_start_haze_mirage_convo01_01",
+          "audioUrl": "audio/mirage_match_start_haze_mirage_convo01_01.mp3",
+          "text": "Hopfully this is just the beginning of a partnership with your nation.",
+          "duration": 3.584
+        },
+        {
+          "order": 2,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_mirage_convo01_02",
+          "audioUrl": "audio/haze_match_start_haze_mirage_convo01_02.mp3",
+          "text": "I'm not a politician Mirage, my approval will neither help nor hinder the Djinn's chances of buying Wyoming.",
+          "duration": 6.894
+        }
+      ]
+    },
+    {
+      "conversationId": "haze_mirage_convo02",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_mirage_convo02_01",
+          "audioUrl": "audio/haze_match_start_haze_mirage_convo02_01.mp3",
+          "text": "It's nice to get to work with someone else with discipline.",
+          "duration": 3.593
+        },
+        {
+          "order": 2,
+          "character": "Mirage",
+          "audioFile": "mirage_match_start_haze_mirage_convo02_02",
+          "audioUrl": "audio/mirage_match_start_haze_mirage_convo02_02.mp3",
+          "text": "The feeling's mutual.",
+          "duration": 1.449
+        }
+      ]
+    },
+    {
+      "conversationId": "haze_mirage_convo03",
+      "lines": [
+        {
+          "order": 1,
+          "character": "Mirage",
+          "audioFile": "mirage_match_start_haze_mirage_convo03_01",
+          "audioUrl": "audio/mirage_match_start_haze_mirage_convo03_01.mp3",
+          "text": "Do you think your government will be reasonable?",
+          "duration": 2.367
+        },
+        {
+          "order": 2,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_mirage_convo03_02",
+          "audioUrl": "audio/haze_match_start_haze_mirage_convo03_02.mp3",
+          "text": "You're talking about buying a state.",
+          "duration": 2.681
+        },
+        {
+          "order": 3,
+          "character": "Mirage",
+          "audioFile": "mirage_match_start_haze_mirage_convo03_03",
+          "audioUrl": "audio/mirage_match_start_haze_mirage_convo03_03.mp3",
+          "text": "Part of a state.",
+          "duration": 1.193
+        },
+        {
+          "order": 4,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_mirage_convo03_04",
+          "audioUrl": "audio/haze_match_start_haze_mirage_convo03_04.mp3",
+          "text": "Still, it's hard to picture.",
+          "duration": 2.645
+        },
+        {
+          "order": 5,
+          "character": "Mirage",
+          "audioFile": "mirage_match_start_haze_mirage_convo03_05",
+          "audioUrl": "audio/mirage_match_start_haze_mirage_convo03_05.mp3",
+          "text": "It's how you got Louisiana.",
+          "duration": 1.601
+        },
+        {
+          "order": 6,
+          "character": "Haze",
+          "audioFile": "haze_match_start_haze_mirage_convo03_06",
+          "audioUrl": "audio/haze_match_start_haze_mirage_convo03_06.mp3",
+          "text": "Fair.",
+          "duration": 1.499
+        }
+      ]
+    }
+  ]
+}

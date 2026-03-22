@@ -1,0 +1,29 @@
+{
+  "id": "dynamo_mo&krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_krill_convo02_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo02_01.mp3",
+      "text": "Mo. Krill.  If we get our timing down I am confident that we can make their lives a living hell.",
+      "duration": 6.004
+    },
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_dynamo_krill_convo02_02",
+      "audioUrl": "audio/krill_match_start_dynamo_krill_convo02_02.mp3",
+      "text": "We will endeavor not to grab someone in your black hole.",
+      "duration": 3.869
+    },
+    {
+      "order": 3,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_krill_convo02_03",
+      "audioUrl": "audio/dynamo_match_start_dynamo_krill_convo02_03.mp3",
+      "text": "And I'll try not to drop a black hole on someone you grabbed.",
+      "duration": 2.85
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "haze_mo&krill_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_haze_krill_convo02_01",
+      "audioUrl": "audio/krill_match_start_haze_krill_convo02_01.mp3",
+      "text": "Once momo grabs them they'll be easy for you shoot.",
+      "duration": 3.609
+    },
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_krill_convo02_02",
+      "audioUrl": "audio/haze_match_start_haze_krill_convo02_02.mp3",
+      "text": "Once I put them to sleep it will be easy for momo to grab them.",
+      "duration": 4.746
+    },
+    {
+      "order": 3,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_haze_krill_convo02_03",
+      "audioUrl": "audio/krill_match_start_haze_krill_convo02_03.mp3",
+      "text": "This is going to work out well, I can tell.",
+      "duration": 3.745
+    }
+  ]
+}

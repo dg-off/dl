@@ -1,0 +1,53 @@
+{
+  "id": "infernus_mo&krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_inferno_krill_convo03_01",
+      "audioUrl": "audio/krill_match_start_inferno_krill_convo03_01.mp3",
+      "text": "You look good Fern.",
+      "duration": 1.595
+    },
+    {
+      "order": 2,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_krill_convo03_02",
+      "audioUrl": "audio/inferno_match_start_inferno_krill_convo03_02.mp3",
+      "text": "Thanks.",
+      "duration": 0.802
+    },
+    {
+      "order": 3,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_inferno_krill_convo03_03",
+      "audioUrl": "audio/krill_match_start_inferno_krill_convo03_03.mp3",
+      "text": "How's Hank doing?  I heard the bar is going through a\u2026transitional period.",
+      "duration": 5.782
+    },
+    {
+      "order": 4,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_krill_convo03_04",
+      "audioUrl": "audio/inferno_match_start_inferno_krill_convo03_04.mp3",
+      "text": "He's nervous, but Jezebel's an institution, we won't let it close without a fight.",
+      "duration": 5.048
+    },
+    {
+      "order": 5,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_inferno_krill_convo03_05",
+      "audioUrl": "audio/krill_match_start_inferno_krill_convo03_05.mp3",
+      "text": "If there's anything we can do, let us know.",
+      "duration": 3.494
+    },
+    {
+      "order": 6,
+      "character": "Infernus",
+      "audioFile": "inferno_match_start_inferno_krill_convo03_06",
+      "audioUrl": "audio/inferno_match_start_inferno_krill_convo03_06.mp3",
+      "text": "You're already doing it brother.",
+      "duration": 1.497
+    }
+  ]
+}
