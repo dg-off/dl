@@ -1,0 +1,13 @@
+{
+  "id": "doorman_dynamo_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_dynamo_convo02_02",
+      "audioUrl": "audio/doorman_match_start_doorman_dynamo_convo02_02.mp3",
+      "text": "I will be sure to let Jacques know, it will make his day.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "calico_celeste_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo01_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo01_02.mp3",
+      "text": "Please stop talking to me.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo01_04",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo01_04.mp3",
+      "text": "I said, please!",
+      "duration": null
+    }
+  ]
+}

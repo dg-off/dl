@@ -1,0 +1,13 @@
+{
+  "id": "holliday_operative_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_operative_astro_convo03_02",
+      "audioUrl": "audio/astro_match_start_operative_astro_convo03_02.mp3",
+      "text": "I think I'm good.",
+      "duration": null
+    }
+  ]
+}

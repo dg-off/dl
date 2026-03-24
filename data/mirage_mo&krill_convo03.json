@@ -1,0 +1,37 @@
+{
+  "id": "mirage_mo&krill_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_mirage_convo03_01",
+      "audioUrl": "audio/krill_match_start_krill_mirage_convo03_01.mp3",
+      "text": "Your beard is a thing of beauty.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_mirage_convo03_03",
+      "audioUrl": "audio/krill_match_start_krill_mirage_convo03_03.mp3",
+      "text": "Now you compliment me. Or more.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_mirage_convo03_05",
+      "audioUrl": "audio/krill_match_start_krill_mirage_convo03_05.mp3",
+      "text": "I'm not sure if mane is the proper nomenclature.",
+      "duration": null
+    },
+    {
+      "order": 7,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_mirage_convo03_07",
+      "audioUrl": "audio/krill_match_start_krill_mirage_convo03_07.mp3",
+      "text": "Hmm, this is fair.",
+      "duration": null
+    }
+  ]
+}

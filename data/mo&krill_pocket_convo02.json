@@ -1,0 +1,21 @@
+{
+  "id": "mo&krill_pocket_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_synth_convo02_02",
+      "audioUrl": "audio/krill_match_start_krill_synth_convo02_02.mp3",
+      "text": "You don't need to thank us. It was a privilege.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_synth_convo02_04",
+      "audioUrl": "audio/krill_match_start_krill_synth_convo02_04.mp3",
+      "text": "We love you too.",
+      "duration": null
+    }
+  ]
+}

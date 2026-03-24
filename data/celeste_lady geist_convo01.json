@@ -1,0 +1,13 @@
+{
+  "id": "celeste_lady geist_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_ghost_convo01_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_ghost_convo01_02.mp3",
+      "text": "Yeah, well, maybe your life would be handled with a little more care if you didn't insult me.",
+      "duration": null
+    }
+  ]
+}

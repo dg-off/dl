@@ -1,0 +1,21 @@
+{
+  "id": "dynamo_venator_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_dynamo_convo02_02",
+      "audioUrl": "audio/priest_match_start_priest_dynamo_convo02_02.mp3",
+      "text": "You need to have a class to explain to people that making a deal with the devil is a bad idea?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_dynamo_convo02_04",
+      "audioUrl": "audio/priest_match_start_priest_dynamo_convo02_04.mp3",
+      "text": "Higher education has failed.",
+      "duration": null
+    }
+  ]
+}

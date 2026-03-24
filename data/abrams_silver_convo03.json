@@ -1,0 +1,21 @@
+{
+  "id": "abrams_silver_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_atlas_convo03_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_atlas_convo03_02.mp3",
+      "text": "Figured I could wait a few minutes before I start punching people in the face.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_atlas_convo03_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_atlas_convo03_04.mp3",
+      "text": "What can I say? I'm growing as a person.",
+      "duration": null
+    }
+  ]
+}

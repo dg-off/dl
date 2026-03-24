@@ -1,0 +1,21 @@
+{
+  "id": "calico_mirage_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_nano_mirage_convo03_02",
+      "audioUrl": "audio/mirage_match_start_nano_mirage_convo03_02.mp3",
+      "text": "I don't recall us meeting.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_nano_mirage_convo03_04",
+      "audioUrl": "audio/mirage_match_start_nano_mirage_convo03_04.mp3",
+      "text": "That's right. How did you... You're the one who assassinated Siegfried, aren't you?",
+      "duration": null
+    }
+  ]
+}

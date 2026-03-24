@@ -1,0 +1,29 @@
+{
+  "id": "apollo_dynamo_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_dynamo_convo02_01",
+      "audioUrl": "audio/fencer_match_start_fencer_dynamo_convo02_01.mp3",
+      "text": "I've heard you're a good teacher.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_dynamo_convo02_03",
+      "audioUrl": "audio/fencer_match_start_fencer_dynamo_convo02_03.mp3",
+      "text": "Do you have any advice?",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_dynamo_convo02_05",
+      "audioUrl": "audio/fencer_match_start_fencer_dynamo_convo02_05.mp3",
+      "text": "Most teenagers are morons. I value experience.",
+      "duration": null
+    }
+  ]
+}

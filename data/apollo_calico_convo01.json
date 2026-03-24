@@ -1,0 +1,13 @@
+{
+  "id": "apollo_calico_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_nano_convo01_01",
+      "audioUrl": "audio/fencer_match_start_fencer_nano_convo01_01.mp3",
+      "text": "I like your cat.",
+      "duration": null
+    }
+  ]
+}

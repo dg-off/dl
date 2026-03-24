@@ -1,0 +1,13 @@
+{
+  "id": "apollo_paradox_convo01",
+  "lines": [
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_chrono_convo01_03",
+      "audioUrl": "audio/fencer_match_start_fencer_chrono_convo01_03.mp3",
+      "text": "I don't talk to thieves.",
+      "duration": null
+    }
+  ]
+}

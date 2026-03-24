@@ -1,0 +1,21 @@
+{
+  "id": "abrams_yamato_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_atlas_convo03_02",
+      "audioUrl": "audio/yamato_match_start_yamato_atlas_convo03_02.mp3",
+      "text": "\u305d\u308c\u3057\u304b\u77e5\u3089\u306a\u3044\u3093\u3060\u308d\u3002",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_atlas_convo03_04",
+      "audioUrl": "audio/yamato_match_start_yamato_atlas_convo03_04.mp3",
+      "text": "Not bad!",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "abrams_apollo_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo01_02.mp3",
+      "text": "You know my father.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo01_04",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo01_04.mp3",
+      "text": "We win today and you will.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo01_06",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo01_06.mp3",
+      "text": "With the two of us working together, we only lose if the sun implodes.",
+      "duration": null
+    },
+    {
+      "order": 8,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo01_08",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo01_08.mp3",
+      "text": "Winners usually are.",
+      "duration": null
+    }
+  ]
+}

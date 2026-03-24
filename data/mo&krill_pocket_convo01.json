@@ -1,0 +1,21 @@
+{
+  "id": "mo&krill_pocket_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_synth_convo01_02",
+      "audioUrl": "audio/krill_match_start_krill_synth_convo01_02.mp3",
+      "text": "We weren't going to let you do this alone.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_synth_convo01_04",
+      "audioUrl": "audio/krill_match_start_krill_synth_convo01_04.mp3",
+      "text": "I know. That's why we're facing it as a family.",
+      "duration": null
+    }
+  ]
+}

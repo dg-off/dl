@@ -1,0 +1,29 @@
+{
+  "id": "abrams_silver_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_atlas_convo02_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_atlas_convo02_02.mp3",
+      "text": "Good. Still workin' the book case?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_atlas_convo02_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_atlas_convo02_04.mp3",
+      "text": "You working the case or not.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_atlas_convo02_06",
+      "audioUrl": "audio/werewolf_match_start_werewolf_atlas_convo02_06.mp3",
+      "text": "Abe, I can't figure out why you do half the things you do, so I figured I might as well ask.",
+      "duration": null
+    }
+  ]
+}

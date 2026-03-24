@@ -1,0 +1,13 @@
+{
+  "id": "doorman_silver_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_doorman_convo01_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_doorman_convo01_02.mp3",
+      "text": "You get kicked out of brunch one time and everyone thinks they know you.",
+      "duration": null
+    }
+  ]
+}

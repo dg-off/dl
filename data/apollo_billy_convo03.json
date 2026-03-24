@@ -1,0 +1,13 @@
+{
+  "id": "apollo_billy_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_punkgoat_convo03_02",
+      "audioUrl": "audio/fencer_match_start_fencer_punkgoat_convo03_02.mp3",
+      "text": "That's kind of you to say, Billy.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dynamo_vyper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_dynamo_convo03_01",
+      "audioUrl": "audio/viper_match_start_viper_dynamo_convo03_01.mp3",
+      "text": "Hey, listen, by the way, I'm not trying to make this weird or anything, but you smell like key lime pie.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_dynamo_convo03_03",
+      "audioUrl": "audio/viper_match_start_viper_dynamo_convo03_03.mp3",
+      "text": "Oh my God, that's like the sweetest thing ever. Okay, really quick, another question. She knows you don't have a mouth, so you can't eat the pie, right?",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "abrams_graves_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_atlas_convo02_02",
+      "audioUrl": "audio/necro_match_start_necro_atlas_convo02_02.mp3",
+      "text": "Nervous is what I get before finals. This is something a little different.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_atlas_convo02_04",
+      "audioUrl": "audio/necro_match_start_necro_atlas_convo02_04.mp3",
+      "text": "Terrified is probably too strong.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_atlas_convo02_06",
+      "audioUrl": "audio/necro_match_start_necro_atlas_convo02_06.mp3",
+      "text": "It's a lot of process.",
+      "duration": null
+    }
+  ]
+}

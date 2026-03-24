@@ -1,0 +1,21 @@
+{
+  "id": "calico_mirage_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_nano_mirage_convo02_02",
+      "audioUrl": "audio/mirage_match_start_nano_mirage_convo02_02.mp3",
+      "text": "I haven't had the chance to see much, but what I have has been pleasant.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_nano_mirage_convo02_04",
+      "audioUrl": "audio/mirage_match_start_nano_mirage_convo02_04.mp3",
+      "text": "You are surprisingly affable.",
+      "duration": null
+    }
+  ]
+}

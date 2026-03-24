@@ -1,0 +1,21 @@
+{
+  "id": "calico_celeste_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo02_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo02_02.mp3",
+      "text": "It didn't come naturally. It took a lot of practice.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo02_04",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo02_04.mp3",
+      "text": "Oh.",
+      "duration": null
+    }
+  ]
+}

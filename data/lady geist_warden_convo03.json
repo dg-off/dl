@@ -1,0 +1,13 @@
+{
+  "id": "lady geist_warden_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_warden_convo03_02",
+      "audioUrl": "audio/ghost_match_start_ghost_warden_convo03_02.mp3",
+      "text": "Don't worry about me, Warden. I know what's at stake.",
+      "duration": null
+    }
+  ]
+}

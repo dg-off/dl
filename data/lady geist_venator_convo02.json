@@ -1,0 +1,21 @@
+{
+  "id": "lady geist_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_ghost_convo02_01",
+      "audioUrl": "audio/priest_match_start_priest_ghost_convo02_01.mp3",
+      "text": "When this is over, I'm cutting off your arm.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_ghost_convo02_03",
+      "audioUrl": "audio/priest_match_start_priest_ghost_convo02_03.mp3",
+      "text": "You can't fight evil with evil.",
+      "duration": null
+    }
+  ]
+}

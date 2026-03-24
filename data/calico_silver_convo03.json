@@ -1,0 +1,29 @@
+{
+  "id": "calico_silver_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_nano_convo03_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_nano_convo03_02.mp3",
+      "text": "I'm not interested in a career change.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_nano_convo03_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_nano_convo03_04.mp3",
+      "text": "There's a fairly large one.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_nano_convo03_06",
+      "audioUrl": "audio/werewolf_match_start_werewolf_nano_convo03_06.mp3",
+      "text": "It's happened.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "abrams_apollo_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo03_01",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo03_01.mp3",
+      "text": "I'm grateful not to be paired up with a human.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo03_03",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo03_03.mp3",
+      "text": "No, they're not. But they're not us either. Never forget that.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo03_05",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo03_05.mp3",
+      "text": "If we were in Ixia, you wouldn't dare talk to me like that.",
+      "duration": null
+    }
+  ]
+}

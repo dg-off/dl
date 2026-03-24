@@ -1,0 +1,21 @@
+{
+  "id": "haze_warden_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_warden_convo02_02",
+      "audioUrl": "audio/haze_match_start_haze_warden_convo02_02.mp3",
+      "text": "You know I can't tell you that.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_warden_convo02_04",
+      "audioUrl": "audio/haze_match_start_haze_warden_convo02_04.mp3",
+      "text": "Because if you don't, we're both dead.",
+      "duration": null
+    }
+  ]
+}

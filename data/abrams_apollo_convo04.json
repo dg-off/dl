@@ -1,0 +1,29 @@
+{
+  "id": "abrams_apollo_convo04",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo04_01",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo04_01.mp3",
+      "text": "<Ixian> Sirosi galah, Abrams",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo04_03",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo04_03.mp3",
+      "text": "<Potentially Incorrect Ixian> Karwoun kassil.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo04_05",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo04_05.mp3",
+      "text": "<Potentially Incorrect Ixian> Itanti ra.",
+      "duration": null
+    }
+  ]
+}

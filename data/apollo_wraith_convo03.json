@@ -1,0 +1,13 @@
+{
+  "id": "apollo_wraith_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_wraith_convo03_01",
+      "audioUrl": "audio/fencer_match_start_fencer_wraith_convo03_01.mp3",
+      "text": "You don't have to worry about me. I'll earn my keep.",
+      "duration": null
+    }
+  ]
+}

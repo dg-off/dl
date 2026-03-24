@@ -1,0 +1,21 @@
+{
+  "id": "mirage_mo&krill_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_mirage_convo02_02",
+      "audioUrl": "audio/krill_match_start_krill_mirage_convo02_02.mp3",
+      "text": "Our ears are kept to the proverbial and literal ground, yes.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_mirage_convo02_04",
+      "audioUrl": "audio/krill_match_start_krill_mirage_convo02_04.mp3",
+      "text": "Another djinn.",
+      "duration": null
+    }
+  ]
+}

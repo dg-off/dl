@@ -1,0 +1,29 @@
+{
+  "id": "mo&krill_paradox_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_chrono_convo01_02",
+      "audioUrl": "audio/krill_match_start_krill_chrono_convo01_02.mp3",
+      "text": "We all hear rumors.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_chrono_convo01_04",
+      "audioUrl": "audio/krill_match_start_krill_chrono_convo01_04.mp3",
+      "text": "I see there are no shortage of stones in your glasshouse.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_chrono_convo01_06",
+      "audioUrl": "audio/krill_match_start_krill_chrono_convo01_06.mp3",
+      "text": "Your concern is duly noted.",
+      "duration": null
+    }
+  ]
+}

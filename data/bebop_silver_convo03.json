@@ -1,0 +1,21 @@
+{
+  "id": "bebop_silver_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_bebop_convo03_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_bebop_convo03_02.mp3",
+      "text": "That's probably the nicest way anyone's ever described me.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_bebop_convo03_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_bebop_convo03_04.mp3",
+      "text": "We're not gonna dwell on that.",
+      "duration": null
+    }
+  ]
+}

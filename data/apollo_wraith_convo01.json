@@ -1,0 +1,21 @@
+{
+  "id": "apollo_wraith_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_wraith_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_wraith_convo01_02.mp3",
+      "text": "Have we met?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_wraith_convo01_04",
+      "audioUrl": "audio/fencer_match_start_fencer_wraith_convo01_04.mp3",
+      "text": "Classmate, I would never be friends with someone who is stupid enough to become indebted to you.",
+      "duration": null
+    }
+  ]
+}

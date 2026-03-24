@@ -1,0 +1,37 @@
+{
+  "id": "abrams_venator_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_atlas_convo03_02",
+      "audioUrl": "audio/priest_match_start_priest_atlas_convo03_02.mp3",
+      "text": "I can't tell if you're happy or disappointed.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_atlas_convo03_04",
+      "audioUrl": "audio/priest_match_start_priest_atlas_convo03_04.mp3",
+      "text": "Hate my methods all you want, I saved lives.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_atlas_convo03_06",
+      "audioUrl": "audio/priest_match_start_priest_atlas_convo03_06.mp3",
+      "text": "No, there was a way to risk more. And God help us all if we failed. I don't blame you for not having the stomach to do what needed to be done, but sleep easy knowing that what happened in that brownstone is my burden alone, not yours.",
+      "duration": null
+    },
+    {
+      "order": 8,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_atlas_convo03_08",
+      "audioUrl": "audio/priest_match_start_priest_atlas_convo03_08.mp3",
+      "text": "You're a good man, detective. This is my last battle. I'm happy to have it be with you.",
+      "duration": null
+    }
+  ]
+}

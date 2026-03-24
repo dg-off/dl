@@ -1,0 +1,13 @@
+{
+  "id": "haze_pocket_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_synth_convo02_02",
+      "audioUrl": "audio/haze_match_start_haze_synth_convo02_02.mp3",
+      "text": "they're going to have a harder time surviving.",
+      "duration": null
+    }
+  ]
+}

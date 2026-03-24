@@ -1,0 +1,13 @@
+{
+  "id": "apollo_doorman_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_doorman_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_doorman_convo02_02.mp3",
+      "text": "Only in decorum.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "calico_venator_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_nano_convo01_02",
+      "audioUrl": "audio/priest_match_start_priest_nano_convo01_02.mp3",
+      "text": "I'm not looking to chit-chat with a murderer.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_nano_convo01_04",
+      "audioUrl": "audio/priest_match_start_priest_nano_convo01_04.mp3",
+      "text": "Don't try to equivocate with me, Calico.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_nano_convo01_06",
+      "audioUrl": "audio/priest_match_start_priest_nano_convo01_06.mp3",
+      "text": "Wrong. I have no illusions and my hands are clean. But at least when innocent people die by my hand, it's not because I'm looking to make a dollar.",
+      "duration": null
+    },
+    {
+      "order": 8,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_nano_convo01_08",
+      "audioUrl": "audio/priest_match_start_priest_nano_convo01_08.mp3",
+      "text": "Don't pretend that you bothered to check.",
+      "duration": null
+    }
+  ]
+}

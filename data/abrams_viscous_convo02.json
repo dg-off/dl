@@ -1,0 +1,21 @@
+{
+  "id": "abrams_viscous_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_atlas_viscous_convo02_02",
+      "audioUrl": "audio/viscous_match_start_atlas_viscous_convo02_02.mp3",
+      "text": "I punch people with KOO!",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_atlas_viscous_convo02_04",
+      "audioUrl": "audio/viscous_match_start_atlas_viscous_convo02_04.mp3",
+      "text": "We are family now.",
+      "duration": null
+    }
+  ]
+}

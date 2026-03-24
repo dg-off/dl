@@ -1,0 +1,29 @@
+{
+  "id": "holliday_sinclair_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_magician_astro_convo02_01",
+      "audioUrl": "audio/astro_match_start_magician_astro_convo02_01.mp3",
+      "text": "Hope you're better at fighting than you were at magic.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_magician_astro_convo02_03",
+      "audioUrl": "audio/astro_match_start_magician_astro_convo02_03.mp3",
+      "text": "Yeah? Then why are you dead?",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_magician_astro_convo02_05",
+      "audioUrl": "audio/astro_match_start_magician_astro_convo02_05.mp3",
+      "text": "Yeah, okay.",
+      "duration": null
+    }
+  ]
+}

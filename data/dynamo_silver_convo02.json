@@ -1,0 +1,21 @@
+{
+  "id": "dynamo_silver_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_dynamo_convo02_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_dynamo_convo02_02.mp3",
+      "text": "It's less fascinating when it's your life.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_dynamo_convo02_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_dynamo_convo02_04.mp3",
+      "text": "And yet you were.",
+      "duration": null
+    }
+  ]
+}

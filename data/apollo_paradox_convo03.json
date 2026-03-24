@@ -1,0 +1,29 @@
+{
+  "id": "apollo_paradox_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_chrono_convo03_02",
+      "audioUrl": "audio/fencer_match_start_fencer_chrono_convo03_02.mp3",
+      "text": "I'm not interested in seeing the trinkets you've stolen from others.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_chrono_convo03_04",
+      "audioUrl": "audio/fencer_match_start_fencer_chrono_convo03_04.mp3",
+      "text": "It's no Tome of Anubis.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_chrono_convo03_06",
+      "audioUrl": "audio/fencer_match_start_fencer_chrono_convo03_06.mp3",
+      "text": "Let me rephrase, I'm not going anywhere with you.",
+      "duration": null
+    }
+  ]
+}

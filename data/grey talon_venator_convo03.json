@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_venator_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_orion_convo03_01",
+      "audioUrl": "audio/priest_match_start_priest_orion_convo03_01.mp3",
+      "text": "Your choice in protege was... interesting.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_orion_convo03_03",
+      "audioUrl": "audio/priest_match_start_priest_orion_convo03_03.mp3",
+      "text": "He should be dead.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_orion_convo03_05",
+      "audioUrl": "audio/priest_match_start_priest_orion_convo03_05.mp3",
+      "text": "If he strays from the path, you won't be able to protect him from us.",
+      "duration": null
+    }
+  ]
+}

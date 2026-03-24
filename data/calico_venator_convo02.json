@@ -1,0 +1,21 @@
+{
+  "id": "calico_venator_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_nano_convo02_02",
+      "audioUrl": "audio/priest_match_start_priest_nano_convo02_02.mp3",
+      "text": "Not long enough.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_nano_convo02_04",
+      "audioUrl": "audio/priest_match_start_priest_nano_convo02_04.mp3",
+      "text": "That was before you became a monster.",
+      "duration": null
+    }
+  ]
+}

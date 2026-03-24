@@ -1,0 +1,29 @@
+{
+  "id": "drifter_paige_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_drifter_bookworm_convo02_01",
+      "audioUrl": "audio/bookworm_match_start_drifter_bookworm_convo02_01.mp3",
+      "text": "You're not gonna kill me, right?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_drifter_bookworm_convo02_03",
+      "audioUrl": "audio/bookworm_match_start_drifter_bookworm_convo02_03.mp3",
+      "text": "Sure, but what about for fun?",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_drifter_bookworm_convo02_05",
+      "audioUrl": "audio/bookworm_match_start_drifter_bookworm_convo02_05.mp3",
+      "text": "I'm gonna stop talking.",
+      "duration": null
+    }
+  ]
+}

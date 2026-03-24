@@ -1,0 +1,29 @@
+{
+  "id": "grey talon_shiv_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_shiv_convo03_02",
+      "audioUrl": "audio/orion_match_start_orion_shiv_convo03_02.mp3",
+      "text": "They don't.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_shiv_convo03_04",
+      "audioUrl": "audio/orion_match_start_orion_shiv_convo03_04.mp3",
+      "text": "Don't try to guilt me, Shiv. Not today.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_shiv_convo03_06",
+      "audioUrl": "audio/orion_match_start_orion_shiv_convo03_06.mp3",
+      "text": "Thank you.",
+      "duration": null
+    }
+  ]
+}

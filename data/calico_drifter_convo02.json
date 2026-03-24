@@ -1,0 +1,13 @@
+{
+  "id": "calico_drifter_convo02",
+  "lines": [
+    {
+      "order": 4,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_nano_convo02_04",
+      "audioUrl": "audio/drifter_match_start_drifter_nano_convo02_04.mp3",
+      "text": "Which I'd say is a testament to how satisfying it is.",
+      "duration": null
+    }
+  ]
+}

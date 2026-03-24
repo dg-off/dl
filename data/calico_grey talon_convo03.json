@@ -1,0 +1,13 @@
+{
+  "id": "calico_grey talon_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_nano_orion_convo03_02",
+      "audioUrl": "audio/orion_match_start_nano_orion_convo03_02.mp3",
+      "text": "I don't have many breaths left, Calico. I'm certainly not going to waste them on your problems.",
+      "duration": null
+    }
+  ]
+}

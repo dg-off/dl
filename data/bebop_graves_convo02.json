@@ -1,0 +1,29 @@
+{
+  "id": "bebop_graves_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_bebop_convo02_01",
+      "audioUrl": "audio/necro_match_start_necro_bebop_convo02_01.mp3",
+      "text": "Who made you?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_bebop_convo02_03",
+      "audioUrl": "audio/necro_match_start_necro_bebop_convo02_03.mp3",
+      "text": "You like her?",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_bebop_convo02_05",
+      "audioUrl": "audio/necro_match_start_necro_bebop_convo02_05.mp3",
+      "text": "Eh, they're alright.",
+      "duration": null
+    }
+  ]
+}

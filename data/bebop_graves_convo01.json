@@ -1,0 +1,21 @@
+{
+  "id": "bebop_graves_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_bebop_convo01_02",
+      "audioUrl": "audio/necro_match_start_necro_bebop_convo01_02.mp3",
+      "text": "No. Do yours?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_bebop_convo01_04",
+      "audioUrl": "audio/necro_match_start_necro_bebop_convo01_04.mp3",
+      "text": "Can you get off my back, you little robo-hypocrite?",
+      "duration": null
+    }
+  ]
+}

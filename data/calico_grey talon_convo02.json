@@ -1,0 +1,21 @@
+{
+  "id": "calico_grey talon_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_nano_orion_convo02_02",
+      "audioUrl": "audio/orion_match_start_nano_orion_convo02_02.mp3",
+      "text": "How awkward do you want to make it?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_nano_orion_convo02_04",
+      "audioUrl": "audio/orion_match_start_nano_orion_convo02_04.mp3",
+      "text": "Green.",
+      "duration": null
+    }
+  ]
+}

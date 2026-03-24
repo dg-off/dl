@@ -1,0 +1,21 @@
+{
+  "id": "apollo_calico_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_nano_convo02_01",
+      "audioUrl": "audio/fencer_match_start_fencer_nano_convo02_01.mp3",
+      "text": "Why did you leave the Baxter Society?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_nano_convo02_03",
+      "audioUrl": "audio/fencer_match_start_fencer_nano_convo02_03.mp3",
+      "text": "Father says loyalty is everything.",
+      "duration": null
+    }
+  ]
+}

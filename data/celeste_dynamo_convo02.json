@@ -1,0 +1,29 @@
+{
+  "id": "celeste_dynamo_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_dynamo_convo02_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_dynamo_convo02_01.mp3",
+      "text": "What you're doing is very romantic, Professor, but I'm pretty sure your wife is more concerned with you being safe than she is about the state of your body.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_dynamo_convo02_03",
+      "audioUrl": "audio/unicorn_match_start_unicorn_dynamo_convo02_03.mp3",
+      "text": "But...",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_dynamo_convo02_03_alt_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_dynamo_convo02_03_alt_01.mp3",
+      "text": "But.",
+      "duration": null
+    }
+  ]
+}

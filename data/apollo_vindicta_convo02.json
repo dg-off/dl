@@ -1,0 +1,21 @@
+{
+  "id": "apollo_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_hornet_convo02_01",
+      "audioUrl": "audio/fencer_match_start_fencer_hornet_convo02_01.mp3",
+      "text": "Your war on the Friends of Humanity is commendable, even if your tactics are less than honorable.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_hornet_convo02_03",
+      "audioUrl": "audio/fencer_match_start_fencer_hornet_convo02_03.mp3",
+      "text": "I'm not, but as someone whose life has been affected by political assassinations, I have... complicated feelings.",
+      "duration": null
+    }
+  ]
+}

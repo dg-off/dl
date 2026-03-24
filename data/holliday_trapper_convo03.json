@@ -1,0 +1,21 @@
+{
+  "id": "holliday_trapper_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_trapper_astro_convo03_02",
+      "audioUrl": "audio/astro_match_start_trapper_astro_convo03_02.mp3",
+      "text": "You're worried about basketball?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_trapper_astro_convo03_04",
+      "audioUrl": "audio/astro_match_start_trapper_astro_convo03_04.mp3",
+      "text": "Just set a trap and I'll grab him.",
+      "duration": null
+    }
+  ]
+}

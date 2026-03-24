@@ -1,0 +1,13 @@
+{
+  "id": "lady geist_warden_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_warden_convo01_02",
+      "audioUrl": "audio/ghost_match_start_ghost_warden_convo01_02.mp3",
+      "text": "Then why are you fighting on their behalf?",
+      "duration": null
+    }
+  ]
+}

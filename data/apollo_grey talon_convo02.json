@@ -1,0 +1,29 @@
+{
+  "id": "apollo_grey talon_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_orion_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_orion_convo02_02.mp3",
+      "text": "You talk as if you know him.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_orion_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_orion_convo02_04.mp3",
+      "text": "I'm afraid reality is less salacious than the tabloids would have you believe.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_orion_convo02_06",
+      "audioUrl": "audio/fencer_match_start_fencer_orion_convo02_06.mp3",
+      "text": "Who's to say he's not here?",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ivy_silver_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_tengu_convo02_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_tengu_convo02_02.mp3",
+      "text": "Never really thought about it.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_tengu_convo02_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_tengu_convo02_04.mp3",
+      "text": "I mean, now that's probably all I'll think about, too. Thanks.",
+      "duration": null
+    }
+  ]
+}

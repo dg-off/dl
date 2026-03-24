@@ -1,0 +1,21 @@
+{
+  "id": "wraith_yamato_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_wraith_convo02_02",
+      "audioUrl": "audio/yamato_match_start_yamato_wraith_convo02_02.mp3",
+      "text": "What do you think we are doing?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_wraith_convo02_04",
+      "audioUrl": "audio/yamato_match_start_yamato_wraith_convo02_04.mp3",
+      "text": "I don't need your friendship, you need mine.",
+      "duration": null
+    }
+  ]
+}

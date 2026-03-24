@@ -1,0 +1,29 @@
+{
+  "id": "holliday_operative_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_operative_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_operative_astro_convo02_02.mp3",
+      "text": "It doesn't matter.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_operative_astro_convo02_04",
+      "audioUrl": "audio/astro_match_start_operative_astro_convo02_04.mp3",
+      "text": "Don't worry about me.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_operative_astro_convo02_06",
+      "audioUrl": "audio/astro_match_start_operative_astro_convo02_06.mp3",
+      "text": "Don't worry about me.",
+      "duration": null
+    }
+  ]
+}

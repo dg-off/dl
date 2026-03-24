@@ -1,0 +1,21 @@
+{
+  "id": "calico_pocket_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_nano_synth_convo02_01",
+      "audioUrl": "audio/synth_match_start_nano_synth_convo02_01.mp3",
+      "text": "You tried to kill me.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_nano_synth_convo02_03",
+      "audioUrl": "audio/synth_match_start_nano_synth_convo02_03.mp3",
+      "text": "The hell you didn't. A quarter inch to the right and that bullet would have been square in my heart.",
+      "duration": null
+    }
+  ]
+}

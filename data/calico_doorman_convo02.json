@@ -1,0 +1,21 @@
+{
+  "id": "calico_doorman_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_nano_convo02_01",
+      "audioUrl": "audio/doorman_match_start_doorman_nano_convo02_01.mp3",
+      "text": "So, are you just in New York for the ritual, or do you have professional interests in town?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_nano_convo02_03",
+      "audioUrl": "audio/doorman_match_start_doorman_nano_convo02_03.mp3",
+      "text": "Ah, seeing old friends.",
+      "duration": null
+    }
+  ]
+}

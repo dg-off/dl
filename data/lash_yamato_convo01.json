@@ -1,0 +1,13 @@
+{
+  "id": "lash_yamato_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_lash_convo01_02",
+      "audioUrl": "audio/yamato_match_start_yamato_lash_convo01_02.mp3",
+      "text": "Be quiet, or I will butcher you like you butcher my language.",
+      "duration": null
+    }
+  ]
+}

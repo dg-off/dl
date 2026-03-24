@@ -1,0 +1,13 @@
+{
+  "id": "calico_pocket_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_nano_synth_convo01_02",
+      "audioUrl": "audio/synth_match_start_nano_synth_convo01_02.mp3",
+      "text": "Go to hell.",
+      "duration": null
+    }
+  ]
+}

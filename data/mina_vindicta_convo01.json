@@ -1,0 +1,13 @@
+{
+  "id": "mina_vindicta_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_vampirebat_hornet_convo01_02",
+      "audioUrl": "audio/hornet_match_start_vampirebat_hornet_convo01_02.mp3",
+      "text": "Very.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "abrams_mirage_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_atlas_mirage_convo03_02",
+      "audioUrl": "audio/mirage_match_start_atlas_mirage_convo03_02.mp3",
+      "text": "A few years.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_atlas_mirage_convo03_04",
+      "audioUrl": "audio/mirage_match_start_atlas_mirage_convo03_04.mp3",
+      "text": "One doesn't send out a CV to work for the Djinn, they approach you with an offer.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_atlas_mirage_convo03_06",
+      "audioUrl": "audio/mirage_match_start_atlas_mirage_convo03_06.mp3",
+      "text": "Some days are safer than others, but on the whole, no. I am grateful to be of service.",
+      "duration": null
+    }
+  ]
+}

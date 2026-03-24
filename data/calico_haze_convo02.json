@@ -1,0 +1,13 @@
+{
+  "id": "calico_haze_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_nano_haze_convo02_02",
+      "audioUrl": "audio/haze_match_start_nano_haze_convo02_02.mp3",
+      "text": "that my restraint is superhuman.",
+      "duration": null
+    }
+  ]
+}

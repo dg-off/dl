@@ -1,0 +1,21 @@
+{
+  "id": "abrams_victor_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_atlas_convo02_02",
+      "audioUrl": "audio/frank_match_start_frank_atlas_convo02_02.mp3",
+      "text": "So do you.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_atlas_convo02_04",
+      "audioUrl": "audio/frank_match_start_frank_atlas_convo02_04.mp3",
+      "text": "Not particularly.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "apollo_pocket_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_synth_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_synth_convo02_02.mp3",
+      "text": "You went to Blackmore.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_synth_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_synth_convo02_04.mp3",
+      "text": "Sounds like you miss it.",
+      "duration": null
+    }
+  ]
+}

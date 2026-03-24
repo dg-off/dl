@@ -1,0 +1,29 @@
+{
+  "id": "shiv_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_shiv_convo02_01",
+      "audioUrl": "audio/priest_match_start_priest_shiv_convo02_01.mp3",
+      "text": "I don't know what Wesley saw in you.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_shiv_convo02_03",
+      "audioUrl": "audio/priest_match_start_priest_shiv_convo02_03.mp3",
+      "text": "From what I heard, it's more like three quarters.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_shiv_convo02_05",
+      "audioUrl": "audio/priest_match_start_priest_shiv_convo02_05.mp3",
+      "text": "There a problem with that?",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lady geist_warden_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_warden_convo02_01",
+      "audioUrl": "audio/ghost_match_start_ghost_warden_convo02_01.mp3",
+      "text": "You're a rather dour bastard, aren't you?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_warden_convo02_03",
+      "audioUrl": "audio/ghost_match_start_ghost_warden_convo02_03.mp3",
+      "text": "Boring people may say that I'm aloof, but at least I know how to have a good time. But you, you just look perpetually miserable.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Lady geist",
+      "audioFile": "ghost_match_start_ghost_warden_convo02_05",
+      "audioUrl": "audio/ghost_match_start_ghost_warden_convo02_05.mp3",
+      "text": "Whatever you say.",
+      "duration": null
+    }
+  ]
+}

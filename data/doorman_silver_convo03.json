@@ -1,0 +1,13 @@
+{
+  "id": "doorman_silver_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_doorman_convo03_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_doorman_convo03_01.mp3",
+      "text": "You gonna mess with my head?",
+      "duration": null
+    }
+  ]
+}

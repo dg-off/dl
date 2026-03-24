@@ -1,0 +1,21 @@
+{
+  "id": "graves_grey talon_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_orion_convo01_02",
+      "audioUrl": "audio/necro_match_start_necro_orion_convo01_02.mp3",
+      "text": "I'm not sure how useful that is during a firefight.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_orion_convo01_04",
+      "audioUrl": "audio/necro_match_start_necro_orion_convo01_04.mp3",
+      "text": "Of course.",
+      "duration": null
+    }
+  ]
+}

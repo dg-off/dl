@@ -1,0 +1,21 @@
+{
+  "id": "holliday_wrecker_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_wrecker_convo02_01",
+      "audioUrl": "audio/astro_match_start_astro_wrecker_convo02_01.mp3",
+      "text": "We have a plan?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_wrecker_convo02_03",
+      "audioUrl": "audio/astro_match_start_astro_wrecker_convo02_03.mp3",
+      "text": "I can't wait to get out of this goddamn city.",
+      "duration": null
+    }
+  ]
+}

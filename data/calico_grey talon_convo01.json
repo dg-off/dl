@@ -1,0 +1,21 @@
+{
+  "id": "calico_grey talon_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_nano_orion_convo01_02",
+      "audioUrl": "audio/orion_match_start_nano_orion_convo01_02.mp3",
+      "text": "We both know that's a lie.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_nano_orion_convo01_04",
+      "audioUrl": "audio/orion_match_start_nano_orion_convo01_04.mp3",
+      "text": "I understand. You being here now means more.",
+      "duration": null
+    }
+  ]
+}

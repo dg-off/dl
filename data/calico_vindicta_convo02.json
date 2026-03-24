@@ -1,0 +1,29 @@
+{
+  "id": "calico_vindicta_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_nano_hornet_convo02_01",
+      "audioUrl": "audio/hornet_match_start_nano_hornet_convo02_01.mp3",
+      "text": "You're one of Wesley's friends, right?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_nano_hornet_convo02_03",
+      "audioUrl": "audio/hornet_match_start_nano_hornet_convo02_03.mp3",
+      "text": "He spoke highly of you.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_nano_hornet_convo02_05",
+      "audioUrl": "audio/hornet_match_start_nano_hornet_convo02_05.mp3",
+      "text": "You can be disappointed in someone and still hold them in esteem.",
+      "duration": null
+    }
+  ]
+}

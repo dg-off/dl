@@ -1,0 +1,13 @@
+{
+  "id": "drifter_venator_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_drifter_priest_convo02_02",
+      "audioUrl": "audio/priest_match_start_drifter_priest_convo02_02.mp3",
+      "text": "Enjoy your last day of wanton slaughter, Drifter. Tomorrow your wretched life will come to an end.",
+      "duration": null
+    }
+  ]
+}

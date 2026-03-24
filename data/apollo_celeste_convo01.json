@@ -1,0 +1,29 @@
+{
+  "id": "apollo_celeste_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_unicorn_fencer_convo01_02",
+      "audioUrl": "audio/fencer_match_start_unicorn_fencer_convo01_02.mp3",
+      "text": "I'm focused.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_unicorn_fencer_convo01_04",
+      "audioUrl": "audio/fencer_match_start_unicorn_fencer_convo01_04.mp3",
+      "text": "I don't need advice from someone who glues a horn on their head.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_unicorn_fencer_convo01_06",
+      "audioUrl": "audio/fencer_match_start_unicorn_fencer_convo01_06.mp3",
+      "text": "That's what I know you do.",
+      "duration": null
+    }
+  ]
+}

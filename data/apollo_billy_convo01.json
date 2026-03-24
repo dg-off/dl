@@ -1,0 +1,13 @@
+{
+  "id": "apollo_billy_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_punkgoat_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_punkgoat_convo01_02.mp3",
+      "text": "Basically.",
+      "duration": null
+    }
+  ]
+}

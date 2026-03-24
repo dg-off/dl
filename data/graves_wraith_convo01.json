@@ -1,0 +1,45 @@
+{
+  "id": "graves_wraith_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_wraith_convo01_02",
+      "audioUrl": "audio/necro_match_start_necro_wraith_convo01_02.mp3",
+      "text": "How do you know that?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_wraith_convo01_04",
+      "audioUrl": "audio/necro_match_start_necro_wraith_convo01_04.mp3",
+      "text": "I speak for them.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_wraith_convo01_06",
+      "audioUrl": "audio/necro_match_start_necro_wraith_convo01_06.mp3",
+      "text": "It's not. The dead have people speaking to them all the time. Go to a cemetery on Father's Day and you can't throw a rock without hitting someone talking to a headstone.",
+      "duration": null
+    },
+    {
+      "order": 8,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_wraith_convo01_08",
+      "audioUrl": "audio/necro_match_start_necro_wraith_convo01_08.mp3",
+      "text": "You don't get it, it's not sweet for them, it's painful. They see loved ones hurting and they want to offer comfort or advice or anything. To be their voice, it's an honor.",
+      "duration": null
+    },
+    {
+      "order": 10,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_wraith_convo01_10",
+      "audioUrl": "audio/necro_match_start_necro_wraith_convo01_10.mp3",
+      "text": "Oh, yeah, I can do that.",
+      "duration": null
+    }
+  ]
+}

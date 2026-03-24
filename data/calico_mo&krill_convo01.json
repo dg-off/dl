@@ -1,0 +1,29 @@
+{
+  "id": "calico_mo&krill_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_nano_krill_convo01_02",
+      "audioUrl": "audio/krill_match_start_nano_krill_convo01_02.mp3",
+      "text": "A pleasure to see you again, Calico.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_nano_krill_convo01_04",
+      "audioUrl": "audio/krill_match_start_nano_krill_convo01_04.mp3",
+      "text": "As much as we can in our line of work.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_nano_krill_convo01_06",
+      "audioUrl": "audio/krill_match_start_nano_krill_convo01_06.mp3",
+      "text": "As are we.",
+      "duration": null
+    }
+  ]
+}

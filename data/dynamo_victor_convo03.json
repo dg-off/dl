@@ -1,0 +1,21 @@
+{
+  "id": "dynamo_victor_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_dynamo_convo03_02",
+      "audioUrl": "audio/frank_match_start_frank_dynamo_convo03_02.mp3",
+      "text": "I'm ready to destroy my body in order to win.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_dynamo_convo03_04",
+      "audioUrl": "audio/frank_match_start_frank_dynamo_convo03_04.mp3",
+      "text": "That's probably wiser.",
+      "duration": null
+    }
+  ]
+}

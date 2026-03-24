@@ -1,0 +1,29 @@
+{
+  "id": "apollo_dynamo_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_dynamo_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_dynamo_convo01_02.mp3",
+      "text": "It's a good school, the teachers are competent and the study body well connected.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_dynamo_convo01_04",
+      "audioUrl": "audio/fencer_match_start_fencer_dynamo_convo01_04.mp3",
+      "text": "Prom doesn't further my goals.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_dynamo_convo01_06",
+      "audioUrl": "audio/fencer_match_start_fencer_dynamo_convo01_06.mp3",
+      "text": "I have my whole life to make memories, but my prime is right now and I can't waste it.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "abrams_mirage_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_atlas_mirage_convo02_01",
+      "audioUrl": "audio/mirage_match_start_atlas_mirage_convo02_01.mp3",
+      "text": "Abrams, that tomb is radiating malice.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Mirage",
+      "audioFile": "mirage_match_start_atlas_mirage_convo02_03",
+      "audioUrl": "audio/mirage_match_start_atlas_mirage_convo02_03.mp3",
+      "text": "Why are you carrying it?",
+      "duration": null
+    }
+  ]
+}

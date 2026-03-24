@@ -1,0 +1,29 @@
+{
+  "id": "haze_pocket_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_synth_convo01_02",
+      "audioUrl": "audio/haze_match_start_haze_synth_convo01_02.mp3",
+      "text": "I'm not a curator.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_synth_convo01_04",
+      "audioUrl": "audio/haze_match_start_haze_synth_convo01_04.mp3",
+      "text": "I'm a Sandman, not a curator. I'm not expected to recognize what you're holding, and I can't report what I don't know. Now, what were you about to tell me?",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Haze",
+      "audioFile": "haze_match_start_haze_synth_convo01_06",
+      "audioUrl": "audio/haze_match_start_haze_synth_convo01_06.mp3",
+      "text": "Good job.",
+      "duration": null
+    }
+  ]
+}

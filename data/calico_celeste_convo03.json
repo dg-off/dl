@@ -1,0 +1,45 @@
+{
+  "id": "calico_celeste_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo03_01",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo03_01.mp3",
+      "text": "Hey, I'm Celeste!",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo03_03",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo03_03.mp3",
+      "text": "Nice to meet you! So, what do you do?",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo03_05",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo03_05.mp3",
+      "text": "Fun!",
+      "duration": null
+    },
+    {
+      "order": 7,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo03_07",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo03_07.mp3",
+      "text": "Fancy! What about for work?",
+      "duration": null
+    },
+    {
+      "order": 9,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_nano_convo03_09",
+      "audioUrl": "audio/unicorn_match_start_unicorn_nano_convo03_09.mp3",
+      "text": "Oh, that's... great.",
+      "duration": null
+    }
+  ]
+}

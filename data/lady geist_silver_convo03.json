@@ -1,0 +1,13 @@
+{
+  "id": "lady geist_silver_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_ghost_convo03_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_ghost_convo03_02.mp3",
+      "text": "Geist, keep runnin' your mouth and you'll be the prettiest little corpse on Manhattan. Well, second prettiest. Victor's got a lot going for him.",
+      "duration": null
+    }
+  ]
+}

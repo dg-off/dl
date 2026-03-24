@@ -1,0 +1,29 @@
+{
+  "id": "graves_vyper_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_viper_convo03_02",
+      "audioUrl": "audio/necro_match_start_necro_viper_convo03_02.mp3",
+      "text": "Yeah.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_viper_convo03_04",
+      "audioUrl": "audio/necro_match_start_necro_viper_convo03_04.mp3",
+      "text": "Please don't talk to me.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_viper_convo03_06",
+      "audioUrl": "audio/necro_match_start_necro_viper_convo03_06.mp3",
+      "text": "No.",
+      "duration": null
+    }
+  ]
+}

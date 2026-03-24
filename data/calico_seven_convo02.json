@@ -1,0 +1,21 @@
+{
+  "id": "calico_seven_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_nano_gigawatt_convo02_01",
+      "audioUrl": "audio/gigawatt_match_start_nano_gigawatt_convo02_01.mp3",
+      "text": "How does it feel to be the black sheep of the Baxter Society?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_nano_gigawatt_convo02_03",
+      "audioUrl": "audio/gigawatt_match_start_nano_gigawatt_convo02_03.mp3",
+      "text": "Oh, you are an exceptional liar!",
+      "duration": null
+    }
+  ]
+}

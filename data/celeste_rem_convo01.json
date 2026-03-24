@@ -1,0 +1,61 @@
+{
+  "id": "celeste_rem_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_familiar_unicorn_convo01_02",
+      "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo01_02.mp3",
+      "text": "Hey little guy, what's your name?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_unicorn_convo01_03",
+      "audioUrl": "audio/familiar_match_start_familiar_unicorn_convo01_03.mp3",
+      "text": "Rem!",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_familiar_unicorn_convo01_04",
+      "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo01_04.mp3",
+      "text": "Remy's a great name!",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_familiar_unicorn_convo01_04_alt_01",
+      "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo01_04_alt_01.mp3",
+      "text": "Remy's a great name!",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Rem",
+      "audioFile": "familiar_match_start_familiar_unicorn_convo01_05",
+      "audioUrl": "audio/familiar_match_start_familiar_unicorn_convo01_05.mp3",
+      "text": "REM!!!",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_familiar_unicorn_convo01_06",
+      "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo01_06.mp3",
+      "text": "Okay, okay, Rem it is.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_familiar_unicorn_convo01_06_alt_01",
+      "audioUrl": "audio/unicorn_match_start_familiar_unicorn_convo01_06_alt_01.mp3",
+      "text": "Okay, okay, REM it is.",
+      "duration": null
+    }
+  ]
+}

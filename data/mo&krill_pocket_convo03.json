@@ -1,0 +1,13 @@
+{
+  "id": "mo&krill_pocket_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_synth_convo03_01",
+      "audioUrl": "audio/krill_match_start_krill_synth_convo03_01.mp3",
+      "text": "If this is to be a farewell, let it be a day that will be remembered.",
+      "duration": null
+    }
+  ]
+}

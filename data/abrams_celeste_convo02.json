@@ -1,0 +1,29 @@
+{
+  "id": "abrams_celeste_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_atlas_convo02_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_atlas_convo02_02.mp3",
+      "text": "Not really making plans this week. Figured I'd see if I survived today first.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_atlas_convo02_04",
+      "audioUrl": "audio/unicorn_match_start_unicorn_atlas_convo02_04.mp3",
+      "text": "We're also supposed to be found in the woods, but I wouldn't go camping if you paid me.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_atlas_convo02_06",
+      "audioUrl": "audio/unicorn_match_start_unicorn_atlas_convo02_06.mp3",
+      "text": "I should have never told you about that.",
+      "duration": null
+    }
+  ]
+}

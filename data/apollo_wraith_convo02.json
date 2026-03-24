@@ -1,0 +1,29 @@
+{
+  "id": "apollo_wraith_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_wraith_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_wraith_convo02_02.mp3",
+      "text": "Of course you would. He's a great man.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_wraith_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_wraith_convo02_04.mp3",
+      "text": "The first step is becoming someone worth talking to.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_wraith_convo02_06",
+      "audioUrl": "audio/fencer_match_start_fencer_wraith_convo02_06.mp3",
+      "text": "Oh, I am keenly aware.",
+      "duration": null
+    }
+  ]
+}

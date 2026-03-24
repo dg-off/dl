@@ -1,0 +1,21 @@
+{
+  "id": "abrams_graves_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_atlas_convo03_02",
+      "audioUrl": "audio/necro_match_start_necro_atlas_convo03_02.mp3",
+      "text": "You kidding me? These guys are trying to kill us. I'm gonna take all the protection I can get.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_atlas_convo03_04",
+      "audioUrl": "audio/necro_match_start_necro_atlas_convo03_04.mp3",
+      "text": "I'll try not to be offended.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lady geist_venator_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_ghost_convo01_02",
+      "audioUrl": "audio/priest_match_start_priest_ghost_convo01_02.mp3",
+      "text": "And you look the same.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_ghost_convo01_04",
+      "audioUrl": "audio/priest_match_start_priest_ghost_convo01_04.mp3",
+      "text": "You certainly knew who to bribe.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_ghost_convo01_06",
+      "audioUrl": "audio/priest_match_start_priest_ghost_convo01_06.mp3",
+      "text": "I'm not.",
+      "duration": null
+    }
+  ]
+}

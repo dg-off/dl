@@ -1,0 +1,29 @@
+{
+  "id": "calico_pocket_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_nano_synth_convo03_01",
+      "audioUrl": "audio/synth_match_start_nano_synth_convo03_01.mp3",
+      "text": "When this is over, are you gonna try to kill me?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_nano_synth_convo03_03",
+      "audioUrl": "audio/synth_match_start_nano_synth_convo03_03.mp3",
+      "text": "To finish the job.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Pocket",
+      "audioFile": "synth_match_start_nano_synth_convo03_05",
+      "audioUrl": "audio/synth_match_start_nano_synth_convo03_05.mp3",
+      "text": "Yeah? Who is?",
+      "duration": null
+    }
+  ]
+}

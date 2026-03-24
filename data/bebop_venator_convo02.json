@@ -1,0 +1,21 @@
+{
+  "id": "bebop_venator_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_bebop_convo02_02",
+      "audioUrl": "audio/priest_match_start_priest_bebop_convo02_02.mp3",
+      "text": "Of course. Lord, please guide Bebop's hand. May his aim be true, and his resolve unshaken by the screams of his enemies. For he fights, not for himself, but for the life of a good woman. Amen.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_bebop_convo02_04",
+      "audioUrl": "audio/priest_match_start_priest_bebop_convo02_04.mp3",
+      "text": "You're supposed to say amen.",
+      "duration": null
+    }
+  ]
+}

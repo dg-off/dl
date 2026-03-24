@@ -1,0 +1,13 @@
+{
+  "id": "calico_drifter_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_nano_convo03_02",
+      "audioUrl": "audio/drifter_match_start_drifter_nano_convo03_02.mp3",
+      "text": "It's a remarkably ugly cat, I can't help it.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "drifter_dynamo_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_dynamo_convo02_02",
+      "audioUrl": "audio/drifter_match_start_drifter_dynamo_convo02_02.mp3",
+      "text": "Don't worry about me not capitalizing, Professor. There's few things I like more than helpless victims.",
+      "duration": null
+    }
+  ]
+}

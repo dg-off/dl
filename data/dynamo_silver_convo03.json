@@ -1,0 +1,13 @@
+{
+  "id": "dynamo_silver_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_dynamo_convo03_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_dynamo_convo03_01.mp3",
+      "text": "What's it like being stuck in that contraption of yours?",
+      "duration": null
+    }
+  ]
+}

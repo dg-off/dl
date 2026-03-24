@@ -1,0 +1,21 @@
+{
+  "id": "abrams_apollo_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo02_02.mp3",
+      "text": "It's not Ixia, but it's tolerable.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_atlas_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_atlas_convo02_04.mp3",
+      "text": "I'm here because my father asked me to be, not because I want to. But only a fool doesn't make the most out of every opportunity.",
+      "duration": null
+    }
+  ]
+}

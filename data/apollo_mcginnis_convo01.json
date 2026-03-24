@@ -1,0 +1,13 @@
+{
+  "id": "apollo_mcginnis_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_forge_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_forge_convo01_02.mp3",
+      "text": "No, I'm proud of my father, and he's proud of me.",
+      "duration": null
+    }
+  ]
+}

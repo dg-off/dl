@@ -1,0 +1,21 @@
+{
+  "id": "dynamo_venator_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_dynamo_convo01_02",
+      "audioUrl": "audio/priest_match_start_priest_dynamo_convo01_02.mp3",
+      "text": "Ah, Father Julian.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_dynamo_convo01_04",
+      "audioUrl": "audio/priest_match_start_priest_dynamo_convo01_04.mp3",
+      "text": "Possessed currently, but you know Julian.",
+      "duration": null
+    }
+  ]
+}

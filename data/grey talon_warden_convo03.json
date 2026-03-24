@@ -1,0 +1,13 @@
+{
+  "id": "grey talon_warden_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_warden_convo03_01",
+      "audioUrl": "audio/orion_match_start_orion_warden_convo03_01.mp3",
+      "text": "I'll do what I can to support you when you charge in. You may not always see me, but don't wo-",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mcginnis_yamato_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_forge_convo01_02",
+      "audioUrl": "audio/yamato_match_start_yamato_forge_convo01_02.mp3",
+      "text": "Your American arrogance is insufferable.",
+      "duration": null
+    }
+  ]
+}

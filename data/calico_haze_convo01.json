@@ -1,0 +1,21 @@
+{
+  "id": "calico_haze_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_nano_haze_convo01_02",
+      "audioUrl": "audio/haze_match_start_nano_haze_convo01_02.mp3",
+      "text": "I do.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Haze",
+      "audioFile": "haze_match_start_nano_haze_convo01_04",
+      "audioUrl": "audio/haze_match_start_nano_haze_convo01_04.mp3",
+      "text": "I'm going to kill you before the day is out, so making small talk seems a little pointless.",
+      "duration": null
+    }
+  ]
+}

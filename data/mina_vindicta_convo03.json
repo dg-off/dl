@@ -1,0 +1,13 @@
+{
+  "id": "mina_vindicta_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_vampirebat_hornet_convo03_01",
+      "audioUrl": "audio/hornet_match_start_vampirebat_hornet_convo03_01.mp3",
+      "text": "Between the two of us, I'm not liking their chances.",
+      "duration": null
+    }
+  ]
+}

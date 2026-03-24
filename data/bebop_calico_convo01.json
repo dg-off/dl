@@ -1,0 +1,13 @@
+{
+  "id": "bebop_calico_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_nano_convo01_02",
+      "audioUrl": "audio/bebop_match_start_bebop_nano_convo01_02.mp3",
+      "text": "More or less.",
+      "duration": null
+    }
+  ]
+}

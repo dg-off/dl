@@ -1,0 +1,29 @@
+{
+  "id": "apollo_lash_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_lash_convo02_01",
+      "audioUrl": "audio/fencer_match_start_fencer_lash_convo02_01.mp3",
+      "text": "So, you're that arrogant moron I've heard so much about.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_lash_convo02_03",
+      "audioUrl": "audio/fencer_match_start_fencer_lash_convo02_03.mp3",
+      "text": "That's not what they said.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_lash_convo02_05",
+      "audioUrl": "audio/fencer_match_start_fencer_lash_convo02_05.mp3",
+      "text": "Pretty sure they were.",
+      "duration": null
+    }
+  ]
+}

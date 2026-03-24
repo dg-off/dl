@@ -1,0 +1,21 @@
+{
+  "id": "holliday_wrecker_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_wrecker_convo03_01",
+      "audioUrl": "audio/astro_match_start_astro_wrecker_convo03_01.mp3",
+      "text": "They call you the Butcher of Ixia, right?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_wrecker_convo03_03",
+      "audioUrl": "audio/astro_match_start_astro_wrecker_convo03_03.mp3",
+      "text": "You pull that shit here, I'll put a bullet in your skull.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "calico_victor_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_nano_convo02_02",
+      "audioUrl": "audio/frank_match_start_frank_nano_convo02_02.mp3",
+      "text": "Excuse me?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_nano_convo02_04",
+      "audioUrl": "audio/frank_match_start_frank_nano_convo02_04.mp3",
+      "text": "Did you?",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_nano_convo02_06",
+      "audioUrl": "audio/frank_match_start_frank_nano_convo02_06.mp3",
+      "text": "We're talking after the ritual.",
+      "duration": null
+    }
+  ]
+}

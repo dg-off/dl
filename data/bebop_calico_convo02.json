@@ -1,0 +1,21 @@
+{
+  "id": "bebop_calico_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_nano_convo02_02",
+      "audioUrl": "audio/bebop_match_start_bebop_nano_convo02_02.mp3",
+      "text": "I'm not interested in killing people for money.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_nano_convo02_04",
+      "audioUrl": "audio/bebop_match_start_bebop_nano_convo02_04.mp3",
+      "text": "It's an arbitrary yet distinct line.",
+      "duration": null
+    }
+  ]
+}

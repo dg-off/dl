@@ -1,0 +1,13 @@
+{
+  "id": "calico_yamato_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_nano_convo01_02",
+      "audioUrl": "audio/yamato_match_start_yamato_nano_convo01_02.mp3",
+      "text": "I don't need your help, Calico.",
+      "duration": null
+    }
+  ]
+}

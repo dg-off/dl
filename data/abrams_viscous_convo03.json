@@ -1,0 +1,37 @@
+{
+  "id": "abrams_viscous_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_atlas_viscous_convo03_01",
+      "audioUrl": "audio/viscous_match_start_atlas_viscous_convo03_01.mp3",
+      "text": "You're a detective, right?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_atlas_viscous_convo03_03",
+      "audioUrl": "audio/viscous_match_start_atlas_viscous_convo03_03.mp3",
+      "text": "I love mysteries!",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_atlas_viscous_convo03_05",
+      "audioUrl": "audio/viscous_match_start_atlas_viscous_convo03_05.mp3",
+      "text": "Who is the adversary and why are they massacring the denizens of the deep?",
+      "duration": null
+    },
+    {
+      "order": 7,
+      "character": "Viscous",
+      "audioFile": "viscous_match_start_atlas_viscous_convo03_07",
+      "audioUrl": "audio/viscous_match_start_atlas_viscous_convo03_07.mp3",
+      "text": "I can't read.",
+      "duration": null
+    }
+  ]
+}

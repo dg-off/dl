@@ -1,0 +1,29 @@
+{
+  "id": "apollo_viscous_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo01_02.mp3",
+      "text": "If you want to see fancy, you should attend one of my father's galas.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo01_04",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo01_04.mp3",
+      "text": "That, um, th-that wasn't an invitation.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo01_06",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo01_06.mp3",
+      "text": "You have me there. I shall try to make arrangements.",
+      "duration": null
+    }
+  ]
+}

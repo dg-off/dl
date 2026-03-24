@@ -1,0 +1,29 @@
+{
+  "id": "apollo_vindicta_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_hornet_convo03_01",
+      "audioUrl": "audio/fencer_match_start_fencer_hornet_convo03_01.mp3",
+      "text": "You know, they speak of you in Ixia.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_hornet_convo03_03",
+      "audioUrl": "audio/fencer_match_start_fencer_hornet_convo03_03.mp3",
+      "text": "Yes, they call you Hasha Vogali.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_hornet_convo03_05",
+      "audioUrl": "audio/fencer_match_start_fencer_hornet_convo03_05.mp3",
+      "text": "Death's Whisper.",
+      "duration": null
+    }
+  ]
+}

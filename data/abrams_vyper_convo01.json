@@ -1,0 +1,21 @@
+{
+  "id": "abrams_vyper_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_atlas_convo01_02",
+      "audioUrl": "audio/viper_match_start_viper_atlas_convo01_02.mp3",
+      "text": "Who lets anyone out of jail?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_atlas_convo01_04",
+      "audioUrl": "audio/viper_match_start_viper_atlas_convo01_04.mp3",
+      "text": "We're gonna have a blast, Abe. Don't sweat it.",
+      "duration": null
+    }
+  ]
+}

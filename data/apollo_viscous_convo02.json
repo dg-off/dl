@@ -1,0 +1,21 @@
+{
+  "id": "apollo_viscous_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo02_02.mp3",
+      "text": "Not in any course I've taken.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo02_04.mp3",
+      "text": "That probably speaks to your relevance.",
+      "duration": null
+    }
+  ]
+}

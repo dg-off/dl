@@ -1,0 +1,21 @@
+{
+  "id": "apollo_vyper_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viper_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_viper_convo01_02.mp3",
+      "text": "I'll pass.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viper_convo01_04",
+      "audioUrl": "audio/fencer_match_start_fencer_viper_convo01_04.mp3",
+      "text": "I'm not.",
+      "duration": null
+    }
+  ]
+}

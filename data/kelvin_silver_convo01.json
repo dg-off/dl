@@ -1,0 +1,21 @@
+{
+  "id": "kelvin_silver_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_kelvin_convo01_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_kelvin_convo01_02.mp3",
+      "text": "What, like you?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_kelvin_convo01_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_kelvin_convo01_04.mp3",
+      "text": "Kelvin, you're dead. The last thing I wanna do is end up like you.",
+      "duration": null
+    }
+  ]
+}

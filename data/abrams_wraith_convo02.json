@@ -1,0 +1,29 @@
+{
+  "id": "abrams_wraith_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_atlas_wraith_convo02_01",
+      "audioUrl": "audio/wraith_match_start_atlas_wraith_convo02_01.mp3",
+      "text": "Wanna make any side bets?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_atlas_wraith_convo02_03",
+      "audioUrl": "audio/wraith_match_start_atlas_wraith_convo02_03.mp3",
+      "text": "Today's the best day for gambling. You really think if this goes sideways, we're walking out of here alive?",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Wraith",
+      "audioFile": "wraith_match_start_atlas_wraith_convo02_05",
+      "audioUrl": "audio/wraith_match_start_atlas_wraith_convo02_05.mp3",
+      "text": "Let's go.",
+      "duration": null
+    }
+  ]
+}

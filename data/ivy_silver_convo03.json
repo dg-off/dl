@@ -1,0 +1,29 @@
+{
+  "id": "ivy_silver_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_tengu_convo03_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_tengu_convo03_01.mp3",
+      "text": "You took out Mendoza, right?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_tengu_convo03_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_tengu_convo03_03.mp3",
+      "text": "So what do you do now?",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_tengu_convo03_05",
+      "audioUrl": "audio/werewolf_match_start_werewolf_tengu_convo03_05.mp3",
+      "text": "I'd give you a raise.",
+      "duration": null
+    }
+  ]
+}

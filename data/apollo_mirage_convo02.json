@@ -1,0 +1,13 @@
+{
+  "id": "apollo_mirage_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_mirage_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_mirage_convo02_02.mp3",
+      "text": "I live in New York, it will never be my home.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "calico_silver_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_nano_convo01_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_nano_convo01_01.mp3",
+      "text": "So you're Calico, surprise we never met.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_nano_convo01_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_nano_convo01_03.mp3",
+      "text": "What's that supposed to mean?",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_nano_convo01_05",
+      "audioUrl": "audio/werewolf_match_start_werewolf_nano_convo01_05.mp3",
+      "text": "Venn diagrams are circles, you snooty bitch.",
+      "duration": null
+    }
+  ]
+}

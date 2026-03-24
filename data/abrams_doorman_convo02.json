@@ -1,0 +1,13 @@
+{
+  "id": "abrams_doorman_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Doorman",
+      "audioFile": "doorman_match_start_doorman_atlas_convo02_02",
+      "audioUrl": "audio/doorman_match_start_doorman_atlas_convo02_02.mp3",
+      "text": "I wouldn't dream of getting in front of you.",
+      "duration": null
+    }
+  ]
+}

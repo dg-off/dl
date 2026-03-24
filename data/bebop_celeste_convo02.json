@@ -1,0 +1,13 @@
+{
+  "id": "bebop_celeste_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_bebop_convo02_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_bebop_convo02_02.mp3",
+      "text": "If you see someone chased by a glitter ball, knock them into their friends.",
+      "duration": null
+    }
+  ]
+}

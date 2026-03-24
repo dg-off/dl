@@ -1,0 +1,13 @@
+{
+  "id": "holliday_trapper_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_trapper_astro_convo02_02",
+      "audioUrl": "audio/astro_match_start_trapper_astro_convo02_02.mp3",
+      "text": "Been a little busy?",
+      "duration": null
+    }
+  ]
+}

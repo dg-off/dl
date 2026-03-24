@@ -1,0 +1,13 @@
+{
+  "id": "bebop_venator_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_bebop_convo03_02",
+      "audioUrl": "audio/priest_match_start_priest_bebop_convo03_02.mp3",
+      "text": "Your help is appreciated, Bebop.",
+      "duration": null
+    }
+  ]
+}

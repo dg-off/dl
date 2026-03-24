@@ -1,0 +1,29 @@
+{
+  "id": "graves_vyper_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_viper_convo02_02",
+      "audioUrl": "audio/necro_match_start_necro_viper_convo02_02.mp3",
+      "text": "Doesn't matter because I'm not giving it to you.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_viper_convo02_04",
+      "audioUrl": "audio/necro_match_start_necro_viper_convo02_04.mp3",
+      "text": "I'm not scared of you.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_viper_convo02_06",
+      "audioUrl": "audio/necro_match_start_necro_viper_convo02_06.mp3",
+      "text": "We're on the same team.",
+      "duration": null
+    }
+  ]
+}

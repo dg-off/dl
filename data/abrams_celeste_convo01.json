@@ -1,0 +1,29 @@
+{
+  "id": "abrams_celeste_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_atlas_convo01_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_atlas_convo01_02.mp3",
+      "text": "He's stressed.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_atlas_convo01_04",
+      "audioUrl": "audio/unicorn_match_start_unicorn_atlas_convo01_04.mp3",
+      "text": "I know, I know. I tried to tell him, but you know Lenny. He's always going to Lenny.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_atlas_convo01_06",
+      "audioUrl": "audio/unicorn_match_start_unicorn_atlas_convo01_06.mp3",
+      "text": "What are friends for?",
+      "duration": null
+    }
+  ]
+}

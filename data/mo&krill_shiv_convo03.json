@@ -1,0 +1,13 @@
+{
+  "id": "mo&krill_shiv_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_shiv_convo03_02",
+      "audioUrl": "audio/krill_match_start_krill_shiv_convo03_02.mp3",
+      "text": "Don't worry about us, Shiv. Just be sure you're ready once we grab them.",
+      "duration": null
+    }
+  ]
+}

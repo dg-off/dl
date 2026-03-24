@@ -1,0 +1,21 @@
+{
+  "id": "kelvin_silver_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_kelvin_convo02_01",
+      "audioUrl": "audio/werewolf_match_start_werewolf_kelvin_convo02_01.mp3",
+      "text": "Is that were-otter fur on the parka?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_kelvin_convo02_03",
+      "audioUrl": "audio/werewolf_match_start_werewolf_kelvin_convo02_03.mp3",
+      "text": "Just checking.",
+      "duration": null
+    }
+  ]
+}

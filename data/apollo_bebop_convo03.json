@@ -1,0 +1,13 @@
+{
+  "id": "apollo_bebop_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_bebop_convo03_02",
+      "audioUrl": "audio/fencer_match_start_fencer_bebop_convo03_02.mp3",
+      "text": "Don't worry about me, Bebop. I'll be fine.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "apollo_mcginnis_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_forge_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_forge_convo02_02.mp3",
+      "text": "Then you're gonna be in the thick of it. I tend not to stay in one place for long.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "calico_mo&krill_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_nano_krill_convo02_02",
+      "audioUrl": "audio/krill_match_start_nano_krill_convo02_02.mp3",
+      "text": "It was a privilege. I'm sorry we couldn't do more.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_nano_krill_convo02_04",
+      "audioUrl": "audio/krill_match_start_nano_krill_convo02_04.mp3",
+      "text": "I suppose that's true.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_nano_krill_convo02_06",
+      "audioUrl": "audio/krill_match_start_nano_krill_convo02_06.mp3",
+      "text": "Eh, close enough.",
+      "duration": null
+    }
+  ]
+}

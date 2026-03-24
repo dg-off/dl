@@ -1,0 +1,21 @@
+{
+  "id": "dynamo_graves_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_dynamo_convo02_02",
+      "audioUrl": "audio/necro_match_start_necro_dynamo_convo02_02.mp3",
+      "text": "It's not.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_dynamo_convo02_04",
+      "audioUrl": "audio/necro_match_start_necro_dynamo_convo02_04.mp3",
+      "text": "This seemed a little more important.",
+      "duration": null
+    }
+  ]
+}

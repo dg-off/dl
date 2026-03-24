@@ -1,0 +1,13 @@
+{
+  "id": "celeste_dynamo_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Celeste",
+      "audioFile": "unicorn_match_start_unicorn_dynamo_convo01_02",
+      "audioUrl": "audio/unicorn_match_start_unicorn_dynamo_convo01_02.mp3",
+      "text": "Very chivalrous, professor. Hope the other guys are taking notes.",
+      "duration": null
+    }
+  ]
+}

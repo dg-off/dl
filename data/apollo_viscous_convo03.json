@@ -1,0 +1,37 @@
+{
+  "id": "apollo_viscous_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo03_02",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo03_02.mp3",
+      "text": "It's beautiful.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo03_04",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo03_04.mp3",
+      "text": "I imagine different people would tell you different answers.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo03_06",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo03_06.mp3",
+      "text": "My culture has complex dynamics.",
+      "duration": null
+    },
+    {
+      "order": 8,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viscous_convo03_08",
+      "audioUrl": "audio/fencer_match_start_fencer_viscous_convo03_08.mp3",
+      "text": "My family's in politics.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "calico_haze_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Haze",
+      "audioFile": "haze_match_start_nano_haze_convo03_02",
+      "audioUrl": "audio/haze_match_start_nano_haze_convo03_02.mp3",
+      "text": "You'll find out real soon.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "drifter_paige_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_drifter_bookworm_convo01_02",
+      "audioUrl": "audio/bookworm_match_start_drifter_bookworm_convo01_02.mp3",
+      "text": "Once there was a girl who was being harassed by a vampire.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_drifter_bookworm_convo01_04",
+      "audioUrl": "audio/bookworm_match_start_drifter_bookworm_convo01_04.mp3",
+      "text": "So, she staked him the end.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Paige",
+      "audioFile": "bookworm_match_start_drifter_bookworm_convo01_06",
+      "audioUrl": "audio/bookworm_match_start_drifter_bookworm_convo01_06.mp3",
+      "text": "What threat? It was just a story!",
+      "duration": null
+    }
+  ]
+}

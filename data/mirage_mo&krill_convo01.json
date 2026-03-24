@@ -1,0 +1,21 @@
+{
+  "id": "mirage_mo&krill_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_mirage_convo01_02",
+      "audioUrl": "audio/krill_match_start_krill_mirage_convo01_02.mp3",
+      "text": "It is a fascinating piece of antiquity.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_mirage_convo01_04",
+      "audioUrl": "audio/krill_match_start_krill_mirage_convo01_04.mp3",
+      "text": "No, I, in fact, do not have a death wish.",
+      "duration": null
+    }
+  ]
+}

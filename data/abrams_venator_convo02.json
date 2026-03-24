@@ -1,0 +1,21 @@
+{
+  "id": "abrams_venator_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_atlas_convo02_01",
+      "audioUrl": "audio/priest_match_start_priest_atlas_convo02_01.mp3",
+      "text": "You keep some questionable friends.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_atlas_convo02_03",
+      "audioUrl": "audio/priest_match_start_priest_atlas_convo02_03.mp3",
+      "text": "I also keep questionable friends.",
+      "duration": null
+    }
+  ]
+}

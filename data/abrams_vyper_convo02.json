@@ -1,0 +1,21 @@
+{
+  "id": "abrams_vyper_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_atlas_convo02_01",
+      "audioUrl": "audio/viper_match_start_viper_atlas_convo02_01.mp3",
+      "text": "You're looking good, detective.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_atlas_convo02_03",
+      "audioUrl": "audio/viper_match_start_viper_atlas_convo02_03.mp3",
+      "text": "You suck.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "holliday_warden_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_warden_convo03_02",
+      "audioUrl": "audio/astro_match_start_astro_warden_convo03_02.mp3",
+      "text": "Works for me.",
+      "duration": null
+    }
+  ]
+}

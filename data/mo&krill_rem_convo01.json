@@ -1,0 +1,21 @@
+{
+  "id": "mo&krill_rem_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_familiar_krill_convo01_02",
+      "audioUrl": "audio/krill_match_start_familiar_krill_convo01_02.mp3",
+      "text": "Ah, you don't need to worry about Maurice, he's a teddy bear. Well, mole. Teddy mole. No, that doesn't work either. I'm just going to assume you can understand nuance.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_familiar_krill_convo01_04",
+      "audioUrl": "audio/krill_match_start_familiar_krill_convo01_04.mp3",
+      "text": "Oh, no need to get sassy, my friend.",
+      "duration": null
+    }
+  ]
+}

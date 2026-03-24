@@ -1,0 +1,13 @@
+{
+  "id": "bebop_calico_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Bebop",
+      "audioFile": "bebop_match_start_bebop_nano_convo03_01",
+      "audioUrl": "audio/bebop_match_start_bebop_nano_convo03_01.mp3",
+      "text": "If I bring him to us, can you finish him off?",
+      "duration": null
+    }
+  ]
+}

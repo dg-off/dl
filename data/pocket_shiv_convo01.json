@@ -1,0 +1,13 @@
+{
+  "id": "pocket_shiv_convo01",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Shiv",
+      "audioFile": "shiv_match_start_synth_shiv_convo01_01",
+      "audioUrl": "audio/shiv_match_start_synth_shiv_convo01_01.mp3",
+      "text": "So, this is kind of awkward.",
+      "duration": null
+    }
+  ]
+}

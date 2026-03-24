@@ -1,0 +1,13 @@
+{
+  "id": "mo&krill_paradox_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_chrono_convo03_01",
+      "audioUrl": "audio/krill_match_start_krill_chrono_convo03_01.mp3",
+      "text": "Any plans for the next heist?",
+      "duration": null
+    }
+  ]
+}

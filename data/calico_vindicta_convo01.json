@@ -1,0 +1,21 @@
+{
+  "id": "calico_vindicta_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_nano_hornet_convo01_02",
+      "audioUrl": "audio/hornet_match_start_nano_hornet_convo01_02.mp3",
+      "text": "Depends on the favor, I suppose.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Vindicta",
+      "audioFile": "hornet_match_start_nano_hornet_convo01_04",
+      "audioUrl": "audio/hornet_match_start_nano_hornet_convo01_04.mp3",
+      "text": "The economic woes of assassins are not particularly my concern. Hathorne and his little merry band of bigots will die at my leisure.",
+      "duration": null
+    }
+  ]
+}

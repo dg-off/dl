@@ -1,0 +1,13 @@
+{
+  "id": "graves_lady geist_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_ghost_convo02_02",
+      "audioUrl": "audio/necro_match_start_necro_ghost_convo02_02.mp3",
+      "text": "The jacket kind of gives it away.",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "holliday_warden_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_warden_convo02_01",
+      "audioUrl": "audio/astro_match_start_astro_warden_convo02_01.mp3",
+      "text": "So are you supposed to be.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_warden_convo02_03",
+      "audioUrl": "audio/astro_match_start_astro_warden_convo02_03.mp3",
+      "text": "Well, you look like you're dressed up for Halloween, so I figured I'd ask.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_warden_convo02_05",
+      "audioUrl": "audio/astro_match_start_astro_warden_convo02_05.mp3",
+      "text": "So you're a creepy homeschooled kid, got it.",
+      "duration": null
+    }
+  ]
+}

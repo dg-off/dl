@@ -1,0 +1,21 @@
+{
+  "id": "graves_vyper_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_viper_convo01_02",
+      "audioUrl": "audio/necro_match_start_necro_viper_convo01_02.mp3",
+      "text": "I have the day off, shouldn't you be in jail?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_viper_convo01_04",
+      "audioUrl": "audio/necro_match_start_necro_viper_convo01_04.mp3",
+      "text": "You're full of shit.",
+      "duration": null
+    }
+  ]
+}

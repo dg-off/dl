@@ -1,0 +1,13 @@
+{
+  "id": "dynamo_warden_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Dynamo",
+      "audioFile": "dynamo_match_start_dynamo_warden_convo03_01",
+      "audioUrl": "audio/dynamo_match_start_dynamo_warden_convo03_01.mp3",
+      "text": "Warden, I wanted to put your mind at ease. I'm not just a man of science, but a man of action.",
+      "duration": null
+    }
+  ]
+}

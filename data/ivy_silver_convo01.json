@@ -1,0 +1,29 @@
+{
+  "id": "ivy_silver_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_tengu_convo01_02",
+      "audioUrl": "audio/werewolf_match_start_werewolf_tengu_convo01_02.mp3",
+      "text": "Good God, you're as nice as people say.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_tengu_convo01_04",
+      "audioUrl": "audio/werewolf_match_start_werewolf_tengu_convo01_04.mp3",
+      "text": "Well, let's see, do you help people for free?",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Silver",
+      "audioFile": "werewolf_match_start_werewolf_tengu_convo01_06",
+      "audioUrl": "audio/werewolf_match_start_werewolf_tengu_convo01_06.mp3",
+      "text": "Then yeah, you're killing my business.",
+      "duration": null
+    }
+  ]
+}

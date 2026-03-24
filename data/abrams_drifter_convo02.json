@@ -1,0 +1,21 @@
+{
+  "id": "abrams_drifter_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_atlas_convo02_01",
+      "audioUrl": "audio/drifter_match_start_drifter_atlas_convo02_01.mp3",
+      "text": "You afraid of things getting messy, detective?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Drifter",
+      "audioFile": "drifter_match_start_drifter_atlas_convo02_03",
+      "audioUrl": "audio/drifter_match_start_drifter_atlas_convo02_03.mp3",
+      "text": "Then let's get to work.",
+      "duration": null
+    }
+  ]
+}

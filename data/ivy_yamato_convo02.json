@@ -1,0 +1,29 @@
+{
+  "id": "ivy_yamato_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_tengu_convo02_01",
+      "audioUrl": "audio/yamato_match_start_yamato_tengu_convo02_01.mp3",
+      "text": "Don't stab me in the back, gargoyle.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_tengu_convo02_03",
+      "audioUrl": "audio/yamato_match_start_yamato_tengu_convo02_03.mp3",
+      "text": "Be sure you remember that.",
+      "duration": null
+    },
+    {
+      "order": 5,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_tengu_convo02_05",
+      "audioUrl": "audio/yamato_match_start_yamato_tengu_convo02_05.mp3",
+      "text": "Then you're a fool.",
+      "duration": null
+    }
+  ]
+}

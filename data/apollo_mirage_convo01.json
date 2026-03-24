@@ -1,0 +1,29 @@
+{
+  "id": "apollo_mirage_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_mirage_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_mirage_convo01_02.mp3",
+      "text": "You've done your homework.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_mirage_convo01_04",
+      "audioUrl": "audio/fencer_match_start_fencer_mirage_convo01_04.mp3",
+      "text": "Please, give Nashala my father's regards.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_mirage_convo01_06",
+      "audioUrl": "audio/fencer_match_start_fencer_mirage_convo01_06.mp3",
+      "text": "I'm royalty. It's important to know these things.",
+      "duration": null
+    }
+  ]
+}

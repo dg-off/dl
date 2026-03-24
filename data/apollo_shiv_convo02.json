@@ -1,0 +1,45 @@
+{
+  "id": "apollo_shiv_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_shiv_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_shiv_convo02_02.mp3",
+      "text": "It's a family heirloom, not something you pick up at a department store.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_shiv_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_shiv_convo02_04.mp3",
+      "text": "It's sharp.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_shiv_convo02_06",
+      "audioUrl": "audio/fencer_match_start_fencer_shiv_convo02_06.mp3",
+      "text": "I use it all the time.",
+      "duration": null
+    },
+    {
+      "order": 8,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_shiv_convo02_08",
+      "audioUrl": "audio/fencer_match_start_fencer_shiv_convo02_08.mp3",
+      "text": "No.",
+      "duration": null
+    },
+    {
+      "order": 10,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_shiv_convo02_10",
+      "audioUrl": "audio/fencer_match_start_fencer_shiv_convo02_10.mp3",
+      "text": "We'll find out, won't we?",
+      "duration": null
+    }
+  ]
+}

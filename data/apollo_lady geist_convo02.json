@@ -1,0 +1,21 @@
+{
+  "id": "apollo_lady geist_convo02",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_ghost_convo02_01",
+      "audioUrl": "audio/fencer_match_start_fencer_ghost_convo02_01.mp3",
+      "text": "So, are you idly rich or do you actually do something of value?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_ghost_convo02_03",
+      "audioUrl": "audio/fencer_match_start_fencer_ghost_convo02_03.mp3",
+      "text": "You have no idea who you're talking to.",
+      "duration": null
+    }
+  ]
+}

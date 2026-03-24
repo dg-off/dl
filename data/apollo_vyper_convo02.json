@@ -1,0 +1,21 @@
+{
+  "id": "apollo_vyper_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viper_convo02_02",
+      "audioUrl": "audio/fencer_match_start_fencer_viper_convo02_02.mp3",
+      "text": "I think you're a little old for me.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_viper_convo02_04",
+      "audioUrl": "audio/fencer_match_start_fencer_viper_convo02_04.mp3",
+      "text": "You're repugnant.",
+      "duration": null
+    }
+  ]
+}

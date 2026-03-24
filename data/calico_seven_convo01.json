@@ -1,0 +1,21 @@
+{
+  "id": "calico_seven_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_nano_gigawatt_convo01_02",
+      "audioUrl": "audio/gigawatt_match_start_nano_gigawatt_convo01_02.mp3",
+      "text": "Well, aren't we clever?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Seven",
+      "audioFile": "gigawatt_match_start_nano_gigawatt_convo01_04",
+      "audioUrl": "audio/gigawatt_match_start_nano_gigawatt_convo01_04.mp3",
+      "text": "And here I thought I was supposed to be working with a professional.",
+      "duration": null
+    }
+  ]
+}

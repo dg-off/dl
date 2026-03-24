@@ -1,0 +1,29 @@
+{
+  "id": "apollo_calico_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_nano_convo03_02",
+      "audioUrl": "audio/fencer_match_start_fencer_nano_convo03_02.mp3",
+      "text": "As a general rule, he doesn't break bread with assassins.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_nano_convo03_04",
+      "audioUrl": "audio/fencer_match_start_fencer_nano_convo03_04.mp3",
+      "text": "Why would I put him at risk?",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_nano_convo03_06",
+      "audioUrl": "audio/fencer_match_start_fencer_nano_convo03_06.mp3",
+      "text": "Until someone hires you to kill him.",
+      "duration": null
+    }
+  ]
+}

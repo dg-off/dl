@@ -1,0 +1,13 @@
+{
+  "id": "mo&krill_yamato_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_krill_convo03_02",
+      "audioUrl": "audio/yamato_match_start_yamato_krill_convo03_02.mp3",
+      "text": "Right, I didn't ask.",
+      "duration": null
+    }
+  ]
+}

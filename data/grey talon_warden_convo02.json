@@ -1,0 +1,21 @@
+{
+  "id": "grey talon_warden_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_warden_convo02_02",
+      "audioUrl": "audio/orion_match_start_orion_warden_convo02_02.mp3",
+      "text": "Yeah, while the others probably will get to enjoy a meaningful retirement.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Grey talon",
+      "audioFile": "orion_match_start_orion_warden_convo02_04",
+      "audioUrl": "audio/orion_match_start_orion_warden_convo02_04.mp3",
+      "text": "Warden, we're the ones with hollow lives.",
+      "duration": null
+    }
+  ]
+}

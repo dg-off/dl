@@ -1,0 +1,21 @@
+{
+  "id": "abrams_vyper_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_atlas_convo03_01",
+      "audioUrl": "audio/viper_match_start_viper_atlas_convo03_01.mp3",
+      "text": "Abe, you wanna meet up for a drink after this?",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Vyper",
+      "audioFile": "viper_match_start_viper_atlas_convo03_03",
+      "audioUrl": "audio/viper_match_start_viper_atlas_convo03_03.mp3",
+      "text": "Am I buy-? No! I'm not buy-! I'm a lady! Have some manners. Have some manners.",
+      "duration": null
+    }
+  ]
+}

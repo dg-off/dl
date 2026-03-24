@@ -1,0 +1,13 @@
+{
+  "id": "apollo_shiv_convo01",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Apollo",
+      "audioFile": "fencer_match_start_fencer_shiv_convo01_02",
+      "audioUrl": "audio/fencer_match_start_fencer_shiv_convo01_02.mp3",
+      "text": "Are you trying to mock me or befriend me?",
+      "duration": null
+    }
+  ]
+}

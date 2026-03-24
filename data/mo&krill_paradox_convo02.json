@@ -1,0 +1,21 @@
+{
+  "id": "mo&krill_paradox_convo02",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_chrono_convo02_02",
+      "audioUrl": "audio/krill_match_start_krill_chrono_convo02_02.mp3",
+      "text": "So, it is safe to assume there is one mummified Ixian skull in your possession?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Mo&krill",
+      "audioFile": "krill_match_start_krill_chrono_convo02_04",
+      "audioUrl": "audio/krill_match_start_krill_chrono_convo02_04.mp3",
+      "text": "Huh, you work fast.",
+      "duration": null
+    }
+  ]
+}

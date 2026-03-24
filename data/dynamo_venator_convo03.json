@@ -1,0 +1,13 @@
+{
+  "id": "dynamo_venator_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Venator",
+      "audioFile": "priest_match_start_priest_dynamo_convo03_01",
+      "audioUrl": "audio/priest_match_start_priest_dynamo_convo03_01.mp3",
+      "text": "Stay close to me, Professor. I'll keep you safe.",
+      "duration": null
+    }
+  ]
+}

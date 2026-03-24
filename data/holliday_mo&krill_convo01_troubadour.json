@@ -1,0 +1,37 @@
+{
+  "id": "holliday_mo&krill_convo01_troubadour",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_krill_troubadour_convo01_02",
+      "audioUrl": "audio/astro_match_start_astro_krill_troubadour_convo01_02.mp3",
+      "text": "Yeah, how do you know?",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_krill_troubadour_convo01_04",
+      "audioUrl": "audio/astro_match_start_astro_krill_troubadour_convo01_04.mp3",
+      "text": "I'm not sleeping with him.",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_krill_troubadour_convo01_06",
+      "audioUrl": "audio/astro_match_start_astro_krill_troubadour_convo01_06.mp3",
+      "text": "Ugh!",
+      "duration": null
+    },
+    {
+      "order": 6,
+      "character": "Holliday",
+      "audioFile": "astro_match_start_astro_krill_troubadour_convo01_06_alt_01",
+      "audioUrl": "audio/astro_match_start_astro_krill_troubadour_convo01_06_alt_01.mp3",
+      "text": "Ugh!",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bebop_graves_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Graves",
+      "audioFile": "necro_match_start_necro_bebop_convo03_01",
+      "audioUrl": "audio/necro_match_start_necro_bebop_convo03_01.mp3",
+      "text": "Look, the dead aren't very bright, okay? If any of them get in the way, I'm sorry.",
+      "duration": null
+    }
+  ]
+}

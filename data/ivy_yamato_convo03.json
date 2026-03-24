@@ -1,0 +1,21 @@
+{
+  "id": "ivy_yamato_convo03",
+  "lines": [
+    {
+      "order": 2,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_tengu_convo03_02",
+      "audioUrl": "audio/yamato_match_start_yamato_tengu_convo03_02.mp3",
+      "text": "I wasn't interested in your miserable city, but it might not be a bad idea to take it in this hand.",
+      "duration": null
+    },
+    {
+      "order": 4,
+      "character": "Yamato",
+      "audioFile": "yamato_match_start_yamato_tengu_convo03_04",
+      "audioUrl": "audio/yamato_match_start_yamato_tengu_convo03_04.mp3",
+      "text": "Noted.",
+      "duration": null
+    }
+  ]
+}

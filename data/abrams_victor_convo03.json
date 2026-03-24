@@ -1,0 +1,21 @@
+{
+  "id": "abrams_victor_convo03",
+  "lines": [
+    {
+      "order": 1,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_atlas_convo03_01",
+      "audioUrl": "audio/frank_match_start_frank_atlas_convo03_01.mp3",
+      "text": "Don't suppose one of your cases ever had you bumping into some mad genius that lost one of his creations.",
+      "duration": null
+    },
+    {
+      "order": 3,
+      "character": "Victor",
+      "audioFile": "frank_match_start_frank_atlas_convo03_03",
+      "audioUrl": "audio/frank_match_start_frank_atlas_convo03_03.mp3",
+      "text": "Worth a try.",
+      "duration": null
+    }
+  ]
+}
