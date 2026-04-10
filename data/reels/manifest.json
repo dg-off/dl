@@ -8,7 +8,7 @@
         "holliday_paradox_convo02",
         "holliday_paradox_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0002",
@@ -17,7 +17,7 @@
         "holliday_mcginnis_convo01",
         "holliday_mcginnis_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0003",
@@ -26,7 +26,7 @@
         "holliday_lady geist_convo01",
         "holliday_lady geist_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0004",
@@ -35,7 +35,7 @@
         "holliday_vindicta_convo01",
         "holliday_vindicta_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0005",
@@ -44,7 +44,7 @@
         "holliday_infernus_convo01",
         "holliday_infernus_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0006",
@@ -53,7 +53,7 @@
         "holliday_kelvin_convo01",
         "holliday_kelvin_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0007",
@@ -62,7 +62,7 @@
         "holliday_krill_convo01",
         "holliday_krill_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0008",
@@ -71,7 +71,7 @@
         "holliday_lash_convo01",
         "holliday_lash_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0009",
@@ -80,7 +80,7 @@
         "holliday_mirage_convo01",
         "holliday_mirage_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0010",
@@ -89,7 +89,7 @@
         "grey talon_holliday_convo01",
         "grey talon_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0011",
@@ -98,7 +98,7 @@
         "holliday_shiv_convo01",
         "holliday_shiv_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0012",
@@ -107,7 +107,7 @@
         "holliday_pocket_convo01",
         "holliday_pocket_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0013",
@@ -116,7 +116,7 @@
         "holliday_ivy_convo01",
         "holliday_ivy_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0014",
@@ -125,7 +125,7 @@
         "holliday_viscous_convo01",
         "holliday_viscous_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0015",
@@ -134,7 +134,7 @@
         "holliday_wraith_convo01",
         "holliday_wraith_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0016",
@@ -143,7 +143,7 @@
         "abrams_holliday_convo01",
         "abrams_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0017",
@@ -152,7 +152,7 @@
         "bebop_holliday_convo01",
         "bebop_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0018",
@@ -161,7 +161,7 @@
         "drifter_holliday_convo01",
         "drifter_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0019",
@@ -170,7 +170,7 @@
         "dynamo_holliday_convo01",
         "dynamo_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0020",
@@ -179,7 +179,7 @@
         "holliday_rem_convo01",
         "holliday_rem_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0021",
@@ -188,7 +188,7 @@
         "apollo_holliday_convo01",
         "apollo_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0022",
@@ -197,7 +197,7 @@
         "holliday_victor_convo01",
         "holliday_victor_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0023",
@@ -206,7 +206,7 @@
         "holliday_seven_convo01",
         "holliday_seven_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0024",
@@ -215,7 +215,7 @@
         "holliday_seven_convo01_troubadour",
         "holliday_seven_convo02_troubadour"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0025",
@@ -224,7 +224,7 @@
         "haze_holliday_convo01",
         "haze_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0026",
@@ -233,7 +233,7 @@
         "haze_holliday_convo01_troubadour",
         "haze_holliday_convo02_troubadour"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0027",
@@ -242,7 +242,7 @@
         "calico_holliday_convo01",
         "calico_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0028",
@@ -251,7 +251,7 @@
         "graves_holliday_convo01",
         "graves_holliday_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0029",
@@ -260,7 +260,7 @@
         "holliday_venator_convo01",
         "holliday_venator_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0030",
@@ -269,7 +269,7 @@
         "holliday_viper_convo01",
         "holliday_viper_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0031",
@@ -278,7 +278,7 @@
         "holliday_silver_convo01",
         "holliday_silver_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0032",
@@ -287,7 +287,7 @@
         "holliday_yamato_convo01",
         "holliday_yamato_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0033",
@@ -296,7 +296,7 @@
         "abrams_bebop_convo01",
         "abrams_bebop_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0034",
@@ -305,7 +305,7 @@
         "abrams_paradox_convo01",
         "abrams_paradox_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0035",
@@ -314,7 +314,7 @@
         "abrams_dynamo_convo01",
         "abrams_dynamo_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0036",
@@ -323,7 +323,7 @@
         "abrams_dynamo_convo01_oathkeeper",
         "abrams_dynamo_convo02_oathkeeper"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0037",
@@ -332,7 +332,7 @@
         "abrams_mcginnis_convo02",
         "abrams_mcginnis_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0038",
@@ -341,7 +341,7 @@
         "abrams_lady geist_convo02",
         "abrams_lady geist_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0039",
@@ -350,7 +350,7 @@
         "abrams_lady geist_convo02_oathkeeper",
         "abrams_seven_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0040",
@@ -359,7 +359,7 @@
         "abrams_seven_convo03",
         "abrams_haze_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0041",
@@ -368,7 +368,7 @@
         "abrams_haze_convo03",
         "abrams_vindicta_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0042",
@@ -377,7 +377,7 @@
         "abrams_vindicta_convo03",
         "abrams_infernus_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0043",
@@ -386,7 +386,7 @@
         "abrams_infernus_convo03",
         "abrams_kelvin_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0044",
@@ -395,7 +395,7 @@
         "abrams_kelvin_convo03",
         "abrams_krill_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0045",
@@ -404,7 +404,7 @@
         "abrams_krill_convo03",
         "abrams_lash_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0046",
@@ -413,7 +413,7 @@
         "abrams_lash_convo03",
         "abrams_grey talon_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0047",
@@ -422,7 +422,7 @@
         "abrams_grey talon_convo03",
         "abrams_shiv_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0048",
@@ -431,7 +431,7 @@
         "abrams_shiv_convo03",
         "abrams_pocket_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0049",
@@ -440,7 +440,7 @@
         "abrams_pocket_convo03",
         "abrams_ivy_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0050",
@@ -449,7 +449,7 @@
         "abrams_ivy_convo03",
         "bebop_paradox_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0051",
@@ -458,7 +458,7 @@
         "bebop_paradox_convo03",
         "bebop_dynamo_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0052",
@@ -467,7 +467,7 @@
         "bebop_dynamo_convo03",
         "bebop_mcginnis_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0053",
@@ -476,7 +476,7 @@
         "bebop_mcginnis_convo03",
         "bebop_lady geist_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0054",
@@ -485,7 +485,7 @@
         "bebop_lady geist_convo03",
         "bebop_seven_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0055",
@@ -494,7 +494,7 @@
         "bebop_seven_convo03",
         "bebop_haze_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0056",
@@ -503,7 +503,7 @@
         "bebop_haze_convo03",
         "bebop_vindicta_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0057",
@@ -512,7 +512,7 @@
         "bebop_vindicta_convo03",
         "bebop_infernus_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0058",
@@ -521,7 +521,7 @@
         "bebop_infernus_convo03",
         "bebop_kelvin_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0059",
@@ -530,7 +530,7 @@
         "bebop_kelvin_convo03",
         "bebop_krill_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0060",
@@ -539,7 +539,7 @@
         "bebop_krill_convo03",
         "bebop_mirage_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0061",
@@ -548,7 +548,7 @@
         "bebop_mirage_convo03",
         "bebop_grey talon_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0062",
@@ -557,7 +557,7 @@
         "bebop_grey talon_convo03",
         "bebop_pocket_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0063",
@@ -566,7 +566,7 @@
         "bebop_pocket_convo03",
         "bebop_ivy_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0064",
@@ -575,7 +575,7 @@
         "bebop_ivy_convo03",
         "bebop_viscous_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0065",
@@ -584,7 +584,7 @@
         "bebop_viscous_convo03",
         "bebop_wraith_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0066",
@@ -593,7 +593,7 @@
         "bebop_wraith_convo03",
         "bebop_doorman_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0067",
@@ -602,7 +602,7 @@
         "bebop_doorman_convo03",
         "bebop_drifter_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0068",
@@ -611,7 +611,7 @@
         "bebop_drifter_convo03",
         "bebop_victor_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0069",
@@ -620,7 +620,7 @@
         "bebop_victor_convo03",
         "bebop_billy_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0070",
@@ -629,7 +629,7 @@
         "bebop_billy_convo03",
         "bebop_viper_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0071",
@@ -638,7 +638,7 @@
         "bebop_viper_convo03",
         "bebop_yamato_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0072",
@@ -647,7 +647,7 @@
         "bebop_yamato_convo03",
         "doorman_paige_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0073",
@@ -656,7 +656,7 @@
         "doorman_paige_convo03",
         "paige_victor_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0074",
@@ -665,7 +665,7 @@
         "paige_victor_convo03",
         "grey talon_paige_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0075",
@@ -674,7 +674,7 @@
         "grey talon_paige_convo03",
         "paige_viper_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0076",
@@ -683,7 +683,7 @@
         "paige_viper_convo03",
         "billy_paige_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0077",
@@ -692,7 +692,7 @@
         "billy_paige_convo03",
         "paradox_wraith_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0078",
@@ -701,7 +701,7 @@
         "paradox_wraith_convo03",
         "drifter_paradox_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0079",
@@ -710,7 +710,7 @@
         "drifter_paradox_convo03",
         "dynamo_paradox_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0080",
@@ -719,7 +719,7 @@
         "dynamo_paradox_convo03",
         "lady geist_paradox_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0081",
@@ -728,7 +728,7 @@
         "lady geist_paradox_convo03",
         "paradox_seven_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0082",
@@ -737,7 +737,7 @@
         "paradox_seven_convo03",
         "haze_paradox_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0083",
@@ -746,7 +746,7 @@
         "haze_paradox_convo03",
         "kelvin_paradox_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0084",
@@ -755,7 +755,7 @@
         "kelvin_paradox_convo03",
         "grey talon_paradox_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0085",
@@ -764,7 +764,7 @@
         "grey talon_paradox_convo03",
         "doorman_lady geist_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0086",
@@ -773,7 +773,7 @@
         "doorman_lady geist_convo03",
         "doorman_grey talon_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0087",
@@ -782,7 +782,7 @@
         "doorman_grey talon_convo03",
         "doorman_victor_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0088",
@@ -791,7 +791,7 @@
         "doorman_victor_convo03",
         "doorman_mina_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0089",
@@ -800,7 +800,7 @@
         "doorman_mina_convo03",
         "drifter_lady geist_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0090",
@@ -809,7 +809,7 @@
         "drifter_lady geist_convo03",
         "drifter_haze_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0091",
@@ -818,7 +818,7 @@
         "drifter_haze_convo03",
         "drifter_vindicta_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0092",
@@ -827,7 +827,7 @@
         "drifter_vindicta_convo03",
         "drifter_infernus_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0093",
@@ -836,7 +836,7 @@
         "drifter_infernus_convo03",
         "drifter_kelvin_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0094",
@@ -845,7 +845,7 @@
         "drifter_kelvin_convo03",
         "drifter_lash_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0095",
@@ -854,7 +854,7 @@
         "drifter_lash_convo03",
         "drifter_mirage_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0096",
@@ -863,7 +863,7 @@
         "drifter_mirage_convo03",
         "drifter_grey talon_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0097",
@@ -872,7 +872,7 @@
         "drifter_grey talon_convo03",
         "drifter_ivy_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0098",
@@ -881,7 +881,7 @@
         "drifter_ivy_convo03",
         "drifter_viper_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0099",
@@ -890,7 +890,7 @@
         "drifter_wraith_convo01",
         "drifter_wraith_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0100",
@@ -899,7 +899,7 @@
         "dynamo_mcginnis_convo01",
         "dynamo_mcginnis_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0101",
@@ -908,7 +908,7 @@
         "graves_rem_convo02",
         "graves_rem_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0102",
@@ -917,7 +917,7 @@
         "mina_victor_convo02",
         "mina_victor_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0103",
@@ -926,7 +926,7 @@
         "celeste_seven_convo02",
         "celeste_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0104",
@@ -935,7 +935,7 @@
         "viper_wraith_convo02",
         "viper_wraith_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0105",
@@ -944,7 +944,7 @@
         "seven_vindicta_convo02",
         "seven_vindicta_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0106",
@@ -953,7 +953,7 @@
         "dynamo_lash_convo02",
         "dynamo_lash_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0107",
@@ -962,7 +962,7 @@
         "apollo_rem_convo02",
         "apollo_rem_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0111",
@@ -971,7 +971,7 @@
         "dynamo_wraith_convo02",
         "dynamo_wraith_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0109",
@@ -980,7 +980,7 @@
         "holliday_mo&krill_convo02",
         "holliday_mo&krill_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0110",
@@ -989,7 +989,7 @@
         "holliday_vyper_convo02",
         "holliday_vyper_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0111",
@@ -998,7 +998,7 @@
         "abrams_mo&krill_convo02",
         "abrams_mo&krill_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0112",
@@ -1007,7 +1007,7 @@
         "bebop_mo&krill_convo02",
         "bebop_mo&krill_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0113",
@@ -1016,7 +1016,7 @@
         "bebop_vyper_convo02",
         "bebop_vyper_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0114",
@@ -1025,7 +1025,7 @@
         "paige_vyper_convo02",
         "paige_vyper_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0115",
@@ -1034,7 +1034,7 @@
         "drifter_vyper_convo02",
         "dynamo_mcginnis_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0116",
@@ -1043,7 +1043,7 @@
         "dynamo_lady geist_convo02",
         "dynamo_lady geist_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0117",
@@ -1052,7 +1052,7 @@
         "dynamo_lady geist_convo02_oathkeeper",
         "dynamo_seven_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0118",
@@ -1061,7 +1061,7 @@
         "dynamo_seven_convo03",
         "dynamo_haze_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0119",
@@ -1070,7 +1070,7 @@
         "dynamo_haze_convo03",
         "dynamo_vindicta_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0120",
@@ -1079,7 +1079,7 @@
         "dynamo_vindicta_convo03",
         "dynamo_infernus_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0121",
@@ -1088,7 +1088,7 @@
         "dynamo_infernus_convo03",
         "dynamo_kelvin_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0122",
@@ -1097,7 +1097,7 @@
         "dynamo_kelvin_convo03",
         "dynamo_mo&krill_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0123",
@@ -1106,7 +1106,7 @@
         "dynamo_mo&krill_convo03",
         "dynamo_mirage_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0124",
@@ -1115,7 +1115,7 @@
         "dynamo_mirage_convo03",
         "dynamo_grey talon_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0125",
@@ -1124,7 +1124,7 @@
         "dynamo_grey talon_convo03",
         "dynamo_shiv_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0126",
@@ -1133,7 +1133,7 @@
         "dynamo_shiv_convo03",
         "dynamo_pocket_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0127",
@@ -1142,7 +1142,7 @@
         "dynamo_pocket_convo03",
         "dynamo_ivy_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0128",
@@ -1151,7 +1151,7 @@
         "dynamo_ivy_convo03",
         "dynamo_viscous_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0129",
@@ -1160,7 +1160,7 @@
         "dynamo_viscous_convo03",
         "dynamo_yamato_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0130",
@@ -1169,7 +1169,7 @@
         "dynamo_yamato_convo03",
         "rem_seven_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0131",
@@ -1178,7 +1178,7 @@
         "rem_seven_convo03",
         "haze_rem_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0132",
@@ -1187,7 +1187,7 @@
         "haze_rem_convo03",
         "infernus_rem_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0133",
@@ -1196,7 +1196,7 @@
         "infernus_rem_convo03",
         "rem_venator_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0134",
@@ -1205,7 +1205,7 @@
         "rem_venator_convo03",
         "celeste_rem_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0135",
@@ -1214,7 +1214,7 @@
         "rem_silver_convo01",
         "rem_silver_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0136",
@@ -1223,7 +1223,7 @@
         "apollo_seven_convo01",
         "apollo_seven_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0137",
@@ -1232,7 +1232,7 @@
         "apollo_haze_convo01",
         "apollo_haze_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0138",
@@ -1241,7 +1241,7 @@
         "apollo_infernus_convo01",
         "apollo_infernus_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0139",
@@ -1250,7 +1250,7 @@
         "apollo_infernus_convo04",
         "apollo_mo&krill_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0140",
@@ -1259,7 +1259,7 @@
         "apollo_mo&krill_convo03",
         "apollo_graves_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0141",
@@ -1268,7 +1268,7 @@
         "apollo_graves_convo03",
         "apollo_venator_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0142",
@@ -1277,7 +1277,7 @@
         "apollo_silver_convo01",
         "apollo_silver_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0143",
@@ -1286,7 +1286,7 @@
         "apollo_celeste_convo02",
         "apollo_celeste_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0144",
@@ -1295,7 +1295,7 @@
         "grey talon_mcginnis_convo02",
         "grey talon_mcginnis_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0145",
@@ -1304,7 +1304,7 @@
         "mcginnis_wraith_convo02",
         "mcginnis_wraith_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0146",
@@ -1313,7 +1313,7 @@
         "lady geist_mcginnis_convo02",
         "lady geist_mcginnis_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0147",
@@ -1322,7 +1322,7 @@
         "mcginnis_seven_convo01",
         "mcginnis_seven_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0148",
@@ -1331,7 +1331,7 @@
         "haze_mcginnis_convo01",
         "haze_mcginnis_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0149",
@@ -1340,7 +1340,7 @@
         "infernus_mcginnis_convo01",
         "infernus_mcginnis_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0150",
@@ -1349,7 +1349,7 @@
         "kelvin_mcginnis_convo01",
         "kelvin_mcginnis_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0151",
@@ -1358,7 +1358,7 @@
         "lash_mcginnis_convo01",
         "lash_mcginnis_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0152",
@@ -1367,7 +1367,7 @@
         "ivy_mcginnis_convo01",
         "ivy_mcginnis_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0153",
@@ -1376,7 +1376,7 @@
         "lady geist_victor_convo01",
         "lady geist_victor_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0154",
@@ -1385,7 +1385,7 @@
         "haze_victor_convo01",
         "haze_victor_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0155",
@@ -1394,7 +1394,7 @@
         "infernus_victor_convo01",
         "infernus_victor_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0156",
@@ -1403,7 +1403,7 @@
         "kelvin_victor_convo01",
         "kelvin_victor_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0157",
@@ -1412,7 +1412,7 @@
         "lash_victor_convo01",
         "lash_victor_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0158",
@@ -1421,7 +1421,7 @@
         "grey talon_victor_convo01",
         "grey talon_victor_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0159",
@@ -1430,7 +1430,7 @@
         "ivy_victor_convo01",
         "ivy_victor_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0160",
@@ -1439,7 +1439,7 @@
         "lady geist_vindicta_convo01",
         "lady geist_vindicta_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0161",
@@ -1448,7 +1448,7 @@
         "infernus_lady geist_convo01",
         "infernus_lady geist_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0162",
@@ -1457,7 +1457,7 @@
         "kelvin_lady geist_convo01",
         "kelvin_lady geist_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0163",
@@ -1466,7 +1466,7 @@
         "lady geist_mo&krill_convo01",
         "lady geist_mo&krill_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0164",
@@ -1475,7 +1475,7 @@
         "lady geist_lash_convo01",
         "lady geist_lash_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0165",
@@ -1484,7 +1484,7 @@
         "lady geist_mirage_convo01",
         "lady geist_mirage_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0166",
@@ -1493,7 +1493,7 @@
         "grey talon_lady geist_convo01",
         "grey talon_lady geist_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0167",
@@ -1502,7 +1502,7 @@
         "lady geist_shiv_convo01",
         "lady geist_shiv_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0168",
@@ -1511,7 +1511,7 @@
         "lady geist_pocket_convo01",
         "lady geist_pocket_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0169",
@@ -1520,7 +1520,7 @@
         "lady geist_viscous_convo01",
         "lady geist_viscous_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0170",
@@ -1529,7 +1529,7 @@
         "lady geist_wraith_convo01",
         "lady geist_wraith_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0171",
@@ -1538,7 +1538,7 @@
         "lady geist_seven_convo01",
         "lady geist_seven_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0172",
@@ -1547,7 +1547,7 @@
         "haze_lady geist_convo01",
         "haze_lady geist_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0173",
@@ -1556,7 +1556,7 @@
         "billy_lady geist_convo01",
         "billy_lady geist_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0174",
@@ -1565,7 +1565,7 @@
         "lady geist_vyper_convo02",
         "lady geist_vyper_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0175",
@@ -1574,7 +1574,7 @@
         "lady geist_yamato_convo02",
         "lady geist_yamato_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0176",
@@ -1583,7 +1583,7 @@
         "haze_seven_convo02",
         "haze_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0177",
@@ -1592,7 +1592,7 @@
         "infernus_seven_convo02",
         "infernus_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0178",
@@ -1601,7 +1601,7 @@
         "kelvin_seven_convo02",
         "kelvin_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0179",
@@ -1610,7 +1610,7 @@
         "mo&krill_seven_convo02",
         "mo&krill_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0180",
@@ -1619,7 +1619,7 @@
         "lash_seven_convo02",
         "lash_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0181",
@@ -1628,7 +1628,7 @@
         "mirage_seven_convo02",
         "mirage_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0182",
@@ -1637,7 +1637,7 @@
         "grey talon_seven_convo02",
         "grey talon_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0183",
@@ -1646,7 +1646,7 @@
         "ivy_seven_convo02",
         "ivy_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0184",
@@ -1655,7 +1655,7 @@
         "seven_viscous_convo02",
         "seven_viscous_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0185",
@@ -1664,7 +1664,7 @@
         "graves_seven_convo02",
         "graves_seven_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0186",
@@ -1673,7 +1673,7 @@
         "seven_venator_convo02",
         "seven_venator_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0187",
@@ -1682,7 +1682,7 @@
         "seven_silver_convo02",
         "seven_silver_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0188",
@@ -1691,7 +1691,7 @@
         "haze_vindicta_convo02",
         "haze_vindicta_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0189",
@@ -1700,7 +1700,7 @@
         "haze_infernus_convo02",
         "haze_infernus_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0190",
@@ -1709,7 +1709,7 @@
         "haze_kelvin_convo02",
         "haze_kelvin_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0191",
@@ -1718,7 +1718,7 @@
         "haze_mo&krill_convo02",
         "haze_mo&krill_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0192",
@@ -1727,7 +1727,7 @@
         "haze_lash_convo02",
         "haze_lash_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0193",
@@ -1736,7 +1736,7 @@
         "haze_mirage_convo02",
         "haze_mirage_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0194",
@@ -1745,7 +1745,7 @@
         "grey talon_haze_convo02",
         "grey talon_haze_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0195",
@@ -1754,7 +1754,7 @@
         "haze_ivy_convo02",
         "haze_ivy_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0196",
@@ -1763,7 +1763,7 @@
         "haze_viscous_convo02",
         "haze_viscous_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0197",
@@ -1772,7 +1772,7 @@
         "haze_wraith_convo02",
         "haze_wraith_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0198",
@@ -1781,7 +1781,7 @@
         "graves_haze_convo02",
         "graves_haze_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0199",
@@ -1790,7 +1790,7 @@
         "haze_venator_convo02",
         "haze_venator_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0200",
@@ -1799,7 +1799,7 @@
         "celeste_haze_convo02",
         "celeste_haze_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0201",
@@ -1808,7 +1808,7 @@
         "haze_vyper_convo02",
         "haze_vyper_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0202",
@@ -1817,7 +1817,7 @@
         "haze_silver_convo02",
         "haze_silver_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0203",
@@ -1826,7 +1826,7 @@
         "haze_yamato_convo02",
         "haze_yamato_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0204",
@@ -1835,7 +1835,7 @@
         "vindicta_wraith_convo02",
         "vindicta_wraith_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0205",
@@ -1844,7 +1844,7 @@
         "infernus_vindicta_convo02",
         "infernus_vindicta_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0206",
@@ -1853,7 +1853,7 @@
         "kelvin_vindicta_convo02",
         "kelvin_vindicta_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0207",
@@ -1862,7 +1862,7 @@
         "grey talon_vindicta_convo01",
         "grey talon_vindicta_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0208",
@@ -1871,7 +1871,7 @@
         "billy_vindicta_convo01",
         "billy_vindicta_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0209",
@@ -1880,7 +1880,7 @@
         "ivy_vindicta_convo01",
         "ivy_vindicta_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0210",
@@ -1889,7 +1889,7 @@
         "vindicta_vyper_convo01",
         "vindicta_vyper_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0211",
@@ -1898,7 +1898,7 @@
         "infernus_mo&krill_convo01",
         "infernus_mo&krill_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0212",
@@ -1907,7 +1907,7 @@
         "infernus_viscous_convo01",
         "infernus_viscous_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0213",
@@ -1916,7 +1916,7 @@
         "infernus_wraith_convo01",
         "infernus_wraith_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0214",
@@ -1925,7 +1925,7 @@
         "infernus_kelvin_convo01",
         "infernus_kelvin_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0215",
@@ -1934,7 +1934,7 @@
         "graves_infernus_convo01",
         "graves_infernus_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0216",
@@ -1943,7 +1943,7 @@
         "infernus_venator_convo01",
         "infernus_venator_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0217",
@@ -1952,7 +1952,7 @@
         "celeste_infernus_convo01",
         "celeste_infernus_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0218",
@@ -1961,7 +1961,7 @@
         "infernus_silver_convo01",
         "infernus_silver_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0219",
@@ -1970,7 +1970,7 @@
         "infernus_yamato_convo01",
         "infernus_yamato_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0220",
@@ -1979,7 +1979,7 @@
         "kelvin_mo&krill_convo02",
         "kelvin_mo&krill_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0221",
@@ -1988,7 +1988,7 @@
         "kelvin_mirage_convo02",
         "kelvin_mirage_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0222",
@@ -1997,7 +1997,7 @@
         "grey talon_kelvin_convo02",
         "grey talon_kelvin_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0223",
@@ -2006,7 +2006,7 @@
         "kelvin_wraith_convo02",
         "kelvin_wraith_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0224",
@@ -2015,7 +2015,7 @@
         "kelvin_lash_convo02",
         "kelvin_lash_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0225",
@@ -2024,7 +2024,7 @@
         "ivy_kelvin_convo02",
         "ivy_kelvin_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0226",
@@ -2033,7 +2033,7 @@
         "kelvin_vyper_convo02",
         "kelvin_vyper_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0227",
@@ -2042,7 +2042,7 @@
         "grey talon_mo&krill_convo02",
         "grey talon_mo&krill_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0228",
@@ -2051,7 +2051,7 @@
         "mo&krill_wraith_convo02",
         "mo&krill_wraith_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0229",
@@ -2060,7 +2060,7 @@
         "ivy_mo&krill_convo02",
         "ivy_mo&krill_convo03"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0230",
@@ -2069,7 +2069,7 @@
         "grey talon_lash_convo01",
         "grey talon_lash_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0231",
@@ -2078,7 +2078,7 @@
         "lash_wraith_convo01",
         "lash_wraith_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0232",
@@ -2087,7 +2087,7 @@
         "ivy_lash_convo01",
         "ivy_lash_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0233",
@@ -2096,7 +2096,7 @@
         "lash_vyper_convo01",
         "lash_vyper_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0234",
@@ -2105,7 +2105,7 @@
         "mirage_vyper_convo01",
         "mirage_vyper_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0235",
@@ -2114,7 +2114,7 @@
         "calico_vyper_convo01",
         "calico_vyper_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0236",
@@ -2123,7 +2123,7 @@
         "graves_venator_convo01",
         "graves_venator_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0237",
@@ -2132,7 +2132,7 @@
         "graves_silver_convo01",
         "graves_silver_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0238",
@@ -2141,7 +2141,7 @@
         "celeste_graves_convo01",
         "celeste_graves_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0239",
@@ -2150,7 +2150,7 @@
         "grey talon_pocket_convo01",
         "grey talon_pocket_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0240",
@@ -2159,7 +2159,7 @@
         "grey talon_viscous_convo01",
         "grey talon_viscous_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0241",
@@ -2168,7 +2168,7 @@
         "grey talon_wraith_convo01",
         "grey talon_wraith_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0242",
@@ -2177,7 +2177,7 @@
         "billy_grey talon_convo01",
         "billy_grey talon_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0243",
@@ -2186,7 +2186,7 @@
         "grey talon_vyper_convo01",
         "grey talon_vyper_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0244",
@@ -2195,7 +2195,7 @@
         "grey talon_yamato_convo01",
         "grey talon_yamato_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0245",
@@ -2204,7 +2204,7 @@
         "celeste_venator_convo01",
         "celeste_venator_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0246",
@@ -2213,7 +2213,7 @@
         "silver_venator_convo01",
         "silver_venator_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0247",
@@ -2222,7 +2222,7 @@
         "venator_yamato_convo01",
         "venator_yamato_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0248",
@@ -2231,7 +2231,7 @@
         "billy_ivy_convo01",
         "billy_ivy_convo02"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0249",
@@ -2240,7 +2240,7 @@
         "billy_vyper_convo01",
         "billy_wraith_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0250",
@@ -2249,7 +2249,7 @@
         "billy_wraith_convo03",
         "ivy_wraith_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0251",
@@ -2258,7 +2258,7 @@
         "ivy_wraith_convo03",
         "ivy_vyper_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0252",
@@ -2267,7 +2267,7 @@
         "ivy_vyper_convo03",
         "celeste_silver_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     },
     {
       "reel_id": "reel_0253",
@@ -2276,8 +2276,8 @@
         "celeste_silver_convo03",
         "vyper_wraith_convo01"
       ],
-      "status": "json_only"
+      "status": "rendered"
     }
   ],
-  "updated_at": "2026-03-20T15:35:09.883832+00:00"
+  "updated_at": "2026-04-07T19:37:53.744502+00:00"
 }
